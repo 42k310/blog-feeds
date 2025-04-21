@@ -5,20 +5,24 @@
     <link>https://www.saastr.com/blog/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Apr 2025 23:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 23:11:33 GMT</lastBuildDate>
     <item>
-      <title>2025年のVC案件、2024年と同じペースに。  AIは全VCの71%を占める。  NVCA調べ</title>
-      <link>https://www.saastr.com/nvca-vc-deals-in-2025-off-to-same-pace-as-2024/</link>
-      <description>本稿では、NVCAとPitchbookによるVC活動に関する2025年第1四半期レポートについて論じている。主な洞察は以下の通り：4,000件のVCディールが行われ、AIがVC全体の71％、ディールの33％を占めた。ベンチャー投資の66%はSFベイエリアで行われたが、エグジットとIPOはまだ少ない。CoreweaveのIPOが若干数字を押し上げたが、IPOを待つユニコーンには3兆ドル相当のバックログがある。データは健全な投資ペースを示しているが、イグジットの遅れを示している。この記事では、SaaSの主要な上場企業にとって、2025年は2024年よりも良くなると予想している。このデータは、VC投資におけるAIの優位性、SFベイエリアへの資金集中、そして今後のIPOを取り巻く期待感を強調している。新興企業の創業者や投資家は、現在の市場環境において十分な情報に基づいた意思決定を行うために、これらの傾向に留意すべきである。</description>
-      <pubDate>Sat, 19 Apr 2025 20:28:26 GMT</pubDate>
-      <guid isPermaLink="false">saastr-1745094506000-</guid>
+      <title>今週のトップSaaStrポストとポッド：YCombinatorの資金調達のコツ、Notion + GitHubのカスタマーサクセスの秘訣、DatabricksのCROのスケーリングについて</title>
+      <link>https://www.saastr.com/top-saastr-posts-and-pods-of-the-week-ycnotion/</link>
+      <description>この記事では、SaaSビジネスと新興企業に関する様々なトピックについて論じている。主な洞察として、小規模なAIスタートアップが直面する課題、B2Bにおける億万長者の数、B2Bスタートアップの営業とマーケティングへの平均支出割合などがある。また、営業チームを持たずにボトムアップでAI SaaSを構築したOtter.aiの成功事例や、SaaStrのB2B創業者向けAIローンチから学んだトップ10も紹介しています。さらに、Y Combinatorのマイケル・セイベル氏によるシードステージのスタートアップへの効果的なピッチングに関するコンテンツも掲載されている。提供された指標は、B2Bスタートアップの財務戦略と成長アプローチに関する洞察を提供し、効率的なリソース配分の重要性を強調している。実用的なアドバイスとしては、AIスタートアップのダイナミクスを理解すること、セールスとマーケティング支出の最適化、成長のためのボトムアップ戦略の活用、投資家へのピッチング技術の習得などがある。</description>
+      <pubDate>Sun, 20 Apr 2025 15:14:54 GMT</pubDate>
+      <guid isPermaLink="false">saastr-1745162094000-</guid>
     </item>
     <item>
-      <title>SaaStrへ素晴らしい&quot;.com &quot;をとんでもない値段で買うべきか、それともすでにある&quot;.ai &quot;にこだわるべきか？それとも、すでにある「.ai」にこだわるべきでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-should-i-buy-a-great-com-at-a-crazy-price-or-just-stick-what-the-ai-we-already-have/</link>
-      <description>SaaStrの記事で、著者は今日のビジネス環境におけるドメイン名の重要性について論じている。技術的な魅力から.aiドメインを優先する人もいるかもしれませんが、この記事では、Owner.comのようなプレミアム.comドメインに投資することがSaaS企業の成長に有益であると証明された事例を紹介しています。Owner（以前はProfitBoss）の例は、適切なドメインを取得することが、ビジネスを拡大し、業界のポジショニングに大きな影響を与える上でいかに重要であるかを示している。コスト面での懸念から当初は躊躇していたものの、プレミアムドメインの購入を決断したことは、その後の同社の成功と急成長によって証明された。この記事は、優れた.comドメインを確保することが、特に企業のブランディングや成長目標に合致している場合には、検討に値する戦略的な動きとなる場合があることを示唆している。</description>
-      <pubDate>Sat, 19 Apr 2025 09:44:28 GMT</pubDate>
-      <guid isPermaLink="false">saastr-1745055868000-</guid>
+      <title>親愛なるSaaStr：  営業担当副社長のために、年間の営業計画をどのように設定すればよいでしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-how-should-i-actually-set-the-sales-plan-for-the-year-for-my-vp-sales/</link>
+      <description>この記事では、ジェイソン・レムキンが提唱したC10、C60、C90のフレームワークを用いて、営業担当副社長の年間営業計画の設定について論じている。C10プランとは、営業担当副社長が10％達成する自信のあるプラン、C60プランとは60％達成する自信のあるプラン、C90プランとは90％達成する自信のあるプランを設定することである。このアプローチは、さまざまなシナリオを作成し、さまざまな結果に備えるのに役立つ。
+
+重要な洞察は、確信度の異なる複数の営業計画を立てることで、創業者は年間を通じてより良い戦略を立て、さまざまな状況に適応することができるということだ。このフレームワークにより、不確実性に直面しても、より柔軟な対応と準備が可能になる。
+
+SaaSビジネスや新興企業にとって、この方法は業界のダイナミックな性質を乗り切る上で有益である。C10計画、C60計画、C90計画を実施することで、企業はより良い予測、目標設定、必要に応じて戦略の調整を行い、売上の成長と成功を促進することができる。</description>
+      <pubDate>Sun, 20 Apr 2025 09:04:13 GMT</pubDate>
+      <guid isPermaLink="false">saastr-1745139853000-</guid>
     </item>
   </channel>
 </rss>
