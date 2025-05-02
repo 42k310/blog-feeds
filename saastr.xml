@@ -5,46 +5,33 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 May 2025 23:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 00:17:25 GMT</lastBuildDate>
     <item>
-      <title>2026年はPLG＋AIの世界。  PLG＋AI営業担当者。  私たちに選択肢はない。</title>
-      <link>https://www.saastr.com/plg-will-soon-become-plgai-plg-plus-ai-sales-reps/</link>
-      <description>この記事では、B2B SaaS企業におけるプロダクト主導の成長（PLG）の進化について論じている。多くの創業者は、PLGを自社の戦略に組み込むことを目指し、多くの場合、製品のセルフサービス機能やバイラル要素の強化に焦点を当てている。成功例としては、HubSpot、Atlassian、Canva、Figmaなどが挙げられ、これらはPLGのモーションを効果的に導入して顧客を獲得している。
-
-PLG戦略は企業によって様々で、新規の低価格顧客をターゲットにPLGを活用する企業（HubSpot、Atlassianなど）もあれば、営業チームを導入する前にフリーミアムモデル（Canva、Notionなど）から発展させ、コア戦略として統合する企業もある。ChatGPTやWindsurfのような次世代AIのリーダー企業もPLGを中核に据えており、多くの場合、企業チームが大規模な案件をサポートしている。
-
-PLGの活用を検討しているSaaS企業は、セルフサービス機能を強化し、バイラル要素を取り入れ、PLGを全体的な成長戦略にどのように統合できるかを検討することに重点を置くべきである。PLGのさまざまなアプローチを理解し、成功した導入事例から学ぶことで、SaaS企業は成長を促進し、より幅広い顧客ベースを獲得することができる。</description>
-      <pubDate>Wed, 30 Apr 2025 14:10:20 GMT</pubDate>
-      <guid isPermaLink="false">saastr-1746022220000-</guid>
+      <title>クラリ：上位10％の担当者が売上の65％を成約。  下位50%は？  わずか7.6</title>
+      <link>https://www.saastr.com/clari-the-top-10-of-reps-close-65-of-revenue-and-the-bottom-50-just-7-6/</link>
+      <description>クラリは1,000万件のB2B営業機会を分析し、上位の営業担当者は平均的な担当者の2～9倍の案件を成約できるが、下位の担当者はほとんど成約できないことが多いことを明らかにした。具体的には、上位2％の担当者は売上の37％を、上位10％の担当者は65％を成約しているのに対し、下位98％の担当者は合計で63％、下位50％の担当者は7.6％しか成約していない。このデータは、トップ・パフォーマーがセールスの成功に大きな影響を与えることを強調している。SaaS企業は、この洞察を利用して、収益を高めるために優秀な人材の特定と育成に注力することができる。担当者間の業績格差を理解することは、現実的な目標の設定、的を絞ったトレーニングの提供、効果的な営業戦略の実施に役立ちます。トップパフォーマーの育成とインセンティブ付与に投資することで、SaaS企業は全体的な営業パフォーマンスを向上させ、成長を促進することができます。</description>
+      <pubDate>Thu, 01 May 2025 20:26:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/clari-the-top-10-of-reps-close-65-of-revenue-and-the-bottom-50-just-7-6/</guid>
     </item>
     <item>
-      <title>ARR8億4,000万ドルのServiceTitanから学んだ5つの興味深いこと</title>
-      <link>https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-800000000-in-arr/</link>
-      <description>貿易業界の垂直型SaaSリーダーであるServiceTitanは、25年度の売上高7億7,200万ドル、ARR8億ドル以上と目覚ましい成長を遂げ、ARR10億ドルへの明確な道筋を示している。彼らの成功から得られた主な洞察には、110%以上の純ドル維持率、95%以上の総ドル維持率が含まれ、ニッチのための真のオペレーティング・システムであることの力を示している。垂直市場におけるSaaSの創業者は、製品の粘着性を高めるために、ニッチの「OS」になることを目指すべきであり、製品の深さと幅に多大な投資を必要とする。
+      <title>最初の数人の営業担当者を採用するための10のチェックリスト</title>
+      <link>https://www.saastr.com/a-10-point-checklist-for-hiring-your-first-few-sales-reps/</link>
+      <description>この記事では、SaaSビジネスの初期営業チームに独自の資質を持たせることの重要性が強調されている。この記事では、初期の営業担当者は、製品に対する深い理解と情熱を持っていることが望ましいと提言しています。このような営業担当者は、製品とその業界の専門家であり、ビジネスの初期段階で利用可能な限られた数のリードを任される「プロダクト・サヴァン」であると説明されている。
 
-ServiceTitanの成功は、クレジットカード決済や消費者金融といったFinTechサービスに注力したことにも起因している。さらに、年間請求額が10万ドル以上の大口顧客をターゲットにしたシフトは、ARRが5億ドルを超える規模に拡大する上で極めて重要であり、SaaSの成長には市場規模を拡大することが重要であることを強調している。
+重要な洞察は、製品の達人である営業担当者の存在は、SaaSビジネスの初期段階での成功にとって極めて重要であるということです。彼らの製品に対する深い知識と情熱は、潜在顧客にその価値提案を効果的に伝え、売上を達成するのに役立つ。
 
-CACの投資回収期間を短縮し、新製品を追加することでサービス可能な市場を拡大するなどの効率的な成長戦略は、大幅な収益成長と市場拡大を目指すSaaS企業にとって不可欠である。</description>
-      <pubDate>Wed, 30 Apr 2025 13:30:32 GMT</pubDate>
-      <guid isPermaLink="false">saastr-1746019832000-</guid>
+この記事では、SaaS企業は営業スキルだけでなく、提供する製品に強い親近感を持つ営業担当者を優先的に採用すべきであると示唆しています。このアプローチは、SaaSビジネスの信頼性を確立し、顧客との信頼関係を構築し、競争の激しいSaaS市場での成長を促進するのに役立ちます。</description>
+      <pubDate>Thu, 01 May 2025 14:13:58 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/a-10-point-checklist-for-hiring-your-first-few-sales-reps/</guid>
     </item>
     <item>
-      <title>SaaStrへ  営業監査で何をすべきか？</title>
-      <link>https://www.saastr.com/dear-saastr-what-should-i-do-in-a-sales-audit/</link>
-      <description>SaaSビジネスのための包括的な営業監査は、強み、弱み、成長機会を特定するために主要な分野をカバーする必要があります。含まれるべき主な要素は、取引速度、勝率、パイプラインカバレッジなどの指標に焦点を当てたパイプラインの健全性評価である。営業プロセスの効率性、予測精度、担当者のパフォーマンス、顧客セグメンテーション、案件の質、解約率、営業支援効果の分析も重要です。テクノロジーツール、競合分析、顧客からのフィードバック、チームの連携、コンプライアンスの評価も重要だ。監査から得られる実用的な洞察は、収益成長を促進する。データ主導の意思決定を優先し、洞察のためにAIツールを活用し、収益への影響が最も大きい分野に集中する。監査の結果に基づいて営業プロセスを改善すれば、成約率と顧客満足度の向上につながる。適切に実施された営業監査は、単に問題を発見するだけでなく、改善のためのロードマップを作成することでもある。監査結果に効果的に対処することで、SaaS企業は営業パフォーマンスを向上させ、ビジネス全体の成功につなげることができる。</description>
-      <pubDate>Wed, 30 Apr 2025 09:23:20 GMT</pubDate>
-      <guid isPermaLink="false">saastr-1746005000000-</guid>
-    </item>
-    <item>
-      <title>SaaStr Annual + SaaStr AI Summit 2025：クラウド、B2B、AIのベスト・オブ・ベストに出会う！  5月13日～15日、SFベイ!</title>
-      <link>https://www.saastr.com/saastr-annual-saastr-ai-summit-2025-meet-the-best-of-the-best-in-cloud-b2b-and-ai-may-13-15-in-sf-bay/</link>
-      <description>SaaStr Annual + SaaStr AI Summit 2025がサンフランシスコで開催され、SaaSとAI業界のトップリーダーが一堂に会する。このイベントは、これらの分野の専門家がネットワークを構築し、洞察を共有し、最新のトレンドとイノベーションについて議論するための最高の集まりです。参加者は、ビジネスの成長と成功に役立つ貴重な知識と人脈を得ることが期待できる。
+      <title>SaaStrへ：  VCへのコールドメールの書き方は？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-i-write-a-great-cold-email-to-vcs/</link>
+      <description>この記事では、ベンチャーキャピタルにアプローチする際に、説得力のあるコールドメールを作成することの重要性について、コールドメールを通じて資金調達を成功させた新興企業の例を用いて論じている。主な洞察として、Eメールを目立たせ、価値提案を簡潔に示す必要性が挙げられます。Salesloft、Talkdesk、Pipedrive、Logikcullなど、コールドメールから成功した投資などのデータは、うまく作られたコールドメールの潜在的な影響力を強調しています。
 
-このイベントでの主な収穫は、SaaSのビジネス指標、成長戦略、競争の激しい業界で成長を目指すSaaS企業のための実用的なアドバイスなどに関する議論です。サミットで共有される洞察は、顧客獲得、維持、解約率、収益成長、SaaSサービスを強化するためのAI技術の活用などのトピックをカバーする可能性がある。
-
-このイベントに参加するSaaS企業は、ベストプラクティス、成功事例、そしてダイナミックなSaaS業界において一歩先を行き、持続可能な成長を達成するのに役立つ新たなテクノロジーについて学ぶことができる。</description>
-      <pubDate>Wed, 30 Apr 2025 00:40:06 GMT</pubDate>
-      <guid isPermaLink="false">saastr-1745973606000-</guid>
+実用的なアドバイスとしては、Eメールを素晴らしいものにすること、スタートアップのユニークな価値提案を強調すること、投資家の関心を明確に理解することなどが挙げられる。この記事は、コールドメールが効果的に行われれば、成功する可能性があることを強調している。この記事は、新興企業がVCに接触する機会を得ることを奨励しているが、強い印象を与えることの重要性を強調している。</description>
+      <pubDate>Thu, 01 May 2025 09:54:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-write-a-great-cold-email-to-vcs/</guid>
     </item>
   </channel>
 </rss>
