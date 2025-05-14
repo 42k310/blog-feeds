@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 May 2025 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 03:04:37 GMT</lastBuildDate>
+    <item>
+      <title>既存客ではなく新規客に第二の製品を売る方が簡単かもしれない</title>
+      <link>https://www.saastr.com/it-may-be-easier-to-sell-a-second-product-to-new-customers-not-existing-ones/</link>
+      <description>この記事では、SaaS企業にとって直感に反する洞察について論じている。一般的なアプローチは、既存顧客に新製品をクロスセルすることだが、2つ目の製品のアタッチ率は新規見込み客の方が高いことが多い。この背景には、新規顧客が既存のソリューションからの切り替えを求められていないことがある。この記事では、スパやサロン業界のSaaS企業の例として、給与計算サービスのアタッチ率が、既存顧客と比較して新規顧客の方が50％高いことを紹介している。この記事では、SaaS企業がマーケティング活動の一部を、新規顧客への複合製品の販売促進に充てることを推奨しています。この戦略は、製品ラインナップを拡大し、成長を促進したいと考えているSaaS企業にとって有益です。</description>
+      <pubDate>Tue, 13 May 2025 14:10:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/it-may-be-easier-to-sell-a-second-product-to-new-customers-not-existing-ones/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ  私たちの最大の潜在顧客は皆、カスタム機能を求めています。  いつイエスと言えますか？</title>
+      <link>https://www.saastr.com/dear-saastr-our-biggest-potential-customers-are-all-asking-for-custom-features-when-do-we-say-yes/</link>
+      <description>この記事では、SaaSの潜在的な顧客からのカスタム機能の要求と、製品のスケーラビリティや収益性の維持とのバランスを取るという課題を取り上げている。主な洞察として、他の顧客に再利用できる場合にのみカスタム作業に同意すること、カスタム要求を評価するための明確なガードレールを設定すること、コストを相殺し顧客のコミットメントを確保するためにカスタム機能に課金すること、スケーラビリティを維持するためにカスタマイズよりもコンフィギュラビリティを優先すること、リソースに制約のあるチームにはアウトソーシングを検討すること、カスタム要求を処理するためのプレイブックを作成すること、将来の製品強化を特定するための学習機会としてカスタム作業を利用することなどが挙げられます。このアドバイスでは、カスタムワークの方針について社内チームの足並みをそろえること、カスタム機能の戦略的価値と再利用の可能性を評価すること、カスタムリクエストを活用して製品オファリングを改善することを強調している。これらの戦略に従うことで、SaaS企業は製品の完全性と拡張性を維持しながら、大口顧客からのカスタムリクエストを効果的に管理することができる。</description>
+      <pubDate>Tue, 13 May 2025 09:21:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-our-biggest-potential-customers-are-all-asking-for-custom-features-when-do-we-say-yes/</guid>
+    </item>
   </channel>
 </rss>
