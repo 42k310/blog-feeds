@@ -5,6 +5,33 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 May 2025 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>25万人の顧客クラブ：HubSpotとMonday.comはいかにしてSMB+の帝国を築いたか？</title>
+      <link>https://www.saastr.com/the-250000-customer-club-how-hubspot-and-monday-com-both-created-smb-empires/</link>
+      <description>Monday.comとHubSpotの両社は、それぞれ25万人以上の顧客を抱えるまでに成長し、SMBの顧客基盤を維持しながら、SMBからよりエンタープライズ向けに移行している。HubSpotはマーケティング、Mondayはチーム管理という出自は異なるものの、現在では両社ともCRMを中核サービスとして提供している。HubSpotはMondayの2倍の売上とARPUを誇るが、設立は6年早い。HubSpotのARRは27億ドル、顧客数は25万8,000人、2024年の売上高は26億3,000万ドル。一方、Monday.comのARRは11億2,500万ドル、顧客数は24万5,000人、2024年第4四半期の売上高は2億6,800万ドルだ。両社とも、数多くのグローバル企業にとって不可欠なマルチプロダクトプラットフォームとなっている。2006年に設立されたHubSpotは、インバウンドマーケティングから始まり、完全なCRM+プラットフォームへと進化した。重要なことは、SaaS企業は、顧客のニーズを満たすために提供サービスを進化させ、補完的なサービスに拡大して不可欠なプラットフォームとなることに注力することで、大きな成長を達成できるということだ。</description>
+      <pubDate>Tue, 20 May 2025 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-250000-customer-club-how-hubspot-and-monday-com-both-created-smb-empires/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：SaaS企業が追跡すべき指標トップ10は何ですか？</title>
+      <link>https://www.saastr.com/dear-saastr-what-are-the-top-10-metrics-for-saas-companies-to-track/</link>
+      <description>この記事では、SaaS企業が追跡すべき主要メトリクス上位10個の概要を紹介しています。これらのメトリクスには以下が含まれる：
+
+1.ARR（年間経常収益）：年間売上高。
+2.NRR（Net Revenue Retention）：既存顧客からの収益維持率。
+3.GRR（Gross Revenue Retention）：アップセル前に維持された収益の割合。
+4.CAC（顧客獲得コスト）：新規顧客獲得にかかるコスト。
+5.LTV（Lifetime Value）：生涯価値：顧客が生涯にわたって生み出す収益の総額。
+6.解約率：一定期間に失われた顧客または収益の割合。
+7.売上総利益率：SaaSビジネスでは70～80％を目指すべき。
+8.NPS（ネット・プロモーター・スコア）：顧客満足度とロイヤルティを測定。
+9.DAU/MAU（Daily Active Users/Monthly Active Users）：製品の粘着性とエンゲージメントを測定します。
+10.エクスパンション・レベニュー：既存顧客へのアップセルやクロスセルによる収益。
+
+この記事では、初期段階ではARRの成長、解約、CACに焦点を当てることの重要性を強調している。これらの指標は、SaaSビジネスにおける成長、維持、効率、顧客の成功を監視するために不可欠である。</description>
+      <pubDate>Tue, 20 May 2025 09:13:07 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-are-the-top-10-metrics-for-saas-companies-to-track/</guid>
+    </item>
   </channel>
 </rss>
