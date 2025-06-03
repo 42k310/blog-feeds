@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Jun 2025 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 03:04:43 GMT</lastBuildDate>
+    <item>
+      <title>スノーフレイクがクランチー・データを2億5000万ドルで買収、データブリックスはネオンを10億ドルで買収。  新しいAIデータベースの戦い。</title>
+      <link>https://www.saastr.com/snowflake-buys-crunchy-data-for-250m-databricks-buys-neon-for-1b-the-new-ai-database-battle/</link>
+      <description>SnowflakeとDatabricksは、AIエージェント・インフラ市場での地位を強化するため、それぞれPostgreSQLに特化した企業であるCrunchy DataとNeonを戦略的に買収する。Snowflakeの2億5000万ドルのCrunchy Data買収とDatabricksの10億ドルのNeon買収は、自律型AIエージェントに向けたB2Bソフトウェア企業のシフトを示すものだ。これらの買収は、高度なAIアプリケーションを促進するデータベース・インフラストラクチャの重要な役割を強調し、B2BおよびSaaS分野における統合の拡大傾向を反映している。SnowflakeによるCrunchy Dataの買収額は約2億5,000万ドルで、Crunchy Dataは年間3,000万ドル以上の売上を上げ、セキュリティとコンプライアンスのニーズに合わせたエンタープライズ対応のPostgreSQL機能を重視している。SaaS企業は、AIアプリケーションにおけるデータベースインフラストラクチャの重要性を認識し、戦略的買収を検討することで、自社のサービスを強化し、進化する市場環境の中で競争力を維持することで、これらの動きから学ぶことができる。</description>
+      <pubDate>Mon, 02 Jun 2025 21:57:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/snowflake-buys-crunchy-data-for-250m-databricks-buys-neon-for-1b-the-new-ai-database-battle/</guid>
+    </item>
+    <item>
+      <title>AIスタートアップは2倍の速さで資金を使い果たす、SVBの最新エンタープライズに学ぶその他の10項目</title>
+      <link>https://www.saastr.com/ai-startups-burn-through-cash-2x-as-fast-and-10-other-top-learnigs-from-svbs-latest-in-enterprise/</link>
+      <description>SVBが企業向けソフトウェアの顧客を分析した結果、2025年後半のB2B創業者、事業者、投資家にとって重要な洞察が明らかになった。AIスタートアップは10年前の半分の時間で1億ドルを使い果たし、ベンチャー経済学を再構築している。AIの機能を取り入れたSaaSの創業者は、必要資本は増えるが収益成長は早まることを予測すべきである。数社のAI企業に集中するメガラウンドが企業向け資金調達を支配しており、他の企業にとっては資本効率と明確なROIの必要性が浮き彫りになっている。シリーズAの卒業率は急落しており、シリーズAを検討する前に、より長い滑走路とより高いARRが必要となっている。中堅VCファンドの地位が低下しており、B2B企業が特定のニッチやプラットフォームとして優れている必要性が強調されている。AIに特化したファンドが大きな資本を集めており、AI企業と非AI企業の資金調達力学に影響を与えている。B2B企業の創業者は、進化する資金調達の状況を効果的にナビゲートするために、これらのトレンドを認識しておく必要がある。</description>
+      <pubDate>Mon, 02 Jun 2025 14:17:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/ai-startups-burn-through-cash-2x-as-fast-and-10-other-top-learnigs-from-svbs-latest-in-enterprise/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  創業者がマーケティングを始めるときに犯す1番の間違いとは？</title>
+      <link>https://www.saastr.com/dear-saastr-whats-the-1-mistake-founders-make-when-they-start-to-do-marketing/</link>
+      <description>B2B/SaaS領域において、創業者がマーケティングで犯しがちな過ちは、ROI達成の課題を過小評価し、高い顧客獲得コスト（CAC）のために早々にマーケティング活動を中止してしまうことである。マーケティングはビジネスの成功にとって極めて重要であるため、この判断は有害となりうる。一見、採算が合わないように見えるCACであっても、長期的な利益に焦点を当てることが重要である。例えば、5,000ドルの顧客獲得に10,000ドルのコストがかかる場合、当初は採算が合わないように見えるかもしれない。しかし、その顧客が5年間継続し、紹介をもたらしたり、追加資金を確保するための成長マイルストーンの達成に役立ったりすれば、その投資が有利であることが証明される。したがって、SaaS企業がマーケティング活動を評価する際には、目先のコストだけにとらわれず、戦略的かつ長期的な視点を採用することが不可欠である。</description>
+      <pubDate>Mon, 02 Jun 2025 09:02:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-whats-the-1-mistake-founders-make-when-they-start-to-do-marketing/</guid>
+    </item>
   </channel>
 </rss>
