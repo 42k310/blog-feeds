@@ -5,6 +5,34 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Jun 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>AIの浸透は......鈍化しているのか？  ランプが可能性を示唆</title>
+      <link>https://www.saastr.com/is-ai-penetration-slowing-down-ramp-says-possibly/</link>
+      <description>ランプ社の最新のAI指数データは、エンドユーザーのAI導入が減速する可能性を示唆しており、市場の成熟または天井を示している。2025年4月現在、米国企業におけるAI普及率は全体で41.7％と高いものの、2024年後半から伸びは横ばいとなっている。OpenAIの市場シェアは33.9％で、ピーク時からやや低下している。Ramp社の支出データでは、2024年第4四半期から2025年第1四半期にかけて成長率が顕著に低下しており、懸念すべき傾向が浮き彫りになっている。大手プロバイダーであるOpenAIでさえ勢いを維持するのに苦労しており、新しいAIプロバイダーは初期の市場フェーズで見られた爆発的な成長を経験していない。このデータは、SaaS企業が市場動向を注意深く監視し、成長戦略を適応させ、潜在的な市場減速を乗り切り、進化するAIランドスケープにおける競争力を維持するために、継続的なイノベーションを確保することの重要性を強調している。</description>
+      <pubDate>Sat, 07 Jun 2025 14:07:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/is-ai-penetration-slowing-down-ramp-says-possibly/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  初月の解約率が20%を超えました。  どうすべきでしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-we-have-more-than-20-churn-our-first-month-what-should-we-do/</link>
+      <description>この記事では、高い解約率という一般的な問題を取り上げ、特に最初の1ヶ月で20%以上の解約を経験したSaaS企業に焦点を当てています。主要な洞察と実用的なアドバイスは以下の通りです：
+
+1.**1.オンボーディングを直ちに修正する**：オンボーディング・プロセスを最適化し、最初の7日間でアクティベーションを促進することで、顧客が早期に価値を認識し、早期解約を防ぐ。
+
+2.**解約をセグメント化する**：顧客タイプ別に解約を分析し、理想的な顧客プロフィールを洗練させ、より継続する可能性の高い顧客の獲得に注力する。
+
+3.**年間プランをプッシュする：より長いプランにコミットする顧客は解約が少ない傾向にあるため、解約を減らすために年間プランを選択するよう顧客に勧める。
+
+4.**初期エンゲージメントの改善**：リテンションに関連する主要なアクションを特定し、すべての顧客が最初の30日以内にそれらのマイルストーンを完了するようにする。
+
+5.**サルベージプラン**を提供する：最初の1ヶ月でのキャンセルを防ぐために、延長トライアルや割引などのオプションを提供し、顧客が製品の価値をより理解できるようにする。
+
+6.**価値提案の分析**：予算の制約やROIの不足による解約を防ぐために、製品が顧客にとって重要な問題を解決していることを確認する。
+
+これらの戦略を実施することで、SaaS企業は初月の解約率を大幅に削減し、顧客維持率の向上と全体的な成長につなげることができます。</description>
+      <pubDate>Sat, 07 Jun 2025 09:01:48 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-we-have-more-than-20-churn-our-first-month-what-should-we-do/</guid>
+    </item>
   </channel>
 </rss>
