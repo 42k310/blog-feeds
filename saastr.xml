@@ -5,6 +5,35 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Jun 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 03:04:43 GMT</lastBuildDate>
+    <item>
+      <title>今週のトップSaaStrポストとビデオ：  AIデータベース戦争、YCが燃えている理由、50%のAIセールスチーム</title>
+      <link>https://www.saastr.com/top-saastr-posts-and-vid-of-the-week-the-ai-database-wars-why-yc-is-on-fire-and-a-50-ai-sales-team/</link>
+      <description>この記事では、AIに関するメアリー・ミーカーの最新レポートから、SaaSのビジネス指標と成長戦略に焦点を当てた主要な洞察を論じている。SVBの2025年データの内訳によると、10人中8人のSaaS創業者がこれまで以上に早くキャッシュを消費していることを強調しています。同レポートは、2025/2026年におけるSaaS企業のAI、営業、Go-to-Market戦略を理解することの重要性を強調している。また、2026年までに営業チームは50％の人間と50％のAIで構成され、1つのチームとして協働するようになると予測している。この記事では、SaaSの創業者はこうしたトレンドや洞察に注目し、それに合わせてビジネス戦略を適応させるべきだと提言している。また、SnowflakeがCrunchy Dataを2億5000万ドルで買収したり、DatabricksがNeonを10億ドルで買収するなど、AIデータベース分野における買収案件についても触れており、SaaS業界におけるAIの重要性が高まっていることを示している。全体として、この記事は、SaaS企業がAIとテクノロジーの進化の中で競争力を維持し、成功するための実用的なアドバイスを提供している。</description>
+      <pubDate>Sun, 08 Jun 2025 16:10:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/top-saastr-posts-and-vid-of-the-week-the-ai-database-wars-why-yc-is-on-fire-and-a-50-ai-sales-team/</guid>
+    </item>
+    <item>
+      <title>AIスローロール &quot;がSaaSを殺す、なぜ今存在恐怖が必要なのか：ローリー、ハリー、ジェイソンの最新20VC</title>
+      <link>https://www.saastr.com/the-ai-slow-roll-is-killing-your-saas-why-existential-dread-is-needed-today-the-latest-20vc-with-rory-harry-jason/</link>
+      <description>この記事では、トーマ・ブラボーによる最近の大型投資、B2B分野におけるOpenAIの影響、マネージド・クラウド・プロバイダー（MCP）がSaaS企業にもたらす潜在的脅威など、B2BおよびSaaSビジネスに関する様々なトピックについて論じている。また、ベンチャーキャピタルはどのような場合にSaaS企業への投資を継続し、どのような場合に撤退を検討すべきかについても掘り下げています。
+
+主な要点としては、業界のトレンドやOpenAIやMCPのような潜在的なディスラプターについて常に情報を得ることの重要性、またベンチャーキャピタルにおける様々な意見に留意することが挙げられる。重要なVCとの最初の気まずいセグメントの後に共有される貴重な洞察に焦点を当てることをお勧めします。
+
+SaaS企業にとって、市場の変化を監視し、AIのような新技術に適応し、進化する脅威に直面して競争力を維持することは極めて重要である。いつ忍耐し、いつピボットすべきかを理解することは、ダイナミックなB2B環境で持続的な成長と成功を収めるために不可欠である。</description>
+      <pubDate>Sun, 08 Jun 2025 13:19:53 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-ai-slow-roll-is-killing-your-saas-why-existential-dread-is-needed-today-the-latest-20vc-with-rory-harry-jason/</guid>
+    </item>
+    <item>
+      <title>親愛なるSaaStr：  営業担当副社長を解雇しました。  どうしますか？</title>
+      <link>https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/</link>
+      <description>この記事では、SaaS企業の営業担当副社長を解雇するシナリオと、その後に取るべき行動について論じている。最初の困難や混乱にもかかわらず、状況は短期間（おそらく1～2週間）で改善する可能性が高いことを示唆している。重要な洞察として、このような決断を下すことの難しさを認識する一方で、その決断によって会社の業績が向上する可能性が高いという楽観的な見方も示している。
+
+この記事では、この移行期間に発生する可能性のある顧客の懸念や問題に迅速に対処する必要性を強調している。また、営業チームとの連携を確保し、士気を維持するために、オープンにコミュニケーションをとることの重要性も強調している。さらに、この変化は、将来の成長を促進するために、営業戦略、チーム体制、業績評価指標を見直す好機であることも示唆している。
+
+全体的なアドバイスとしては、積極的に行動し、透明性を維持し、この瞬間を営業組織内の前向きな変化のきっかけとすることである。</description>
+      <pubDate>Sun, 08 Jun 2025 09:46:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-i-fired-my-vp-of-sales-what-now/</guid>
+    </item>
   </channel>
 </rss>
