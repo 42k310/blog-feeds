@@ -5,38 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Jun 2025 03:04:51 GMT</lastBuildDate>
-    <item>
-      <title>PerplexityのCBO Dmitry ShevelenkoとSaaStr CRO ConfidentialのホストSam Blondが語る、AIがすでにSaaSセールスを永遠に変えた5つの方法</title>
-      <link>https://www.saastr.com/5-ways-ai-has-already-changed-saas-sales-forever-with-perplexitys-cbo-dmitry-shevelenko-and-saastr-cro-confidential-host-sam-blond/</link>
-      <description>この記事では、AIがSaaSセールスをどのように変革しつつあるのかについて論じており、AIがすでに状況を変えた5つの主要な方法について概説している。第一に、AIはすべての営業担当者がドメインの専門家になることを可能にし、生産性とさまざまな分野にわたる理解を高めている。第二に、AIはより効率的で顧客中心のプロセスを優先し、トランザクション型セールスを段階的に縮小している。第三に、AIはパイプライン・レビューをよりデータ主導型にし、意思決定と予測精度を向上させている。この記事は、市場での競争力と機動性を維持するために、AIを営業に取り入れることの重要性を強調している。
-
-主なポイントは、SaaS企業がAIを活用して営業チームを強化し、プロセスを合理化し、顧客体験を向上させる必要性である。企業はAIツールに投資して効率を高め、対話をパーソナライズし、進化する顧客の嗜好に適応することが推奨される。AIを営業戦略に取り入れることは、競合他社に先んじ、変化する市場の需要に対応するために極めて重要である。</description>
-      <pubDate>Thu, 12 Jun 2025 17:13:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/5-ways-ai-has-already-changed-saas-sales-forever-with-perplexitys-cbo-dmitry-shevelenko-and-saastr-cro-confidential-host-sam-blond/</guid>
-    </item>
-    <item>
-      <title>すべてのB2Bソフトウェア企業がバックエンド・サービスになろうとしている理由。  先手を打つ必要がある。</title>
-      <link>https://www.saastr.com/why-every-b2b-software-company-is-about-to-become-a-backend-service-you-need-to-get-ahead-of-it/</link>
-      <description>この記事では、ChatGPTがB2Bアプリケーションをバックエンドサービスに変換し、ビジネスソフトウェアのユニバーサルなコントロールプレーンへと進化していることを論じています。ChatGPTをAPIやコネクタを通じてビジネスシステムに接続することで、ChatGPTはエンタープライズソフトウェアの主要なフロントエンドやコアインフラになりつつあります。このアプリ中心から会話中心のインターフェースへのシフトにより、ユーザーは単一の会話インターフェースを通じて様々なシステムと対話することができ、ワークフローを簡素化し、ユーザーエクスペリエンスを向上させることができます。このコンセプトは、ChatGPTがCRM、プロジェクト管理、分析、人事システムなどに対するユーザーの関わり方を再構築し、会話を通じてそれらすべてにアクセスし、管理できるようにすることを示唆している。
-
-主要な洞察として、ChatGPTがエンタープライズ・ソフトウェアのユニバーサル・コントロール・プレーンとなり、ユーザーがビジネス・アプリケーションとどのようにやり取りするかを再定義するというアイデアが含まれています。この記事では、ChatGPTがワークフローを合理化し、ユーザーエンゲージメントを向上させ、様々なバックエンドサービスの集中型インターフェースとして機能することで生産性を高める可能性を強調しています。SaaS企業は、顧客により直感的でユーザーフレンドリーな体験を提供するために、ChatGPTのような会話型インターフェースを自社製品に統合することを検討することができます。</description>
-      <pubDate>Thu, 12 Jun 2025 14:10:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-every-b2b-software-company-is-about-to-become-a-backend-service-you-need-to-get-ahead-of-it/</guid>
-    </item>
-    <item>
-      <title>CMO予算は3年以上横ばい。  しかし99％のCMOが「AI世代は最優先課題」と回答。</title>
-      <link>https://www.saastr.com/cmo-budgets-are-flat-for-3-years-but-99-of-cmos-say-gen-ai-is-a-top-priority/</link>
-      <description>ガートナーのCMO支出調査によると、マーケティング予算は2年連続で企業収益の7.7％で停滞している。CMOの87％が昨年キャンペーンパフォーマンスの問題に直面し、45％がパフォーマンス低下のためにキャンペーンを早期に終了せざるを得なかった。しかし、47％の組織はキャンペーン評価とレポーティングにGenAIを使用することで大きな利益を得ている。予算の制約にもかかわらず、成功しているCMOは生産性の強化に注力している。主な戦略には、データ、アナリティクス、AIを活用してパフォーマンスを最適化すること（41％）、AIを活用してタスクを自動化すること（40％）、AIのような先進技術を統合して効率を改善すること（37％）などがある。これらの戦略には、予測分析を活用してコンバージョンの高い見込み客を早期にターゲティングする、クリエイティブ制作を自動化する、カスタマージャーニーをリアルタイムでパーソナライズするなど、マーケティング機能のあり方を根本的に変えることが含まれている。成功しているCMOは、単体のソリューションを超えて、相互に通信する統合された技術スタックを構築している。現在の状況で成功するために、SaaS企業は、予算が停滞しているにもかかわらず成長を促進するために、効率性、データ主導の意思決定、テクノロジーの統合を優先すべきである。</description>
-      <pubDate>Thu, 12 Jun 2025 12:14:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/cmo-budgets-are-flat-for-3-years-but-99-of-cmos-say-gen-ai-is-a-top-priority/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：最初のAEはいつ雇うべきですか？</title>
-      <link>https://www.saastr.com/dear-saastr-when-should-i-hire-my-first-ae/</link>
-      <description>この記事では、SaaS企業の最初のアカウント・エグゼクティブ（AE）を採用するタイミングの重要性を強調している。この記事では、創業者が個人的に10～20社程度の顧客を開拓してからAEを採用することを提案している。このマイルストーンは、営業プロセス、顧客ニーズ、製品と市場の適合性をしっかりと理解していることを示す。この顧客獲得のしきい値を達成する前に採用プロセスを急ぐと、新しいAEのオンボーディングにおいて非効率や課題につながる可能性がある。創業者が成約実績を示すまで待つことで、企業はよりスムーズな移行を実現し、新入社員を成功に導くことができる。このアプローチは、創業者が当初は自社製品の最高の営業担当者であるという考え方と一致する。重要なことは、SaaSビジネスの初期段階では、AEによって営業チームを拡大する前に、創業者主導の営業活動を優先することである。</description>
-      <pubDate>Thu, 12 Jun 2025 09:51:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-when-should-i-hire-my-first-ae/</guid>
-    </item>
+    <lastBuildDate>Fri, 13 Jun 2025 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
