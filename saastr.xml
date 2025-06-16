@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Jun 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 03:04:36 GMT</lastBuildDate>
+    <item>
+      <title>MCPとデータをめぐる争い：エンタープライズ・ソフトウェアの反乱</title>
+      <link>https://www.saastr.com/mcp-and-the-fight-over-whose-data-it-is-the-coming-enterprise-software-revolt/</link>
+      <description>本記事では、エンタープライズ・ソフトウェアの進化について、特にAI領域におけるフロントエンド・ツールとしてのChatGPTの台頭と、データ・サイロへの影響に焦点を当てて論じている。この記事では、レガシーB2BおよびSaaSベンダーにとって、顧客データの所有権に関する差し迫った課題が浮き彫りになっている。SalesforceやSlackのように変化に抵抗するのか、それともHubSpotのように変化を受け入れるのか。主な要点としては、AIが従来の記録システムに取って代わる可能性、日常業務へのAIの統合が進むこと、ChatGPTがCRMシステムの未来を形作る可能性などが挙げられる。記事は、企業が競争力を維持するためには、このような技術シフトに適応する必要があることを示唆している。この記事では、SaaS業界における事業運営と顧客体験を強化するために、AI技術を理解し活用することの重要性を強調しています。</description>
+      <pubDate>Sun, 15 Jun 2025 14:10:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/mcp-and-the-fight-over-whose-data-it-is-the-coming-enterprise-software-revolt/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  最初の1-2人の営業担当者が優秀であることを確認するにはどうすればよいですか？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-i-hire-a-great-first-1-2-sales-reps/</link>
+      <description>この記事では、新興企業にとって最初の1-2人の営業担当者を採用することの重要性について論じており、特に、アーリーステージ企業のダイナミックな環境で製品を効果的に販売できる人材の必要性を強調している。この記事では、少なくとも2人の営業担当者が一貫してノルマを達成し、取引を成立させるまでは、営業担当副社長を採用しないことを勧めている。これらの初期営業チームメンバーは、販売する製品に精通し、製品の専門家としての役割を果たすことが期待されている。
+
+この記事からの主な洞察には、新興企業という環境の課題を乗り越え、製品を効果的に販売できる営業担当者を採用することに重点が置かれていることが含まれる。このアドバイスでは、初期の営業チームメンバーが製品を理解し、潜在的な顧客に紹介することに精通していることの重要性が強調されている。
+
+SaaS企業にとっては、強力な営業スキルを持つだけでなく、提供する製品を深く理解している営業担当者を優先的に採用することが実用的なアドバイスとなる。このようなアプローチは、ビジネスの初期段階において売上成長を促進し、顧客満足度を高めるのに役立つ。</description>
+      <pubDate>Sun, 15 Jun 2025 09:58:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-hire-a-great-first-1-2-sales-reps/</guid>
+    </item>
   </channel>
 </rss>
