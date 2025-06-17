@@ -5,46 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Jun 2025 03:04:52 GMT</lastBuildDate>
-    <item>
-      <title>DatabricksがARR37億ドルでSnowflakeを捕捉。その方法と次なる課題とは？</title>
-      <link>https://www.saastr.com/databricks-just-caught-snowflake-at-3-7b-arr-heres-how-they-did-it-and-whats-next/</link>
-      <description>Databricksは今期、売上高37億ドル、前年比成長率50％を達成し、パブリック・ソフトウェア業界で最も急成長しているインフラ企業となった。同社の成功は、単に目覚ましい成長率にとどまらず、このカテゴリー全体を再構築している。この業績は、Databricksを業界のリーダーとして位置づけ、成長と革新のための高い基準を設定します。SaaS企業は、持続的な成長、イノベーション、各カテゴリーの再定義に注力することで、Databricksの成功から学ぶことができます。これらの点を優先することで、SaaSビジネスは急速な拡大を推進し、業界リーダーとしての地位を確立することができる。</description>
-      <pubDate>Mon, 16 Jun 2025 20:30:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/databricks-just-caught-snowflake-at-3-7b-arr-heres-how-they-did-it-and-whats-next/</guid>
-    </item>
-    <item>
-      <title>AIはすでに我々の認知的負荷を増大させている。  それは劇的に増加する。</title>
-      <link>https://www.saastr.com/ai-is-already-increasing-our-cognitive-load-thats-only-going-to-increase-dramatically/</link>
-      <description>この記事では、SaaSビジネス、特にコンテンツのレビューと処理タスクにおけるAIの活用がもたらす大きな影響について論じている。SaaStrのAIによって、同社はコンテンツの質を高め、数多くのピッチ、投稿、セッションを効率的にレビューできるようになった。著者は、AI機能によって作業量が飛躍的に増加したことを強調し、アウトプットを効果的に管理・処理する必要性を強調している。SaaStrのAIは139,156の会話を独自に行い、その有効性を示している。重要なことは、SaaSビジネスにおいて、業務の合理化、生産性の向上、品質基準の維持のためにAI技術を活用することに遅れを取らないことの重要性である。SaaS企業は、増大するワークロードを効率的に処理し、市場での競争力を維持するために、AIツールを取り入れることが推奨される。</description>
-      <pubDate>Mon, 16 Jun 2025 14:10:27 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/ai-is-already-increasing-our-cognitive-load-thats-only-going-to-increase-dramatically/</guid>
-    </item>
-    <item>
-      <title>A16Z: 企業のAIへの支出は年75%成長している。</title>
-      <link>https://www.saastr.com/a16z-enterprise-ai-spending-is-growing-75-a-year/</link>
-      <description>a16Zが100人以上のCIOを対象に実施した最近の調査で、ソフトウェアにおける企業のAI支出に関する重要な洞察が明らかになった。調査結果によると、AI予算は前年比75％増と大幅に増加し、イノベーション予算からコアIT支出へとシフトしている。SaaS企業は、企業のIT予算をターゲットにすることで、この変化に適応する必要があり、販売サイクルの長期化やセキュリティ要件の増加につながる。
-
-マルチモデルの導入は増加傾向にあり、37％の企業が本番環境で5つ以上のモデルを使用している。SaaS企業は、パフォーマンスとコスト効率を最適化するために、ユースケースとコストに基づいてモデル間をインテリジェントにルーティングすることに注力すべきである。
-
-購入対構築」のトレンドは変化しており、90％以上の企業がカスタマーサポートのために、社内で構築する代わりにサードパーティのAIアプリをテストしている。SaaS企業は、継続的なモデル最適化のための深い垂直ソリューションに焦点を当て、防御可能な堀を作るべきである。
-
-AIネイティブ企業は、1億ドルのARRに早く到達することで既存企業を凌駕しており、機能の同等性よりも優れた成果でリードすることの重要性を強調している。
-
-最後に、企業のAI調達は現在、伝統的なソフトウェア購入に似ており、LM Arenaのようなベンチマークがモデルフィルタリングを導き、利用ベースの価格設定が主流となっている。SaaS企業は、モデルプロバイダーと直接ホスティングする際に、信頼とコンプライアンスを優先すべきである。</description>
-      <pubDate>Mon, 16 Jun 2025 12:47:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/a16z-enterprise-ai-spending-is-growing-75-a-year/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：一般的なSDRはどれくらいの頻度で見込み客をフォローしていますか？  おそらく最近は頻繁すぎる</title>
-      <link>https://www.saastr.com/dear-saastr-how-often-does-a-typical-sdr-follow-up-with-a-prospect-probably-too-often/</link>
-      <description>この記事では、B2B営業における営業開発担当者（SDR）の典型的なフォローアップの流れについて論じており、アウトリーチ活動における量より質の重要性を強調している。この記事では、Eメール、LinkedInメッセージ、電話を含む一連の流れで、2～3週間かけて5～7回のタッチポイントを目指すことを提案している。しかし著者は、この従来のアプローチは見込み客にとって価値がないことが多く、コミュニケーションの量にこだわりすぎていると批判している。
-
-この記事では、SaaS企業がアウトリーチ戦略を再考し、「スプレー・アンド・祈り」の手法から、よりパーソナライズされた価値主導の対話へと移行する必要性を強調している。この記事では、AI SDR だけに頼ることに警告を発している。SDR は本質を欠いた一般的なメッセージを送りやすくすることで問題を悪化させる可能性があるからだ。
-
-重要なことは、SaaSビジネスがアウトリーチのペースを落とし、各インタラクションで価値を提供することに集中し、すべてのタッチポイントを大切にすることだ。コミュニケーションの質を高め、見込み客に価値を提供することで、企業は見込み客を効果的に取り込むことができる。</description>
-      <pubDate>Mon, 16 Jun 2025 09:09:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-often-does-a-typical-sdr-follow-up-with-a-prospect-probably-too-often/</guid>
-    </item>
+    <lastBuildDate>Tue, 17 Jun 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
