@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Jun 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>B2B上場企業トップ25社の2025年業績と今後の展望</title>
+      <link>https://www.saastr.com/the-great-b2b-reset-of-1h-2025-what-the-top-25-public-companies-tell-us-about-the-future/</link>
+      <description>2025年のSaaS市場は明暗を分けた：PalantirやServiceNowのようなAIネイティブでミッションクリティカルな企業は好調な業績を上げているが、SalesforceやAsanaのような従来の水平型SaaS企業は困難に直面している。B2B/SaaSのトップ企業25社を分析した主な洞察には、PalantirのYTD成長率165.2%という目覚ましい数字が含まれ、政府機関との契約におけるAIネイティブ・プラットフォームの成功が強調されている。ミッションクリティカルなインフラを提供するServiceNow、Datadog、Snowflakeのような企業も、企業にとって必要不可欠な存在であることから好調に推移している。
+
+SaaS新興企業へのアドバイスとしては、政府顧客向けのAIプラットフォームの構築に注力すること、ミッションクリティカルなインフラ・ソリューションを開発すること、より良いリターンを得るために規制上の堀を持つ垂直市場に特化すること、エッジ・セキュリティ（Cloudflare）のような特定のニッチが不可欠である一方、アイデンティティ管理（Okta）のような他のニッチがコモディティ化に直面しているセキュリティ・サービスの進化する状況を考慮することなどが挙げられる。このような市場シフトを理解し、それに応じてビジネス戦略を調整することは、進化するSaaS業界で成功するために極めて重要である。</description>
+      <pubDate>Sat, 21 Jun 2025 15:10:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-great-b2b-reset-of-1h-2025-what-the-top-25-public-companies-tell-us-about-the-future/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  初めてのカスタマーサクセスマネージャーとして知っておくべきことは？</title>
+      <link>https://www.saastr.com/dear-saastr-what-should-i-know-as-a-first-time-customer-success-manager/</link>
+      <description>新規カスタマー・サクセス・マネージャー（CSM）は、その役割の収益への影響を把握する必要がある。アップセルとリニューアルの重要性を理解することは非常に重要であり、アップセルとリニューアルの重要性が成長の最大50％をもたらす可能性があるからだ。CSMはプロアクティブである必要があり、顧客のニーズが発生する前にそれを予測し、対処することに重点を置く。顧客を効果的に誘導するには、深い商品知識が不可欠である。解約率、継続率、NRR、アップセル率などの指標は、成功を追跡するために不可欠である。個人的にも仕事上でも、顧客と強い関係を築くことが重要。顧客のニーズと会社の提供するサービスのギャップを埋めるには、社内で顧客を擁護することが重要である。顧客価値を高めることで解約率をマイナスにすることは、成功するSaaS企業の特徴である。CSMが成長を促進し、永続的な関係を築くためには、その役割を受け入れ、顧客愛に焦点を当て、顧客の成功にコミットすることが不可欠です。</description>
+      <pubDate>Sat, 21 Jun 2025 09:33:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-should-i-know-as-a-first-time-customer-success-manager/</guid>
+    </item>
   </channel>
 </rss>
