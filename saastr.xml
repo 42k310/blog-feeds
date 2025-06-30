@@ -5,6 +5,31 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 29 Jun 2025 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 03:04:45 GMT</lastBuildDate>
+    <item>
+      <title>黎明期：ディールがわずか20ヶ月で100万ドルから1億ドルのARRを達成した方法</title>
+      <link>https://www.saastr.com/the-early-days-how-deel-went-from-1m-to-100m-arr-in-just-20-months/</link>
+      <description>最近10億ドルのARRを達成したDeel社は、20ヶ月で100万ドルから1億ドルのARRにスケールした方法についての洞察を共有した。共同設立者でCROのシュオ・ワンは、SaaStrで重要な戦略を強調し、初期のスケーリングで直面する課題を強調した。重要なポイントは、初期に強固な基盤を構築すること、成長戦略に集中すること、課題を効果的に乗り越えることの重要性などである。ディール氏の成功は、よく練られた成長計画、機敏な意思決定、顧客中心のアプローチの重要性を強調している。SaaS企業は、拡張性、顧客満足度、継続的なイノベーションを優先することで、ディールの歩みから学ぶことができる。これらの戦略を実行することで、SaaS企業は成長を加速させ、収益を上げ、競争の激しい市場でユニコーンの地位を獲得することができる。</description>
+      <pubDate>Sun, 29 Jun 2025 21:11:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-early-days-how-deel-went-from-1m-to-100m-arr-in-just-20-months/</guid>
+    </item>
+    <item>
+      <title>AIがパランティアを低成長（13％）から高成長（49％！）に導いた理由</title>
+      <link>https://www.saastr.com/palantir-the-great-ai-reacceleration/</link>
+      <description>創業20年のエンタープライズ・ソフトウェア企業であるパランティアは、2023年に大きく減速した後、2025年第1四半期には前年同期比39％の成長を記録し、AI時代における目覚ましい復活を遂げた。同社復活の鍵は、人工知能を活用し、人工知能プラットフォーム（AIP）を中心に企業規模でインテリジェンスを運用することにあった。この戦略的転換は目覚ましい成果をもたらした：米国の商業収益は前年比71％増、年間ランレートは10億ドルを超え、顧客数は769社、米国の商業TCVは8億1,000万ドルに達した。
+
+パランティアの再加速にはいくつかの要因が寄与している。AI時代における製品と市場の適合性の向上、商用市場への参入の成功、導入サイクルの高速化、顧客基盤の拡大によるネットワーク効果の発現などが挙げられる。PalantirのRule of 40は2025年第1四半期に83%と例外的なパフォーマンスを示し、力強い成長と調整後の営業利益率を示している。顧客1社当たりの平均売上高も大幅に増加し、規模の拡大と効率性の向上を示している。
+
+SaaS企業は、AI主導のソリューションに注力し、市場トレンドに適応し、導入サイクルを加速させ、ネットワーク効果を活用して成長することで、パランティアの成功から学ぶことができる。</description>
+      <pubDate>Sun, 29 Jun 2025 14:45:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/palantir-the-great-ai-reacceleration/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  創業者は最初のカスタマーサクセスチームをどのように構築すべきか？</title>
+      <link>https://www.saastr.com/dear-saastr-how-should-founders-build-their-first-customer-success-team/</link>
+      <description>SaaSスタートアップの創業者は、リテンション、アップセル、顧客満足を促進するために、早期にカスタマーサクセス（CS）チームを構築することを優先すべきである。重要な洞察には、CSメンバーを必要だと思われる前から早期に雇用すること、リテンションと拡大に焦点を当てること、NRRやCSATスコアのような明確で測定可能な目標を設定すること、CSの責任を営業に頼らないことなどが含まれる。最初のCS職には情熱的なジェネラリストを採用し、初期顧客の成功に過剰投資し、CSを製品およびマーケティングと連携させ、対象顧客ベースに適した経験レベルに基づいて採用することを推奨する。CSチームは、製品およびマーケティングと密接に連携し、フィードバックを収集し、ロードマップに影響を与え、顧客維持と収益成長を強化すべきである。早期にCSを事業の中核に据えることで、SaaSの新興企業は長期的な成功に向けた強固な基盤を確立することができる。</description>
+      <pubDate>Sun, 29 Jun 2025 09:34:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-should-founders-build-their-first-customer-success-team/</guid>
+    </item>
   </channel>
 </rss>
