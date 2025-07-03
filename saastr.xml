@@ -5,40 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Jul 2025 03:05:03 GMT</lastBuildDate>
-    <item>
-      <title>SaaStrライブ：WizのCMOはいかにして（マーケティング経験なしで）320億ドルのマーケティング・マシンを構築したか</title>
-      <link>https://www.saastr.com/how-wizs-cmo-built-a-marketing-machine-without-any-marketing-experience/</link>
-      <description>Wizの型破りな最高マーケティング責任者（CMO）であるラーズ・ハーズバーグは、5番目の社員として入社し、当初は2年半にわたって製品開発を率いていた。最高経営責任者（CEO）からマーケティング部門を率いるよう要請されたとき、当初は躊躇していたものの、彼女はその挑戦を引き受けた。Wizは現在、グーグルに320億ドルで買収されている。Raazは最近、マーケティングの経験がないにもかかわらず、どのようにしてゼロからWizのマーケティング戦略を構築し、同社を超成長に導いたかについて洞察を語った。
-
-Raazの旅から得た重要な洞察には、たとえそれが自分のコンフォートゾーンから外れたものであっても、新しい機会やチャレンジに対してオープンであることの重要性が含まれている。SaaS企業にとって、このストーリーは、成長を促進するための部門横断的スキルと新しい役割への適応意欲の価値を浮き彫りにしている。SaaSビジネスへの実行可能なアドバイスには、柔軟性と継続的な学習の文化を育成すること、競争市場で成功するためにチームメンバーの多様なスキルを認識し活用することなどが含まれる。</description>
-      <pubDate>Wed, 02 Jul 2025 23:29:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-wizs-cmo-built-a-marketing-machine-without-any-marketing-experience/</guid>
-    </item>
-    <item>
-      <title>マイクロソフトマイクロソフト：従業員を大幅に削減。  そしてAIインフラをもっとたくさん。</title>
-      <link>https://www.saastr.com/microsoft-we-need-less-employees-but-more-ai-infrastructure/</link>
-      <description>マイクロソフトの2025年戦略には、大きな変化と投資が含まれている。同社は15,300人以上の従業員を解雇しており、これは全従業員の7％にあたる。レイオフは1年を通して発表され、7月に9,000人、5月に6,000人、6月に300人以上が削減された。レイオフにもかかわらず、マイクロソフトはAIインフラに多額の投資を行っており、800億ドルを投じている。この投資は、AI技術への戦略的シフトを示している。
-
-SaaS企業にとって、このニュースは、市場動向に適応し、AIのような新興技術に投資することの重要性を強調している。また、競争力と俊敏性を維持するために、企業が継続的に労働力を評価し、必要な調整を行う必要性も浮き彫りになっている。SaaS企業は、イノベーション、効率性、成長を促進し市場での競争力を向上させるテクノロジーへの戦略的投資に注力することで、マイクロソフトの戦略から学ぶことができる。</description>
-      <pubDate>Wed, 02 Jul 2025 20:39:29 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/microsoft-we-need-less-employees-but-more-ai-infrastructure/</guid>
-    </item>
-    <item>
-      <title>2025年に加速するもの：50億ドル以上のユニコーン</title>
-      <link>https://www.saastr.com/whats-accelerating-in-2025-5b-unicorns/</link>
-      <description>Crunchbaseの記事は、評価額が50億ドルを超える「ウルトラ・ユニコーン」の台頭を強調している。ウルトラ・ユニコーンは、ユニコーン企業全体の13％に過ぎないが、その総額の半分以上を握っている。主な洞察として、勝者が最も多い市場の支配、2025年のウルトラユニコーンの急速な拡大、そのような企業の最適な成熟期間は7～14年であること、市場環境にもかかわらずこれらの企業の出口速度が加速していることなどが挙げられる。
-
-SaaSビジネスについては、持続的な実行、景気サイクルに対する回復力、エコシステム全体のインフラとなる基盤プラットフォームの構築に注力することがアドバイスとなる。データは、規模がこれらの企業にオプション性をもたらし、様々な流動性イベントをもたらすことを示唆している。記事はまた、プライベート・マーケットが伝統的なベンチャー・パスとカテゴリーを定義するプラットフォーム・パスに分かれる傾向を指摘し、SaaS創業者がウルトラ・ユニコーンの地位を獲得するためにエコシステムのインフラとなることを目指すことの重要性を強調している。</description>
-      <pubDate>Wed, 02 Jul 2025 15:50:20 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/whats-accelerating-in-2025-5b-unicorns/</guid>
-    </item>
-    <item>
-      <title>SaaStrへシードステージのスタートアップで新しいセールス担当者を育てるには？</title>
-      <link>https://www.saastr.com/dear-saastr-how-do-i-ramp-a-new-sales-rep-at-a-seed-stage-start-up/</link>
-      <description>シードステージのSaaS企業では、新人営業担当者の迅速な立ち上げが成功の鍵を握ります。効果的に立ち上げを加速させるには、まず実践的なトレーニングから始め、製品、顧客のペインポイント、カスタマージャーニーに没頭させる。最初の30日、60日、90日について明確な期待値を設定し、進捗を測定し、必要に応じて軌道修正する。スクリプトや異論処理ガイドを含む営業プレイブックを提供し、経験豊富なチームメンバーとシャドーイングやロールプレイをさせる。自信をつけるために最初は小さな勝利に焦点を当て、毎日フィードバックを与えるために指標を綿密に追跡する。GongやLinkedIn Sales Navigatorのようなツールに投資し、より早く習得できるようにする。営業プロセスに積極的に関与し、模範を示す。営業サイクルが1～1.5サイクルで進捗が見られない担当者は、早めに別れることを検討しよう。サポートのためにメンターとペアを組み、メンターにコミッションを支払うことを検討する。これらの戦略に従うことで、シードステージのSaaS企業は新人営業担当者を効果的に成長させ、成功に導くことができる。</description>
-      <pubDate>Wed, 02 Jul 2025 09:44:47 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-ramp-a-new-sales-rep-at-a-seed-stage-start-up/</guid>
-    </item>
+    <lastBuildDate>Thu, 03 Jul 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
