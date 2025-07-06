@@ -5,37 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Jul 2025 03:04:51 GMT</lastBuildDate>
-    <item>
-      <title>あなただけじゃない。リードVCは各ラウンドでより多くの資金を獲得している</title>
-      <link>https://www.saastr.com/its-not-just-you-lead-vcs-are-taking-more-and-more-of-the-round/</link>
-      <description>Cartaのデータが示すように、ベンチャーキャピタルにおけるリードインベスターは、資金調達ラウンドでより大きな割合を占めるようになってきている。この傾向は、すべての資金調達ステージで顕著であり、リード投資家の参加はここ数年で大幅に増加している。このシフトは、創業者がラウンドで扱う投資家の数が減り、リード投資家が会社の方向性や将来の資金調達の決定に対してより大きな影響力を行使するようになったことを意味する。
-
-この傾向には、優良企業への逃避、ファンド規模の拡大、競争力学、リスク管理など、いくつかの要因がある。シード段階では、ラウンドの規模が一定であっても、リード投資家がラウンドで占める割合が大きくなっている。
-
-この変化する状況を乗り切る創業者にとって、早期にシンジケートを計画し、リードインベスターがラウンドの大部分を占めることのトレードオフを理解し、思慮深く交渉し、将来の資金調達オプションを念頭に置くことが不可欠である。
-
-最終的には、創業者は、競争の激しいベンチャー資金調達環境で成功するために、リード投資家が資金調達ラウンドの大部分を占めるというこの新しい現実に適応する必要がある。</description>
-      <pubDate>Sat, 05 Jul 2025 21:33:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/its-not-just-you-lead-vcs-are-taking-more-and-more-of-the-round/</guid>
-    </item>
-    <item>
-      <title>黎明期：わずか300万ドルの資金調達でARR1億ドルを達成したVeevaの方法 - そして深い業種別フォーカス</title>
-      <link>https://www.saastr.com/the-early-days-veeva-hitting-100m-arr-with-just-3m-raised-and-a-deep-vertical-focus/</link>
-      <description>Veevaはライフサイエンス業界をリードするクラウド・ソフトウェア・プロバイダーであり、医薬品開発、臨床試験、規制遵守、商業運営に不可欠なアプリケーションを製薬、バイオテクノロジー、医療機器企業に提供している。2007年に「製薬企業のためのセールスフォース」として設立されたVeevaは、医薬品の上市に携わる企業にとって重要な技術パートナーとなっている。
-
-Veevaのサクセスストーリーには、わずか300万ドルの資金調達で、企業向けのSaaS（Software as a Service）ソリューションを販売することにより、年間経常収益（ARR）1億ドルのマイルストーンを達成したことが含まれる。これは、同社の効率的な成長戦略と、特殊な業界で大きな市場シェアを獲得する能力を示している。
-
-Veevaの道のりから得られた主な教訓には、ライフサイエンス分野の特定のニーズに合わせたミッションクリティカルなアプリケーションの開発に注力したこと、業界の技術的バックボーンとしての戦略的位置づけ、最小限の外部資金で著しい成長のマイルストーンを達成したことなどがある。SaaS企業は、業界固有のソリューション、効率的なスケーリング戦略、ニッチ市場への価値提供の重要性を強調することで、Veevaの成功から学ぶことができる。</description>
-      <pubDate>Sat, 05 Jul 2025 19:45:21 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-early-days-veeva-hitting-100m-arr-with-just-3m-raised-and-a-deep-vertical-focus/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ投資家に対するグロス・リテンションはどのように計算すればよいですか？</title>
-      <link>https://www.saastr.com/dear-saastr-how-should-i-calculate-gross-dollar-retention-for-our-investors/</link>
-      <description>グロス・ダラー・リテンション(GRR)は、SaaSビジネスが投資家にプレゼンする際に重要な指標であり、アップセルを除いた収益維持率を示す。GRRの計算式は、（開始ARR-解約ARR-ダウングレードARR）÷開始ARRである。ベストプラクティスとしては、アップセルを除外すること、顧客タイプ別にセグメント化すること、業界標準に対するベンチマークを行うこと、長期的なトレンドを示すこと、オンボーディングとカスタマーサクセスへの投資を強調すること、GRRが5%以上変動した場合にその差異を説明することなどが挙げられる。投資家は、GRRを製品市場適合性と顧客満足度の代用指標とする。GRRの業界ベンチマークは、エンタープライズSaaSで90～95%、中堅SaaSで85～90%、中小SaaSで80～85%である。高いGRRは、製品の有効性、顧客満足度、収益の安定性を示し、投資家の信頼を高めます。GRRを維持・向上させることは、SaaS業界における投資家へのピッチのための強固な基盤を構築するために不可欠である。</description>
-      <pubDate>Sat, 05 Jul 2025 11:01:28 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-should-i-calculate-gross-dollar-retention-for-our-investors/</guid>
-    </item>
+    <lastBuildDate>Sun, 06 Jul 2025 15:04:28 GMT</lastBuildDate>
   </channel>
 </rss>
