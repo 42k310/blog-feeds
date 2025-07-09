@@ -5,38 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Jul 2025 03:04:51 GMT</lastBuildDate>
-    <item>
-      <title>Canva、5,000人の従業員にAIを学ぶ1週間を与える。うまくいくだろうか？</title>
-      <link>https://www.saastr.com/canva-gives-its-5k-employees-a-week-to-learn-ai-will-it-work/</link>
-      <description>Canvaは250万ドル以上を投資し、5,000人の従業員に1週間の休暇を与えてAIを学ばせようとしている。この動きは、労働力におけるAIのスキル格差に対処することの重要性を浮き彫りにしている。他のB2BリーダーもCanvaの取り組みから学ぶことができるが、従業員をAIの専門家にするには1週間のトレーニングでは不十分かもしれない。このようなトレーニングには多額の費用がかかるが、生産性とイノベーションにおける潜在的なメリットは大きい。Salesforce、Shopify、HubSpotなどの企業はすでにAIを効果的に活用しており、CEOは組織のあらゆるレベルでAIを導入する必要性を強調している。AIの時代に成功するためには、リーダーがトップダウンでAI導入を推進し、顧客や従業員にその価値を示す必要がある。従業員をAIに習熟させることは、今日のビジネス環境で競争力を維持するために極めて重要である。</description>
-      <pubDate>Tue, 08 Jul 2025 20:27:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/canva-gives-its-5k-employees-a-week-to-learn-ai-will-it-work/</guid>
-    </item>
-    <item>
-      <title>B2B企業のIPOの88％に創業者CEOがいる。そして、それらの企業ははるかに、はるかに良い業績を上げている</title>
-      <link>https://www.saastr.com/the-trend-continues-88-of-b2b-ipos-have-founder-ceos-and-those-ones-do-far-far-better/</link>
-      <description>この記事では、B2Bソフトウェア企業のほぼ90％が、株式公開時に創業者をCEOとして維持していることを強調している。65の主要なB2BソフトウェアIPOのデータによると、創業者が率いる企業は非創業者が率いる企業を大幅に上回っており、創業者CEOのリターンの中央値は+165%であるのに対し、非創業者CEOは-5%であった。注目すべき成功例としては、セールスフォース（+4,000%）、ショッピファイ（+2,400%）が挙げられる。創業者主導の傾向は近年強まっており、2024年から2025年にかけての主要なB2B IPOはすべて創業者が主導している。創業者は、技術的な信頼性、業界との深い関係、市場検証の優位性をもたらし、これらはエンタープライズ・ソフトウェア企業の規模拡大に不可欠である。また、この傾向は、異なる市場環境、企業規模、B2Bのカテゴリーにわたって維持されていることもデータから明らかになっている。株式公開や業績向上を目指すSaaS企業は、長期的な成功と投資家の信頼を得るために、創業者のリーダーシップの利点を考慮すべきです。</description>
-      <pubDate>Tue, 08 Jul 2025 14:25:51 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-trend-continues-88-of-b2b-ipos-have-founder-ceos-and-those-ones-do-far-far-better/</guid>
-    </item>
-    <item>
-      <title>AI数十億から営業苦戦まで：2025年上半期のSaaStr投稿トップ10</title>
-      <link>https://www.saastr.com/from-ai-billions-to-sales-struggles-the-top-10-saastr-posts-of-the-first-half-of-2025/</link>
-      <description>2025年前半のSaaS業界はAIの影響を大きく受け、営業プロセスや顧客の期待に影響を与えている。SaaStrで最も読まれた投稿の主なテーマは、AIがSaaSに与える影響、販売と資金調達における課題、実行の基礎の重要性などである。主な投稿には、Mary MeekerのAIレポート、OpenAIの収益予測、Salesforceの営業上の課題、企業顧客にとっての優れたダッシュボードの重要性、AIがビジネスに与える影響に関するCoatueの評価などがあります。SaaS企業にとって実用的な収穫としては、AIの採用曲線、AIビジネスに必要な資本要件、現在の市場における販売上の課題への対処、ダッシュボードのようなシンプルでありながらインパクトのある改善に注力すること、進化する環境で成功するためのAI統合の緊急性を認識することなどが挙げられる。SaaSのリーダーは、変化するSaaSの状況を効果的にナビゲートするために、これらの洞察に注意を払う必要があります。</description>
-      <pubDate>Tue, 08 Jul 2025 11:54:42 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/from-ai-billions-to-sales-struggles-the-top-10-saastr-posts-of-the-first-half-of-2025/</guid>
-    </item>
-    <item>
-      <title>SaaStrの皆様へ役員やシニアアドバイザーの最適な選び方とは？</title>
-      <link>https://www.saastr.com/dear-saastr-how-do-you-best-pick-and-choose-board-members-and-senior-advisors/</link>
-      <description>SaaS企業の成功には、適切な役員やアドバイザーを選ぶことが重要です。信頼関係が最も重要であり、完全に信頼できる人物を優先しましょう。彼らの専門性を会社のステージに合わせ、初期段階では実践的な支援を、規模が拡大するにつれて戦略的な指導を提供できる人を探しましょう。時代遅れのアドバイスや過度にポジティブなフィードバックしか提供しない人物は避けましょう。
-
-リクルート、取引、資金調達にネットワークを活用する。相性を確認するため、役員候補となる人物を事前に知ることに時間をかける。スキルや経験がミックスされたバランスの取れた理事会を目指す。知識やネットワークのギャップを埋めるために、戦略的にアドバイザーを選ぶ。効率的な意思決定を促進するため、理事会はスリムな状態に保つ。積極的な関与の方が価値が高いため、ブランド名よりも実質を重視する。
-
-会社が成長するにつれ、ニーズの変化に合わせて取締役会やアドバイザーを進化させる準備をする。変更の可能性については、早めにコミュニケーションをとる。最終的には、役員やアドバイザーを自社のビジョンに合致させ、SaaSビジネスにおける価値を最大化する。</description>
-      <pubDate>Tue, 08 Jul 2025 09:55:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-you-best-pick-and-choose-board-members-and-senior-advisors/</guid>
-    </item>
+    <lastBuildDate>Wed, 09 Jul 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
