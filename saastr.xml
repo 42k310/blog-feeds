@@ -5,6 +5,38 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Jul 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 03:04:53 GMT</lastBuildDate>
+    <item>
+      <title>黎明期：ARR1,000万ドルを達成したVantaの5つの成功と5つの失敗</title>
+      <link>https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/</link>
+      <description>VantaがARRで1000万ドル、評価額24億5000万ドルに達した成功は、いくつかの要因に起因する。新興企業にとって優先事項ではなかったセキュリティ・コンプライアンスに注力したこと、信頼とコンプライアンスへの市場のシフトを理解したこと、全世界で8,000人以上の顧客基盤を構築したこと、企業がこれらの問題に取り組む方法を根本的に変えたことなどが挙げられる。
+
+しかし、Vantaが失敗したと思われる分野もあった。これには、市場機会を十分に生かせなかったこと、効果的なスケーリングの課題に直面したこと、潜在的に競合を過小評価していたこと、成長の勢いを持続させるのが困難だったことなどが含まれる。
+
+同様の成功を目指すSaaS企業にとって、市場理解、顧客獲得、市場シフトへの適応といった分野を優先することは極めて重要である。さらに、持続可能な成長戦略に注力し、競合他社に先んじ、顧客のニーズを満たすために継続的にイノベーションを起こすことが、SaaS業界で長期的に成功するために不可欠である。</description>
+      <pubDate>Sat, 12 Jul 2025 19:58:03 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-early-days-5-things-vanta-got-right-and-5-it-got-wrong-getting-to-first-10m-arr/</guid>
+    </item>
+    <item>
+      <title>Anthropicはどのように40億ドルのARRにロケットアップしたか - そしてなぜあなたのB2Bプレイブックはすでに時代遅れかもしれないのか？</title>
+      <link>https://www.saastr.com/anthropics-4b-arr-the-enterprise-ai-growth-playbook-thats-rewriting-saas-economics/</link>
+      <description>Anthropicは25年上半期までに年間売上高40億ドルという異例の成長を遂げ、従来のSaaSの前提を覆す新たなB2B成長モデルを浮き彫りにした。同社の収益タイムラインは、2022年に1,000万ドル、2023年に1億ドル、2024年12月に10億ドル、2025年7月までに40億ドルという急成長を示しており、3年間で100倍の成長を達成しています。Anthropicの成功は、ペイ・パー・トークンの価格設定によるAPIファーストの収益モデル、主要な成長ドライバーとしてのコード生成への注力、AWSやGoogleとのチャネル・パートナーシップの活用に起因している。この文脈では、CAC/LTVや解約対拡大収益のような従来のSaaS指標が再定義され、利用ベースの価格設定とAIインフラ企業独自のマージンプロファイルの理解の重要性が強調されている。従来のB2BおよびSaaS企業にとって重要なポイントは、利用ベースの価格設定を効果的に導入して拡大機会を促進すること、および企業規模での開発者主導の成長戦略を活用することである。</description>
+      <pubDate>Sat, 12 Jul 2025 14:12:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/anthropics-4b-arr-the-enterprise-ai-growth-playbook-thats-rewriting-saas-economics/</guid>
+    </item>
+    <item>
+      <title>バイブコーディングは未来だ。しかし、&quot;Roll Your Own&quot;？それはもっと複雑だ。</title>
+      <link>https://www.saastr.com/vibe-coding-is-the-future-but-roll-your-own-thats-more-complicated/</link>
+      <description>この記事では、著者がReplit上でバイブコーディングを行った経験について述べ、プロトタイプを素早く構築することの容易さを強調する一方で、エンタープライズ・グレードのソリューションに拡張することの難しさを強調している。著者は、混雑した市場で独自の価値を提供する斬新な製品を作ることの重要性に言及している。Vibe codingは、ラピッドプロトタイピング、内部ツールの開発、実験を容易にする能力を賞賛している。しかし、NotionやSlackのような確立されたSaaS製品と比較して、複雑なワークフロー、セキュリティ、スケーラビリティを扱う上でのバイブコーディングの限界も強調されている。著者は、バイブコーディングは特定の目的には価値があるが、長期的には既存のSaaSソリューションに投資する方が費用対効果や時間効率に優れている可能性があることを示唆している。記事は、バイブコーディングはアプリ開発を加速させるが、主要なSaaSアプリケーションに取って代わることはないだろう。</description>
+      <pubDate>Sat, 12 Jul 2025 14:04:29 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/vibe-coding-is-the-future-but-roll-your-own-thats-more-complicated/</guid>
+    </item>
+    <item>
+      <title>親愛なるSaaStr：顧客からの支払いがありません。回収代行会社を雇う価値があるのはどのような場合ですか？</title>
+      <link>https://www.saastr.com/dear-saastr-my-customer-hasnt-paid-when-is-it-worth-it-to-hire-a-collections-agency/</link>
+      <description>SaaS業界では一般的に、顧客からの支払いがない場合、回収代行業者を雇わないことが推奨されている。SaaSビジネスは経常収益モデルに依存することが多いため、関係が悪化する可能性があるからだ。回収業者は通常、回収額のかなりの割合を請求するため、支払い回収に効果的でない場合もある。すぐに回収に頼るのではなく、督促状を送ったり、上級スタッフを巻き込んだりして、社内でエスカレーションすることをお勧めします。また、支払い計画を提示したり、サービスの停止を警告したりすることも、人間関係を損なうことなく支払いを回収する上で効果的である。すべてがうまくいかず、支払うべき金額がその手間を正当化できるものであれば、最後の手段として回収を検討することもできる。しかし、ほとんどの場合、この経験から学び、今後の顧客に対する支払い条件を調整し、未払い請求書を追いかけるよりも新規顧客の獲得にエネルギーを注いだ方がよい。</description>
+      <pubDate>Sat, 12 Jul 2025 09:15:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-my-customer-hasnt-paid-when-is-it-worth-it-to-hire-a-collections-agency/</guid>
+    </item>
   </channel>
 </rss>
