@@ -5,38 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Jul 2025 03:05:02 GMT</lastBuildDate>
-    <item>
-      <title>製品から320億ドルへ：ウィズの非伝統的CMOはいかにしてマーケティング・マシンを構築したか</title>
-      <link>https://www.saastr.com/from-product-to-32b-how-wizs-non-traditional-cmo-built-a-marketing-machine/</link>
-      <description>320億ドル規模のサイバーセキュリティ企業であるWizのプロダクトマネージャーから最高マーケティング責任者（CMO）へと転身したRaaz Herzbergの軌跡が、先日のSaaStrワークショップで語られた。この変遷は、テック業界における多様な経験の重要性を浮き彫りにしている。ハーズバーグの型破りな道は、非線形なキャリアアップが重要なリーダーシップの役割につながる可能性があることを思い出させるものである。
-
-SaaS企業にとって、ハーズバーグのストーリーは、部門横断的な経験とスキル開発の価値を強調している。成長と成功を達成するために、SaaS企業は従業員が社内でさまざまな役割を探求し、多様な視点を身につけることを奨励すべきである。このアプローチは、イノベーションと戦略的意思決定を推進できる総合的なリーダーの育成に役立つ。
-
-さらに、SaaS企業は社内で人材を育成し、従業員が自分の興味や強みに基づいて新しい役割に移行できる機会を提供することで、利益を得ることができます。専門的な能力開発に投資し、キャリアアップの道を提供することで、より意欲的でスキルの高い従業員を確保することができ、最終的には競争の激しいSaaS市場における企業の成長と成功に貢献することができる。</description>
-      <pubDate>Wed, 16 Jul 2025 21:22:28 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/from-product-to-32b-how-wizs-non-traditional-cmo-built-a-marketing-machine/</guid>
-    </item>
-    <item>
-      <title>ARR20億ドル超のMongoDB：B2Bリーダーが学ぶべき2026年第1四半期の5つの教訓</title>
-      <link>https://www.saastr.com/mongodb-at-2b-arr-5-epic-learnings-from-q1-2026-that-every-b2b-leader-should-study/</link>
-      <description>MongoDBの2026年第1四半期決算は、四半期収益5億4,900万ドル（前年同期比22％増）という目覚ましい成長を示し、大規模になると成長が鈍化するという概念を覆した。B2Bリーダーにとって重要なことは、製品、顧客、市場の拡大を通じて20億ドル以上の規模での成長を再加速させること、Atlasのような高成長、高収益の製品セグメント（売上構成比72%）に注力すること、成長率と業務効率のバランスをとることで収益性の高い成長に移行すること、2,600の新規顧客を獲得する積極的な顧客獲得戦略、キャッシュ創出、限定的なM&amp;Aパイプライン、過小評価信念、資本配分の成熟度を示す8億ドルの自社株買いを通じて自信を示すこと、などである。SaaS企業は、持続可能な成長と株主価値を達成するために、イノベーション、クラウドプラットフォーム、収益性、顧客獲得、戦略的資本配分を優先することで、MongoDBの成功から学ぶことができます。</description>
-      <pubDate>Wed, 16 Jul 2025 14:19:10 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/mongodb-at-2b-arr-5-epic-learnings-from-q1-2026-that-every-b2b-leader-should-study/</guid>
-    </item>
-    <item>
-      <title>AIの時代でも希薄化はあまり変わっていない：12,435件のVCラウンドから得られたデータ</title>
-      <link>https://www.saastr.com/the-dilution-non-story-why-12435-software-rounds-show-remarkably-little-has-changed/</link>
-      <description>2021年1月から2025年5月までのCartaのデータから、市場のシフトや創業者に優しい条件について業界で話題になっているにもかかわらず、新興企業が経験する希薄化の量は過去4年間比較的安定していることが明らかになった。主な洞察として、シード、シリーズA、B、Cの各ラウンドにおける希薄化率の変化はわずかであり、シリーズCのラウンドのみが希薄化の大幅な減少を示している。このデータは、ラウンドの規模に変動はあったものの、ベンチャー・ラウンドの基本的な経済学に大きな変化はなかったことを示している。この記事では、創業者は、わずかな希薄化の改善に固執するよりも、より高いバリュエーションが得られる会社を作ることを優先すべきだと強調している。希薄化の指標は安定しており、希薄化の小手先の最適化よりも、より高い評価をもたらす指標に焦点を当てることがより重要であることを示唆している。重要なことは、ベンチャー市場ではしばしば劇的な物語が強調されるが、データからは、小手先の希薄化対策よりも基本的なビジネス指標の持続的な重要性が強調されているということである。</description>
-      <pubDate>Wed, 16 Jul 2025 12:11:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-dilution-non-story-why-12435-software-rounds-show-remarkably-little-has-changed/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：  ファウンダーとして自分でやるだけでいいのでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-is-it-ok-just-to-do-things-yourself-as-a-founder/</link>
-      <description>SaaSビジネスの創業者は、たとえ誰かを雇ったとしても、自分たちで何かをすることをためらうべきではありません。このハンズオンアプローチは、特に初期段階や市場拡大時には極めて重要である。営業、顧客獲得、製品のトラブルシューティングに直接携わることで、創業者はビジネスに対する貴重な洞察を得ることができる。この関与は、創業者が何がうまくいくかを理解し、高い基準を設定し、顧客との距離を保ち、効率的に問題を解決し、成長が停滞したときに現実を確認する役割を果たす。会社が成長するにつれ権限委譲は不可欠だが、創業者は、特に困難な時期や新たな成長段階において、必要であれば踏み込むことをためらうべきではない。継続的な個人的関与は、学び、リードし、効果的に問題に対処したいという願望が原動力であるべきだ。しかし、個人的な介入に過度に依存することは、チームビルディングやプロセスの欠点を示す可能性がある。従って、創業者は、個人的関与と、チームへの委任や信頼とのバランスをとるべきである。</description>
-      <pubDate>Wed, 16 Jul 2025 09:05:43 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-is-it-ok-just-to-do-things-yourself-as-a-founder/</guid>
-    </item>
+    <lastBuildDate>Thu, 17 Jul 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
