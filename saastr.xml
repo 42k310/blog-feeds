@@ -5,6 +5,40 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Jul 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 03:04:43 GMT</lastBuildDate>
+    <item>
+      <title>リプリットに今月だけで8000ドル使いそうな理由。  そして、なぜそれでいいのか。</title>
+      <link>https://www.saastr.com/why-ill-likely-spend-8000-on-replit-this-month-alone-and-why-thats-ok/</link>
+      <description>この記事では、バイブ・コーディングのためにリプリットを使用した筆者の経験と、それに伴うコストについて論じている。高いコストがかかるにもかかわらず、筆者はReplitとの深い関わりを表明している。目標は、従来の開発ツールや開発者を使わずに、Replitの中だけでアイデアから商用レベルのアプリに移行することです。筆者は、アイデア遊びから本格的なプロジェクト構成まで、開発のさまざまな段階を概説し、各段階でコストが増加することを強調している。筆者の現在の軌跡は、Replitに毎月8000ドルを費やすことを示唆している。この記事では、開発フェーズごとに予想されるコストを細分化し、商業品質のアプリを完全にReplit内で開発するために必要な多額の財政投資を強調している。筆者は、この支出を経済的負担ではなく、価値ある投資と見なしている。この記事は、開発プロジェクトにReplitを集中的に使用することに関連するコストに関する洞察を提供し、開発目的でこのようなプラットフォームを使用する際の予算編成とコスト意識の必要性を強調しています。</description>
+      <pubDate>Thu, 17 Jul 2025 14:10:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-ill-likely-spend-8000-on-replit-this-month-alone-and-why-thats-ok/</guid>
+    </item>
+    <item>
+      <title>大平坦化：2020-2025年におけるB2Bリーダーの成長率</title>
+      <link>https://www.saastr.com/the-great-flattening-growth-rates-for-4-b2b-leaders-from-2020-2025/</link>
+      <description>スノーフレーク、Shopify、Okta、Twilioの収益軌跡は、B2BとSaaSの分野で良い成長を構成するものの変化を示している。以前は100％以上の成長が期待されていたが、現在の状況は異なることを示している。Snowflake、Shopify、Okta、Twilioは、成長率に変動が見られ、一部は減速を経験しているが、依然として収益性を重視している。主な洞察は以下の通り：
+
+1.規模が速度を殺す：企業が規模を拡大すると、絶対的なドル成長がパーセンテージ成長よりも重要になる。例えば、スノーフレークが36億ドルの収益ベースで26％の成長を遂げたことは、それ以前の小規模ベースで高いパーセンテージの成長を遂げたことよりも重要である。
+
+2.市場の成熟曲線：市場は、爆発的な成長よりも効率性と収益性が重視される最適化の段階に移行しつつある。Shopifyのように早くからユニットエコノミクスに注力してきた企業は、現在その恩恵を享受している。
+
+3.AIが新たな成長エンジン：AIインフラを提供するスノーフレークのような企業は、AIゴールドラッシュの恩恵を受けている。SaaS企業は、自らをAIインフラと位置づけることで、成長倍率が大幅に上昇する可能性がある。
+
+重要なことは、優れたB2B企業は、成熟したSaaS市場において、新たな市場を創造し、収益性を重視し、業務効率を優先することである。</description>
+      <pubDate>Thu, 17 Jul 2025 12:51:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-great-flattening-growth-rates-for-4-b2b-leaders-from-2020-2025/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：SaaSの初期段階において、プロダクトとマーケットがフィットしているかどうかを知るには？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-i-know-if-i-have-product-market-fit-for-real-in-the-early-days/</link>
+      <description>中小企業をターゲットにしたB2B SaaSでプロダクト・マーケット・フィット（PMF）を達成したかどうかを判断するには、重要な指標を探します：  
+1.**顧客の急成長**：顧客数の急速な増加**：顧客数が毎月倍増していること、特にMRRが10,000ドルを超えた後、PMFが達成されたことを示す。MRR10,000ドル以降、前月比10%以上の成長率は不可欠です。
+2.**口コミによる紹介**：顧客に促されることなく新規顧客を連れてくることは、PMFの強力な指標です。これがない場合、あなたの製品が重要なペインポイントに適切に対処していないことを示唆している可能性がある。
+3.**高いインバウンドリード**：デモやサインアップへの圧倒的な関心は、PMFを示す。リードジェネレーションのためにアウトバウンドの努力に依存している場合は、PMFに近づいているが、まだそこに到達していない可能性がある。
+4.**強いリテンション**：低い解約率と高い純収益維持率（100％以上）は、PMFにとって極めて重要である。顧客は、御社の製品が提供する価値によって定着するはずです。
+5.**&gt;50万ドル以上のARRで前年比100%の成長**：50万ドルのARRを達成した後、前年同期比100%以上の成長を遂げた場合、PMFが確定する。成長が遅い場合は、問題を解決している可能性があるが、重要な問題ではない。</description>
+      <pubDate>Thu, 17 Jul 2025 09:14:37 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-know-if-i-have-product-market-fit-for-real-in-the-early-days/</guid>
+    </item>
   </channel>
 </rss>
