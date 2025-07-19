@@ -5,35 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Jul 2025 03:04:50 GMT</lastBuildDate>
-    <item>
-      <title>多くのCEOは何人の直属の部下を持っているか？  5 従業員100人未満なら。  データと詳細。</title>
-      <link>https://www.saastr.com/how-many-direct-reports-do-most-ceos-have-5-if-youre-100-employees-the-data-and-more/</link>
-      <description>本稿では、6,586社のデータに基づき、企業規模別にCEOの支配力について分析している。主な考察は以下の通り：CEOの直属の部下は企業規模が大きくなるほど増加し、小規模企業では5人から、大企業では15人以上となる。しかし、各規模のカテゴリー内では大きなばらつきがあり、普遍的な最適直属上司数は存在しない。データからは、直属の部下が20人以上いるCEOや、COOやその他の中間的な役割を活用する可能性のあるごく少数のCEOなど、極端な異常値が浮き彫りになっている。分析では、業績相関、産業効果、機能別内訳、報告構造の時間的変化などは示されていない。主な収穫は、各企業規模のカテゴリー内でかなりのばらつきがあることで、企業ステージ、業界、CEOのスタイル、組織哲学などの要因が、最適な直属部下の数に影響を与えることを示唆している。企業規模が主な要因である一方で、その他の要因もレポート構造を決定する上で重要な役割を果たしている。SaaS企業は、このデータを利用して、CEOの支配範囲が成長とともにどのように変化するかを理解し、それに応じて組織構造を調整することができる。</description>
-      <pubDate>Fri, 18 Jul 2025 19:10:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-many-direct-reports-do-most-ceos-have-5-if-youre-100-employees-the-data-and-more/</guid>
-    </item>
-    <item>
-      <title>SaaStrのAIが優れている理由：大量のデータ。  大量のトレーニング。そして毎日のQA。</title>
-      <link>https://www.saastr.com/why-saastrs-ai-is-so-good-tons-of-training-and-daily-qa/</link>
-      <description>この記事では、SaaSビジネスにおけるAIモデルの高品質なトレーニングデータと継続的な品質保証（QA）の重要性について論じている。著者は、大量の学習データを持つことが重要である一方で、AIモデルの精度とパフォーマンス向上のために継続的にQAを行うことも同様に重要であると強調している。彼らのAI導入成功の真の秘訣は、ローンチ後60日間は毎日QAを実施し、その後は毎週QAセッションを実施したことである。
-
-ハーヴェイ、パランティア、スケールAIといった他の成功したAI企業からインスピレーションを得て、著者はAIモデルを改良する際の人間のQAの重要性を強調している。ハーヴェイのアプローチでは、カスタムトレーニングされたモデルと実際の専門家による継続的なテストが行われ、パランティアのForward Deployed Engineerは顧客と直接連携し、現実世界のシナリオに効果的に対応できるまでAIソリューションを反復する。
-
-この記事では、SaaS企業、特にエンタープライズ・ソフトウェアとAIテクノロジーに特化した企業にとって、日々の実践的なトレーニングとQAが、急速な成長と顧客満足の達成に不可欠であることを示唆している。企業データをAIモデルに統合することで、企業は長期的な戦略的差別化を実現できる。最終的に重要なことは、AIを活用したSaaSビジネスの成功には、一貫したQAとユーザーからのフィードバックに基づく反復的な改善が不可欠であるということだ。</description>
-      <pubDate>Fri, 18 Jul 2025 14:10:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-saastrs-ai-is-so-good-tons-of-training-and-daily-qa/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ  最初の営業報酬プランはどのように作成すればよいですか？</title>
-      <link>https://www.saastr.com/dear-saastr-how-should-i-build-our-first-sales-comp-plan/</link>
-      <description>営業報酬プランを作成することは、チームのモチベーションを高め、彼らの目標が会社の目標と一致するようにするために非常に重要です。SaaS（Software as a Service）企業向けの効果的な営業報酬プランを構築するには、収益目標や顧客獲得目標など、明確な目標を定めることから始めましょう。営業担当者のインセンティブを高めるために、固定給、歩合給、ボーナスの組み合わせを検討する。プランが理解しやすく、透明性があり、会社全体の戦略に沿ったものであることを確認する。
-
-この記事から得られる重要な洞察には、達成可能でありながら挑戦的な目標を設定すること、継続的なフィードバックと業績評価を行うこと、業績と市場の状況に基づいて報酬プランを定期的に見直し、調整することの重要性が含まれる。プランを設計する際に考慮すべきデータとしては、平均取引規模、営業サイクルの長さ、顧客生涯価値などがある。
-
-SaaS企業に対する実行可能なアドバイスとしては、プラン設計プロセスに営業担当者を参加させること、営業実績データを活用して意思決定に反映させること、望ましい結果を導くためにプランを継続的にモニタリングして調整することなどが挙げられる。</description>
-      <pubDate>Fri, 18 Jul 2025 09:19:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-should-i-build-our-first-sales-comp-plan/</guid>
-    </item>
+    <lastBuildDate>Sat, 19 Jul 2025 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
