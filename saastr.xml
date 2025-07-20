@@ -5,39 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Jul 2025 03:04:43 GMT</lastBuildDate>
-    <item>
-      <title>AIの幻覚はかつての問題ではない。しかし、B2Bリーダーにとっては依然として心配の種第1位である。</title>
-      <link>https://www.saastr.com/hallucinations-arent-the-issue-they-once-were-in-ai-but-they-are-still-worry-1-for-b2b-leaders/</link>
-      <description>ICONIQが発表した「AIの現状」レポートでは、AIモデルの精度が大幅に向上した一方で、導入に関する課題が依然として残っていることが浮き彫りになっている。驚くべきことに、AI企業の39%は、コスト、セキュリティ、人材不足に関する懸念を上回り、「幻覚」を配備に関する問題のトップに挙げている。これは、AIの導入における信頼性の問題を浮き彫りにしており、信頼性は高まるリスクに追いついていない。レポートでは、AIの不安の階層を特定している。39％が幻覚を心配し、38％が説明可能性と信頼、34％がROI、32％が計算コスト、26％がセキュリティである。これらの懸念に共通するのは、AIシステムの信頼性と信用性の必要性である。
-
-記事では、幻覚の問題を軽減するためには適切なトレーニングが重要であることを強調している。SaaStr.aiの40,000のチャットを処理し、2,000万語のコンテンツでトレーニングするというアプローチのように、ドメイン固有のデータで専門的なトレーニングを行うことで、幻覚の発生はまれで取るに足らないものに減少した。重要なことは、幻覚の問題に直面している企業は、トレーニングの特異性に十分に投資していない可能性があり、特殊なタスクのための汎用モデルに依存しているということです。AIの信頼性を高めるために、企業はドメインに特化したトレーニングと日々の品質保証モニタリングを優先すべきである。</description>
-      <pubDate>Sat, 19 Jul 2025 16:49:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/hallucinations-arent-the-issue-they-once-were-in-ai-but-they-are-still-worry-1-for-b2b-leaders/</guid>
-    </item>
-    <item>
-      <title>SaaSの持続的IPOに必要な勢い：63％の平均成長率</title>
-      <link>https://www.saastr.com/the-sheer-momentum-you-need-for-an-enduring-ipo-in-saas-63-average-growth/</link>
-      <description>この記事では、Procore、ServiceTitan、Samsara、Klaviyo、Toast、Monday.comといった成功したSaaS企業について、その成長指標とIPO評価に焦点を当てて分析しています。主な洞察は以下の通り：
-
-1.平均成長率：SaaS企業のIPO前年の平均成長率は63%であり、株式公開を成功させるためには持続的な成長が重要であることを示している。
-
-2.成長戦略：ProcoreやKlaviyoのような企業は、業界のトレンドとパンデミックによって加速されたデジタル変革を活用することで、大きな成長を達成した。
-
-3.業界フォーカス：建設管理（Procore）、請負業者向けソフトウェア（ServiceTitan）、IoTプラットフォーム（Samsara）、Eメール・マーケティング・オートメーション（Klaviyo）、レストラン管理（Toast）のSaaS企業は、力強い成長の可能性を示している。
-
-4.市場の回復力：パンデミックのような課題にもかかわらず、Toastのような企業は、進化する市場ニーズに対応するソリューションを提供することで、適応力と回復力を示した。
-
-SaaS企業に対する実行可能なアドバイスとしては、持続可能な成長に焦点を当てること、業界のトレンドを活用すること、市場の変化に迅速に適応すること、収益と評価の成長を促進する革新的なソリューションを提供することなどが挙げられる。</description>
-      <pubDate>Sat, 19 Jul 2025 14:10:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-sheer-momentum-you-need-for-an-enduring-ipo-in-saas-63-average-growth/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：創業者が株式を売却するタイミングは？</title>
-      <link>https://www.saastr.com/dear-saastr-when-is-a-good-time-for-founders-to-sell-some-of-their-stock/</link>
-      <description>この記事では、SaaSビジネスにおいて、創業者が株式の売却を検討すべきタイミングについて論じている。主な洞察として、セカンダリーセールは戦略的に行えば有益であり、通常、企業が1,000万ドル以上の年間経常収益（ARR）を達成し、高い評価を得た場合に意味があること、投資家を不安にさせることなくストレスを軽減するためには、少額（5％未満）の売却が望ましいこと、成長ラウンド中など、セカンダリーセールを企業の目標に合わせることは、創業者と投資家の双方にとって有利になり得ること、セカンダリーセールを乱用すると、特に初期の段階では、創業者が集中力を失い、企業が苦境に陥るなど、否定的な結果を招く可能性があること、などが挙げられます。この記事では、セカンダリー・セールスを資金調達の主要な動機とすべきではなく、むしろストレスを軽減し、長期的な成功に集中するためのツールであるべきだと強調している。実行可能なアドバイスとしては、セカンダリー・セールスには慎重になること、適切なタイミングを計ること、小規模にとどめること、会社の成長軌道に沿うようにすることなどが挙げられる。</description>
-      <pubDate>Sat, 19 Jul 2025 09:26:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-when-is-a-good-time-for-founders-to-sell-some-of-their-stock/</guid>
-    </item>
+    <lastBuildDate>Sun, 20 Jul 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
