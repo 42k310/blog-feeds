@@ -5,6 +5,36 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Jul 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 03:04:52 GMT</lastBuildDate>
+    <item>
+      <title>私は我々のAIスタックを愛している。  ただ、2026年にまったく違っていても構わない。</title>
+      <link>https://www.saastr.com/i-love-our-ai-stack-im-just-also-ok-if-its-completely-different-in-2026/</link>
+      <description>この記事では、進化するAIツールの展望と、今日のビジネス環境におけるAIツールに対する従来の忠誠心の欠如について論じている。この記事では、AIツールの急速な改善ペースにより、競争力を維持するために常に新しいテクノロジーを実験的に導入する必要があることを強調している。単一のベンダーへの忠誠心が一般的だった過去とは異なり、企業は現在、最新の進歩を活用するためにAIツールを頻繁に切り替えている。この記事では、このような行動の背景にある心理は、新しいツールが提供するコード品質、開発スピード、創造的なアウトプットの大幅な改善を見逃すことへの恐れであると強調している。
+
+主な洞察として、AI市場は急速な技術革新が特徴であり、より優れたツールの絶え間ない探求につながっているという見解がある。また記事では、従来のベンダー・ロイヤルティという概念はAI分野ではもはや意味をなさないと指摘し、導入が容易で大きな利益をもたらす可能性があるため、企業は新しいベンダーの探索に時間とリソースを投資することを厭わないとしている。記事は最後に、このダイナミックな状況下で競争力を維持するためには、新規参入企業に対して常にオープンであり続けること、そしてAIツールの導入における実践を継続的に進化させることの重要性を強調している。</description>
+      <pubDate>Mon, 21 Jul 2025 16:50:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/i-love-our-ai-stack-im-just-also-ok-if-its-completely-different-in-2026/</guid>
+    </item>
+    <item>
+      <title>あなたのAIが営業チームを遅く見せている（そしてそれは問題だ）</title>
+      <link>https://www.saastr.com/your-ai-is-making-your-sales-team-look-slow-and-thats-a-problem/</link>
+      <description>この記事では、アウトバウンドセールスにおけるAIの活用が、レスポンスタイムに関する顧客の期待をどのように変化させ、それに比べて人間の営業担当者がいかに遅く見えるかについて論じている。主な洞察には、顧客エンゲージメントとコンバージョン率を維持するために、AIが生成した応答と人間の応答時間を一致させることの重要性が含まれます。データによると、AIが即座に応答し、その日のうちに人間によるフォローアップを受けた見込み客のコンバージョン率は高く、一方、4時間以上の遅延はエンゲージメントを著しく低下させることが明らかになった。SaaS企業に推奨されるアクションは、レスポンス・シーケンスを再考し、リアルタイム通知を実装し、レスポンスSLAを時間単位で設定し、モバイル・ファーストの営業ツールを活用し、会話の勢いを維持するために明確なハンドオフ・プロトコルを確立することである。この記事では、一貫性のある効率的な顧客体験を提供するために、営業チームがAIのペースに合わせる必要性を強調している。最終的に、AIのスピードと人間の判断力をシームレスに統合する企業は、B2B営業で競争優位に立つことができる。</description>
+      <pubDate>Mon, 21 Jul 2025 14:41:02 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/your-ai-is-making-your-sales-team-look-slow-and-thats-a-problem/</guid>
+    </item>
+    <item>
+      <title>CROの55%は失敗した別のCROに取って代わる</title>
+      <link>https://www.saastr.com/55-cros-replace-another-cro-that-failed-or-struggled/</link>
+      <description>ガートナーの CRO 調査によると、営業リーダーの 55%が、「失敗した」または「業績不振」と判断した営業リーダーを交代させていることが明らかになった。業績不振の評価は主観的なものである可能性もあるが、このデータは、CROや営業担当副社長が業績不振の経営幹部を交代させることが一般的であることを示唆している。この傾向から、営業リーダーは業績不振者の交代を過度に懸念すべきではなく、必要に応じてそのような状況に対処できるよう準備しておく必要があることがわかる。重要なことは、業績不振の営業リーダーを交代させることは業界では一般的な慣行であり、営業幹部は必要なときに行動を起こせるように準備しておくべきだということだ。この洞察は、ビジネスを成功に導くために高業績の営業チームを維持することの重要性を強調することで、SaaS企業の成長戦略の指針となる。</description>
+      <pubDate>Mon, 21 Jul 2025 13:24:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/55-cros-replace-another-cro-that-failed-or-struggled/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：SaaSは、SaaSが提供する様々なサービスやサービスを提供しています。</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-i-turn-down-a-big-multistage-vc-for-our-seed-but-keep-them-warm-for-the-series-a/</link>
+      <description>大手マルチステージVCをシードラウンドで断り、シリーズAで温かく見守るには、透明性、積極性、前向きさが重要だ。進捗状況を伝えると同時に、将来的な協業への真の関心を示すこと。ARR300万ドルのような重要な指標を達成するまでの軌跡を強調することで、次のラウンドへの関心を維持する。定期的に最新情報やマイルストーンを共有し、関係を維持する。決断を拒絶ではなく、タイミングや戦略的な適合性の問題とすることで、橋の焦げ付きを避ける。このアプローチは、ドアを開いたままにし、あなたを有望な候補者として位置づけ、プロフェッショナリズムを示す。マルチステージのVCは潜在的な機会を求めているため、過大な約束をすることなく成長の可能性を示すことが、彼らの関心を維持する鍵となる。以下のステップに従うことで、オファーを断るというデリケートな仕事をうまくこなしながら、将来のパートナーシップのためにドアを開けておくことができる。</description>
+      <pubDate>Mon, 21 Jul 2025 09:42:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-turn-down-a-big-multistage-vc-for-our-seed-but-keep-them-warm-for-the-series-a/</guid>
+    </item>
   </channel>
 </rss>
