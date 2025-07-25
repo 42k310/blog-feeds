@@ -5,49 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Jul 2025 03:04:54 GMT</lastBuildDate>
-    <item>
-      <title>最新の20VC + SaaStr：バイブ・コーディングはなぜ燃えているのか-しかし信用もできない、YCとマルチステージファンドの勝ち方、そしてFigmaの壮大なIPO</title>
-      <link>https://www.saastr.com/the-latest-20vc-saastr-why-vibe-coding-is-on-fire-but-also-cant-be-trusted-how-yc-and-multi-stage-funds-have-won-and-figmas-epic-ipo/</link>
-      <description>ポッドキャストのエピソードでは、ハリー、ローリー、ジェイソンがさまざまなトピックについて語った。ジェイソンは、10日間コーディングに集中し、特定のスキルを深く掘り下げたことを紹介した。また、Anthropic社に対するCursor社の280億ドルという大きな賭けについても触れられ、急速に失敗する可能性のあるこのような大きな投資に伴うリスクが強調された。さらに、シード・ファンドの半数が失敗するリスクを抱えているという厳しい現実についても言及され、業界の厳しい競争と生存率が強調された。
-
-ディスカッションから得られた主なポイントは、特定のスキルに集中的にフォーカスすることの重要性、大規模投資に伴うリスク、シードファンドの競争状況などである。SaaS企業は、スキル開発を重視し、多額の投資を行う前に徹底的なリスク評価を行い、市場での激しい競争に備えることで、これらの洞察から利益を得ることができる。</description>
-      <pubDate>Thu, 24 Jul 2025 15:30:42 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-latest-20vc-saastr-why-vibe-coding-is-on-fire-but-also-cant-be-trusted-how-yc-and-multi-stage-funds-have-won-and-figmas-epic-ipo/</guid>
-    </item>
-    <item>
-      <title>AI SDRリアリティチェック：  実際に機能させるには</title>
-      <link>https://www.saastr.com/the-ai-sdr-reality-check-how-to-actually-make-it-work/</link>
-      <description>この記事では、B2B SaaS企業におけるAI営業開発担当者（SDR）の導入について論じている。いくつかの成功した導入にもかかわらず、約 90% の企業は結果を出していないが、残りの 10% は大きな成功を収めており、適格なミーティングの創出において人間の SDR チームを凌ぐことさえある。重要な差別化要因は、創業者や営業リーダーがAI SDRをどのように扱うかである。AISDRのトレーニングと効果的な統合に時間、労力、リソースを投資している企業は、アウトバウンドタスクの80%をAIが処理することで、年間経常収益（ARR）が1,000万ドル以上に拡大し、利益を得ている。この記事では、AI SDRの成功はツールやデータ、理想顧客像（ICP）だけに依存するのではなく、営業プロセスにおける重要な資産としてAIを活用するための戦略的アプローチとリーダーシップのコミットメントにかかっていることを強調している。</description>
-      <pubDate>Thu, 24 Jul 2025 14:10:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-ai-sdr-reality-check-how-to-actually-make-it-work/</guid>
-    </item>
-    <item>
-      <title>ARR125億ドルのServiceNowから学んだ5つの興味深いこと</title>
-      <link>https://www.saastr.com/5-interesting-learnings-from-servicenow-at-12-5-billion-in-arr/</link>
-      <description>オラクル、SAP、ServiceNowはAI時代において優れた業績を上げており、中でもServiceNowは成長率22％、年間経常収益（ARR）125億ドルで群を抜いており、加速度的な成長を示している。AIは、これらの定評あるSaaSおよびエンタープライズ・ソフトウェアのリーダーにとって、この成功を推進する重要な要因となっている。ServiceNowは、すべてのB2B企業が達成を目指す驚異的な更新率を誇っており、強力な顧客ロイヤルティを示している。このツイートでは、ARR125億ドルでも顧客はServiceNowに留まる傾向があることが強調されており、同社が顧客ベースを効果的に維持する能力を示している。SaaS企業は、AI技術を活用して成長を促進し、競争の激しいSaaS市場で長期的な成功を築くために顧客維持戦略に注力することで、こうした業界の巨人から学ぶことができる。</description>
-      <pubDate>Thu, 24 Jul 2025 14:10:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-servicenow-at-12-5-billion-in-arr/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：シリーズAデッキに書くべきことトップ10は何ですか？</title>
-      <link>https://www.saastr.com/dear-saastr-what-are-the-top-10-things-to-put-in-a-series-a-deck/</link>
-      <description>この記事では、SaaS企業のシリーズAピッチデッキに含めるべき重要な構成要素トップ10を概説している。これらの構成要素は以下の通り：
-
-1.スライド1枚の要約：最初のスライドを包括的で説得力のあるものにする。
-2.問題と解決策：問題、独自の解決策、関連性を明確に定義する。
-3.牽引力と指標：ARR、成長率、顧客獲得コストなどの主要指標を提示する。
-4.市場機会：市場規模と競争上の優位性をアピールする。
-5.チーム：チームの専門知識と関連する経験を強調する。
-6.競合スライド：競合他社についての率直な見解と、どのように差別化を図るかを提示する。
-7.財務計画：現実的な予測と事業計画を提示する。
-8.依頼：資金調達額、目的、マイルストーンを明確に示す。
-9.キラー・デッキ：洗練された、視覚に訴える、わかりやすいプレゼンテーションを心がけましょう。
-10.事前にデッキを送付する：ミーティング前にデッキの全容を投資家と共有することで、目立つようにし、十分な準備ができるようにする。
-
-これらのガイドラインに従うことで、SaaSビジネスのシリーズA資金調達の成功確率を大幅に高めることができる。</description>
-      <pubDate>Thu, 24 Jul 2025 09:44:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-are-the-top-10-things-to-put-in-a-series-a-deck/</guid>
-    </item>
+    <lastBuildDate>Fri, 25 Jul 2025 15:04:29 GMT</lastBuildDate>
   </channel>
 </rss>
