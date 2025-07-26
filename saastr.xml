@@ -5,35 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Jul 2025 03:04:43 GMT</lastBuildDate>
-    <item>
-      <title>バイブ・コーディングの前に知っておきたかった10のこと</title>
-      <link>https://www.saastr.com/10-things-i-wish-i-knew-before-vibe-coding-the-real-talk/</link>
-      <description>この記事では、Loveable、Replit、Bolt.newのようなプラットフォームを使ってB2Bアプリを構築するバイブコーディングに取り組むSaaSビジネスにとって重要な洞察とアドバイスについて論じている。著者は、その過程で学んだ10の教訓を共有しています：
-
-1.1.AIエージェントは複雑なタスクにおいて30-40%の確率で間違いを犯す。
-2.2.管理しきれないコードを作らないように、少人数で集中的にスプリントを作ることで、開発プロセスをスローダウンさせる。
-3.AIエージェントは勝手にコードを変更するので、機能性に集中し、テストに合格したらコードを進化させる。
-4.AIエージェントに問題の修正を2回以上依頼することは避け、失敗の積み重ねを防ぐために、代わりに新しい会話を始める。
-5.5.電子メールの統合や支払いなどのタスクは、見た目よりも難しい可能性があることを認識し、開発を簡素化するためにプラットフォームのコア機能を活用する。
-
-このアドバイスでは、SaaSアプリ開発における課題を効果的に解決するために、期待値を管理し、構造化された開発アプローチを維持し、バイブコーディングプラットフォームの強みを活用することの重要性を強調している。</description>
-      <pubDate>Fri, 25 Jul 2025 14:30:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/10-things-i-wish-i-knew-before-vibe-coding-the-real-talk/</guid>
-    </item>
-    <item>
-      <title>営業におけるAI：うまくいくと信じられない。自動操縦で使えば、しばしばマイナスになる。</title>
-      <link>https://www.saastr.com/ai-in-sales-incredible-when-it-works-catastrophic-when-you-dont-review-it/</link>
-      <description>この記事では、あるCEOがAIを活用した営業システムのミスにより、人間の監視不足が明らかになり、ビジネスチャンスを逃したことについて論じている。営業におけるAIは変革をもたらす可能性がある一方で、間違った情報を自信満々に述べることで大失敗につながることもある。90％の正確さを強調したCEOの回答は、重要な領域でエラーがしばしば発生し、信頼性を損なうという点を見落とした。この記事では、情報のファクトチェック、AIの知識境界のテスト、信頼度スコアリングの作成、価値の高い見込み客に対するレビュー・チェックポイントの設定によって、AIを活用したセールスに人間の監視を導入することを提案している。これらの戦略を取り入れることで、SaaS企業は信頼性を破壊するエラーを防ぎ、特に企業アカウントや戦略的パートナーをターゲットとする場合、AIを活用した営業活動の効果を向上させることができる。</description>
-      <pubDate>Fri, 25 Jul 2025 14:18:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/ai-in-sales-incredible-when-it-works-catastrophic-when-you-dont-review-it/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：値上げを顧客に知らせるには？</title>
-      <link>https://www.saastr.com/dear-saastr-how-do-you-let-customers-know-you-are-raising-prices/</link>
-      <description>SaaSビジネスの値上げはデリケートなプロセスですが、うまく管理すれば顧客との関係を強化することができます。値上げを効果的に伝えるために、SaaStrは次のような戦略を提案しています：変更を明確に伝える、付加価値で値上げを正当化する、顧客に調整するための十分な時間を提供する。さらにSaaStrは、新機能の提供、機能ギャップの解消、サポートの改善、新しい統合やパートナーの導入、APIとセキュリティの強化、新しいステークホルダー、ダッシュボード、アナリティクスの提供などにより、値上げ以上の価値を付加することを推奨している。このアプローチによって、値上げをぼったくりのように感じるものから、良い取引だと認識されるものに変えることができる。SaaS企業は、顧客に対する全体的なバリュー・プロポジションの強化に注力することで、顧客満足度とロイヤルティを維持しながら、値上げをうまく乗り切ることができる。</description>
-      <pubDate>Fri, 25 Jul 2025 12:10:11 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-you-let-customers-know-you-are-raising-prices/</guid>
-    </item>
+    <lastBuildDate>Sat, 26 Jul 2025 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
