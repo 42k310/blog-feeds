@@ -5,6 +5,40 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Jul 2025 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 03:04:59 GMT</lastBuildDate>
+    <item>
+      <title>ToastのCROと垂直的SMB営業で異なる10のこと</title>
+      <link>https://www.saastr.com/10-things-that-are-different-in-vertical-smb-sales-with-toasts-cro/</link>
+      <description>ToastのCROであるJonathan Vassel氏は、2017年のARR$20Mから、2025年第1四半期にはARR$17億を超え、時価総額$250B以上まで会社をスケールさせるための洞察を共有した。SaaStr CRO ConfidentialでのSam Blond氏とのディスカッションの主なポイントは以下の通り：
+
+1.成長のために営業チームとマーケティングチームを連携させることの重要性。
+2.長期的な収益を上げるためのカスタマーサクセスとリテンション。
+3.急拡大をサポートするスケーラブルな販売モデルの導入。
+4.優秀な営業人材の採用と育成を優先する。
+5.意思決定を促進するためのデータとアナリティクスの活用。
+6.従業員を惹きつけ、維持するための強力な企業文化の構築。
+7.営業チームのためのトレーニングと能力開発プログラムへの投資。
+8.常に営業プロセスを反復し、最適化することで効率化を図る。
+9.営業報酬を会社の目標やゴールと整合させる。
+10.顧客中心のアプローチを採用し、ビジネスの成長を促進する。
+
+SaaS企業は、カスタマーサクセスを優先し、営業とマーケティングを連携させ、人材育成に投資し、データ主導の意思決定を活用して成長を促進し、効果的に規模を拡大する戦略を実施することで、これらの洞察から利益を得ることができる。</description>
+      <pubDate>Sat, 26 Jul 2025 14:08:18 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/10-things-that-are-different-in-vertical-smb-sales-with-toasts-cro/</guid>
+    </item>
+    <item>
+      <title>HubSpotの純収益維持率の全歴史：IPO時の88.6%からピーク時の115%まで - そして現在も102%が好調な理由</title>
+      <link>https://www.saastr.com/the-complete-history-of-hubspots-net-revenue-retention-from-88-6-at-ipo-to-115-peak-and-why-102-today-is-still-strong/</link>
+      <description>HubSpotの年率88.6%のサブスクリプションドル維持率から2014年末にはほぼ100%になり、最終的には2021年に115%のNRRでピークを迎えるまでの道のりは、SMB/ミッドマーケットで維持率の拡大を目指すSaaS企業にとって貴重な教訓となる。当初は強力なユニットエコノミクスに必要な100%のしきい値には届かなかったものの、HubSpotの戦略的努力によってNRRは大幅に好転しました。この変革は、持続可能な成長と投資家の信頼を得るためには、顧客維持の指標を継続的に改善することが重要であることを強調しています。SaaSビジネスは、顧客満足度を優先し、カスタマーサクセスプログラムに投資し、顧客からのフィードバックに基づいて製品提供を反復することで、HubSpotの成功から学ぶことができます。顧客価値とロイヤルティの向上に注力することで、SaaS企業はNRRを高め、財務の健全性を強化し、競争の激しいSaaS業界で長期的に成功する道を開くことができます。</description>
+      <pubDate>Sat, 26 Jul 2025 14:02:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-complete-history-of-hubspots-net-revenue-retention-from-88-6-at-ipo-to-115-peak-and-why-102-today-is-still-strong/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：明確な予算がない製品を収益化するには？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-i-monetize-a-product-without-a-clear-budget-line-associated-with-it/</link>
+      <description>この記事では、SaaS企業が、製品に関連する明確な予算枠がない場合でも、製品を収益化するための戦略について論じている。主な洞察には、価値を実証するためにユースケースやケーススタディを活用すること、予算配分を正当化するために製品が解決するペインポイントを定量化すること、市場を啓蒙することで新たな予算項目を作ること、予算を配分できる適切なバイヤーをターゲットにすること、高価格帯を要求するためにツールだけでなくソリューションを販売することなどが含まれる。実行可能なアドバイスとしては、小さく始めて拡大すること、有償試験運用を受け入れること、ユースケースを通じてROIを示すこと、予算権限を持つ利害関係者を特定すること、価格設定を正当化するために製品を差し迫った顧客の問題と整合させること、などがある。この記事では、SaaSビジネスにおいて収益化を推進するためには、顧客のペインポイントを理解し、ユースケースを通じて価値を実証し、製品を重要な問題に対するソリューションとして位置づけることの重要性を強調している。</description>
+      <pubDate>Sat, 26 Jul 2025 09:01:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-monetize-a-product-without-a-clear-budget-line-associated-with-it/</guid>
+    </item>
   </channel>
 </rss>
