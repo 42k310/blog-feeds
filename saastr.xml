@@ -5,50 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Jul 2025 03:04:55 GMT</lastBuildDate>
-    <item>
-      <title>GTMの効率化におけるAI：Databricks、Monday.com、Benchlingのプレイブック</title>
-      <link>https://www.saastr.com/ai-in-gtm-efficiency-the-playbooks-from-databricks-monday-com-and-benchling/</link>
-      <description>SaaStr AnnualのAIサミットでは、Databricks、Monday.com、Benchlingの専門家とVCが、市場開拓戦略におけるAIの導入に関する洞察を共有した。DatabricksのSahana Sarma氏は、&quot;Ask Mo &quot;のようなツールを使った収益オペレーションにおけるAIの導入を強調した。Monday.comのRob Schmeltzer氏は、AIを活用したディールデスク支援について議論した。BenchlingのUri Ouzielは、自動化されたCSMエンゲージメント・トラッキングに焦点を当てた。Recursive VenturesのItamar Novick氏は、AIを活用したGTMツールについて投資家の視点を提供した。ディスカッションでは、効率向上のための実践的なAI導入戦略が強調された。主なポイントは、カスタマーサクセスや取引プロセスなど、特定の収益関連分野にAI投資を集中させることの重要性である。SaaS企業は、業務を合理化し、顧客エンゲージメントを強化し、収益成長を促進できるAIツールを優先すべきである。高成長企業におけるAI導入の成功事例から学ぶことで、企業はGTM戦略においてAIを効果的に活用するための戦略的青写真を描くことができる。</description>
-      <pubDate>Tue, 29 Jul 2025 21:49:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/ai-in-gtm-efficiency-the-playbooks-from-databricks-monday-com-and-benchling/</guid>
-    </item>
-    <item>
-      <title>SaaS営業担当者の95%はアウトバウンドはしない。  顧客を直接訪問することもない。  あるいは、より厳しいリードを担当する。  そうではありません。</title>
-      <link>https://www.saastr.com/95-of-saas-sales-reps-probably-wont-do-outbound-or-visit-customers-in-person-or-work-tougher-leads-not-really/</link>
-      <description>この記事では、SaaS/B2Bセールスに共通する課題として、営業担当者の多くがアウトバウンドセールスに従事するよりも、自宅で温かく適格なインバウンドリードを扱うことを好むことについて論じている。このデータによると、インバウンドリードを主に担当する営業担当者の約95%は、たとえノルマが未達であったとしても、アウトバウンドセールスに切り替えたがらない。同様に、アウトバウンドセールスに従事している営業担当者の約95%は、報酬目標を達成するのに十分なインバウンドリードを獲得すると、アウトバウンドセールスをやめるという。この記事では、企業セグメントを含め、ほとんどの営業担当者がリモートワークを好み、可能な限り対面での顧客訪問を避けていることが強調されている。この洞察によると、B2Bセラーの大半はインバウンドのリードと更新の対応に傾倒しており、リモートワークを好んでいる。この記事は、SaaS企業の営業戦略を設計する際に、こうした嗜好を理解し、それに適応することの重要性を強調している。</description>
-      <pubDate>Tue, 29 Jul 2025 14:03:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/95-of-saas-sales-reps-probably-wont-do-outbound-or-visit-customers-in-person-or-work-tougher-leads-not-really/</guid>
-    </item>
-    <item>
-      <title>ほとんどのB2Bリーダーは規模が大きくなると効率が落ちる。しかし、Rockership Monday.comは違う</title>
-      <link>https://www.saastr.com/most-b2b-leaders-get-less-efficient-at-scale-but-not-rockership-monday-com/</link>
-      <description>Monday.comは、顧客獲得コストを45％削減しながら、年間経常収益（ARR）を4年間で443％増加させるという、並外れた成長を達成した。同社は、企業が成長するにつれて効率が悪化するという従来のSaaSのスケーリングの罠を覆した。Monday.comの成功に貢献した主な戦略は以下の通り：
-
-1.**多製品プラットフォーム戦略：** 機能の肥大化の代わりに、Monday.comは作業管理、営業CRM、開発ワークフロー、顧客サービスなどの補完的な製品を構築した。これにより、各製品が他の製品の価値を高めるエコシステムが構築され、顧客生涯価値の向上と解約率の低下につながった。このアプローチにより、純顧客維持率（NRR）が向上し、高額な新規顧客獲得の必要性が減少した。
-
-2.**AIを活用したアクセラレーション：Monday.comはAI機能を導入し、顧客のオンボーディングを加速させ、販売サイクルを短縮し、コンバージョン率を向上させた。この結果、顧客獲得コストの削減、早期維持率の向上、NRRの改善につながった。
-
-3.**エンタープライズ・ファーストの進化:** Monday.comは、SMBにサービスを提供しながらも、エンタープライズ市場に重点を移し、その結果、50Kドル以上のARRを支払う顧客が前年比で48%増加した。
-
-これらの戦略を活用することで、Monday.comは会社の規模が拡大するにつれて効率を維持し、さらに向上させながら、目覚ましい成長を達成することができた。</description>
-      <pubDate>Tue, 29 Jul 2025 12:49:51 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/most-b2b-leaders-get-less-efficient-at-scale-but-not-rockership-monday-com/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：ARRが1,300万ドルに達し、成長していますが、GRRが低下しています。  どうすべきでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-were-at-13m-arr-and-growing-but-our-grr-is-slipping-what-should-we-do/</link>
-      <description>この記事では、年間経常収益（ARR）が1,300万ドルに達し、1,000社の顧客を抱えているにもかかわらず、売上総利益維持率（GRR）が低下しているSaaS企業を取り上げている。GRRが88%まで低下していることは、懸念すべき傾向であると指摘されています。著者は、この問題に対処するための実用的なアドバイスを提供している：
-
-1.**セグメント別の解約データ**：セグメント別解約データ**：顧客セグメント、ユースケース、年間契約額（ACV）別に解約データを分析し、パターンや懸念事項を特定する。問題の所在を理解することで、的を絞った解決策を考案することができる。
-
-2.**幸せな顧客とのエンゲージ**：購読を更新・拡大している満足度の高い顧客に話を聞き、彼らが製品からどのような価値を得ているかを理解する。この洞察は、顧客の心に響く機能やサービスを強化するための努力の指針となる。
-
-3.**オンボーディングとアクティベーションの改善**：オンボーディング・プロセスの最適化に注力し、顧客が最初の30日以内に製品の価値を素早く実感できるようにする。顧客の早期活性化は、解約率を下げる上で極めて重要である。
-
-これらの戦略を実施することで、SaaS企業はGRRの低下に対処し、長期的に顧客維持を改善できる可能性がある。</description>
-      <pubDate>Tue, 29 Jul 2025 09:30:59 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-were-at-13m-arr-and-growing-but-our-grr-is-slipping-what-should-we-do/</guid>
-    </item>
+    <lastBuildDate>Wed, 30 Jul 2025 15:04:27 GMT</lastBuildDate>
   </channel>
 </rss>
