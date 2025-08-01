@@ -5,6 +5,40 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 31 Jul 2025 15:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 03:05:03 GMT</lastBuildDate>
+    <item>
+      <title>HubSpot: VCに支援された新興企業の69%は、専用のAIチームまたはAIリードを持っている</title>
+      <link>https://www.saastr.com/hubspot-69-of-vc-backed-startups-have-a-dedicated-ai-team-or-ai-lead/</link>
+      <description>この記事では、SaaSビジネスにおける営業・マーケティングへのAI活用について、徹底したトレーニングと継続的なモニタリングの重要性を強調している。この記事では、導入前に最大30日間、AIモデルのトレーニングに時間を割き、日々の品質保証とレビュープロセスによってパフォーマンスを最適化する必要性を強調している。同記事では、HubSpotの「AI in Startup GTM Strategy Report」を参照し、調査対象となったベンチャー企業の39%にAI専門チームがあり、30%にAI担当者がいることを明らかにしている。
+
+重要なのは、AIツールのトレーニングや継続的なチューニングを怠ると、結果が悪くなる可能性があるということだ。アドバイスとしては、AIモデルのトレーニングに先行投資し、そのパフォーマンスを一貫して見直し、改善することである。記事では、AIツールの管理には人的資源を管理するのと同じくらいの労力が必要な場合があることを示唆しており、AIのトレーニングとメンテナンスを担当する専門のチームまたは個人を持つことを推奨している。最終的には、SaaSビジネスにおけるAIツールの有効性を確保するために、データ駆動型の意思決定、継続的なトレーニング、日々の品質保証の実践が重要であることに焦点が当てられている。</description>
+      <pubDate>Thu, 31 Jul 2025 21:07:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/hubspot-69-of-vc-backed-startups-have-a-dedicated-ai-team-or-ai-lead/</guid>
+    </item>
+    <item>
+      <title>最新の20VC + SaaStr：6,000億ドルのAI設備投資ブーム、Zuckの無制限人材予算、そして来る開発者支出の爆発的増加</title>
+      <link>https://www.saastr.com/the-latest-20vc-saastr-the-600b-ai-capex-boom-zucks-unlimited-talent-budget-and-the-coming-developer-spend-explosion/</link>
+      <description>Scaleのローリー、SaaStrのジェイソン・レムキン、そしてハリーが出演するポッドキャストでは、ドットコム時代に見られたレベルを超え、6000億ドルに達するAIの設備投資ブームを中心に議論が展開されている。パネルディスカッションでは、近い将来、すべての開発者がAIツールに毎月1万ドルを費やすようになるだろうと予測している。また、ビッグ・テックが強力になりすぎて効果的な規制ができないのではないかという問題についても掘り下げている。
+
+ディスカッションの主な洞察には、AI投資の急激な伸び、開発者にとってのAIツールの重要性の高まり、ビッグテック企業の規制をめぐる課題などが含まれる。SaaS事業者は、AIのトレンドを常に把握し、提供するサービスを強化するためにAIツールに投資し、成長するにつれて潜在的な規制上の課題に留意することの重要性を学ぶことができる。
+
+SaaS企業は、AIツールに対する需要の高まりに自社の成長戦略を合わせること、開発者の進化するニーズに対応するために自社製品の提供を適合させること、自社の業務に影響を与える可能性のある規制の動向について常に情報を得ることを検討すべきである。</description>
+      <pubDate>Thu, 31 Jul 2025 16:12:18 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-latest-20vc-saastr-the-600b-ai-capex-boom-zucks-unlimited-talent-budget-and-the-coming-developer-spend-explosion/</guid>
+    </item>
+    <item>
+      <title>B2BのGOATs: IPOで最大のリターンをもたらした創業者たち。  2000%+</title>
+      <link>https://www.saastr.com/goatsofb2b/</link>
+      <description>この記事は、エンタープライズ・ソフトウェア、特にSaaS企業へのペイシェント・キャピタル投資における驚異的な富の創出の可能性を強調している。SplunkやOracleのように9,000%を超える利益を上げている例もあり、これらの企業に長期的に投資することが天文学的なリターンにつながる可能性があることを強調している。上位10社のうち8社がIPO時に創業者であるCEOを擁している。創業者マーク・ベニオフの下、2004年のIPO以来9,296%という驚異的なリターンを達成したセールスフォースのような企業のサクセスストーリーは、カテゴリーの創造、プラットフォームのビジョン、イノベーション、20年以上にわたる持続的成長の影響を実証している。この記事は、SaaS企業にとって実用的な洞察を提供し、長期的なビジョン、絶え間ないイノベーション、持続的な成功のためのエコシステム構築の重要性を強調している。この記事は、SaaS業界における富の創造を促進する患者資本の変革力を証明するものである。</description>
+      <pubDate>Thu, 31 Jul 2025 14:10:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/goatsofb2b/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  SaaSに特化した販売でNRR100％を超えることは可能か？</title>
+      <link>https://www.saastr.com/dear-saastr-can-you-ever-get-past-100-nrr-if-you-sell-just-to-smbs/</link>
+      <description>この記事では、中小企業（SMB）への販売のみで、純収益維持率（NRR）100％以上を達成するという課題について論じている。この記事では、SMBの解約率が高いため、製品ラインナップを拡大したり、市場規模を拡大したりすることなくNRR100％を達成するのは困難であることを強調しています。この記事では、NRR100%突破に成功した例として、NRR75%から100%～110%に成長したHubSpotを紹介しています。これを達成するために、SMBをターゲットとするSaaS企業は、提供する製品の多様化、追加サービスのアップセル、より大きな市場セグメントへの拡大を検討する必要があります。そうすることで、SaaS企業は成長を促進し、顧客維持率を高めることができる。この記事では、SMB市場でNRRを最大化するための戦略的拡大とアップセルの重要性を強調しています。</description>
+      <pubDate>Thu, 31 Jul 2025 09:00:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-can-you-ever-get-past-100-nrr-if-you-sell-just-to-smbs/</guid>
+    </item>
   </channel>
 </rss>
