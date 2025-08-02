@@ -5,52 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 Aug 2025 03:04:51 GMT</lastBuildDate>
-    <item>
-      <title>3,000万ドルから1,100億ドルへ：ServiceTitanプレイブック - CROロス・ビーストマンによるバーティカルSaaSのマスタークラス</title>
-      <link>https://www.saastr.com/from-30m-to-11b-the-servicetitan-playbook-cro-masterclass-on-vertical-saas/</link>
-      <description>SaaStrの年次イベントで、ServiceTitanの最高収益責任者（CRO）は、同社がわずか7年間で年間経常収益（ARR）を3,000万ドルから8億6,000万ドル以上に拡大し、目覚ましい成長を達成した方法についての洞察を共有した。主な戦略には、配管業界への絶え間ない注力、AIを活用した営業プロセスの変革、顧客エンゲージメントへの強いコミットメントの維持などが含まれる。
-
-CROは、ターゲット市場（この場合は配管工）の特定のニーズを理解し、それに応えることの重要性を強調した。業界に深く入り込むことで、ServiceTitanは顧客のユニークな要件を満たすために製品とサービスを調整することができました。
-
-さらに、同社はAI技術を導入して営業アプローチに革命をもたらし、顧客とのやり取りをより効率的でパーソナライズされたものにした。このようなテクノロジーの戦略的な活用は、売上成長を促進し、全体的な顧客満足度を向上させるのに役立った。
-
-全体として、ServiceTitanの成功の再現を目指すSaaS企業にとって重要なポイントは、業界特化の重要性、営業プロセスにおけるAIの変革力、持続可能な成長の推進における顧客中心主義の重要な役割などである。</description>
-      <pubDate>Fri, 01 Aug 2025 18:39:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/from-30m-to-11b-the-servicetitan-playbook-cro-masterclass-on-vertical-saas/</guid>
-    </item>
-    <item>
-      <title>2025年のVC、カルタに聞く：  バリュエーションは15-25%上昇...しかし、ディールはシードで-13%。  ディールはどこも減少している。</title>
-      <link>https://www.saastr.com/vc-in-2025-so-far-valuations-are-up-15-25-but-deals-are-down-13-at-seed-deals-are-down-everywhere/</link>
-      <description>カルタの2025年第2四半期までのデータでは、ディール件数は減少しているものの、バリュエーションは過去1年半で改善し、ベンチャー市場は安定している。2024年と比較すると、2025年のバリュエーションは15-25ポイント上昇しているが、ディールボリュームは5-13%減少している。シード、シリーズA、シリーズBの各ステージでは、2025年のバリュエーションは2024年と比較して改善し ているが、ディールボリュームは減少している。2023年の安値と比較すると、回復は著しく、バリュエーションがポジティブなトレンドにあることを示している。投資家は現在、優良企業に対して市場価格を支払っており、バリュエーション水準の上昇につながっている。シリーズB企業は、その回復力と耐久性が証明されているため、回復を主導している。現在の市場の現実には、優良企業に対する高いバリュエーション、ディール量の減少、勝者に対する意思決定サイクルの迅速化、収益性と効率性の重視などがある。今後の市場の特徴としては、選別的な価格設定、品質重視のディール、評価基準の安定化、ディール活動の恒常的な減少が挙げられる。SaaS企業は、この新常態において、より少ないがより良い案件を確保することに注力すべきである。</description>
-      <pubDate>Fri, 01 Aug 2025 14:55:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/vc-in-2025-so-far-valuations-are-up-15-25-but-deals-are-down-13-at-seed-deals-are-down-everywhere/</guid>
-    </item>
-    <item>
-      <title>SaaStr 今週のAIアプリ：Flatfile AIを活用したデータ移行</title>
-      <link>https://www.saastr.com/saastr-ai-app-of-the-week-flatfile-ai-powered-data-migration/</link>
-      <description>AIデータ準備・移行ソフトウェアであるFlatfileは、B2Bの一般的な課題である厄介なデータオンボーディングに対応している。同社の革新的なソリューションは大きな成功を収め、注目すべき資金調達ラウンドを含め9,460万ドルを調達した。Flatfileは目覚ましい成長を遂げ、2023年の売上高670万ドルから2024年には1,090万ドルに達し、前年比63%の成長率を示しました。同社の顧客ベースには、Square、BambooHR、HubSpotといった主要なSaaSプレーヤーが含まれている。
-
-重要なことは、データオンボーディングの課題を解決することは、ユーザーエクスペリエンスとビジネスの成功に大きな影響を与える可能性があるため、SaaS企業にとって極めて重要であるということです。データインポーターを社内で構築するには、リソースと時間がかかります。Flatfileのプラットフォームは、Data Hooks®のような独自のデータ検証機能や、ソースの不整合に関係なくデータを正確に整合するAIマッピングエンジンを提供し、プロセスを簡素化します。
-
-SaaS ビジネスの場合、Flatfile のような専門ツールを活用することで、オンボーディングプロセスを合理化し、顧客体験を向上させ、成長を促進することができます。効率的なデータ準備ソリューションを採用することで、企業はデータ統合の問題に取り組むよりも、アプリケーションを通じて価値を提供することに集中することができます。</description>
-      <pubDate>Fri, 01 Aug 2025 09:22:29 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-flatfile-ai-powered-data-migration/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：SaaSの初期段階におけるプロダクトマーケットフィットを見つけるには？</title>
-      <link>https://www.saastr.com/dear-saastr-how-do-i-find-product-market-fit-in-the-early-days/</link>
-      <description>この記事では、SaaS新興企業にとってプロダクト・マーケット・フィットを見つけることの重要性を強調し、このマイルストーンを達成するための戦略を提示している。主な洞察は以下の通り：
-
-1.理想の顧客像（ICP）を絞り込むことから始める：最大限の価値を提供できる特定の顧客層に焦点を絞る。すべての人に対応しようとするのは避けましょう。
-
-2.顧客と積極的に関わる：定期的に顧客と交流し、顧客の痛点を深く理解する。あなたのソリューションが顧客にとって「必要なもの」なのか「なくてはならないもの」なのかを見極める。支払い意欲の欠如や利用率の低さは、製品市場適合性の欠如を示す。
-
-3.マーケット・プルの兆候を探す：真のプロダクト・マーケット・フィットは、市場の需要によって特徴づけられる。その兆候には、溢れんばかりのリード、口コミによる紹介、急速な顧客数の増加、大幅な年間収益の伸びなどがある。
-
-SaaS企業への実行可能なアドバイスとしては、ニッチ市場に焦点を当てること、顧客からのフィードバックを優先すること、初期段階でプロダクト・マーケット・フィットを測るためにリード生成、顧客獲得、収益成長などの主要指標をモニタリングすることなどがある。</description>
-      <pubDate>Fri, 01 Aug 2025 09:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-find-product-market-fit-in-the-early-days/</guid>
-    </item>
+    <lastBuildDate>Sat, 02 Aug 2025 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
