@@ -5,38 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Aug 2025 03:04:52 GMT</lastBuildDate>
-    <item>
-      <title>Figmaの大規模IPO後、Canvaは2000億円以上でIPOできるのか？</title>
-      <link>https://www.saastr.com/after-figmas-massive-ipo-could-canva-ipo-at-200-billion/</link>
-      <description>この記事では、Figmaの最近のIPOの成功について論じています。初日に250%の急騰を記録し、時価総額563億ドル、収益倍率68.6倍となりました。このパフォーマンスは、デザイン・ソフトウェアの評価の新たなベンチマークとなる。デザイン・ソフトウェアの巨人であるCanvaが、年間売上30億ドル、2017年以降の収益性、2億3000万人のユーザーベースを活用し、IPO評価額1950～2100億ドルをターゲットにできることを示唆している。
-
-主な洞察には、CanvaのようなSaaS企業にとっての収益規模、成長軌道、市場への浸透、収益性の重要性が含まれる。高成長のデザイン・ソフトウェア企業に対する市場の意欲は、Figmaの成功からも明らかで、プレミアム・マルチ・セクターの傾向を示している。Canvaの強力な財務プロファイルと収益性は市場で差別化されており、プレミアム倍率を正当化する可能性がある。
-
-SaaS企業への実行可能なアドバイスとしては、持続可能なビジネスモデル、収益性、そして投資家の信頼を集め、非公開市場と公開市場の両方でより高いバリュエーションを獲得する可能性のある強力な成長軌道の実証に注力することが挙げられます。</description>
-      <pubDate>Sat, 02 Aug 2025 22:20:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/after-figmas-massive-ipo-could-canva-ipo-at-200-billion/</guid>
-    </item>
-    <item>
-      <title>リプリットの新リリースは、バイブ・コーディングにぶつかった課題のほとんどに対処した。  しかし、&quot;プロシューマー &quot;Vibe Codingは本当に商用アプリの準備ができているのだろうか？</title>
-      <link>https://www.saastr.com/replits-new-release-address-most-of-the-challenges-we-hit-vibe-coding-but-is-prosumer-vibe-coding-really-ready-for-commercial-apps-yet/</link>
-      <description>Replitは最近、SaaStrコミュニティ向けアプリの開発中に、AIエージェントによって引き起こされたデータベース削除事件を経験しました。この災難にもかかわらず、チームは発生した問題のほとんどに対処することができた。この事故は、機密データを扱う商用アプリケーションにおいて、開発者が直接監督することなく「バイブコーディング」を行うことの準備性について疑問を投げかけるものだ。同社は、バージョン管理のためのチェックポイント＆ロールバックなどの機能を実装することで、安全なバイブコーディングへのコミットメントを強調している。SaaS企業は、このようなインシデントを防止・軽減するために、データ・セキュリティを優先し、堅牢なバックアップとリカバリの仕組みを導入すべきである。SaaSビジネスにとって、顧客データや個人を特定できる情報（PII）の取り扱いに厳格なプロトコルを導入することは、ユーザーとの信頼関係を築き、データ保護規制を確実に遵守するために極めて重要です。</description>
-      <pubDate>Sat, 02 Aug 2025 14:42:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/replits-new-release-address-most-of-the-challenges-we-hit-vibe-coding-but-is-prosumer-vibe-coding-really-ready-for-commercial-apps-yet/</guid>
-    </item>
-    <item>
-      <title>4億7300万ドルの格差：Monday.comはいかにして完璧なB2Bプレイブックを実行したか？</title>
-      <link>https://www.saastr.com/the-473m-gap-how-monday-com-executed-the-perfect-saas-playbook-while-asana-played-it-safe/</link>
-      <description>Monday.comは、仕事管理ソフトウェア分野でAsanaを大きく引き離しており、2024年にはAsanaの$653Mに対して$972Mの収益を上げている。Monday.comの2025年第1四半期の売上は前年同期比30%増の$282.3Mに達したが、Asanaの2026年第1四半期はわずか9%増の$187.3Mだった。Monday.comの収益の軌跡は、2018年に大きな変曲点を迎え、8年間のCAGRが約79％であることを示している。対照的に、Asanaの成長パターンはより一貫しているが、ペースは遅く、8年間のCAGRは約51％である。Monday.comの成功は、その土地と拡大戦略、CRMと開発への積極的な拡大、そしてARR10万ドル以上の顧客にサービスを提供する強力な企業導入にある。一方、AsanaはAIの統合に注力しているが、大幅な収益成長にはまだ結びついていない。Monday.comの黒字化への道筋もより強固で、2025年第1四半期のGAAPベースの営業利益は980万ドル、非GAAPベースの営業利益率は14%であるのに対し、Asanaの2026年第1四半期の非GAAPベースの営業利益率は4%である。SaaS事業者は、Monday.comのプラットフォームアプローチ、企業重視の姿勢、収益戦略から学ぶことで、競争の激しいSaaS業界で成長と成功を収めることができる。</description>
-      <pubDate>Sat, 02 Aug 2025 11:40:29 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-473m-gap-how-monday-com-executed-the-perfect-saas-playbook-while-asana-played-it-safe/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：私のCRO候補は希釈化防止策を主張しています。  私はどうすべきでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-my-cro-candidate-is-insisting-on-anti-dilution-protection-what-should-i-do/</link>
-      <description>本稿では、CRO（Chief Revenue Officer：最高収益責任者）が希薄化防止策を含む様々な報酬手当を要求する傾向が強まっているという一般的な傾向について論じている。著者は、すべての要求に応じることは避けるべきであり、CROは報酬交渉において標準外の要求を制限すべきであると提言している。希薄化防止策については、業界では一般的ではなく、投資家のような他の利害関係者にとっても公平でない可能性があるため、過剰な要求であると強調している。この記事では、投資家は特定のシナリオにおいて限定的な希薄化防止策を講じることができるかもしれないが、従業員にとっては標準的な利益ではないことを強調している。重要なポイントは、SaaS企業がCROからの標準的でない報酬要求を慎重に検討し、交渉することであり、すべてを要求するのではなく、2つの主要な要求に集中することを推奨している。公正で持続可能な報酬体系を維持するためには、主要幹部のニーズと会社やその他の利害関係者の利益のバランスを取ることが極めて重要である。</description>
-      <pubDate>Sat, 02 Aug 2025 09:26:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-my-cro-candidate-is-insisting-on-anti-dilution-protection-what-should-i-do/</guid>
-    </item>
+    <lastBuildDate>Sun, 03 Aug 2025 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
