@@ -5,51 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 Aug 2025 03:05:00 GMT</lastBuildDate>
-    <item>
-      <title>セールス＆マーケティング採用者の半数が2年半以内に退職。その背景にあるデータ</title>
-      <link>https://www.saastr.com/half-of-sales-marketing-hires-will-leave-within-2%c2%bd-years-the-data-behind-it/</link>
-      <description>この記事では、39万6,000人以上の従業員の離職率に関するPaveのデータから得られた調査結果を取り上げており、セールス・マーケティング職の在職期間の中央値がわずか2.5年であるのに対し、エンジニアリング職は3.7年であることが明らかになっている。収益創出に近い職務ほど、離職が早い傾向にある。財務、法務、カスタマーサクセスのような部門は、組織的な知識が深く、社外での機会が少ないため、定着率に優れている。セールス＆マーケティング部門の離職率の高さに対処するため、記事では、スピード・トゥ・バリューを重視した採用、システム構築、フロントローディング学習、2周年記念などの戦略を提案している。企業は、従業員の在職期間中に価値を最大化し、離職に耐える弾力的なシステムを構築することに重点を置くようアドバイスされている。さまざまな部門に合わせたリテンション戦略が必要であり、離職を受け入れながら離職率を最適化することが成功の鍵である。SaaSビジネスでは、他の部門と比較して、市場開拓チーム特有の課題を理解し、計画を立てることが強く求められている。</description>
-      <pubDate>Tue, 05 Aug 2025 16:25:13 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/half-of-sales-marketing-hires-will-leave-within-2%c2%bd-years-the-data-behind-it/</guid>
-    </item>
-    <item>
-      <title>営業チームの50％以上がAIになった本当の理由（そして私たちが学んだこと）</title>
-      <link>https://www.saastr.com/the-real-reason-50-of-our-sales-team-is-now-ai-and-what-we-learned/</link>
-      <description>SaaStrは、営業チームの50％以上にAIを統合し、業務の効率化と生産性の向上を推進している。同社は、B2B市場で競争力を維持するためにはAIの活用が不可欠だと考えている。AIを導入することにしたのは、主に、人間の力学が生産性を妨げていたため、業務の健全化が必要だったからだ。フォローアップの失敗、アウトリーチにおけるパーソナライゼーションの欠如、CRMの不十分な使用といった一般的な問題は、AIセールス・エージェントによって解決された。AIエージェントは一貫してフォローアップを行い、実績のある方法論を遵守し、アウトリーチをパーソナライズし、やり取りを綿密に記録し、休憩の必要なく24時間働き続ける。SaaStrは、AIエージェントを人間のSDRのように扱い、トレーニングに多大な時間を投資した。システムを微調整する上で、AIの応答に対する継続的な監査と改善は極めて重要だった。営業におけるAI導入の成功は、以前チームを悩ませていたヒューマンエラーや一貫性のないタスクを効率的に実行する能力に起因している。</description>
-      <pubDate>Tue, 05 Aug 2025 14:10:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-real-reason-50-of-our-sales-team-is-now-ai-and-what-we-learned/</guid>
-    </item>
-    <item>
-      <title>78％の収益依存＝0.7株の相関関係：KlaviyoはどのようにしてShopifyのレバレッジベットになったのか（そしてそれはあなたのB2Bパートナーシップ戦略にとって何を意味するのか）</title>
-      <link>https://www.saastr.com/78-revenue-dependency-0-7-stock-correlation-how-klaviyo-became-a-leveraged-bet-on-shopify-and-what-it-means-for-your-saas-partnership-strategy/</link>
-      <description>本稿では、Eコマース大手のショッピファイ（SHOP）とマーケティング・オートメーション企業のクラヴィヨ（KVYO）の株価には、相互依存の深い事業関係による強い相関関係があると論じている。Klaviyoが2023年9月に上場して以来、両銘柄の相関係数は約0.6～0.7であり、投資家が両銘柄をポートフォリオにおいてほぼ単一のポジションとして扱うような強い関係を示している。主な洞察は以下の通り：
-
-1.**所有比率**：ShopifyはKlaviyoの約11%を所有しており、マーケティング会社の成功に大きな財務的関心を示している。
-  
-2.**収益依存度**：Klaviyoの年間経常収益の78%は、Shopifyのプラットフォームを利用する顧客からのものであり、両社の経済的な成功が絡み合っていることを物語っている。
-
-3.**市場シェアの整合性**：Klaviyoは、Shopifyのエコシステムにおいて80%以上の市場シェアを占めており、Shopifyの加盟店にとって戦略的に重要であることを強調しています。
-
-4.**戦略的統合**：Shopifyは、KlaviyoをShopify Plus加盟店向けのメールマーケティングソリューションとして積極的に推進しており、両社のパートナーシップをより強固なものにしています。
-
-一方の企業の業績が他方の企業に大きな影響を与える「経済的結合」の概念が強調されている。SaaS企業は、このケーススタディから、戦略的パートナーシップ、収益の多様化、市場シェアの優位性に焦点を当てることで、成長を促進し、投資家のための価値を創造することを学ぶことができます。</description>
-      <pubDate>Tue, 05 Aug 2025 11:41:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/78-revenue-dependency-0-7-stock-correlation-how-klaviyo-became-a-leveraged-bet-on-shopify-and-what-it-means-for-your-saas-partnership-strategy/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：顧客から「それは高すぎる」と言われたら、次にどうしますか？</title>
-      <link>https://www.saastr.com/dear-saastr-when-a-customer-says-thats-too-expensive-what-do-you-do-next/</link>
-      <description>顧客がSaaS製品を「高すぎる」と判断した場合、それを真っ向から否定しないことが重要です。その代わりに、根本的な理由を掘り下げる。価格設定を何と比較しているのか、価格設定のどの部分が顧客の期待とずれているのかなどを質問し、顧客を引き込む。製品が提供する投資収益率（ROI）を強調することで、価値提案にまつわる会話を再構築する。顧客の金銭的負担を軽減するために、少額のパッケージや段階的なアプローチを提供することを検討する。あなたの製品を安価な代替品と差別化する独自の価値提案を強調する。さらに、支払い期間の延長や長期契約による割引など、柔軟な解決策を検討するために、顧客の期待予算を直接尋ねることも容認される。反対意見に思慮深く、創造的に対処することで、企業は価格設定の話し合いを効果的に進め、躊躇している顧客を満足した顧客に変える可能性がある。</description>
-      <pubDate>Tue, 05 Aug 2025 09:56:51 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-when-a-customer-says-thats-too-expensive-what-do-you-do-next/</guid>
-    </item>
-    <item>
-      <title>最初のSDRのための優れた基本セールスプランの作り方</title>
-      <link>https://www.saastr.com/dear-saastr-whats-a-good-comp-plan-for-our-first-sdrs/</link>
-      <description>優れた SDR の報酬プランは、シンプルで、やる気を起こさせ、ビジネス目標に沿ったものでなければならない。主なポイントとしては、基本給と変動報酬の割合を60/40にすること、ボーナスをSDRがコントロールできる指標（適格なミーティングやSQLの生成など）に連動させること、SDRのモチベーションを維持するために頻繁に支給すること、明確でシンプルな目標を設定すること、オーバーパフォーマンスに対するアクセラレータを含めること、営業サイクルが短い場合を除き、ボーナスを成約収益に連動させることを避けることなどが挙げられる。新しいSDRがノルマを達成できるように、2-3ヶ月の立ち上げ期間を設けることを推奨する。SF や NYC のような Tier 1 の都市では、OTE は 5-20% 高いかもしれない。全体として、公平な報酬、モチベーション、会社の成長目標との整合性を確保する仕組みが必要だ。市場の状況やチームの場所によって報酬を調整することが重要だ。</description>
-      <pubDate>Tue, 05 Aug 2025 09:26:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-whats-a-good-comp-plan-for-our-first-sdrs/</guid>
-    </item>
+    <lastBuildDate>Wed, 06 Aug 2025 15:04:27 GMT</lastBuildDate>
   </channel>
 </rss>
