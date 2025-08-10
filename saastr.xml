@@ -5,43 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 Aug 2025 03:04:43 GMT</lastBuildDate>
-    <item>
-      <title>本番で10人のAIエージェントを管理する現実：SaaStrでAIファーストの収益チームを構築してわかったこと</title>
-      <link>https://www.saastr.com/the-reality-of-managing-10-ai-agents-in-production-what-weve-learned-building-our-ai-first-revenue-team-at-saastr/</link>
-      <description>第3四半期末までに、SaaStrは収益、オペレーション、コミュニティの役割で10人のAIエージェントを稼働させる予定です。これらのAIエージェントは、単なる実験的な追加ではなく、チームの重要なメンバーである。AIエージェントは日々の管理とレビューを必要とし、継続的な微調整と監督の必要性を強調している。管理のオーバーヘッドにもかかわらず、AIエージェントの利点は大きい：離職率ゼロ、24時間365日利用可能、気が散ることなくタスクに集中、即時の拡張性、深い製品知識。AIエージェントは一貫性のある迅速な対応を提供し、顧客との質の高いやり取りを保証する。また、反復的なタスクを処理し、業務を楽に拡張することにも優れている。重要なことは、AIエージェントの管理は厳しいかもしれないが、効率性、一貫性、拡張性の面でAIエージェントが提供するメリットは、業務と顧客対応の強化を目指すSaaS企業にとって貴重な資産になるということだ。</description>
-      <pubDate>Sat, 09 Aug 2025 15:28:18 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-reality-of-managing-10-ai-agents-in-production-what-weve-learned-building-our-ai-first-revenue-team-at-saastr/</guid>
-    </item>
-    <item>
-      <title>新任の営業担当副社長が最初の2週間にすべきこと</title>
-      <link>https://www.saastr.com/what-a-new-vp-of-sales-needs-to-be-doing-their-first-2-weeks/</link>
-      <description>この記事では、B2B企業の新任営業担当副社長が最初の2週間で成功するために取るべき重要なステップについて論じている。主な洞察は以下の通り：
-
-1.**製品に精通すること**：製品を理解することは非常に重要であり、副社長は最初の1週間が終わるまでにデモを行うことができなければならない。
-  
-2.**市場参入戦略**：直接販売やShopifyやHubSpotのようなパートナーシップなど、収益がどのように生み出され、何が最も効果的かを理解するために、既存の戦略を深く掘り下げる。
-  
-3.**チーム・アセスメントチームに直接会い、トップパフォーマーを特定し、パフォーマンス不足の人材に迅速に対処することで、人材の維持と営業成績の向上を図ります。
-  
-4.**顧客エンゲージメント**：顧客との対話に時間を費やし、価値提案、異論、競合状況を早い段階で把握する。
-  
-5.**人材採用**：成功のためには高パフォーマンスのチームを作ることが重要であるため、正式にスタートする前から優秀な人材のリクルートを開始する。
-
-実践的なアドバイスとしては、製品を積極的に学ぶこと、現在のGTM戦略を理解すること、チームの才能を評価すること、顧客と関わりを持つこと、営業リーダーとして成功するための舞台を整えるために早い段階で優秀な人材を採用することなどが挙げられる。</description>
-      <pubDate>Sat, 09 Aug 2025 14:10:13 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/what-a-new-vp-of-sales-needs-to-be-doing-their-first-2-weeks/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：優れたAEの条件とは？</title>
-      <link>https://www.saastr.com/dear-saastr-what-makes-for-a-great-ae/</link>
-      <description>この記事では、SaaSビジネスで成功するアカウント・エグゼクティブ（AE）に不可欠な資質について論じている。主な洞察として、AEが一貫して取引を成立させ、営業ノルマを達成し、強固な顧客関係を築くことの重要性を挙げている。この記事では、優れた営業担当者に必要な9つの資質について概説している。例えば、強い労働倫理を持ち、拒絶されても立ち直ることができ、優れたコミュニケーション・スキルを持ち、機会を積極的に探し求め、市場の変化に適応できることなどが挙げられる。
-
-サマリーでは、データポイントや具体的な指標は示していない。SaaS企業に対する実行可能なアドバイスとしては、特定された資質を持つAEの採用に注力すること、スキル向上のための継続的なトレーニングとサポートを提供すること、明確な目標と期待を設定すること、コラボレーションと学習の文化を醸成すること、営業プロセスとパフォーマンスを最適化するためにテクノロジーとデータを活用すること、などが挙げられる。
-
-全体として、この記事は、売上の成長を促進し、長期的な顧客関係を構築し、SaaSビジネスの成功に貢献できる、熟練したやる気のあるAEを持つことの重要性を強調している。</description>
-      <pubDate>Sat, 09 Aug 2025 09:36:54 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-makes-for-a-great-ae/</guid>
-    </item>
+    <lastBuildDate>Sun, 10 Aug 2025 15:04:28 GMT</lastBuildDate>
   </channel>
 </rss>
