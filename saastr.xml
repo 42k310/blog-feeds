@@ -5,35 +5,37 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 Aug 2025 15:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 03:04:44 GMT</lastBuildDate>
     <item>
-      <title>ベンチャーがこれほど集中したことはない：VCの40％以上がわずか10件の案件に投資</title>
-      <link>https://www.saastr.com/venture-has-never-been-more-concentrated-40-of-vc-going-to-just-10-deals/</link>
-      <description>現在のベンチャー・キャピタルの状況では、特にAIに焦点を当てた一部のメガ・スタートアップに資金が集中している。Pitchbookのデータによると、今年の米国におけるベンチャーキャピタルの全資金の41％がわずか10社に割り当てられ、ベンチャーキャピタルの運営方法に根本的な変化が起きている。上位3社のAI企業だけで、2025年の全ベンチャー・キャピタルの3分の1近くを調達している。
-
-AIインフラ開発に必要な前例のない資本や、ベンチャーキャピタルにおけるべき乗則の力学の指数関数的性質など、いくつかの要因がこの集中を後押ししている。マイクロソフト、アマゾン、メタのようなハイテク大手のコーポレート・ベンチャー部門も、戦略的投資を通じて市場を再構築する役割を果たしている。
-
-少数精鋭ではないSaaS企業や新興企業にとって、資金調達の状況は厳しく、シード資金調達は減少し、アーリーステージへの投資はここ数四半期で最低レベルとなっている。バリュエーションが上昇しているにもかかわらず、案件数は軒並み減少している。SaaSビジネスは、こうした傾向を認識し、この競争的な資金調達環境における成長と持続性のための代替戦略を検討する必要がある。</description>
-      <pubDate>Mon, 11 Aug 2025 20:11:39 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/venture-has-never-been-more-concentrated-40-of-vc-going-to-just-10-deals/</guid>
+      <title>アサナのCMOシャノン・ダフィーがAIを使ってマーケティングチームを10倍に拡大する方法（＋その過程で彼女が犯した4つの間違い）</title>
+      <link>https://www.saastr.com/how-asanas-cmo-shannon-duffy-is-using-ai-to-scale-marketing-teams-10x-the-4-mistakes-she-made-along-the-way/</link>
+      <description>SaaStr Annual + AI Summit 2025で、AsanaのCMOであるShannon Duffy氏は、毎日AIを活用することで93％の効率化を達成したことについて語った。彼女は、&quot;ジャンキー・ブリトニー・スピアーズ &quot;という言葉を引き合いに出しながら、コンテンツ作成時に直面する課題を強調した。これは、SaaS業界における成長とイノベーションの追求において、失敗から学び、実験を受け入れることの重要性を示している。重要なことは、AIがSaaS企業の業務効率向上に大きな影響を与えるということだ。SaaS企業は、効率化を推進し、全体的なパフォーマンスを向上させるために、AI技術を業務に統合することを優先すべきである。さらに、失敗から学ぶことを重視することは、競争の激しいSaaS業界で成功を収めるためには、実験と継続的な改善を奨励する文化が重要であることを強調している。</description>
+      <pubDate>Tue, 12 Aug 2025 21:16:42 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-asanas-cmo-shannon-duffy-is-using-ai-to-scale-marketing-teams-10x-the-4-mistakes-she-made-along-the-way/</guid>
     </item>
     <item>
-      <title>2026年以降、SDRの大半がAI SDRになる理由。  生産性の問題だけではない。</title>
-      <link>https://www.saastr.com/why-ai-sdrs-are-about-to-crush-human-sales-development-and-its-not-just-about-productivity/</link>
-      <description>この記事では、SaaSビジネスにおけるAI営業開発担当者（SDR）の最適なパフォーマンスを確保するためのトレーニングの重要性について論じている。主な洞察には、人間の SDR よりも優れた製品知識を持つことが多い AI SDR の継続的なトレーニングと品質保証の必要性が含まれる。この記事では、多くの人間の SDR が技術的な価値提案を明確にするのに苦労し、営業サイクルの長期化、コンバージョン率の低下、技術リソースの枯渇につながっていることを強調している。
-
-著者は、AI SDR が完璧な製品知識、一貫した技術的信頼性、リアルタイムの学習と適応など、生産性の向上以上の利点を提供することを強調している。AI SDRは即座に正確な情報を提供し、技術的な質問を躊躇なく処理し、新しい情報に素早く適応することができる。この記事では、SaaS企業は営業効率を改善し、基本的な問い合わせに対する技術リソースへの依存を減らし、顧客との全体的な信頼性を高めるために、AI SDRテクノロジーに投資すべきだと提案している。
-
-結論として、この記事は、営業効率を改善し、プロセスを合理化し、顧客との対話を強化するために、SaaS ビジネスに AI SDR を採用することを提唱している。</description>
-      <pubDate>Mon, 11 Aug 2025 14:19:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-ai-sdrs-are-about-to-crush-human-sales-development-and-its-not-just-about-productivity/</guid>
+      <title>SaaSの収益耐久性に関する厳しい真実：IPO後の企業の80%は価値が複合化しない</title>
+      <link>https://www.saastr.com/the-hard-truth-about-saas-revenue-durability-why-80-of-post-ipo-companies-dont-compound-in-value/</link>
+      <description>この記事では、SaaS企業がIPO後に収益成長を持続させる上で直面する課題を取り上げている。多くのSaaS企業の2021年の急成長は、規模を拡大した持続的な複合収益には結びついていない。投資家は、SaaSにおける真の価値創造を獲得するために、上位10%の勝者を特定する必要があるが、これは、収益の持続性が証明されていないIPO前ではより困難となる。規模が拡大しても収益が途絶える要因には、市場の飽和、競争圧力、オペレーションの複雑さ、顧客ニーズの進化などがある。この記事では、ピーター・ティールがフェイスブックから早期に撤退したことを例に挙げながら、変動が激しい中でもトップクラスの業績を上げている企業を維持することの重要性を強調している。SaaSの世界で成功するためには、投資家と企業は、これらの課題に対処し、長期的な確信を維持することによって、高成長の新興企業から持続可能で永続的な公的事業体への移行をナビゲートする必要がある。</description>
+      <pubDate>Tue, 12 Aug 2025 14:10:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-hard-truth-about-saas-revenue-durability-why-80-of-post-ipo-companies-dont-compound-in-value/</guid>
     </item>
     <item>
-      <title>SaaStrへ  NPS調査の正しいやり方とは？</title>
-      <link>https://www.saastr.com/dear-saastr-how-do-i-do-an-nps-survey-right/</link>
-      <description>効果的なNPS（ネット・プロモーター・スコア）調査を実施するには、実行、自動化、実行可能性に焦点を当てます。伝統的なNPSの質問と、定性データのための自由形式のフォローアップ質問を使用して、調査を正しく設定する。異なる顧客グループの満足度を把握するために、対象者をセグメント化する。NPSスコアを一貫して収集・追跡するツールを使用してプロセスを自動化する。更新時期やサポートチケットの後を避け、戦略的にアンケートの時間を設定する。回答者をプロモーター、パッシブ、デトラクターにセグメンテーションしてデータを分析し、パターンと実用的なインサイトを特定する。NPSを解約率やアップセル率などの財務指標にリンクさせ、その影響を定量化する。部門間で結果を共有し、改善目標を設定することで、フィードバックに基づいて行動する。回答者、特に離反者にフォローアップを行い、懸念に対処し、プロモーターを活用して紹介につなげる。NPSの測定を継続的なプロセスにして、長期的なトレンドを追跡し、顧客満足度を向上させる。NPSは強力なツールであり、正しく活用することで、顧客の幸福を軸に企業を調整し、紹介の増加、解約の減少、収益の向上につなげることができる。具体的な成果を得るために、今すぐこれらの実践を始めましょう。</description>
-      <pubDate>Mon, 11 Aug 2025 09:36:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-do-an-nps-survey-right/</guid>
+      <title>親愛なるSaaStr：  見込み客が取引を「保留」にした場合、どのように対処しますか？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-you-handle-it-when-a-prospect-puts-a-deal-on-hold/</link>
+      <description>見込み客が取引を「保留」にした場合、それを失われた機会ではなく、生きている機会として捉えることが重要である。このような案件を復活させ、前進させるには、以下の戦略に従おう：
+
+1.予算の制約、社内の遅れ、優先順位の変化などが原因かどうかを特定するために、その企業の担当者と連絡を取り、保留の理由を理解する。
+  
+2.関係を温かく保つために、関連する最新情報を共有したり、イベントに招待したり、成功事例を共有したりして、売り込むことなく価値を提供する。
+
+3.3.知名度を維持するために、毎月の業界インサイトやブランドグッズの送付など、付加価値を与える軽いタッチポイントで常にトップ・オブ・マインドを維持する。
+
+4.見込み客はトップ・エグゼクティブから話を聞けることを喜ぶので、取引への関心を再燃させることができる。
+
+これらの戦略を実施することで、SaaS企業は保留にされた案件を効果的に管理し、エンゲージメントを維持し、将来の案件成約の可能性を高めることができる。</description>
+      <pubDate>Tue, 12 Aug 2025 09:02:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-you-handle-it-when-a-prospect-puts-a-deal-on-hold/</guid>
     </item>
   </channel>
 </rss>
