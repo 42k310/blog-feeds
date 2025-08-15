@@ -5,33 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 15 Aug 2025 03:04:47 GMT</lastBuildDate>
-    <item>
-      <title>最新20VC+SaaStr：GPT-5の圧倒的なローンチ、Shopifyの30%少ない人員で91%の成長、そしてなぜ会社の半分も必要ないのか？</title>
-      <link>https://www.saastr.com/the-latest-20vcsaastr-gpt-5s-underwhelming-launch-shopifys-91-growth-with-30-fewer-staff-and-why-you-dont-need-half-your-company/</link>
-      <description>この記事では、Scaleのローリー、SaaStrのジェイソン・レムキン、そしてハリーが出演したポッドキャストについて、GPT-5の戦略的デフレ、効率化革命、そして企業が従業員の半分を必要としないかもしれないという考えに焦点を当てて論じている。GPT-5がビジネス戦略に与える影響、今日の市場における効率性の重要性、企業が従業員の必要性を評価する必要性などが主なポイントである。ディスカッションでは、GPT-5のようなテクノロジーの進歩がどのようにビジネス環境を変化させるかについて掘り下げ、企業が適応し、業務を合理化する必要性を強調する。特にSaaSビジネスは、テクノロジーを活用して効率化を推進し、リソースを最適化し、組織構造を見直すことで、こうした洞察から利益を得ることができる。このポッドキャストは、SaaS企業が戦略的デフレ、効率改善、労働力の最適化に焦点を当てることで、急速に進化する市場で競争力を維持するための実用的なアドバイスを提供するかもしれない。</description>
-      <pubDate>Thu, 14 Aug 2025 21:28:05 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-latest-20vcsaastr-gpt-5s-underwhelming-launch-shopifys-91-growth-with-30-fewer-staff-and-why-you-dont-need-half-your-company/</guid>
-    </item>
-    <item>
-      <title>フォワード・デプロイド・エンジニア：B2BでAIを活用するために必要なこと。しかし中小企業にも有効か？</title>
-      <link>https://www.saastr.com/forward-deployed-engineer-what-it-takes-to-make-ai-work-in-b2b-but-do-they-work-for-smbs/</link>
-      <description>この記事では、B2B環境でAIを導入する際の課題について論じ、AIを効果的に機能させるためのForward Deployed Engineer（FDE）の役割に焦点を当てている。また、OpenAIとJohn Deere社との協業を例に、AI技術と現実のビジネスアプリケーションとのギャップを埋めるFDEの重要性を強調している。
-
-主な洞察には、B2B環境でのAI実装を成功に導くためのFDEの重要な役割、AIプロジェクトの複雑性をナビゲートするための専門スキルの必要性、AIイニシアチブの全体的な成功に対するFDEの影響などが含まれます。
-
-AI技術の活用を検討しているSaaS企業にとって、AIソリューションの導入と活用を成功させるためにFDEに投資することの価値が強調されている。また、望ましい成果を達成するためのテクノロジー・プロバイダーと企業顧客との協力関係の重要性も強調している。
-
-結論として記事は、B2B環境におけるAIの可能性を最大限に引き出す上でFDEが重要な役割を果たすことを示唆し、SaaS企業に対し、AIの導入を成功に導くためにFDEの役割を成長戦略に組み込むことを検討するよう助言している。</description>
-      <pubDate>Thu, 14 Aug 2025 14:10:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/forward-deployed-engineer-what-it-takes-to-make-ai-work-in-b2b-but-do-they-work-for-smbs/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：ARR2,400万ドルのSaaS企業が手元に持つべき現金はいくらですか？</title>
-      <link>https://www.saastr.com/dear-saastr-how-much-cash-should-a-saas-company-with-24m-arr-have-on-hand/</link>
-      <description>年間経常収益（ARR）が2,400万ドルのSaaS企業は、少なくとも1,200万ドルの現金を手元に持つことが理想的である。初期段階（ARR300万～400万ドル）を過ぎたら、ARRの50％程度を現金で保有することが推奨される。これにより、成長、戦略的雇用のための十分なリソースを確保し、過少投資を防ぐことができる。急成長企業（成長率40％～50％以上）の場合、財務的なストレスを感じることなく実験やスケーリングを行えるよう、手元資金をARRの60％～70％に増やすことが有益な場合もある。手元資金が不足すると、規模拡大に不可欠な人材、システム、ソフトウェアへの投資が妨げられる可能性がある。健全な現金残高を維持することは、積極的に規模を拡大しようとする際に資金繰りが苦しくなるのを避けるために不可欠である。</description>
-      <pubDate>Thu, 14 Aug 2025 09:57:45 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-much-cash-should-a-saas-company-with-24m-arr-have-on-hand/</guid>
-    </item>
+    <lastBuildDate>Fri, 15 Aug 2025 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
