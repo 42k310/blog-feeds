@@ -5,34 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 19 Aug 2025 03:04:52 GMT</lastBuildDate>
-    <item>
-      <title>勝ち組がベンチャーを支配した。AIスタートアップのトップ1％が「通常の」倍率の3～10倍で評価されるようになった</title>
-      <link>https://www.saastr.com/winner-take-all-has-taken-over-venture-the-top-1-of-ai-start-ups-are-now-valued-at-3-10x-normal-multiples/</link>
-      <description>この記事では、ベンチャーキャピタル市場が、特にAI分野において、勝者総取りの力学へと大きくシフトしていることについて論じている。主な洞察には、AI新興企業の前例のない評価を示すデータが含まれ、99パーセンタイルのシードラウンドは1億6,100万ドルに達し、シリーズA企業の評価額は7億1,600万ドルで、95パーセンタイルから186%上昇した。AIスーパーカテゴリーの勝者の台頭は、投資家にとってほぼ無限の潜在的リターンにつながる深いAIの堀に起因している。資本効率は、大規模な総アドレス可能市場（TAM）の拡大とユニットエコノミクスの改善と組み合わされ、これらの高いバリュエーションを推進する重要な要因として強調されている。さらに、記事では、AI企業の上位1％に対する「ネバーレイズアゲイン」プレミアムに言及しており、外部資本なしでも長期間維持できる可能性を示している。また、ベンチャーキャピタル投資の進化を反映し、従来のSaaS企業とAIを活用した企業を1つの層とする3層構造の市場構造の出現が指摘されている。</description>
-      <pubDate>Mon, 18 Aug 2025 21:22:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/winner-take-all-has-taken-over-venture-the-top-1-of-ai-start-ups-are-now-valued-at-3-10x-normal-multiples/</guid>
-    </item>
-    <item>
-      <title>パランティアはセールスフォース（2300億ドル）より価値がある（4200億ドル） - 売上高は1/10。これは理にかなっているだろうか？そうかもしれない。</title>
-      <link>https://www.saastr.com/palantir-is-now-worth-more-420b-than-salesforce-230b-with-1-10th-the-revenue-does-this-make-sense-it-might/</link>
-      <description>年間経常収益（ARR）40億ドルのSaaS企業であるパランティアの評価額は現在4200億ドルで、売上高380億ドルで2300億ドルの時価総額を持つセールスフォースを上回っている。この評価額の差は、2023年の13%から2025年には48%に跳ね上がるというパランティアの目覚ましい成長率に起因している。この加速は、同社がAI技術に注力した結果と見られる。パランティアの評価が割高であるという懐疑的な見方にもかかわらず、同社の成長軌道は予想を裏切り続けている。SaaS企業はPalantirの成功から、イノベーションを優先し、AI技術に投資し、市場価値を高めるための持続的成長に注力することで学ぶことができる。このケースは、SaaS業界で投資家の関心を集め、大きな市場評価を得るためには、戦略的計画、技術的進歩、一貫した成長が重要であることを強調している。</description>
-      <pubDate>Mon, 18 Aug 2025 15:25:34 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/palantir-is-now-worth-more-420b-than-salesforce-230b-with-1-10th-the-revenue-does-this-make-sense-it-might/</guid>
-    </item>
-    <item>
-      <title>ある創業者は貯蓄家。  浪費家もいる。  どちらもしばしば行き過ぎる。</title>
-      <link>https://www.saastr.com/some-founders-are-savers-some-are-spenders-both-are-often-taken-too-far/</link>
-      <description>この記事では、3000万ドルのVC資金を調達したにもかかわらず、CEOの解雇、過大な負債、成長の鈍化などの問題で破綻に直面したベンチャー企業のSaaS企業Benchが直面した課題について論じている。重要な洞察のひとつは、多くのベンチャー企業に共通する問題である月150万ドルという同社のバーンレートである。この記事は、成長が鈍化したときに企業が直面するジレンマ、つまり、成長を再び加速させるために支出を増やすか、それとも、バーンレートを抑えるためにコストを削減するか、に焦点を当てている。著者は、多くの新興企業が成長が著しく鈍化する「地獄の年」を経験し、優秀な創業者だけがそのような困難をうまく切り抜けられると強調している。この記事は、特に成長鈍化期における慎重な財務管理の重要性を強調し、わずかな高燃焼率でもすぐに制御不能に陥る可能性があることを示唆している。全体として、この記事はSaaS企業が同じような落とし穴にはまらないよう、財務と成長戦略を注意深く管理するための訓話となっている。</description>
-      <pubDate>Mon, 18 Aug 2025 14:12:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/some-founders-are-savers-some-are-spenders-both-are-often-taken-too-far/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：30日間でアウトバウンドをゼロから始めるには？</title>
-      <link>https://www.saastr.com/dear-saastr-how-can-i-get-outbound-going-from-scratch-in-30-days/</link>
-      <description>30日間でアウトバウンドセールスを開始するには、重要なステップに集中しましょう。1週目は、理想の顧客像（ICP）を定義し、50～100人の見込み客リストを充実させ、パーソナライズされたEメールテンプレートを作成します。2週目は、最初のキャンペーンを開始し、QCR（Qualified Connect Rate）を追跡し、LinkedInアウトリーチなどのチャンネルを試してみます。第3週は、結果を分析し、見込み客リストを拡大し、フォローアップの手順を最適化することで、より洗練されたキャンペーンを展開します。第4週は、温かみのあるイントロダクションを活用し、粘り強くフォローアップを行い、速やかにミーティングを予約することを目指す。30日後の目標は、5～10件のミーティングを確保し、アウトバウンド・アプローチを検証することだ。コネクト率がそこそこであれば、早い段階でアウトバウンドセールスにもっと投資しよう。粘り強さ、パーソナライズ、素早い行動がアウトバウンドの成功の鍵だ。</description>
-      <pubDate>Mon, 18 Aug 2025 09:20:54 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-can-i-get-outbound-going-from-scratch-in-30-days/</guid>
-    </item>
+    <lastBuildDate>Tue, 19 Aug 2025 15:04:29 GMT</lastBuildDate>
   </channel>
 </rss>
