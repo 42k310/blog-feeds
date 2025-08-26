@@ -5,29 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 Aug 2025 03:04:48 GMT</lastBuildDate>
-    <item>
-      <title>最新のB2B IPOはネットスコープ。  そして炎上。  ARR7億ドル、成長率33%。  次のIPOはさらに良くなるだろう。</title>
-      <link>https://www.saastr.com/the-latest-b2b-ipo-is-netskope-and-its-fire-700m-arr-growing-33-the-next-ipos-will-be-even-better/</link>
-      <description>クラウドセキュリティプラットフォームのNetskopeは、7億700万ドルのARR（前年比33％増）、5億3800万ドルの収益（前年比32％増）、4317の顧客（前年比21％増）、118％のネット維持率という素晴らしい指標でIPOを申請した。Netskopeの成長から得られた主な洞察には、規模に応じた収益の加速、キャッシュフローマージンの6ヶ月での-42%から+3%への改善、顧客を増やしながらのネット維持率の向上、価値の高い企業顧客への集中、国際市場の成長への活用などが含まれる。Netskopeの成功は、成長を促進するための製品提供の拡大、収益性のための健全なLTV:CACファンダメンタルズの維持、顧客獲得よりも顧客拡大の優先順位、成長加速のための国際市場の活用の重要性を強調している。SaaS企業は、競争の激しいサイバーセキュリティ・ソフトウェア市場で持続可能な成長と収益性を達成するために、ネットスコープの戦略から学ぶことができる。</description>
-      <pubDate>Mon, 25 Aug 2025 18:26:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-latest-b2b-ipo-is-netskope-and-its-fire-700m-arr-growing-33-the-next-ipos-will-be-even-better/</guid>
-    </item>
-    <item>
-      <title>3つのVibe Codedアプリを本番環境へ。実際にうまくいったもの（そして危うく死にそうになったもの）を紹介しよう。</title>
-      <link>https://www.saastr.com/weve-now-shipped-3-vibe-coded-apps-to-production-heres-what-actually-worked-and-what-nearly-killed-us/</link>
-      <description>この記事では、「バイブコーディング」の概念と、SaaSビジネスにとってのその意味について論じている。技術者でない個人でもAI支援ツールを使って製品を作ることができる「プロシューマー」バイブコーディングの魅力を強調している。しかし、このアプローチは力を与える一方で、SpotifyやHubSpotのような複雑な製品を数クリックで構築するという点では誤解を招きかねないと警告している。この記事は、こうした使いやすいツールと、コーディングの知識が必要な従来の開発とのギャップを強調している。
-
-重要なことは、バイブコーディングはそれほど複雑でない製品の迅速なプロトタイピングとイノベーションを可能にする一方で、SaaS企業にとってはその限界を理解し、開発プロセスを単純化しすぎる罠に陥らないことが重要であるということだ。この記事では、Replitのようなプラットフォームがこの領域で進歩したことを称賛しているが、非現実的な期待を抱かないよう注意を促している。SaaSビジネスは、ユーザーフレンドリーなツールの活用と、持続可能な成長と製品のスケーラビリティを確保するための強固な技術的基盤の維持の間でバランスを取るべきである。</description>
-      <pubDate>Mon, 25 Aug 2025 14:21:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/weve-now-shipped-3-vibe-coded-apps-to-production-heres-what-actually-worked-and-what-nearly-killed-us/</guid>
-    </item>
-    <item>
-      <title>親愛なるSaaStr：最初の営業担当副社長の報酬パッケージはどのように構成すればよいでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-how-do-i-structure-a-comp-package-for-our-first-vp-of-sales/</link>
-      <description>この記事では、直属の部下が7人いる小規模なSaaS企業の営業担当副社長の報酬パッケージの構成方法について論じている。推奨されるアプローチは、基本給と変動報酬を50/50の割合で配分し、目標を上回った場合に上限なしで+25%のボーナスを支給するものです。この構成は、初期段階のSaaSの規範と成長目標に沿ったものです。例えば、オン・ターゲット・アーニングス（OTE）が25万ドルの場合、基本給は12万5000ドル、業績ベースのインセンティブは12万5000ドルとなる。上限のないボーナスは副社長のモチベーションを高め、目標を上回るような優れた業績を上げた場合、OTEの125%以上の収入を得る可能性がある。この報酬プランは、目標達成のインセンティブを与えつつ、収入の安定性を確保するものである。この記事では、報酬体系を成長目標や業界標準に合わせることを強調している。これは、SaaS企業における主要な営業リーダーシップの役割に対する報酬パッケージを構成するための明確なフレームワークを提供するものである。</description>
-      <pubDate>Mon, 25 Aug 2025 09:07:27 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-structure-a-comp-package-for-our-first-vp-of-sales/</guid>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 15:04:27 GMT</lastBuildDate>
   </channel>
 </rss>
