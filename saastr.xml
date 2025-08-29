@@ -5,31 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 Aug 2025 03:04:47 GMT</lastBuildDate>
-    <item>
-      <title>ガスト、40万社以上の中小企業にサービスを提供するAIアシスタント「ガス」をどのように構築したか：現場からの教訓</title>
-      <link>https://www.saastr.com/how-gusto-built-gus-their-ai-assistant-serving-400k-small-businesses-lessons-from-the-trenches/</link>
-      <description>ガストの共同設立者であるジョシュ・リーブス氏とエディ・キム氏は、SaaStr AIサミットにおいて、中小企業向けAIアシスタント「ガス」を開発した経験について語った。このAIアシスタントは現在、何十万もの中小企業に活用されている。共同設立者は、SaaS製品の開発とスケーリングを成功させるための洞察を共有し、SaaS業界でAIを活用することの重要性を強調した。SaaS企業は、顧客ニーズに焦点を当て、革新的なソリューションを導入し、製品やサービスを強化するためにAIを活用することで、ガストの旅から学ぶことができる。このプレゼンテーションでは、成長戦略、ビジネス指標、提供サービスの改善と顧客基盤の拡大を目指すSaaS企業への実用的なアドバイスも取り上げられたかもしれない。全体として、このディスカッションはAI、SaaS、中小企業向けソリューションの交差点に関する貴重な洞察を提供し、SaaS企業が競争の激しい市場で成長と成功を促進するためのロードマップを提供したものと思われる。</description>
-      <pubDate>Thu, 28 Aug 2025 16:14:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-gusto-built-gus-their-ai-assistant-serving-400k-small-businesses-lessons-from-the-trenches/</guid>
-    </item>
-    <item>
-      <title>全員が100人の有料AIエージェントを持ったら、次に何が起こるか？混乱。それは来る。</title>
-      <link>https://www.saastr.com/when-we-all-have-100-ai-agents-what-happens-next-conslidation-its-coming/</link>
-      <description>この記事では、効率化を推進し競争力を維持するために、CIOがAIソリューションに割り当てる予算が増加している現在の傾向について論じている。しかし、組織がAIエージェントを含むAIアプリケーションを取得する急速なペースは、長期的には持続不可能である。CIOが従来のSaaSベンダーの数を減らしたように、AIソリューションでも同様の傾向が起こる可能性が高い。
-
-この記事では、小規模なチームでさえ、AIエージェントに年間かなりの金額を費やしていることを強調しており、企業経済がAIにシフトしていることを示している。AIは人間の労働力よりも費用対効果が高いとはいえ、かなりのコストがかかるため、AIスタートアップのエコシステムにおける統合リスクが懸念される。著者は、組織が部門ごとに多数のAIエージェントを管理することに苦慮する中、AI業界における統合の波が2022年のSaaS淘汰を上回る可能性があると予測している。
-
-SaaS企業はこの傾向に注目し、複数のAIソリューションを管理することの長期的な意味合いや業界再編の可能性を考慮しながら、AIへの投資を慎重に評価する必要がある。SaaSビジネスでは、AIテクノロジーの進化する状況を効果的にナビゲートするために、効率性、費用対効果、戦略的なAI導入に焦点を当てることが極めて重要である。</description>
-      <pubDate>Thu, 28 Aug 2025 14:10:11 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/when-we-all-have-100-ai-agents-what-happens-next-conslidation-its-coming/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：営業担当者をペアで雇用してテストすべきか？</title>
-      <link>https://www.saastr.com/dear-saastr-should-you-hire-sales-reps-in-pairs-to-test-them/</link>
-      <description>この記事では、特にSaaS企業の場合、営業担当者を2人1組で雇用することの重要性を強調している。営業担当者を1人採用するだけでは、その成功や失敗の理由を判断することが難しくなります。2人1組で採用することで、比較し、異なる顧客セグメントを理解し、どのような戦略が最も効果的かを特定することができる。このアプローチにより、営業プロセス、製品と市場の適合性、拡張性についての洞察が得られる。また、1人のMRがうまくいかない場合に備えて冗長性を持たせ、健全な競争を促進することもできる。MRを2人雇うのはコストがかかるように思えるかもしれないが、MRだけでなくビジネス・プロセス全体をテストするための戦略的な動きだ。起業して間もない企業にとって、優秀な営業担当者に投資することは、収益創出に貢献するため有益である。この記事は、2人のMRを雇用することは、パフォーマンスを評価し、十分な情報に基づいた意思決定を行い、営業プロセスを効果的に最適化するための貴重な戦略であることを示唆している。</description>
-      <pubDate>Thu, 28 Aug 2025 09:29:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-should-you-hire-sales-reps-in-pairs-to-test-them/</guid>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 15:04:27 GMT</lastBuildDate>
   </channel>
 </rss>
