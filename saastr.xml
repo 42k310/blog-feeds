@@ -5,6 +5,50 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Sep 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 03:04:56 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI対Anthropic：ランプデータは36％対12％の普及率を示すが、速度曲線は異なる物語を語る</title>
+      <link>https://www.saastr.com/openai-vs-anthropic-ramp-data-shows-36-vs-12-penetration-but-velocity-curves-tell-a-different-story/</link>
+      <description>LLMモデル支出に関するRampの最新データによると、OpenAIの採用率は36.5%でトップ、Anthropicは12.1%で加速しており、全体では44.5%のビジネス採用率となっている。このデータはAIサブスクリプションのためのビジネスクレジットカード取引に基づいており、企業契約ではなく、個別のAIツールの購入を反映している。グーグル、マイクロソフト、AWSのような大手企業は、クレジットカードのデータには含まれていない企業との契約により、市場シェアを控えめにしている可能性がある。
+
+2026～2027年の予測では、Anthropicは支出の20～25％に達する可能性があり、OpenAIは40～45％程度で停滞する可能性がある。全体的な採用率は2027年までに70-80%に達すると予想されているが、これはAI支出全体のほんの一部に過ぎず、ほとんどのボリュームは企業契約やクラウド契約を通じて流れている。
+
+SaaSのリーダーは、データの解釈におけるこの違いを理解し、戦略的な意味合いに焦点を当てるべきである。クレジットカードデータの限界を考慮し、市場シェアの評価と成長戦略の立案における企業契約の重要性を認識する必要がある。</description>
+      <pubDate>Thu, 11 Sep 2025 20:35:58 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/openai-vs-anthropic-ramp-data-shows-36-vs-12-penetration-but-velocity-curves-tell-a-different-story/</guid>
+    </item>
+    <item>
+      <title>20VC x SaaStr Is Back!イーロンの1兆ドルの給与パッケージ、OpenAIの100億ドルのセカンダリー、Sierraの100億ドルのバリュエーションとAI M&amp;Aの大きな波</title>
+      <link>https://www.saastr.com/20vc-x-saastr-is-back-elons-1-trillion-pay-package-openais-10b-secondary-sierras-10b-valuation-the-great-ai-ma-wave/</link>
+      <description>20VCとSasStrのポッドキャストで最近行われたディスカッションでは、業界の専門家であるハリー・ステビングス氏、ジェイソン・レムキン氏、ローリー・オドリスコル氏、そしてゲストのTwilioの創設者で元CEOのジェフ・ローソン氏が、SaaS企業にとって貴重な洞察を共有しました。主な内容は以下の通り：
+
+1.**SaaSメトリクスの重要性**：月次経常収益（MRR）、顧客獲得コスト（CAC）、ライフタイムバリュー（LTV）などの主要なSaaSメトリクスを理解し、追跡することは、持続可能な成長のために極めて重要です。
+
+2.**成長戦略**：製品主導の成長、カスタマーサクセスプログラム、ターゲットを絞ったマーケティングキャンペーンなど、効果的な成長戦略を実施することで、事業拡大と維持を促進することができます。
+
+3.**顧客中心のアプローチ**：顧客のニーズ、フィードバック、満足度を優先することは、SaaS業界で長期的に成功するために不可欠です。
+
+4.**リーダーシップの洞察ジェフ・ローソンのTwilioでの経験は、SaaSビジネスを成功させるための強力なリーダーシップ、革新性、適応性の重要性を浮き彫りにしました。
+
+全体的なディスカッションでは、競争の激しいSaaS業界で成長と成功を収めるためには、データ主導の戦略を活用し、顧客中心のアプローチを優先し、強力なリーダーシップを育成することが重要であることが強調されました。</description>
+      <pubDate>Thu, 11 Sep 2025 14:57:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-is-back-elons-1-trillion-pay-package-openais-10b-secondary-sierras-10b-valuation-the-great-ai-ma-wave/</guid>
+    </item>
+    <item>
+      <title>なぜ95％の営業担当者はあなたの思い通りにならないのか。  そして、それに対して何をすべきか。</title>
+      <link>https://www.saastr.com/why-95-of-sales-reps-wont-do-what-you-want-them-to-do/</link>
+      <description>この記事では、営業採用をSaaSビジネスの成長要求に合わせることの重要性を強調している。この記事では、営業担当者に基本的に向いていない職務を教え込もうとすると、しばしばフラストレーションが溜まり、目標が達成できなくなることを強調している。重要な洞察は、インバウンドのリードしか扱ったことのない営業担当者は、経験不足と感情的な回復力不足により、アウトバウンドの見込み客開拓に秀でている可能性は低いということだ。この記事では、そのような担当者の95％が、コールドコールや広範なリサーチといった真のアウトバウンド活動に苦戦していることを示唆している。RipplingのCROであるMatt Plankのストーリーはこの点を補強しており、専属のSDRのチームによってプログラムによるアウトバウンドから人間主導のアウトバウンドに移行した際にコンバージョン率が大幅に増加したことを示している。実行可能なアドバイスとしては、SaaS企業は、後から適応することを期待するのではなく、成長段階に必要な特定の営業活動に既に精通している営業担当者を採用することだ。このアプローチは、時間を節約し、フラストレーションを減らし、営業成績を向上させることができる。</description>
+      <pubDate>Thu, 11 Sep 2025 14:10:42 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-95-of-sales-reps-wont-do-what-you-want-them-to-do/</guid>
+    </item>
+    <item>
+      <title>SaaStrへカスタマーサクセス担当副社長の報酬プランはどのように構成すべきでしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-how-should-i-structure-the-comp-plan-for-a-vp-of-customer-success/</link>
+      <description>SaaSビジネスのカスタマーサクセス担当副社長の報酬プランを構成する場合、会社の成長目標をサポートする測定可能な成果と変動報酬を整合させることが極めて重要です。600万ドルのARRの段階で考慮すべき主な指標は、純収益維持率（NRR）、総収益維持率（GRR）、アップセル/拡大収益などである。しかし、特に、顧客の大部分が迅速な展開に失敗した場合、展開しない顧客は価値を実現しないため、価値実現までの時間を優先することが不可欠である。
+
+カスタマーサクセス担当副社長の成功を確実にするために、これらの指標を報酬プランに組み込むことを検討する。顧客のデプロイメントと価値実現を重視することは、リテンション率の向上とアップセル機会の増加につながります。報酬をこれらの重要な指標に連動させることで、カスタマーサクセス担当副社長は、顧客の成功を促進し、最終的に会社の成長に貢献する活動に集中するインセンティブを得ることができる。</description>
+      <pubDate>Thu, 11 Sep 2025 09:25:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-should-i-structure-the-comp-plan-for-a-vp-of-customer-success/</guid>
+    </item>
   </channel>
 </rss>
