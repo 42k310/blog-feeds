@@ -5,6 +5,31 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Sep 2025 15:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 03:04:44 GMT</lastBuildDate>
+    <item>
+      <title>LIVE完全ガイド デベロッパーいらずのバイブコーディング：5つのプロダクション・アプリを作ってみてわかったこと</title>
+      <link>https://www.saastr.com/the-live-complete-guide-to-vibe-coding-without-a-developer-what-we-actually-learned-after-building-5-production-apps/</link>
+      <description>ジェイソン・レムキンは最近、SaaStrのAIワークショップで、開発者不在のバイブ・コーディングのコンセプトについて議論した。彼は、HubSpotやSalesforceのような複雑なソフトウェアを迅速かつ簡単に構築するという非現実的な主張がネット上で出回っていることを取り上げた。レムキンは、開発者が関与することなく、本番環境で5つの実際のアプリケーションを作成し、数千人のユーザーにサービスを提供し、収益を上げることに成功したことを紹介した。しかし彼は、このプロセスは一部の人が言うほど単純なものではないと強調した。その道のりには、ノーコード開発をめぐる誇大広告の中で見過ごされがちな課題や複雑さがあった。このことは、バイブ・コーディング・ツールの能力と限界について現実的に考えることの重要性を強調している。SaaS企業は、何が達成できるかを明確に理解した上でこのようなテクノロジーに取り組み、複雑さを効果的に乗り切るために適切なリソースと戦略に投資すべきである。</description>
+      <pubDate>Fri, 12 Sep 2025 17:34:17 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-live-complete-guide-to-vibe-coding-without-a-developer-what-we-actually-learned-after-building-5-production-apps/</guid>
+    </item>
+    <item>
+      <title>あなたのVCは今頃見切りをつけているかもしれない。そんなことで立ち止まってはいけない。</title>
+      <link>https://www.saastr.com/your-vcs-may-be-giving-up-on-you-right-about-now-dont-let-that-stop-you/</link>
+      <description>この記事では、VCが低成長のSaaS企業からAI主導のポートフォリオへと焦点を移しつつあり、多くの既存SaaS企業が苦境に立たされている傾向について論じている。重要なのは、このような放棄は、実はこれらの企業にとって再集中し、成功するチャンスかもしれないということだ。このような状況に直面しているSaaS企業へのアドバイスには、以下のようなものがある：  
+1.経費を監査し、成長指標よりも収益性を重視することで、キャッシュフローを重視する考え方を取り入れること。  
+2.既存顧客のニーズを深く理解し、製品機能を強化し、市場拡大よりも顧客維持を優先することで、既存顧客に集中する。  
+3.コアの強みに焦点を当て、厳しい決断を下し、持続可能な成長のために再建することによって、会社を再評価し、再創造する。  
+この記事は、VCの支援におけるこのシフトが、VCの圧力下でこれまで成長に苦しんでいたSaaS企業にとって、より持続可能で収益性の高いビジネスモデルにつながることを強調している。</description>
+      <pubDate>Fri, 12 Sep 2025 14:10:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/your-vcs-may-be-giving-up-on-you-right-about-now-dont-let-that-stop-you/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：優れたSDRチームを作るには？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-i-build-a-great-sdr-team/</link>
+      <description>強力な営業開発担当者 (SDR) チームを構築することは、SaaS 企業、特に C-Suite やエンタープライズクライアントをターゲットとする企業の規模を拡大する上で極めて重要だ。SDRは営業パイプラインを推進する上で重要な役割を果たし、営業組織のパフォーマンスに大きな影響を与える。優れた SDR チームを構築するには、優れたコミュニケーションスキル、回復力、成長マインドを持つ適切な人材の採用に注力する。彼らが製品、ターゲット市場、営業プロセスを理解できるよう、包括的なトレーニングを提供する。明確な指標とKPIを導入してパフォーマンスを追跡し、改善のためのフィードバックを定期的に提供する。SDRと営業チームのコラボレーションを促進し、効率と効果を高める。さらに、CRMシステムやセールスエンゲージメントプラットフォームなどのテクノロジーを活用して、プロセスを合理化し、生産性を最大化する。強力なSDRチームの構築に投資することで、SaaS企業は成長を促進し、価値の高い顧客への販売を成功させることができる。</description>
+      <pubDate>Fri, 12 Sep 2025 09:36:13 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-build-a-great-sdr-team/</guid>
+    </item>
   </channel>
 </rss>
