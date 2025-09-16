@@ -5,6 +5,29 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Sep 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 03:04:50 GMT</lastBuildDate>
+    <item>
+      <title>IPOの大覚醒：我々は戻ってきたか？</title>
+      <link>https://www.saastr.com/the-great-ipo-awakening-are-we-back/</link>
+      <description>先週はIPO活動が急増し、5日間で6社が44億ドルを調達し、この4年間で最もIPO活動が集中した。この傾向は、強力なファンダメンタルズを持つ賢明な企業が、保守的な価格設定と投資家の選別性を特徴とする良好な市場環境を利用することで、IPOが持続的に復活する可能性を示している。IPOの窓は大きく開いており、企業が現在の市場環境を活用して株式市場デビューを成功させる機会を提供している。主なポイントは、2021年のピーク以来の伝統的なIPOの最高額、7つの大型IPOのデビュー、ほとんどの主要案件がレンジを上回る価格設定、KlarnaやFigureのような主要銘柄の大幅なオーバーサブスクリプションなどである。2021年の高騰したバリュエーションとは異なり、このIPOの波は、より強力なファンダメンタルズと真の投資家の精査に支えられており、より持続可能な成長軌道を示唆している。株式公開を目指すSaaS企業は、IPOを成功させるためにこうした市場力学を活用することを検討すべきである。</description>
+      <pubDate>Mon, 15 Sep 2025 15:13:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-great-ipo-awakening-are-we-back/</guid>
+    </item>
+    <item>
+      <title>静かに潜む解約：  アクティベーション率90％未満</title>
+      <link>https://www.saastr.com/the-silent-lurking-churn-activation-rates-less-than-90/</link>
+      <description>SaaS企業にとってアクティベーション率は非常に重要であり、90％の顧客が迅速なアクティベーションを必要としている。TTV（Time to Value）は、アクティベーション率を測定するための重要な指標である。SMB SaaSの場合、TTVは理想的には30日未満であるべきで、解約を防ぐにはスピードが重要です。中堅企業向けSaaSの場合、カスタマイズの必要性からTTVは30～90日程度になる可能性がある。エンタープライズSaaSのTTVは3～6ヶ月かかるが、最初の90日以内に価値を示すことが重要である。アクティベーション率を毎週追跡し、測定し、議論することをお勧めします。Klaviyoは、ARR $600Mの10万以上のSMB顧客に対して、30日以内に90％のアクティベーションを達成した。SaaS企業は、解約のリスクを減らすために、顧客に迅速に製品を導入してもらうことに注力すべきである。持続的な成長と顧客維持を確実にするために、他の重要な指標とともにアクティベーション率を優先することをお勧めします。</description>
+      <pubDate>Mon, 15 Sep 2025 14:10:56 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-silent-lurking-churn-activation-rates-less-than-90/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：トップSDRがSMBのアカウントエグゼクティブになるためのベストな方法は？</title>
+      <link>https://www.saastr.com/dear-saastr-whats-the-best-way-to-help-top-sdrs-become-smb-account-execs/</link>
+      <description>優秀な営業開発担当者（SDR）が中小企業（SMB）のアカウント・エグゼクティブの役割に効果的に移行するには、既存の強みを生かし、完全な営業プロセスに触れることができる体系的な育成プランを提供することが極めて重要です。このような優秀な人材には、明確な昇進の道を用意し、モチベーションと意欲を維持させることが不可欠である。すべてのトップ SDR がそのような転身を望むとは限らないが、成長の機会を提供することは、人材を維持するための鍵である。
+
+主な洞察には、個々のニーズに合わせた育成プランの重要性、セールスサイクル全体への接触、トップパフォーマーに対する明確なキャリアアップパスの必要性などが含まれる。SaaS 企業は、早い段階で高い潜在能力を持つ SDR を特定し、SMB アカウントエグゼクティブとして成功するために必要なトレーニングとサポートを提供することに重点を置くべきである。優秀な人材の成長と育成に投資することで、SaaS企業は営業チームの効果を高め、ビジネスの成長を促進することができる。</description>
+      <pubDate>Mon, 15 Sep 2025 09:12:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-whats-the-best-way-to-help-top-sdrs-become-smb-account-execs/</guid>
+    </item>
   </channel>
 </rss>
