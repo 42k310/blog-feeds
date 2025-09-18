@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Sep 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 03:04:43 GMT</lastBuildDate>
+    <item>
+      <title>偉大なるAIトークンのパラドックス：我々はいかにしてAIコストを下げ、同時に...上げるのか</title>
+      <link>https://www.saastr.com/the-great-ai-token-paradox-how-were-simultaneously-driving-costs-down-and-usage-through-the-roof/</link>
+      <description>この記事では、SaaStrにおける2つの新しいAIツールの導入について論じ、トークンの消費量とコストの大きな違いについて強調している。最初のツールであるAI Startup Valuation Calculatorは、トークンの消費を最小限に抑え、1回あたりの使用コストを低く抑えながら、275,000以上のバリュエーションを処理した。対照的に、2つ目のツールであるAI VC Pitch Deck Analyzerは、その複雑なマルチステッププロセスのため、かなり多くのトークンを消費し、分析あたりのコストが高かった。この記事では、トークンの使用量はAIワークフローの複雑さによって大きく異なるため、将来のAIコストの予算を立てることの重要性を強調している。また、単純なAI機能はすぐにコモディティ化に直面する可能性がある一方、マルチステッププロセスを持つAIネイティブワークフローは、長期的にはより高い防御力と価値を提供することを示唆している。B2Bのリーダーにとって重要なことは、変動するAIコストを予測し、複雑でコンテキストを意識したAIワークフローの構築に注力し、AIネイティブ・ソリューションに投資することである。</description>
+      <pubDate>Wed, 17 Sep 2025 14:10:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-great-ai-token-paradox-how-were-simultaneously-driving-costs-down-and-usage-through-the-roof/</guid>
+    </item>
+    <item>
+      <title>VCに売り込むときの私の第一のヒント：  投資してくれる確率を聞いてみよう。</title>
+      <link>https://www.saastr.com/my-1-tip-when-you-are-pitching-vcs-just-ask-them-what-the-odds-are-theyd-invest/</link>
+      <description>起業家でありSaaSの専門家であるジェイソン・レムキンは、ピッチミーティングの終わりにベンチャーキャピタルからの投資の可能性について質問しても構わないと提案している。この質問は、当事者双方にとって時間の節約になる。その場でフィードバックを求めることで、起業家はベンチャーキャピタルの関心度や潜在的な懸念について貴重な洞察を得ることができ、問題があれば即座に対処したり、他の投資家により効率的に移ることができる。このアプローチは、スタートアップの世界のペースの速い性質に合致しており、起業家が資金調達の機会を追求する際に、十分な情報に基づいた決断を下すのに役立つ。レムキンのアドバイスは、SaaS企業の資金調達プロセスにおける明確なコミュニケーション、透明性、効率性の重要性を強調している。</description>
+      <pubDate>Wed, 17 Sep 2025 14:09:11 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/my-1-tip-when-you-are-pitching-vcs-just-ask-them-what-the-odds-are-theyd-invest/</guid>
+    </item>
+    <item>
+      <title>親愛なるSaaStr：ARR1,000万ドルを達成しましたが、成長が鈍化し、資金繰りが厳しい状況です。  売却すべきか、それとも続けるべきか？</title>
+      <link>https://www.saastr.com/dear-saastr-im-at-10m-arr-but-growth-has-slowed-and-cash-is-tight-should-we-sell-or-push-on/</link>
+      <description>ARR1,000万ドル、成長率40％のSaaS企業が、資金繰りの悪化により困難に直面している。売却するか、押し通すかを決定するために、以下を検討する：1.1.ARRが1億ドルに達し、ユニットエコノミーが堅調に推移する事業の可能性を評価する。2.ベンチャー市場が厳しくても、資本調達を検討する。3.長期的な可能性を見出す買い手に売却するための戦略的オプションを評価する。4.中核製品、優良顧客、効率的な成長チャネルに集中することで、非情な効率化を選択する。5.セールスやマーケティングなど、インパクトのある副社長を一人採用する。この段階では、特にARRが200万ドル程度であれば、一人一人の優秀な採用が大きな利益を生む可能性がある。ARR1,000万ドルから2,000万ドルへのスケールアップという困難な局面を乗り切るために、賢明な意思決定を優先させる。</description>
+      <pubDate>Wed, 17 Sep 2025 09:04:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-im-at-10m-arr-but-growth-has-slowed-and-cash-is-tight-should-we-sell-or-push-on/</guid>
+    </item>
   </channel>
 </rss>
