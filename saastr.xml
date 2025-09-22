@@ -5,6 +5,34 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Sep 2025 15:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 03:04:44 GMT</lastBuildDate>
+    <item>
+      <title>SaaStrの新しいAI VC Deck Analyzerを通じて、最初の700以上のVCピッチから学んだこと：資金調達可能なベンチャーキャピタルは少ない...しかし、我々はどのように、なぜ、そしてどこであなたを示すことができる</title>
+      <link>https://www.saastr.com/what-weve-learned-from-our-first-700-vc-pitch-decks-in-saastrs-new-ai-pitch-analyzer-the-data-is-brutal-and-eye-opening/</link>
+      <description>この記事では、750以上のB2BベンチャーキャピタルのピッチデッキをAIで分析した結果を紹介している。主なポイントは以下の通り：
+
+- ピッチデッキの95%は予防可能なミスにより資金調達不可能と判断され、Aレベルの評価を得たのはわずか5%。
+- 重要な3つのスコアTraction Score（成長指標を測定）、Deck Quality Score（ストーリーの流れを評価）、Fundability Score（投資魅力を評価）。
+- 成功と失敗を予測するパターン：市場規模に多くのスライドを費やす、重要な指標を隠す、競合を軽視するといった致命的な欠陥。
+- 5％の資金を獲得したデッキの成功パターン：スライド1からメトリクスを用いた急進的な透明性、競合を認めること、差別化を明確に示すこと。
+
+SaaS企業への実行可能なアドバイスとしては、メトリクスでリードすること、重要な数字を透明化すること、競合を正直に取り上げること、資金調達の可能性を高めるために早期に牽引力を示すようデッキを構成することなどが挙げられる。このデータは、VCのピッチ・デッキにおける簡潔でインパクトのあるストーリーテリングの重要性を強調している。</description>
+      <pubDate>Sun, 21 Sep 2025 18:15:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/what-weve-learned-from-our-first-700-vc-pitch-decks-in-saastrs-new-ai-pitch-analyzer-the-data-is-brutal-and-eye-opening/</guid>
+    </item>
+    <item>
+      <title>隠された罠：CROが値上げを評価されるべきではない理由</title>
+      <link>https://www.saastr.com/the-hidden-trap-why-your-cro-shouldnt-get-credit-for-price-increases/</link>
+      <description>B2BのSaaS企業の多くは、成長の鈍化に直面すると、安易な解決策として値上げに走る。この戦略は、営業チームが新規顧客獲得と同じように値上げで利益を得るという、インセンティブ構造のズレにつながりかねず、長期的な悪影響をもたらす可能性がある。値上げへの過度の依存は、製品使用率の低下、顧客獲得コストの増加、競争力の低下といった根本的な問題を覆い隠してしまう可能性がある。この問題に対処するためには、オーガニックグロースと値上げの影響を分けて報告すること、値上げ収入と新規事業収入のクレジットを区別するよう報酬体系を調整すること、価値提供に基づく値上げに対する厳格なガバナンスを導入すること、顧客センチメントとリテンション指標を通じて真の影響を測定することなどが提案される。最終的には、長期的な成長のために値上げだけに頼るのではなく、一貫して顧客に付加価値を提供することに重点を置くべきである。</description>
+      <pubDate>Sun, 21 Sep 2025 14:10:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-hidden-trap-why-your-cro-shouldnt-get-credit-for-price-increases/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：買収に同意したくない取締役会をどのように管理しますか？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-you-manage-a-board-that-doesnt-want-to-agree-to-an-acquisition/</link>
+      <description>買収に消極的な取締役会を管理するには、協調と説得に焦点を当てる。まず、なぜその買収提案が会社の価値観や従業員の利益に合致するのか、その理由を明らかにすることから始める。決断の背景にある論理とデータを提示し、長所と短所を並べ立てながら、買収を強く主張する。オファーを受け入れない場合のリスクをフレームワーク化し、潜在的な市場シフト、競争上の脅威、資金調達の課題などを強調する。このリスクと、強力な出口、チームの安定性、戦略的利益といった買収の報酬とのバランスをとる。VCは恐怖や貪欲モードで動くことが多いので、売却しない場合のリスクを強調する。創業者のビジョンと取締役会の懸念のギャップを埋めるために、これらの戦略を活用する。買収に関する取締役会の意見の相違を管理するためのより詳細なガイドについては、デイブ・ケロッグとの対談を参照。</description>
+      <pubDate>Sun, 21 Sep 2025 09:08:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-you-manage-a-board-that-doesnt-want-to-agree-to-an-acquisition/</guid>
+    </item>
   </channel>
 </rss>
