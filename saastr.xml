@@ -5,31 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Sep 2025 03:04:48 GMT</lastBuildDate>
-    <item>
-      <title>SaaStrのAIエージェントプレイブック：20人以上のエージェントを導入し、1桁の人員で8桁の売上を達成した方法</title>
-      <link>https://www.saastr.com/saastrs-ai-agent-playbook-how-we-deployed-20-agents-to-scale-8-figure-revenue-with-single-digit-headcount/</link>
-      <description>この記事では、SaaStrが半年かけてAIエージェントを導入し、アウトバウンドセールスやカスタマーサポートなど様々なタスクを管理する専門エージェントをゼロから20人以上に増やしたことについて論じている。焦点は、どのような戦略が成功し、何が失敗したか、そしてその展開を裏付ける実際のデータである。このシフトは、SaaSビジネスにAIを統合し、オペレーションと顧客体験を強化するというトレンドの高まりを浮き彫りにしている。
-
-主な洞察には、AIの導入戦略を慎重に評価すること、効果を評価するためにパフォーマンス指標を追跡すること、AIエージェントのパフォーマンスを最適化するために継続的に反復することの重要性が含まれる。SaaStrが採用したデータ主導のアプローチは、情報に基づいた意思決定を行い、ビジネスの成長を促進するためにアナリティクスを活用することの重要性を強調しています。
-
-AIテクノロジーの統合を検討しているSaaS企業にとって、この記事は、成功した戦略と失敗した戦略の両方から学び、パフォーマンス指標を注意深く監視し、進化するビジネスニーズに合わせてAIソリューションを機敏に適応させるための実用的なアドバイスを提供しています。このケーススタディは、AIを活用して効率性と顧客満足度の向上を目指すSaaS企業にとって貴重なリソースとなる。</description>
-      <pubDate>Thu, 25 Sep 2025 15:07:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/saastrs-ai-agent-playbook-how-we-deployed-20-agents-to-scale-8-figure-revenue-with-single-digit-headcount/</guid>
-    </item>
-    <item>
-      <title>偉大な共同創設者を失うな、何が何でも</title>
-      <link>https://www.saastr.com/dont-lose-a-great-cofounder-whatever-it-takes/</link>
-      <description>この記事は、SaaSビジネスにおける優れた共同創業者の重要な役割を強調している。上場SaaS企業の90％が2人以上の共同創業者であり、強力な創業チームの重要性を示している。著者は成功と失敗の個人的な経験を共有し、多くの欠点は優れた共同創業者の欠如に起因するとしている。この洞察は、共同創業者の存在が、製品のベロシティ、スケールする能力、全体的な成功の可能性に大きく影響することを示唆している。この記事では、共同創業者が創業者のコミットメントと一致しなくても、経営幹部として優秀である限り、より良い後任者がいない限り、その人を維持することが重要であるとアドバイスしている。創業者の離職は、製品開発の遅れ、複数製品への展開の難しさ、早期撤退の可能性などにつながることが多い。この記事は、優れた共同創業者を持つ企業は、より強固な企業文化を持ち、従業員の離職率が低く、長期的な成功に貢献する傾向があることを強調して締めくくっている。重要なことは、SaaSビジネスにおいて、成長を促進し、課題を効果的に克服するためには、有能で献身的な共同創業者を持つことの重要性である。</description>
-      <pubDate>Thu, 25 Sep 2025 14:10:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dont-lose-a-great-cofounder-whatever-it-takes/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：SDRマネージャーにアカウントエグゼクティブの管理も任せることはできますか？</title>
-      <link>https://www.saastr.com/dear-saastr-can-i-have-my-sdr-manager-also-manage-my-account-executives/</link>
-      <description>SDRマネージャーとアカウントエグゼクティブマネージャーの役割を組み合わせることは、その人が営業本部長に昇進しない限り、お勧めできない。これらの役割にはそれぞれ異なる責任があり、一人のマネジャーの下に統合することは、非効率とズレを招く可能性がある。SDR マネージャーが唯一の営業マネージャーである場合は、両方の役割を管理させたいという誘惑に負けてはならない。その代わりに、もし彼らに能力と意欲があれば、営業部長に昇進させることを検討しよう。そうでない場合は、アカウント・エグゼクティブを管理した経験のある有能な営業責任者が採用されるまで待つことをお勧めする。SaaSビジネスにおける営業チームの成功と有効性を確保するためには、明確な役割定義と適切なリーダーシップ体制を整えることが極めて重要です。</description>
-      <pubDate>Thu, 25 Sep 2025 09:44:34 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-can-i-have-my-sdr-manager-also-manage-my-account-executives/</guid>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
