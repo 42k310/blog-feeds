@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Sep 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 03:04:37 GMT</lastBuildDate>
+    <item>
+      <title>AIエージェントは本当に他のエージェントを管理できるのか？Replit V3では可能です。  とてもクールだが、仕事は減るどころか増える。  私が学んだこと</title>
+      <link>https://www.saastr.com/can-ai-agents-really-manage-other-agents-they-can-in-replit-v3-what-ive-learned/</link>
+      <description>この記事では、AIエージェントが他のAIエージェントを自律的に管理する様子を3時間連続で観察したという重要な進展について論じている。重要なポイントは、これがSaaS（Software-as-a-Service）業界のB2B創業者に与える潜在的な影響である。この記事は、SaaSビジネスにおけるAI技術の理解と活用の重要性を強調している。AIを活用した自動化がSaaS企業にもたらす効率性と拡張性のメリットを強調し、業績向上と成長につなげるとしている。記事では、B2B企業の創業者はAIの進歩に注目し、市場での競争力を維持するために、自社の製品やサービスにAI技術を組み込むことを検討すべきであると提言している。この動向は、SaaS企業が業務、顧客体験、全体的なビジネスの成功を強化するためにAI機能に投資する必要性を強調している。</description>
+      <pubDate>Sun, 28 Sep 2025 17:56:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/can-ai-agents-really-manage-other-agents-they-can-in-replit-v3-what-ive-learned/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  私たちは1,000万ドルのランレートを達成していますが、その多くは消費ベースです。  これは「ARR」に入りますか？</title>
+      <link>https://www.saastr.com/dear-saastr-were-at-10m-run-rate-but-a-lot-is-consumption-based-does-that-count-as-arr/</link>
+      <description>この記事では、SaaS企業において、消費型収益を年間経常収益（ARR）としてカウントすべきかどうかについて論じている。従来、ARRは消費型モデルを除いた、真の経常収益のみを対象としていた。しかし、ShopifyやToastのように、2つのタイプの収益を区別している企業もある。
+
+重要な洞察として、SaaSビジネスにおける収益モデルのニュアンスを理解することの重要性が挙げられる。ARR15億ドルのToastのような企業は、SaaS企業にとって貴重な教訓を与えてくれる。SaaSビジネスでは、成長と業績を正確に測定するために、さまざまな収益の流れを追跡・分析することが極めて重要である。
+
+実行可能なアドバイスとしては、SaaS企業が経常収益と消費ベースの収益を明確に定義し、区別する必要性が挙げられます。これらの区別を理解することは、成長戦略、財務計画、全体的な業績評価に関して、十分な情報に基づいた意思決定を行う上で役立ちます。収益の流れを正確に分類することで、SaaS企業は財務の健全性をより適切に評価し、持続可能な成長を推進するための戦略的意思決定を行うことができます。</description>
+      <pubDate>Sun, 28 Sep 2025 09:56:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-were-at-10m-run-rate-but-a-lot-is-consumption-based-does-that-count-as-arr/</guid>
+    </item>
   </channel>
 </rss>
