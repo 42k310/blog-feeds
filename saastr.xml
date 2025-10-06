@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Oct 2025 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>株式が無価値になったとき、VCを責めるのはやめよう。彼らはただのイネイブラーだ。</title>
+      <link>https://www.saastr.com/stop-blaming-vcs-when-your-equity-goes-to-zero-they-are-just-the-enablers/</link>
+      <description>この記事では、新興企業が多額の資金を調達したにもかかわらず、予想を下回る金額で撤退した場合、従業員が十分な利益を得られなかったとしてVCを非難する一般的なシナリオについて論じている。この記事では、最終的にはCEOが大金を調達する決断を下し、会社の成功に大きな期待をかけることを強調している。この記事では、最小限の資金で利益を上げているSaaS企業を引き合いに出し、B2Bビジネスを成功させるために億単位の資金を調達する必要はないと論じている。ユニコーンの地位を追い求めるか、あるいは何もしないかというCEOの選択が強調され、従業員に大きなリターンをもたらすためには10億ドル規模のイグジットが必要であることが指摘されている。巨額の資金調達の意味合いと、大きな成果を達成しなければならないというプレッシャーを理解することの重要性を強調している。記事は最後に、CEOに対し、成長なら何でもありのアプローチと、多額のベンチャーキャピタル調達に伴う大きな期待に注意するようアドバイスしている。</description>
+      <pubDate>Sun, 05 Oct 2025 14:10:13 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/stop-blaming-vcs-when-your-equity-goes-to-zero-they-are-just-the-enablers/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  週1回の全員ミーティングのアジェンダは？</title>
+      <link>https://www.saastr.com/dear-saastr-whats-a-good-agenda-for-a-weekly-all-hands-meeting/</link>
+      <description>この記事は、特にチームの半分が開発者で、本来はミーティングに参加しないような少人数のチームに対して、週1回の全員ミーティングを構成するための洞察を提供している。重要なポイントとしては、ミーティングを簡潔で適切なものに保つために明確なアジェンダを設定すること、士気を高めるために勝利と進捗を強調すること、サイロを壊し全体像を示すために部門横断的な最新情報を提供すること、貴重な洞察を集めるために質問を奨励すること、仲間意識を高めるために楽しみを注入すること、信頼を築くためにメトリクスと課題について透明性を保つこと、ミーティングをダイナミックで魅力的なものに保つために持ち回りで参加すること、などが挙げられる。
+
+SaaS企業のための実行可能なアドバイスとしては、ミーティングをチームの仕事や会社の成功につなげることで価値あるものにすること、ミーティングを短く、集中して、魅力的なものにすること、毎週誰かを任命して最新情報やデモを共有させ、全員を参加させること、開発者がミーティングの目的や関連性を理解していることを確認することなどがある。これらの戦略に従うことで、SaaS企業はチームメンバーのエンゲージメントと納得感を向上させることができる。</description>
+      <pubDate>Sun, 05 Oct 2025 09:55:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-whats-a-good-agenda-for-a-weekly-all-hands-meeting/</guid>
+    </item>
   </channel>
 </rss>
