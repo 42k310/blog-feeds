@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Oct 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 15:04:42 GMT</lastBuildDate>
+    <item>
+      <title>コードの30％をAIが書いても信用されない理由</title>
+      <link>https://www.saastr.com/why-you-dont-get-any-credit-anymore-for-30-of-your-code-being-written-by-ai/</link>
+      <description>この記事では、SaaS企業のソフトウェア開発におけるAIの進化について論じている。著者は、コーディングにおけるAIの利用が特別なことではなく、当たり前のことになりつつあるという視点の変化を強調している。焦点は、AIによって書かれたコードの割合に驚嘆することから、今や標準的な慣行として考慮することに移っている。この記事では、2025年までに年間経常収益（ARR）が10億ドルを超えるSaaS企業であるCursorについて触れ、業界におけるAIの急速な成長と採用を紹介している。
+
+主な洞察として、コーディング実務におけるAIの常態化、短期間でのテクノロジーの急速な進化、SaaS企業がこれらの変化に迅速に適応する必要性などが挙げられる。SaaS企業は、市場での競争力を維持するために、コーディングの効率化とイノベーションのためにAIツールを採用することが推奨されている。この記事では、ARR成長率などの指標を追跡し、それに応じて成長戦略を適応させることの重要性を強調し、ダイナミックなSaaSの状況に歩調を合わせている。</description>
+      <pubDate>Sat, 11 Oct 2025 14:44:47 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-you-dont-get-any-credit-anymore-for-30-of-your-code-being-written-by-ai/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  プロスペクトが抱く「暗黙の反対」トップは？</title>
+      <link>https://www.saastr.com/dear-saastr-what-are-the-top-unspoken-objections-prospects-have/</link>
+      <description>この記事では、SaaS企業の営業プロセスにおいて、話し言葉と話し言葉によらない反論の両方に対処することの重要性について論じている。価格に関する懸念や既存の競合など、口に出される反対意見はより分かりやすく、ROIを示したり、オーダーメイドのソリューションを提供したりすることで直接取り組むことができます。一方、信頼の欠如や変化への恐れなど、言葉にならない異議は、躊躇の根本的な理由であることが多く、発見するのがより困難な場合があります。このような異議は、時間稼ぎや曖昧な応答といった見込み客の行動によって明らかになることがある。暗黙の異論に対処するために、営業担当者はオープンエンドな質問をして見込み客の懸念を深く掘り下げ、解決策へと導くべきである。この2つのタイプの異論を見極め、効果的に対処することで、営業チームは取引を成功させる可能性を高めることができる。重要なことは、SaaS企業が隠れた障害を克服し、売上成長を促進するためには、暗黙の異論を理解し、それに対処することが極めて重要であるということです。</description>
+      <pubDate>Sat, 11 Oct 2025 09:21:48 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-are-the-top-unspoken-objections-prospects-have/</guid>
+    </item>
   </channel>
 </rss>
