@@ -5,22 +5,37 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Oct 2025 15:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 03:04:44 GMT</lastBuildDate>
     <item>
-      <title>コードの30％をAIが書いても信用されない理由</title>
-      <link>https://www.saastr.com/why-you-dont-get-any-credit-anymore-for-30-of-your-code-being-written-by-ai/</link>
-      <description>この記事では、SaaS企業のソフトウェア開発におけるAIの進化について論じている。著者は、コーディングにおけるAIの利用が特別なことではなく、当たり前のことになりつつあるという視点の変化を強調している。焦点は、AIによって書かれたコードの割合に驚嘆することから、今や標準的な慣行として考慮することに移っている。この記事では、2025年までに年間経常収益（ARR）が10億ドルを超えるSaaS企業であるCursorについて触れ、業界におけるAIの急速な成長と採用を紹介している。
-
-主な洞察として、コーディング実務におけるAIの常態化、短期間でのテクノロジーの急速な進化、SaaS企業がこれらの変化に迅速に適応する必要性などが挙げられる。SaaS企業は、市場での競争力を維持するために、コーディングの効率化とイノベーションのためにAIツールを採用することが推奨されている。この記事では、ARR成長率などの指標を追跡し、それに応じて成長戦略を適応させることの重要性を強調し、ダイナミックなSaaSの状況に歩調を合わせている。</description>
-      <pubDate>Sat, 11 Oct 2025 14:44:47 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-you-dont-get-any-credit-anymore-for-30-of-your-code-being-written-by-ai/</guid>
+      <title>ヴェルセルが93億ドル、リプリットが30億ドルを達成した理由。AI「一夜にして成功」への長い道のり</title>
+      <link>https://www.saastr.com/how-vercel-hit-9-3b-and-replit-hit-3b-after-a-decade-the-long-paths-to-ai-overnight-success/</link>
+      <description>VercelとReplitはAIを活用した開発エージェントで目覚ましい成功を収めたが、この「一夜にして」の成功は実は10年近い準備の結果だった。2015年に設立されたVercelは、当初は困難に直面したが、2019年に100万ドルだった収益を2021年には2100万ドルまで成長させた。彼らは戦略的にデプロイメント・インフラを構築し、Next.jsが重要な要素となったフレームワークを最適化した。Replitも同様に、Replit Agentを立ち上げてから1年で、年商280万ドルから1億5000万ドルに成長した。両社とも、自社のプラットフォームにAIを統合した後、飛躍的な成長を遂げた。Vercelは2025年に2億ドルのARRを達成し、同社のAI SDKは週に300万ダウンロードされ、v0のユーザーは350万人に達した。同社の収益は前年比82％増加し、93億ドルの評価額で3億ドルのシリーズF資金調達につながった。重要なことは、AIの時代に大きな成長と成功を目指すSaaS企業にとって、持続的な努力、戦略的計画、継続的なイノベーションが極めて重要であるということだ。</description>
+      <pubDate>Sun, 12 Oct 2025 17:37:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-vercel-hit-9-3b-and-replit-hit-3b-after-a-decade-the-long-paths-to-ai-overnight-success/</guid>
     </item>
     <item>
-      <title>SaaStrへ：  プロスペクトが抱く「暗黙の反対」トップは？</title>
-      <link>https://www.saastr.com/dear-saastr-what-are-the-top-unspoken-objections-prospects-have/</link>
-      <description>この記事では、SaaS企業の営業プロセスにおいて、話し言葉と話し言葉によらない反論の両方に対処することの重要性について論じている。価格に関する懸念や既存の競合など、口に出される反対意見はより分かりやすく、ROIを示したり、オーダーメイドのソリューションを提供したりすることで直接取り組むことができます。一方、信頼の欠如や変化への恐れなど、言葉にならない異議は、躊躇の根本的な理由であることが多く、発見するのがより困難な場合があります。このような異議は、時間稼ぎや曖昧な応答といった見込み客の行動によって明らかになることがある。暗黙の異論に対処するために、営業担当者はオープンエンドな質問をして見込み客の懸念を深く掘り下げ、解決策へと導くべきである。この2つのタイプの異論を見極め、効果的に対処することで、営業チームは取引を成功させる可能性を高めることができる。重要なことは、SaaS企業が隠れた障害を克服し、売上成長を促進するためには、暗黙の異論を理解し、それに対処することが極めて重要であるということです。</description>
-      <pubDate>Sat, 11 Oct 2025 09:21:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-are-the-top-unspoken-objections-prospects-have/</guid>
+      <title>VCリザーブアロケーションの実際：B2B創業者のための実践ガイド</title>
+      <link>https://www.saastr.com/how-vc-reserve-allocation-actually-works-a-practical-guide-for-b2b-founders/</link>
+      <description>ベンチャー・キャピタルは通常、企業のライフサイクルにおけるフォローオン・ラウンドのために、初期投資の2～3倍を準備する。フォロー・オン・キャピタルの配分プロセスはシステマティックであり、企業の成長とともに進化する。創業者は、企業が成熟するにつれて、ベンチャーキャピタルがこれらの準備金の配分をどのように決定するかを理解することが極めて重要です。SaaS企業として、フォローオン投資を呼び込むためには、成長の可能性と顧客価値を示す主要な指標に焦点を当てることが不可欠です。創業者は、投資家と強固な関係を築き、透明性を維持し、進捗状況やマイルストーンを一貫して伝えることを優先すべきである。追加出資の意思決定のメカニズムを理解することは、SaaS企業が効果的に戦略を立て、将来の資金調達ラウンドを計画し、成長の可能性を最大化するのに役立ちます。</description>
+      <pubDate>Sun, 12 Oct 2025 14:10:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-vc-reserve-allocation-actually-works-a-practical-guide-for-b2b-founders/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：  ARR500万ドルから1,000万ドルのCEOの典型的な週はどのようなものですか？</title>
+      <link>https://www.saastr.com/dear-saastr-what-does-a-ceos-typical-week-look-like-at-arr/</link>
+      <description>この記事では、年間経常収益（ARR）が500万～1,000万ドルのSaaS企業のCEOの典型的な1週間について概説している。CEOの1週間は、リーダーシップ・ミーティング、リクルーティング、顧客エンゲージメント、チーム・アラインメント、戦略立案などの主要な活動を中心に構成されている。その内訳には、各日の具体的なタスクが含まれています：
+
+- 月曜日月曜日：リーダーシップ・ミーティング、リクルーティング、顧客との電話
+- 火曜日製品戦略、採用活動、パイプライン・レビュー
+- 水曜日カスタマー・インタラクション、チーム1:1、戦略セッション
+- 木曜日リクルーティング、マーケティング・レビュー、プロダクト／エンジニアリング・シンク
+- 金曜日カスタマー・サクセス・フォーカス、全員ミーティング、総括
+- 土曜日反省と計画、個人的な時間
+- 日曜日軽作業、休息と充電
+
+この記事では、採用、顧客エンゲージメント、チームサポート、戦略的思考のバランスの重要性を強調している。特にAIの時代におけるB2Bの競争環境と、CEOがこれらの主要分野に優先順位をつける必要性を強調している。スケジュールは堅苦しい計画ではなく、枠組みとして機能するため、ビジネスのダイナミックな性質に柔軟に対応することができる。</description>
+      <pubDate>Sun, 12 Oct 2025 09:29:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-does-a-ceos-typical-week-look-like-at-arr/</guid>
     </item>
   </channel>
 </rss>
