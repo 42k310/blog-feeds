@@ -5,6 +5,37 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Oct 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 03:04:44 GMT</lastBuildDate>
+    <item>
+      <title>20VC×SaaStrが帰ってきた!ベンチャーの新しいルールポートフォリオ構築、キングメイキング、そして創業者が立ち去るとき</title>
+      <link>https://www.saastr.com/20vc-x-saastr-is-back-the-new-rules-of-venture-portfolio-construction-kingmaking-and-when-founders-walk-away/</link>
+      <description>著名なアーリーステージ投資家であるIAベンチャーズの創設者ロジャー・エレンバーグが、新たなファンドを設立してベンチャーキャピタルに復帰した。ドイツ銀行やCSFBでの職務を含め、機関投資家として25年以上の経験を持つ彼の洞察は、今日の進化する市場において非常に価値がある。ローリー・オドリスコル、ジェイソン・レムキン、ハリー・ステビングスといった業界の専門家たちとの最近のディスカッションでは、ベンチャー・キャピタルの変わりゆく状況について掘り下げ、投資家が犯しがちな間違いを浮き彫りにした。
+
+競争の激しい市場を切り抜け、ベンチャーキャピタルを誘致しようとしているSaaS企業にとって、重要なポイントは、現在の市場ダイナミクスを理解すること、進化するトレンドに合わせて成長戦略を適応させること、投資家に売り込む際にありがちな落とし穴を避けることの重要性などである。エレンバーグのようなベテラン投資家の専門知識を活用し、業界の変化について常に情報を得ることは、ダイナミックなテック・エコシステムで資金調達と持続的成長を目指すSaaS企業にとって不可欠である。</description>
+      <pubDate>Thu, 16 Oct 2025 15:21:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-is-back-the-new-rules-of-venture-portfolio-construction-kingmaking-and-when-founders-walk-away/</guid>
+    </item>
+    <item>
+      <title>スタートアップでは、営業で頑張れば頑張るほど、良いリードが得られる</title>
+      <link>https://www.saastr.com/n-startups-the-harder-you-work-in-sales-the-more-good-leads-you-get/</link>
+      <description>この記事では、成長中の新興企業におけるリードの分配と、ラウンドロビン方式を使うか営業担当者にリードを獲得させるかの決断について論じている。この記事では、ラウンドロビンからセグメンテーション、テリトリー配分へとリード分配戦略の進化を強調している。重要な洞察は、新興企業が規模を拡大するにつれ、リードの分配はより複雑になり、営業効果を最大化するための戦略的アプローチが必要になるということである。
+
+SaaS企業の場合、ラウンドロビンかアーンドリードかの選択は、チームサイズ、セールスプロセスの複雑さ、ターゲット市場のセグメンテーションなど様々な要因によって決まる。当初はラウンドロビン方式を導入することで、公平なリード配分を確保することができますが、ビジネスが成長するにつれ、担当者の専門知識やテリトリーに基づいてリードをセグメント化することで、コンバージョン率を高めることができます。さらに、パフォーマンスベースの基準によってリードを獲得させることで、担当者のモチベーションとアカウンタビリティを高めることができます。
+
+SaaSビジネスは、コンバージョン率、販売速度、顧客獲得コストなどのパフォーマンス指標に基づいて、リード分配戦略を継続的に分析する必要があります。ビジネス目標や営業チームの能力に合わせてリード分配方法を適応させることで、SaaS企業は成長と収益生成を最適化することができる。</description>
+      <pubDate>Thu, 16 Oct 2025 14:11:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/n-startups-the-harder-you-work-in-sales-the-more-good-leads-you-get/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：SDR:AEハンドオフに適したLead-to-Demo比率は？</title>
+      <link>https://www.saastr.com/dear-saastr-whats-a-good-lead-to-demo-ratio-for-our-sdrae-handoff/</link>
+      <description>この記事では、中堅市場のSaaSセールスにおけるアウトバウンドチームにとって重要な指標であるリードからデモへのコンバージョン率の重要性について論じている。15%以下はプロセス改善の必要性を示唆し、25%以上ではチェリーピッキングやトップオブファネルの狭さがスケーラビリティの妨げになっている可能性がある。
+
+リードからデモへのコンバージョン率を改善する主な戦略には、より良いターゲティングのために理想的な顧客像（ICP）を絞り込むこと、リードに響くメッセージングを洗練させること、リード回答のスピードを確保すること、コンバージョン率の高いリードに優先順位をつけるためにデータと予測モデルを活用することなどがある。
+
+この記事では、SDRからAEへの引き継ぎの成功を測定するためには、強いリードからデモへの率が不可欠であることを強調している。リードからデモへの率が高くても、デモからクローズへの率が低い場合、問題はファネルのさらに下にある可能性がある。全体として、リードからデモへのコンバージョンを改善することに注力することは、SaaSビジネスの営業プロセスを最適化する上で極めて重要である。</description>
+      <pubDate>Thu, 16 Oct 2025 10:01:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-whats-a-good-lead-to-demo-ratio-for-our-sdrae-handoff/</guid>
+    </item>
   </channel>
 </rss>
