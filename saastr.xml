@@ -5,26 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Oct 2025 03:04:45 GMT</lastBuildDate>
-    <item>
-      <title>10ヶ月でゼロから20のAIエージェントに：実際に機能するAIエージェントを導入するためのSaaStrプレイブック</title>
-      <link>https://www.saastr.com/from-zero-to-20-ai-agents-in-10-months-the-saastr-playbook-for-actually-deploying-ai-agents-that-work/</link>
-      <description>この記事では、SaaStrのCEOであるJason、SaaStrの最高AI責任者であるAmelia、そしてQualifiedの創設者兼CEOであるKraig Swensrudが、20以上のAIエージェントの導入を成功させるために行ったミーティングから得られた洞察を論じています。主な収穫は、効果的な展開戦略の重要性と、AIエージェントを本番環境で機能させるために学んだ教訓などである。ディスカッションでは、堅牢なAIモデルの重要性、データ品質、実装を成功させるための継続的なモニタリングなどのトピックが取り上げられた。
-
-AIエージェントの導入を検討しているSaaS企業にとって、この記事は、AIをサポートする強力なインフラストラクチャの確保、データ品質とトレーニングへの投資、継続的なモニタリングと最適化の優先順位付けといった領域について、実用的なアドバイスを提供するかもしれない。議論の中で共有された課題とベストプラクティスを理解することは、AIテクノロジーを効果的に業務に活用することを目指すSaaS企業にとって、貴重な洞察を提供することができる。</description>
-      <pubDate>Tue, 21 Oct 2025 14:10:40 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/from-zero-to-20-ai-agents-in-10-months-the-saastr-playbook-for-actually-deploying-ai-agents-that-work/</guid>
-    </item>
-    <item>
-      <title>18ヶ月でゼロから8桁へ：デカゴンCEOのAIネイティブSaaS成長のためのプレイブック。  そしてアクセルと提携した理由</title>
-      <link>https://www.saastr.com/from-zero-to-eight-figures-in-18-months-decagon-ceos-playbook-for-ai-native-saas-growth-and-why-they-partnered-with-accel/</link>
-      <description>Decagon社のCEOであるジェシー・チャン氏は、同社がいかにして急成長を遂げ、わずか1年半で8桁の売上を達成したかについて語った。Decagonの成功は、AIネイティブのSaaS企業であることに起因している。主な戦略としては、製品と市場の適合性に焦点を当てること、顧客インサイトのためにAIを活用すること、顧客の成功を優先することなどが挙げられた。チャンは、データ主導の意思決定と、顧客からのフィードバックに基づく継続的な反復の重要性を強調した。
-
-デカゴンの成長プレイブックは、顧客獲得コスト（CAC）、生涯価値（LTV）、解約率といったSaaSの指標を理解することの重要性を強調した。また、強力な企業文化とチームの結束力を維持しながら、営業とマーケティングに投資することで効率的に規模を拡大する必要性も強調した。
-
-同様の成長を目指すSaaS企業に対しては、AIの統合を優先すること、強固なカスタマーサクセス戦略を確立すること、情報に基づいた意思決定を促すために主要指標を綿密にモニタリングすることなどがアドバイスされている。プロダクト・マーケット・フィットにおける強固な基盤の構築、AIテクノロジーの効果的な活用、顧客中心のアプローチの育成は、成長の加速を目指すSaaS企業にとって重要なポイントである。</description>
-      <pubDate>Tue, 21 Oct 2025 11:33:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/from-zero-to-eight-figures-in-18-months-decagon-ceos-playbook-for-ai-native-saas-growth-and-why-they-partnered-with-accel/</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Oct 2025 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
