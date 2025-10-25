@@ -5,30 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Oct 2025 03:04:45 GMT</lastBuildDate>
-    <item>
-      <title>AIの時代はすべてが勝負：なぜ16のコアAIエージェントのうち1つだけがレガシー・ベンダー製なのか？</title>
-      <link>https://www.saastr.com/everythings-in-play-in-the-age-of-ai-why-only-1-of-our-16-core-ai-agents-comes-from-a-legacy-vendor/</link>
-      <description>この記事では、SaaS業界におけるAIエージェントの重要性を論じ、レガシーベンダーよりもAIネイティブ企業へのシフトを強調している。著者は、SaaStrで自社のAIエージェントスタックを紹介し、16のコアAIエージェントのうち、レガシーベンダーのSalesforceのものは1つだけであることを明らかにしている。彼らは、B2B企業が新しいAIツールやベンダーに対してオープンであり、従来のプレイブックに挑戦していることを強調している。
-
-著者は、彼らのAIエージェントスタックを分解している。その中には、AI Mentor、AI VC Pitch Deck Analyzer、AI Valuation Calculator、AI Startup Benchmarking、AI VC Dealflow、AI Content Reviewなど、彼らがReplit上で独自に構築したエージェントが含まれている。彼らは、従来のベンダーのプロセスと比較して、これらのエージェントを開発することができたスピードと敏捷性を強調している。
-
-さらに、Agentforce（Salesforce）、Artisan AI SDR、Qualified AI BDR、Delphi for Sales OpsといったサードパーティのAIエージェントが、SDR/Outbound、BDR/Inbound、Sales Opsの目的で言及されている。
-
-重要なことは、SaaS企業が急速に進化するAIテクノロジーにおいて競争力を維持し、革新的であり続けるためには、AIネイティブ・ソリューションを取り入れることが重要であるということだ。</description>
-      <pubDate>Fri, 24 Oct 2025 14:10:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/everythings-in-play-in-the-age-of-ai-why-only-1-of-our-16-core-ai-agents-comes-from-a-legacy-vendor/</guid>
-    </item>
-    <item>
-      <title>30億ドルへのスケールアップ：クリオがAIとイノベーションで垂直型SaaSの強豪を築いた方法 ジャック・ニュートンCEOと語る</title>
-      <link>https://www.saastr.com/scaling-to-3b-how-clio-built-a-vertical-saas-powerhouse-with-ai-and-innovation-with-clios-ceo/</link>
-      <description>2008年、ジャック・ニュートンとライアン・ウォンは、クラウドコンピューティングとSaaSがまだ台頭していた時代に、弁護士向けのクラウドベースの業務管理システムであるClioを設立した。その後、技術の進歩や顧客ニーズの変化に対応しながら、クリオはAIを搭載したプラットフォームへと進化してきた。この道のりは、SaaS企業にとって、革新性、適応性、業界のトレンドを先取りすることの重要性を浮き彫りにしている。
-
-主な洞察には、新技術を採用するパイオニアであること、顧客の懸念を理解すること、市場の需要を満たすために製品提供を継続的に進化させることの重要性などが含まれる。SaaS企業は、革新を重視し、顧客との信頼を築き、成長を促進し、市場での競争力を維持するために技術の進歩を受け入れることによって、クリオの旅から学ぶことができます。
-
-SaaS企業への実行可能なアドバイスとしては、研究開発への投資、業界トレンドの情報収集、顧客からのフィードバックへの傾聴、市場の変化への機敏な対応などが挙げられる。イノベーションと顧客からの信頼を優先することで、SaaS企業は長期的な成功と成長を目指すことができる。</description>
-      <pubDate>Fri, 24 Oct 2025 11:57:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/scaling-to-3b-how-clio-built-a-vertical-saas-powerhouse-with-ai-and-innovation-with-clios-ceo/</guid>
-    </item>
+    <lastBuildDate>Sat, 25 Oct 2025 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
