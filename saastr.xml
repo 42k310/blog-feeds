@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Oct 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 03:04:41 GMT</lastBuildDate>
+    <item>
+      <title>CMO、CRO、その他の皆様へ：AIを「学ぶ」のはやめよう。導入してください。あなた自身のことです。</title>
+      <link>https://www.saastr.com/dear-cmos-cros-etc-stop-learning-ai-start-deploying-it-yourself/</link>
+      <description>この記事では、AIを学ぶだけでなく、実際にAIを実践することの重要性を強調している。著者は、単純なエージェント型AI製品を選び、基本的なユースケースを選び、それを配備し、訓練し、テストし、その意味を直接理解することを提案している。単にチームメンバーにタスクを任せるのではなく、AI技術の実践的な経験を積むことをアドバイスしている。この記事では、トレーニングのニュアンスを把握し、問題を特定し、成功するユースケースと失敗するユースケースを区別し、経済的影響を評価するために、AIエージェントを個人的に導入することの重要性を強調している。著者は、AI技術の実地経験を持つエグゼクティブは、将来の雇用市場で競争力を持つだろうと強調している。最終的に、2025年の新しいエグゼクティブのスキルセットには、具体的なAIの導入、トレーニングプロセス、遭遇した課題、解決策、達成された結果について議論できることが含まれる。重要なことは、プロフェッショナルがAIの可能性を真に理解し、職務に活用するためには、AI技術の実践的な経験が不可欠であるということである。</description>
+      <pubDate>Mon, 27 Oct 2025 14:10:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-cmos-cros-etc-stop-learning-ai-start-deploying-it-yourself/</guid>
+    </item>
+    <item>
+      <title>なぜ「WTF」製品だけが今日も生き残れるのか？</title>
+      <link>https://www.saastr.com/the-change-economy-with-bonfire-ventures-brett-queener-why-your-product-must-ship-every-30-days-or-die/</link>
+      <description>Bonfireベンチャーズのパートナーであり、セールスフォース・ドットコムやスマートリクルーターズなど、ソフトウェア業界で豊富な経験を持つブレット・キューナー氏が、SaaStr年次+AIサミットで見識を披露した。ビジネス・スケーリングのバックグラウンドを持つ同氏は、アプリケーション・ソフトウェア企業を中心に、市場参入戦略と成長のためのスケーリングの重要性を強調した。製品の立ち上げと収益成長の推進におけるクィーンの経験は、市場でのプレゼンス拡大を目指すSaaS企業に貴重な洞察を提供する。
+
+クィーンの専門知識から得られる主なポイントは、市場参入戦略の重要性、製品開発におけるAIの活用、収益前段階から大幅な年間経常収益（ARR）への拡大などです。SaaSビジネスは、成長のための強固な基盤の構築、AI技術の効果的な活用、収益促進と事業拡大のための市場開拓戦術の成功に注力することで、Queenerの洞察から利益を得ることができます。進化するソフトウェア業界に関するQueenerのリアルタイムの観察は、競争の激しい市場で持続的な成長と成功を目指すSaaS企業に実用的なアドバイスを提供します。</description>
+      <pubDate>Mon, 27 Oct 2025 11:51:48 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-change-economy-with-bonfire-ventures-brett-queener-why-your-product-must-ship-every-30-days-or-die/</guid>
+    </item>
   </channel>
 </rss>
