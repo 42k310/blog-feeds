@@ -5,15 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Oct 2025 15:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 03:04:45 GMT</lastBuildDate>
     <item>
-      <title>シリーズBの残酷な真実：投資家の資金を倍増させる案件は3件に1件のみ、カルタの最新データより</title>
-      <link>https://www.saastr.com/the-brutal-truth-about-series-b-only-1-in-3-deals-even-double-investors-money-per-latest-carta-data/</link>
-      <description>2018年、FigmaのシリーズB投資は、それ以前の資金調達ラウンドを見送った投資家に対して100倍近いリターンをもたらした。しかし、2018年にシリーズBの資本を調達した547の米国の新興企業に関するCartaのデータは、異なる現実を示している。これらの企業の38.6%は現在、シリーズBの評価額と同じかそれ以下であり、さらに27.4%は1～2倍の小幅なリターンしか達成していない。つまり、シリーズB案件の66%は7年後に2倍を下回るか、辛うじて上回る程度で取引されており、ベンチャーキャピタル投資に期待される3倍以上のリターンを下回っている。
+      <title>CRO、CCO、CPOが入社初週に顧客と会わないなら......次へ。  謝って、辞めさせましょう。</title>
+      <link>https://www.saastr.com/if-your-cro-cco-or-cpo-doesnt-meet-with-customers-their-first-week-on-the-job-move-on-apologize-but-let-them-go/</link>
+      <description>SaaS業界の著名人であるジェイソン・レムキン（Jason Lemkin）氏のツイートでは、新しく採用した最高収益責任者（CRO）が最初の1週間に顧客と一度も会わなかった場合、それは誤採用の兆候であると指摘している。レムキン氏は、企業のリーダーは誤雇用の責任を取り、CROに謝罪し、その後解雇するようアドバイスしている。
 
-重要なことは、Figmaのようなサクセス・ストーリーは賞賛されるものの、業界では例外であるということです。SaaS企業は、シリーズB資金調達後の事業拡大に伴う課題や不確実性を認識しておく必要があります。SaaS企業は、競争の激しい市場で長期的に成功する可能性を高めるために、持続可能な成長戦略、効率的な資源配分、強力な製品と市場の適合性の維持に集中することが極めて重要です。</description>
-      <pubDate>Tue, 28 Oct 2025 11:27:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-brutal-truth-about-series-b-only-1-in-3-deals-even-double-investors-money-per-latest-carta-data/</guid>
+この助言は、SaaS企業のCROにとって顧客との対話が重要であることを強調し、ビジネスの成長と成功を推進する上で初期の顧客エンゲージメントが極めて重要であることを強調している。レムキンは、当初から顧客とのミーティングの重要性を強調することで、顧客との関係を育み、ニーズを理解し、SaaSビジネスの収益を促進するCROの役割を強調している。
+
+SaaS企業にとって、このツイートは顧客獲得と維持においてCROが果たす極めて重要な役割を再認識させるものだ。また、ビジネス目標や顧客中心戦略との整合性を確保するために、採用ミスに迅速に対処する必要性も強調されている。</description>
+      <pubDate>Wed, 29 Oct 2025 14:10:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/if-your-cro-cco-or-cpo-doesnt-meet-with-customers-their-first-week-on-the-job-move-on-apologize-but-let-them-go/</guid>
+    </item>
+    <item>
+      <title>ARR24億ドルのMongoDBから学ぶ5つの興味深いこと</title>
+      <link>https://www.saastr.com/5-interesting-learnings-from-mongodb-at-2-4-billion-in-arr/</link>
+      <description>MongoDBは復活を遂げ、ARR24億ドル、成長率24%に再加速し、株価は45%上昇した。主な洞察は以下の通り：AtlasのARRの70%は、コアデータベース以外の複数のプラットフォーム機能を利用する顧客によるもので、これらの顧客のARRは5倍高い。これは、ポイントソリューションではなく、プラットフォームを提供することの重要性を示している。さらに、22年度の10万ドル超の顧客のコホートは、わずか3年後に当初のARRの200％まで拡大し、10万ドルから100万ドルのセグメントにおける強力な拡大ダイナミクスを示している。さらに、AtlasのARRの約30％は、少なくとも1つのAIユースケースを持つ顧客によるもので、MongoDBの高成長エンジンにとってAIワークロードの重要性が高まっていることを強調している。SaaS企業はMongoDBの成功から、プラットフォームの提供に集中し、ARR10万ドル以降の顧客拡大を育成し、成長を促進するためにAIのような新技術を活用することで学ぶことができる。</description>
+      <pubDate>Wed, 29 Oct 2025 12:46:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-mongodb-at-2-4-billion-in-arr/</guid>
     </item>
   </channel>
 </rss>
