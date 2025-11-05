@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Nov 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 03:04:48 GMT</lastBuildDate>
+    <item>
+      <title>Dev氏がMongoDBのCEOを退任：時代の終わりの始まりか？</title>
+      <link>https://www.saastr.com/dev-steps-down-as-ceo-of-mongodb-the-beginning-of-the-end-of-an-era/</link>
+      <description>11年間MongoDBのCEOを務めたDev Ittycheria氏が退任し、CJ Desai氏が後任となる。イティチェリアCEOの決断は、第3四半期の予想を上回り、成長を遂げたにもかかわらず、成功したCEOが急速に進化するAI時代にあと5年をコミットすることに疑問を感じている傾向を反映している。HubSpotのブライアン・ハリガンも2021年に同じような経験をしており、スノーモービルでの事故が内省を促した後、エグゼクティブ・チェアマンに移行し、CEOの役割をヤミニ・ランガンに譲った。これらの事例は、CEOがその役割の要求の変化に適応する意欲を評価することの重要性を浮き彫りにしている。SaaS企業は、リーダーシップの継承計画の必要性を認識し、CEOのビジョンと会社の将来の軌道との整合性を確保することで、これらの変遷から学ぶことができる。持続的な成長には、新しいテクノロジーや市場力学への適応が不可欠であり、SaaSビジネスには、こうした変化を効果的に乗り切る意思と能力を備えたリーダーの存在が不可欠である。</description>
+      <pubDate>Tue, 04 Nov 2025 15:10:12 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dev-steps-down-as-ceo-of-mongodb-the-beginning-of-the-end-of-an-era/</guid>
+    </item>
+    <item>
+      <title>シードラウンドは3年以上必要：3,365社のスタートアップが語るシリーズAの新タイムライン</title>
+      <link>https://www.saastr.com/your-seed-round-now-needs-to-last-3-years-what-3365-startups-tell-us-about-the-new-series-a-timeline/</link>
+      <description>この記事では、シリーズA資金を調達するSaaS新興企業の状況の変化について論じており、シードからシリーズAまで3年以上かかる企業が39%に達していることを強調している。主な洞察として、シードラウンドは3年以上継続する必要があり、シリーズAの指標は現在、200～300万ドルのARR、効率的な成長、強力なリテンションが必要である。この記事では、SaaS企業に対して、より長いランウェイを計画し、必要に応じてブリッジラウンドを検討し、燃焼効率を優先し、より高い資金調達の期待に備えるようアドバイスしている。進化する資金調達環境を乗り切るために、無駄を省き、スクラップ・アンド・エフェクティブに運営することの重要性を強調している。このデータは、シードからシリーズAまでの期間が長くなっていることを示唆しており、資金調達を求めるSaaS新興企業に対する期待と要件の変化を示している。</description>
+      <pubDate>Tue, 04 Nov 2025 13:26:02 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/your-seed-round-now-needs-to-last-3-years-what-3365-startups-tell-us-about-the-new-series-a-timeline/</guid>
+    </item>
   </channel>
 </rss>
