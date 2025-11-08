@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Nov 2025 03:04:58 GMT</lastBuildDate>
-    <item>
-      <title>SaaStr AI LondonのトップAIエージェントセッション：実際に機能するエージェントの導入方法を学ぶ</title>
-      <link>https://www.saastr.com/the-top-ai-agent-sessions-at-saastr-ai-london-learn-how-to-actually-deploy-agents-that-work/</link>
-      <description>この記事では、B2B企業におけるAIの効果的な導入に焦点を当てたSaaStr AIロンドンイベントの主要セッションを紹介しています。主な洞察には、AIの導入における利用指標よりもビジネス成果を測定することの重要性、規模に応じたGo-to-Market戦略の超カスタマイズ、成長のためにAIを業務に統合して成功したArtisanやWizのような企業から学ぶことなどが含まれる。実用的なアドバイスには、AI SDRの展開におけるよくある間違いを修正すること、GTMを成功させるためにAIのシグナルを活用すること、AIを活用した高パフォーマンスの収益チームを構築することなどが含まれる。セッションは、IntercomやDatabricksのような企業の実例を交えながら、営業、カスタマーサービス、収益業務にAIを導入するための実践的な戦略を取り上げる。このイベントは、B2B領域における成長のためにAIを活用することを真剣に考えている企業に、戦術的なプレイブックと洞察を提供することを目的としている。</description>
-      <pubDate>Fri, 07 Nov 2025 22:53:39 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-top-ai-agent-sessions-at-saastr-ai-london-learn-how-to-actually-deploy-agents-that-work/</guid>
-    </item>
-    <item>
-      <title>AIを学ぶのを止めよう。AIを始めよう。SaaStrを運営する20人以上のエージェントたち</title>
-      <link>https://www.saastr.com/stop-learning-ai-start-doing-ai-the-20-agents-running-saastr/</link>
-      <description>Dreamforce 2025では、ジェイソン・レムキン氏、アメリア・イバラ氏、クレイグ・スウェンスラッド氏によるディスカッションが行われ、SaaSビジネスにおけるAIエージェントに関する実践的な洞察が掘り下げられた。理論的な概念よりも、現実世界での応用、収益創出、失敗からの学習に焦点が当てられた。主な収穫は、SaaS企業にAIエージェントを導入する際の具体的な結果と収益への影響の重要性である。ディスカッションでは、AIエージェントの導入を成功させるための戦略、AI技術による収益創出、この分野における過去の失敗から学んだ教訓などが取り上げられた。SaaS企業は、AIの実用的な実装に焦点を当て、そのようなイニシアチブの収益効果を測定し、失敗から学んでAI戦略を洗練させることで、利益を得ることができる。このセッションでは、AIエージェントを効果的に活用して成長と成功を目指すSaaS企業にとって、実用的なアドバイスが提供されたようだ。</description>
-      <pubDate>Fri, 07 Nov 2025 15:10:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/stop-learning-ai-start-doing-ai-the-20-agents-running-saastr/</guid>
-    </item>
-    <item>
-      <title>Datadog初のARR1億ドル：創業者オリヴィエ・ポメルCEOはいかにして顧客中心の巨大モニタリング企業を築き上げたか</title>
-      <link>https://www.saastr.com/the-first-100000000-arr-at-datadog-how-founder-ceo-olivier-pomel-built-a-customer-centric-monitoring-giant/</link>
-      <description>SaaSで成功を収めているDatadogが、年間経常収益（ARR）1億ドルを突破し、大きな節目を迎えた。オリヴィエ・ポメルCEOは、SaaStrイベントのセッションで洞察を披露した。この対談では、SaaS企業がIPO後に直面する課題が浮き彫りにされ、現在の市場環境ではこのような成長を達成することがより困難になる可能性があることが示された。これは、SaaSビジネスにおける強力な成長戦略と指標の重要性を示しています。大幅な成長を目指すSaaS企業は、ARR、顧客獲得コスト（CAC）、ライフタイムバリュー（LTV）、解約率などの主要な指標に焦点を当て、業績を追跡して最適化する必要がある。さらに、Datadogのような成功したSaaS企業から学ぶことで、業界の他の企業にとっても貴重な洞察を得ることができる。SaaStrのような業界イベントに参加することで、ネットワーキングの機会や、業界のリーダーたちが共有する貴重な知識にアクセスすることができ、SaaS企業の成長と成功に役立ちます。</description>
-      <pubDate>Fri, 07 Nov 2025 11:39:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-first-100000000-arr-at-datadog-how-founder-ceo-olivier-pomel-built-a-customer-centric-monitoring-giant/</guid>
-    </item>
+    <lastBuildDate>Sat, 08 Nov 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
