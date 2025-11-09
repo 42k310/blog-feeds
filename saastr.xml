@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Nov 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>競合他社から電話がかかってきたら：正しいM&amp;Aの決断を下すための6つの質問</title>
+      <link>https://www.saastr.com/when-competitors-come-calling-6-questions-that-will-help-you-make-the-right-ma-decision/</link>
+      <description>この記事では、SaaS業界におけるM&amp;Aオファーを評価するための戦略的フレームワークについて論じている。この記事では、買収の機会に直面した際に創業者が考慮すべき6つの重要な質問に焦点を当てている。最初の質問は、直感を信じるだけでなく、客観的な分析でそれを検証することを強調している。最初は興味がなくても、市場情報を収集し、価値ある関係を維持するためにミーティングに参加することを提案している。2つ目の質問では、競合他社に追いつくため、あるいはバイ・アンド・ビルド戦略を実行するためなど、オファーの背後にある戦略的動機を理解することに重点を置いている。明確な統合戦略のないオファーは、統合されたビジネスではなく、単なる一部門を運営することになりかねないと警告している。
+
+提供されるアドバイスは、直感と分析をバランスよく組み合わせてM&amp;Aのオファーにアプローチし、創業者が個人的利益と戦略的影響の両方を考慮するようにすることである。買収企業の動機と統合計画を理解することで、創業者は長期的な目標に沿った情報に基づいた決断を下し、買収プロセスにおける潜在的な落とし穴を回避することができる。</description>
+      <pubDate>Sat, 08 Nov 2025 13:10:08 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/when-competitors-come-calling-6-questions-that-will-help-you-make-the-right-ma-decision/</guid>
+    </item>
+    <item>
+      <title>今週のSaaStr AIアプリ：Dust - あなたの会社のデータを実際に知っているカスタムAIエージェントを構築する</title>
+      <link>https://www.saastr.com/saastr-ai-app-of-the-week-dust/</link>
+      <description>Dustは、従業員がツールやデータにリンクしたAIエージェントを作成できるようにするノーコード・プラットフォームであり、Doctolib、Qonto、Clayのような企業は、毎週70％の採用率を経験している。これは、組織内のユーザーエンゲージメントと採用を促進するDustの有効性を浮き彫りにしている。ユーザーの採用率を高めたいSaaSビジネスにとって、Dustのようなノーコード・プラットフォームの活用は価値ある戦略となり得る。従業員が技術的な専門知識を必要とせずにAIエージェントを構築できるようにすることで、企業は生産性を高め、プロセスを合理化することができる。さらに、Doctolib、Qonto、Clayのような企業のサクセスストーリーは、革新的なテクノロジーを導入することで、SaaS企業の成長と効率化を促進できることを示す例となる。SaaS企業は、ユーザー・エンゲージメントを向上させ、採用率を高め、ビジネス全体の成功を促進するために、同様のツールの導入を検討すべきである。</description>
+      <pubDate>Sat, 08 Nov 2025 13:06:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-dust/</guid>
+    </item>
   </channel>
 </rss>
