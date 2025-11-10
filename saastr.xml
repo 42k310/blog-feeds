@@ -5,6 +5,26 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Nov 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 03:04:41 GMT</lastBuildDate>
+    <item>
+      <title>SaaStr.aiのスタートアップ評価額が60万を超えました。データから読み取れるVCの資金調達の現状とは？</title>
+      <link>https://www.saastr.com/we-just-crossed-600000-startup-valuations-on-saastr-ai-heres-what-600000-data-points-tell-us-about-what-vcs-are-actually-funding-right-now/</link>
+      <description>SaaStr AIバリュエーションカリキュレータは、90日未満で60万以上のスタートアップの評価と、市場でのより良い評価ツールの必要性を示し、大幅な採用を見ました。この利用急増は、創業者、VC、その他の利害関係者が使用する従来の評価方法の不十分さを浮き彫りにしています。この計算機の精度は、5,000件以上の最近のVCの資金調達ラウンド、Cartaの非公開市場データ、BessemerのCloud Index、その他の主要な業界ベンチマークを分析したことに由来する。アーリーステージのB2B SaaSおよびAI企業に貴重な洞察を提供するために、実際にクローズしたVCディールからのリアルデータの重要性を強調している。
+
+データから得られる重要な洞察には、バリュエーションを決定する際の成長率の重要性が含まれ、成長率の高い伝統的なSaaS企業は、バリュエーション倍率の点で成長速度の遅いAI企業を上回ることができる。さらに、このデータから、シリーズAでの資金調達を目指す多くの企業は、ARRや成長率などの主要指標に基づく準備が整っていない可能性があることが明らかになった。この記事は、投資家の関心を引くためには、単に「AI搭載」というラベルを貼ることよりも、持続可能な成長と堅実なユニットエコノミクスの重要性を強調している。</description>
+      <pubDate>Sun, 09 Nov 2025 17:26:29 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/we-just-crossed-600000-startup-valuations-on-saastr-ai-heres-what-600000-data-points-tell-us-about-what-vcs-are-actually-funding-right-now/</guid>
+    </item>
+    <item>
+      <title>凡庸な営業担当者と優秀な営業担当者を分ける1つのポイント</title>
+      <link>https://www.saastr.com/the-1-thing-that-separates-mediocre-sales-execs-from-great-ones-and-why-most-vps-get-this-wrong/</link>
+      <description>SaaS業界の著名人であるジェイソン・レムキンは、凡庸な営業担当者、営業担当副社長、最高収益責任者（CRO）に共通する問題、つまり初日の製品知識の欠如を強調している。レムキンは、セールスを成功させるためには製品を理解することが重要だと強調する。この洞察は、SaaSビジネスにおいて営業効果を高めるために製品知識が果たす重要な役割を強調しています。
+
+SaaS企業にとって、このツイートは営業担当者にとって製品知識が不可欠であることを再認識させるものです。営業成績を向上させるために、企業は営業チームに対する包括的な製品トレーニングに投資すべきです。営業担当者、営業担当副社長、CROが初日から製品を深く理解することで、SaaS企業は営業戦略を強化し、製品の価値提案を顧客によりよく伝え、収益成長を促進することができる。
+
+結論として、競争の激しいSaaS市場でセールスの成功と持続的な成長を目指すSaaS企業にとって、営業チームにおける製品知識の優先順位付けは極めて重要である。</description>
+      <pubDate>Sun, 09 Nov 2025 15:10:07 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-1-thing-that-separates-mediocre-sales-execs-from-great-ones-and-why-most-vps-get-this-wrong/</guid>
+    </item>
   </channel>
 </rss>
