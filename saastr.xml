@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Nov 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 03:04:36 GMT</lastBuildDate>
+    <item>
+      <title>125日間、75万回の使用、ひとつの実現：私たちのAIエージェントの一部は、今や本当にチームの一員です。  Replit v3は最初の</title>
+      <link>https://www.saastr.com/the-day-ai-agents-stopped-being-tools-and-became-my-team-125-days-of-vibe-coding-at-750000-uses/</link>
+      <description>この記事では、ソフトウェア開発におけるAIエージェントの進化について、特にReplitのAIエージェントがチームの不可欠な一員となったことに焦点を当てて論じている。AIが単なるツールから協力的なチームメイトへと変化したことが強調され、AIが人間のチームメンバーと共に議論、機能開発、問題解決に積極的に参加している様子が紹介されている。この移行により、よりスムーズなコラボレーションと、より効率的な開発プロセスが可能になった。著者は、わずか125日前と現在とでは、AIとの協働に大きな違いがあることを強調し、AIエージェントがいかに積極的に会話に参加し、要件を理解し、最適化を提案し、ソフトウェア・ソリューションの構築に貢献しているかを紹介している。この協力的なダイナミックさは、AIと人間のチームメンバーが同期しているように見える、よりシームレスなワークフローにつながっている。この記事では、AIエージェントの開発チームへの実用的な統合と、このシフトがソフトウェア開発プロセスの生産性と有効性にプラスの影響を与えたことを強調している。</description>
+      <pubDate>Sat, 15 Nov 2025 15:10:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-day-ai-agents-stopped-being-tools-and-became-my-team-125-days-of-vibe-coding-at-750000-uses/</guid>
+    </item>
+    <item>
+      <title>今週のSaaStr AIアプリ：HappyFox - ナレッジベースにとどまるAIでサポートチケットを50%削減</title>
+      <link>https://www.saastr.com/saastr-ai-app-of-the-week-happyfox-cut-support-tickets-50-with-ai-that-actually-stays-inside-your-knowledge-base/</link>
+      <description>HappyFoxは、ベンチャーキャピタルからの資金提供を受けることなく、1万2,000社のグローバル企業にAIを活用した支援プラットフォームを提供している。同社は12月1-2日に開催されるSaaStr AI Londonに出展する。B2B SaaS企業にとって、カスタマーサポートをコストセンターとしてではなく、AIを活用した効率化エンジンとして捉えることは、財務上の損失を防ぐために極めて重要である。HappyFoxは、Malt、Qonto、Pennylaneのような企業が、サポートチケットのクローズ時間を50％短縮し、年間5万時間を節約することを可能にしました。この成功は、カスタマーサポート業務にAIを活用し、効率化とコスト削減を推進することの意義を浮き彫りにしている。SaaS企業は、カスタマー・サポート・プロセスを強化し、全体的なビジネス・パフォーマンスを向上させるために、AIを活用したソリューションの採用を検討すべきである。SaaStr AI Londonのようなイベントに参加すれば、業務の最適化を目指すSaaS企業に貴重な洞察とネットワーキングの機会を提供できる。</description>
+      <pubDate>Sat, 15 Nov 2025 11:54:27 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-happyfox-cut-support-tickets-50-with-ai-that-actually-stays-inside-your-knowledge-base/</guid>
+    </item>
   </channel>
 </rss>
