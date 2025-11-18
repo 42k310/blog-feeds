@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Nov 2025 15:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>希望と祈りで資金計画を立てるのはやめよう：なぜあなたのC-60/C-90/C-10計画は後ろ向きなのか？</title>
+      <link>https://www.saastr.com/stop-building-financial-plans-on-hope-and-prayer-why-your-c-60-c-90-c-10-planning-is-backwards/</link>
+      <description>この記事では、SaaSの事業計画でよくある落とし穴について論じている。企業は、第4四半期に大幅な増収となる楽観的すぎる収益予測を提示し、キャッシュフローの問題を引き起こす。著者のジェイソンは、このような計画は現実的な予測よりも希望と祈りに近いものだと強調している。彼は、この傾向は、適切な精査をすることなく、創業者をなだめるために、オペレーションや財務の副社長によってますます広まっていると指摘する。この記事は、このような欠陥のある財務モデルに依存することの危険性を強調している。
+
+重要なポイントは、希望的観測ではなく、データと市場洞察に基づいて現実的な財務予測を立てることの重要性である。SaaS企業は、「第4四半期のホッケースティック」アプローチを避け、代わりに年間を通じて持続可能な成長に焦点を当てることをお勧めします。創業者は、財務計画が実現可能で、会社のリソースと目標に沿ったものであることを確認するため、積極的にテストと検証を行うことが推奨される。さらに、SaaS業界で長期的に成功するためには、正確で実行可能な財務モデルを作成するために、創業者、オペレーション、財務の各チームが協力する必要性が強調されている。</description>
+      <pubDate>Mon, 17 Nov 2025 15:10:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/stop-building-financial-plans-on-hope-and-prayer-why-your-c-60-c-90-c-10-planning-is-backwards/</guid>
+    </item>
+    <item>
+      <title>SaaStr + Agentforce：まだ始まったばかりだが、結果は本当に、本当に強い</title>
+      <link>https://www.saastr.com/saastr-agentforce-its-early-but-the-results-are-really-really-strong/</link>
+      <description>同社は最近、SaaStrで10以上の既存のAIエージェントとともに、Salesforce AgentforceをAIスタックに統合した。Salesforceの管理者が必要なのではないか、セットアップに課題があるのではないかという当初の懸念にもかかわらず、統合はスムーズに進みました。Agentforceのトレーニングは欠かせませんでしたが、初期の結果は素晴らしいものでした。1ヶ月後の主な指標としては、開封率72％（人間が送信したメールの場合は0％）、AIプラットフォームの中で最も高い応答率、以前は無視されていたリードとの再エンゲージメント、6ヶ月間フォローアップがなかったコンタクトとの取引成立などが挙げられます。この成功は、Agentforceの有効性と、SaaSビジネスにおける適切なトレーニングとAI技術の導入の効果を実証している。顧客エンゲージメントと営業プロセスの強化を目指すSaaS企業は、AgentforceのようなAIソリューションの活用を検討し、徹底したトレーニングとモニタリングに注力することで、短期間で大きな成果を上げることができます。</description>
+      <pubDate>Mon, 17 Nov 2025 13:49:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-agentforce-its-early-but-the-results-are-really-really-strong/</guid>
+    </item>
   </channel>
 </rss>
