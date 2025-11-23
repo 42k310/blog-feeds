@@ -5,42 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Nov 2025 03:04:55 GMT</lastBuildDate>
-    <item>
-      <title>Gemini 3、バイブコーディングで最大の頭痛の種を解決：Vibeコーディングで、あなたのサイトがまるで... Vibeコーディングで、あなたのサイトがまるで... Vibeコーディングで、あなたのサイトがまるで...</title>
-      <link>https://www.saastr.com/gemini-3-solves-one-of-the-biggest-headaches-with-vibe-coding-now-your-site-doesnt-have-to-look-like-it-was-vibe-coded/</link>
-      <description>この記事では、AIが生成したウェブサイトのデザイン要素の共通性について論じており、アイコンやフォント、色、ボタンのスタイルなどが類似しているために独自性がないことを強調している。しかし、この問題の解決策として、Gemini 3と呼ばれる新しいツールが紹介されている。Gemini 3を使えば、デザイナーがいなくてもデザイン性の高いアプリを作成することができ、他のAIが生成したサイトと比較して、より個性的でパーソナライズされた外観を提供することができる。このツールは、ユーザーが迅速かつ容易に、群衆から際立ったアプリをデザインすることを可能にする能力で賞賛されている。この技術革新は、AI支援デザインツールの領域における重要な発展として認められている。この記事では、Replitの新しいデザインモードを称賛するJason Lemkin氏のツイートが紹介され、SaaS製品のデザイン能力を強化するGemini 3のインパクトが強調されている。</description>
-      <pubDate>Sat, 22 Nov 2025 16:19:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/gemini-3-solves-one-of-the-biggest-headaches-with-vibe-coding-now-your-site-doesnt-have-to-look-like-it-was-vibe-coded/</guid>
-    </item>
-    <item>
-      <title>今週のAIアプリオーラセル - 15のツールを置き換えるAIネイティブCRM</title>
-      <link>https://www.saastr.com/ai-app-of-the-week-aurasell-the-ai-native-crm-thats-actually-replacing-15-tools/</link>
-      <description>新しいAIネイティブCRMプラットフォームであるオーラセルは、2025年8月のローンチと同時に、わずか28時間で3000万ドルのシード資金を調達した。同社は、GTMチームにおけるツールの乱立という問題に対処することを目指しており、そこでは複数の営業ツールが効果的にコミュニケーションできず、非効率と生産性の低下を招いている。オーラセルは、15以上の営業ツールを1つのプラットフォームに統合し、GTM技術スタックのコストを50％削減し、担当者の管理時間を30～40％節約できると主張している。
-
-オーラセルの主な差別化要因は、2022年以降に設計されたAIネイティブ・アーキテクチャで、データを自動的にエンリッチし、さまざまなGTMワークフローにAIエージェントを提供し、複数のツールを1つのプラットフォームに統合する。インテリジェントなプロスペクティング、AIを活用したシーケンス、リアルタイム予測、会話インテリジェンス、CPQ統合、営業対応アナリティクスなどの機能により、オーラセルは従来のAI CRMとは一線を画している。
-
-オーラセルは中堅企業をターゲットにしており、年間利用料は20,000ドルからとなっている。同プラットフォームは、AIによる自動化、データ強化、ワークフローの最適化に重点を置いており、営業プロセスの合理化と効率化を目指す企業にとって有望なソリューションとして位置づけられている。</description>
-      <pubDate>Sat, 22 Nov 2025 13:10:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/ai-app-of-the-week-aurasell-the-ai-native-crm-thats-actually-replacing-15-tools/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ：どのような顧客を避け、どのように見分ければよいですか？</title>
-      <link>https://www.saastr.com/what-types-of-customersclients-should-be-avoided-and-how-do-i-recognize-them/</link>
-      <description>この記事の中で著者は、SaaSビジネスにおける「不良顧客の解雇」という一般的なアドバイスに異議を唱えている。その代わりに、製品の限界に挑戦し、サポート・キューに殺到し、新機能を要求する要求の厳しい顧客は、フィードバックと洞察の貴重な情報源であると論じている。このような顧客は、将来の市場トレンドに向けて会社を導く預言者と見なされる。この記事では、機能の乏しい製品によって引き起こされる、熱心な顧客との緊張関係は有益であり、製品やサポートチームの改善と革新を促すと強調している。
-
-著者は、避けるべき顧客として2つのタイプを挙げている。それは、決して有料顧客に転換しない無料ユーザーと、製品開発の努力にかかわらず満足できない顧客である。企業を前進させる顧客と、根本的に相容れない顧客との区別は極めて重要だが、往々にして薄弱である。
-
-この記事では、要求の高い顧客の価値を認識することの重要性を強調し、価値あるフィードバックを提供してくれる顧客と、ビジネスに合わない顧客を区別している。B2BのSaaSでは、シンプルさよりも拡張性を重視するようSaaS創業者にアドバイスしており、消費者向け製品のように画一的なものを目指すのではなく、多様な顧客ニーズに応える必要性を強調している。</description>
-      <pubDate>Sat, 22 Nov 2025 11:45:47 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/what-types-of-customersclients-should-be-avoided-and-how-do-i-recognize-them/</guid>
-    </item>
-    <item>
-      <title>あなたのスタートアップに最適なVCを見つけるNEW!SaaStr AIリサーチ / VC</title>
-      <link>https://www.saastr.com/find-the-best-vcs-for-your-startup-with-new-saastr-ai-research-vcs/</link>
-      <description>SaaStr.aiは、特定の投資基準に基づいてスタートアップの創業者とVCをマッチングするAI搭載の新機能を導入した。ユーザーは、ARR、成長率、ステージなどのスタートアップの指標を入力し、システムはSaaStrエコシステム内の361以上のトップB2B + AI VCに対して彼らのプロフィールを分析し、実際に彼らのような企業に投資しているVCを表示します。マッチングでは、小切手のサイズ、重点ステージ、地域、セクター、成長プロファイルなどの要素が考慮されます。ユーザーは、ARRレベルの類似企業に対する成長率をベンチマークし、その指標に基づいてFundability Scoreを受け取る。この機能は、創業者に適合性の高いVCのリストを即座に提供することで、資金調達プロセスを合理化し、最も適した投資家に集中できるようにし、コンバージョン率を潜在的に高めることを目的としている。同プラットフォームは月間2200件以上のピッチデッキを処理し、何千もの資金調達企業のデータを活用して正確な洞察を提供している。このサービスは無料で利用でき、創業者が資金調達を成功させるための実用的なステップを提供する。</description>
-      <pubDate>Sat, 22 Nov 2025 01:30:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/find-the-best-vcs-for-your-startup-with-new-saastr-ai-research-vcs/</guid>
-    </item>
+    <lastBuildDate>Sun, 23 Nov 2025 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
