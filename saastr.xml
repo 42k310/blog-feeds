@@ -5,6 +5,13 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Nov 2025 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 03:04:31 GMT</lastBuildDate>
+    <item>
+      <title>AIに24時間365日クオリファイさせることで、インバウンドの売上を30%から71%に押し上げたAI BDRとは？</title>
+      <link>https://www.saastr.com/ai-inbound-how-we-went-from-30-to-71-of-revenue-from-inbound-by-letting-ai-qualify-24-7/</link>
+      <description>8月以来、AIのインバウンドエージェントは、45,188のセッションを処理し、1,025の見込み客を修飾し、91の会議を予約し、101万ドルの収益を生成することにより、SaaS企業のパフォーマンスを大幅に改善しました。特に10月、第4四半期に獲得したスポンサー契約の71%は、AIが適格と判断したインバウンド・リードから発生したもので、インバウンド・ソースからの収益が29～34%であった過去の平均から大幅に増加した。AIの成功は、その継続的なエンゲージメント、資格認定、リードの進行能力にあり、即座の応答とCRMシステムとの完全なコンテキストの統合を提供する。このリアルタイムのエンゲージメントは、特に人間の担当者が不在の時間帯には極めて重要である。AIの能力によって、商談の意図を特定し、問い合わせに答え、ミーティングを予約し、Salesforceの記録を迅速に作成することで、商談成立が早まり、収益が増加した。同社は、SaaSビジネスのインバウンド・セールスプロセスにAIを統合することの大きな影響を示すように、過去のインバウンド貢献の2倍に達する勢いである。</description>
+      <pubDate>Sun, 23 Nov 2025 15:10:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/ai-inbound-how-we-went-from-30-to-71-of-revenue-from-inbound-by-letting-ai-qualify-24-7/</guid>
+    </item>
   </channel>
 </rss>
