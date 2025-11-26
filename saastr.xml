@@ -5,6 +5,17 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Nov 2025 15:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 03:04:31 GMT</lastBuildDate>
+    <item>
+      <title>20以上のAIエージェントとその堀：リアルだが弱い</title>
+      <link>https://www.saastr.com/our-20-ai-agents-and-their-moats-real-but-weak/</link>
+      <description>この記事は、AIエージェント業界における気になる展開に焦点を当てている。著者は、新しい販売代理店AIであるAgentforceが、通常の大規模なトレーニングプロセスを経ずに導入に成功した経験を紹介している。別のAIツールからプロンプトをコピーし、微調整を加えるだけで、開封率72％など望ましい結果を達成できたという。この導入の成功は、AIエージェントの複雑さと独自性、そして専門的なトレーニングの必要性について疑問を投げかけるものである。
+
+重要な洞察には、最小限のカスタマイズでAIエージェントを展開することが驚くほど簡単であること、AIスタートアップやAIテクノロジーに投資する企業にとって潜在的な影響があることなどが含まれる。この記事は、AI分野の企業にとって教訓となるものであり、競争力を維持するためには継続的な技術革新と製品の差別化が必要であることを強調している。
+
+AI分野のSaaS企業に対する実行可能なアドバイスには、独自の価値提案の開発に注力すること、AIエージェントのための強固なトレーニング・プロセスに投資すること、継続的な改善とイノベーションを通じて競合他社に先んじることなどが含まれる。</description>
+      <pubDate>Tue, 25 Nov 2025 15:10:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/our-20-ai-agents-and-their-moats-real-but-weak/</guid>
+    </item>
   </channel>
 </rss>
