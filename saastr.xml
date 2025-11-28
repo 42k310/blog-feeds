@@ -5,31 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Nov 2025 03:04:46 GMT</lastBuildDate>
-    <item>
-      <title>新しいSaaStr AIベンチマークツールで2026年のC60プランを数秒で構築する方法</title>
-      <link>https://www.saastr.com/how-the-new-saastr-ai-benchmarking-tool-can-build-your-c60-plan-in-seconds/</link>
-      <description>この記事では、2026年におけるSaaSビジネスの現実的な財務計画を作成することの重要性を強調している。この記事では、C60プランというコンセプトが紹介されている。重要なアドバイスとしては、L4Mモデル（直近4ヶ月）を使って、最近の収益と燃焼率の成長傾向を分析し、この計画を立てることです。この記事では、多くの創業者が正確な財務計画の作成に失敗しており、中には楽観的すぎたり、時代遅れのものもあることを強調している。
-
-提示された解決策は、SaaStr.aiのBenchmarkingプラットフォームの予測ツールのようなAIツールを活用し、C60計画の作成を自動化することだ。関連する財務データをアップロードすることで、AIは収益予測、バーンレート予測、ランウェイ計算をわずか60秒で生成することができる。
-
-この記事では、年間の財務計画を3つ立てることの重要性を強調している：C-90、C-60、C-10の3つで、C60計画が意思決定の基本計画となる。実際の成長トレンドに基づく収益予測や、バーンレートとキャッシュ・ランウェイの重要な分析に関する洞察を提供している。このデータ主導のアプローチにより、SaaS企業は十分な情報に基づいた意思決定を行い、財務上の落とし穴を回避することができる。</description>
-      <pubDate>Thu, 27 Nov 2025 19:12:07 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-the-new-saastr-ai-benchmarking-tool-can-build-your-c60-plan-in-seconds/</guid>
-    </item>
-    <item>
-      <title>B2BのAIで実際にお金を稼ぐたった3つの方法（そして「AI強化」がもはやカウントされない理由）</title>
-      <link>https://www.saastr.com/the-only-3-ways-to-actually-make-money-in-b2b-ai-and-why-ai-enhanced-doesnt-count-anymore/</link>
-      <description>多くのB2B企業が「AIを活用した」ブランド名を掲げているが、加速度的な成長を遂げていないのは、テクノロジーの非効率性によるものではなく、誤った戦略に注力しているためだ。SaaS企業は、セールスポイントとしてAIだけに頼るのではなく、顧客に具体的な価値を提供することに集中することが重要である。企業は顧客のニーズを優先し、自社製品が真の問題を解決することを確認し、卓越した顧客サービスの提供に注力すべきである。技術の誇大広告から顧客中心の戦略に焦点を移すことで、SaaS企業は成長と成功を促進することができる。</description>
-      <pubDate>Thu, 27 Nov 2025 15:10:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-only-3-ways-to-actually-make-money-in-b2b-ai-and-why-ai-enhanced-doesnt-count-anymore/</guid>
-    </item>
-    <item>
-      <title>ガートナー：企業ソフトウェア支出は来年15.2％の驚異的成長。しかし、そのほとんどは価格上昇とAIアプリケーションに使われる</title>
-      <link>https://www.saastr.com/gartner-enterprise-software-spend-will-grow-a-stunning-15-2-next-year-but-most-of-that-will-go-to-price-increases-and-ai-apps/</link>
-      <description>ガートナーは、ソフトウェア支出は大幅に加速し、2026年には15.2％の成長率に達し、企業IT支出の最大かつ最速の成長セグメントになると予測している。しかし、この成長の9%は価格上昇によるもので、実際の新規支出は6%程度にとどまる。この新規支出の大半はAIアプリケーション・ソフトウェアに向けられ、投資額は3倍の約2700億ドルに、AIインフラ・ソフトウェア支出は2026年までに約2300億ドルに増加すると予測されている。AIを社内で構築することから、市販のソリューションを購入することへのシフトは、SaaS企業にとって重要な傾向として強調されている。企業は、カスタムAIソリューションから、ROIを促進するために既存のソフトウェアプロバイダのAI機能を統合する方向に移行している。このシフトは、増大するIT予算のシェアを獲得するためにAI機能を製品に組み込むことの重要性を強調している。幻滅の段階にあるにもかかわらず、GenAI機能はソフトウェア全体に偏在しつつあり、顧客がAI機能を標準として期待するようになったため、コストを押し上げている。このことは、SaaS企業が競争力を維持し、市場シェアを獲得するためには、自社製品にAI機能を統合することに注力する必要性を示している。</description>
-      <pubDate>Thu, 27 Nov 2025 11:50:12 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/gartner-enterprise-software-spend-will-grow-a-stunning-15-2-next-year-but-most-of-that-will-go-to-price-increases-and-ai-apps/</guid>
-    </item>
+    <lastBuildDate>Fri, 28 Nov 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
