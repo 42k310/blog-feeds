@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Nov 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 03:04:36 GMT</lastBuildDate>
+    <item>
+      <title>当社のAI SDRは、人間のSDRよりも10倍多くのアウトバウンドメールを送信しています。</title>
+      <link>https://www.saastr.com/our-ai-sdrs-are-sending-10x-more-emails-than-our-human-sdrs-with-same-or-better-results/</link>
+      <description>この記事では、アウトバウンド活動において、人間のSDRと比較してAI SDRを使用することで達成されるメール量とポジティブなレスポンス率の大幅な増加について論じている。データによると、AI SDRは月に11倍から40倍のEメールを送信しており、応答率はリードの暖かさによって5.54%から12.13%の範囲で、人間のSDRのパフォーマンスを上回る、またはそれに匹敵する。重要な洞察には、応答率を決定するリードの質の重要性が含まれ、イベント参加者や既知のウェブサイト訪問者のような暖かいリードは11-12%でコンバージョンする一方、冷たいリードは5.5%でコンバージョンする。この記事では、アウトバウンドキャンペーンの成功は、アウトリーチの方法よりもリードの質が重要であることを強調しています。SaaS企業は、AI SDRプラットフォームを活用することで、アウトリーチ量を大幅に増やし、プロセスを自動化し、アウトバウンド活動で同等以上の結果を得ることができる。実行可能なアドバイスとしては、SaaS企業はアウトバウンドキャンペーンのレスポンス率を最適化するために、リードの質のセグメンテーション、パーソナライゼーション、フォローアップの順序付けに集中することだ。</description>
+      <pubDate>Fri, 28 Nov 2025 15:10:48 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/our-ai-sdrs-are-sending-10x-more-emails-than-our-human-sdrs-with-same-or-better-results/</guid>
+    </item>
+    <item>
+      <title>UiPath初のARR1億ドル：創業者ダニエル・ダインズCEOが10年の苦闘から超成長へ導いた方法</title>
+      <link>https://www.saastr.com/the-first-100000000-arr-at-uipath-how-founder-ceo-daniel-dines-built-an-ai-and-automation-giant-from-bucharest/</link>
+      <description>この記事は、過去にヨーロッパで開催されたSaaStrイベントのセッションを振り返ったもので、UiPathの創業者兼CEOであるダニエル・ダインズ氏が、同社のプロセス自動化からAIへの移行について語った。この転換は、SaaS企業としてのUiPathの進化と成長を浮き彫りにしている。このイベントは、SaaS企業が市場で競争力を維持するためにどのように適応し、革新していくかについて貴重な洞察を提供したようだ。
+
+SaaSビジネスにとって重要なことは、市場の需要に応えるために継続的に進化し、新しいテクノロジーを取り入れることの重要性である。UiPathのサクセス・ストーリーは、サービスの拡大・拡張を目指すSaaS企業にとってインスピレーションとなる。SaaStrのような業界イベントに参加することで、貴重なネットワーキングの機会や業界リーダーからの洞察を得ることができ、SaaSビジネスが時代の最先端を走り続けるのに役立ちます。
+
+まとめると、SaaS企業は、競争の激しいSaaS業界で成長と成功を収めるために、革新性、適応性、業界トレンドの情報収集に注力すべきです。</description>
+      <pubDate>Fri, 28 Nov 2025 13:10:02 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-first-100000000-arr-at-uipath-how-founder-ceo-daniel-dines-built-an-ai-and-automation-giant-from-bucharest/</guid>
+    </item>
   </channel>
 </rss>
