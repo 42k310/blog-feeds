@@ -5,6 +5,28 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Dec 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>プロシューマー」バイブ・コーディングについて誰も教えてくれない8つのこと（本物のB2Bアプリを作るために学ぶべきこと）</title>
+      <link>https://www.saastr.com/the-8-things-no-one-tells-you-about-vibe-coding-that-you-need-to-learn-to-build-a-real-b2b-app/</link>
+      <description>この記事では、ReplitのようなAI支援開発ツールを使って、従来のコーディングなしで本番アプリケーションを構築した経験について論じている。技術者ではない創業者が「バイブ・コーディング」に踏み出す際の重要な教訓を強調している：
+
+1.**AIエージェントの信頼性**：AIエージェントは時に不正確な情報を提供することがあるため、完全に信頼する前に、その出力を独自に検証することが極めて重要である。常に説明とコードの実演を求めること。
+
+2.**品質保証**：非技術的な創業者として、あなたはQAチーム全体となる。ハッピーパス、エラーケース、エッジケース、モバイル／デスクトップ互換性、負荷テストなど、さまざまなシナリオを網羅した、機能ごとの徹底的なテストチェックリストを作成する。
+
+3.**リグレッションある問題を修正すると、不注意で別の問題が発生するリグレッションに注意すること。自動化されたテスト・スイートがない場合、リグレッションを早期に発見し、本番環境での問題を回避するためには、警戒が鍵となる。
+
+実行可能なアドバイスとしては、AIの出力に対して慎重なアプローチを採用すること、機能を熱心にテストすること、変更を加える際に意図しない結果に注意することなどがある。技術者でない創業者は、AI支援開発プロジェクトの信頼性と安定性を確保するために、これらの実践を取り入れることが推奨される。</description>
+      <pubDate>Mon, 01 Dec 2025 15:10:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-8-things-no-one-tells-you-about-vibe-coding-that-you-need-to-learn-to-build-a-real-b2b-app/</guid>
+    </item>
+    <item>
+      <title>20億社以上のB2B企業がSalesforceへのアクセスを無期限喪失。これはセキュリティの警鐘です。</title>
+      <link>https://www.saastr.com/two-billion-saas-companies-lost-salesforce-access-indefinitely-this-is-your-security-wake-up-call/</link>
+      <description>この記事では、Salesforce、HubSpot、Zendeskのような重要なプラットフォームへのアクセスがセキュリティ侵害によって失われることで、SaaS企業が直面する重大なリスクを取り上げています。この記事では、Gainsight や Drift といった企業がこれらのエコシステムへのアクセスを失い、業務や顧客関係に影響を及ぼした最近の事件について論じています。この記事では、これらのプラットフォームとの統合は単なる機能ではなく、SaaSビジネスの重要な構成要素であることを理解することの重要性を強調しています。この記事では、サードパーティの統合を標的としたセキュリティ侵害の脅威の増大と、そのようなインシデントがもたらす潜在的な影響について、創業者に警告している。Verizon 2025 Data Breach Investigations Report（ベライゾン2025データ侵害調査報告書）」を参照し、侵害へのサードパーティの関与が増加傾向にあることを強調している。この記事では、ビジネスの成長に課題や混乱をもたらす可能性があるにもかかわらず、強固なセキュリティ対策の必要性を強調している。創業者は、ビジネスを保護し、顧客やプラットフォーム・プロバイダーとの信頼を維持するために、SOC-2のような適切な認証の取得など、セキュリティ対策を優先するようアドバイスされている。</description>
+      <pubDate>Mon, 01 Dec 2025 11:56:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/two-billion-saas-companies-lost-salesforce-access-indefinitely-this-is-your-security-wake-up-call/</guid>
+    </item>
   </channel>
 </rss>
