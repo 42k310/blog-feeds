@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Dec 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>20VC×SaaStrが復活！TAMの罠：なぜSaaSの成長は停滞しているのか？</title>
+      <link>https://www.saastr.com/20vc-x-saastr-is-back-live-in-person-the-tam-trap-why-saas-growth-has-stalled-and-what-ai-changes-about-everything/</link>
+      <description>この記事では、SaaSのビジネス指標と成長戦略に焦点を当てた最近のイベント「20VC x SaaStr」からの洞察を論じています。重要なポイントとしては、Databricksの1340億ドルという素晴らしい評価額が、SaaS業界における大きな成長の可能性を示していることなどが挙げられます。また、シート単位の価格設定モデルから、よりスケーラブルでバリュー・ベースの価格設定戦略へのシフトが強調されました。さらに、成長率の中央値16%が上場SaaS企業の新基準になりつつあることが指摘され、持続的成長の重要性が強調された。SaaS企業は、成長を促進し価値を最大化するためのビジネスモデルと価格戦略を評価する際に、これらの傾向を考慮することをお勧めします。</description>
+      <pubDate>Sun, 07 Dec 2025 23:13:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-is-back-live-in-person-the-tam-trap-why-saas-growth-has-stalled-and-what-ai-changes-about-everything/</guid>
+    </item>
+    <item>
+      <title>AIの時代に営業資格認定会議は言い訳にならない</title>
+      <link>https://www.saastr.com/theres-no-excuse-for-qualification-meetings-in-the-age-of-ai/</link>
+      <description>著者は、潜在的なベンダーが現代の購買行動に適応できず、今後1～24ヶ月の間に混乱が生じる危険性があるという、B2B営業における懸念すべき傾向を強調している。この具体的な事例では、ある大企業のCEOが、あるベンダーの製品を積極的に求めていたにもかかわらず、そのベンダーから長時間の非生産的な資格認定ミーティングを受けた。そのベンダーは意思決定者と関わる準備ができておらず、エクセルでインテークフォームを送るような時代遅れのプロセスに依存していた。
+
+主な洞察には、営業プロセスを現代の購買行動に合わせること、顧客中心のアプローチに焦点を当てること、ハイレベルな意思決定者とのシームレスなやり取りを確保することの重要性が含まれる。特にSaaS企業は、営業プロセスを合理化し、営業チームが主要な利害関係者と効果的に関与できるようにし、テクノロジーを活用して顧客体験を向上させることを優先すべきである。
+
+SaaS企業への実行可能なアドバイスとしては、効率性と顧客中心主義のために営業プロセスを最適化すること、営業チームに意思決定者と直接関わる権限を与えること、よりスムーズなやりとりのためにデジタルツールを採用することなどが挙げられる。進化する顧客ニーズに機敏に対応することで、SaaS企業は競争市場において持続的な成長と成功を収めることができる。</description>
+      <pubDate>Sun, 07 Dec 2025 15:10:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/theres-no-excuse-for-qualification-meetings-in-the-age-of-ai/</guid>
+    </item>
   </channel>
 </rss>
