@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Dec 2025 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 03:04:37 GMT</lastBuildDate>
+    <item>
+      <title>OpenAIの新エンタープライズAIレポートで知るべき6つの指標 - そしてそのほとんどがノイズである理由</title>
+      <link>https://www.saastr.com/topdatapointsfromopenaienterprise/</link>
+      <description>OpenAIの「State of Enterprise AI」レポートは、SaaS企業やB2Bのエグゼクティブにとって重要な洞察を強調している。メッセージ数のような虚栄的な指標から、組織あたりの推論トークン消費量のような、より意味のある指標に焦点を移すべきです。企業は労働者1人当たり1日40～60分を節約しており、生産性の大幅な向上につながっている。さらに、75％の労働者が以前はできなかった仕事をこなせるようになり、技術職の対応可能市場が拡大している。非エンジニアリング部門からのコーディング活動は、わずか6カ月で36％増加しており、AIツールの急速な普及を示している。カスタムGPTは増加傾向にあり、現在では企業のワークフローの20％が活用している。主な課題は、モデルの性能よりも組織の準備態勢にあり、効果的なAIの導入、統合、トレーニング、ワークフローの再設計の必要性を強調している。B2Bのファウンダーにとっては、統合、トレーニング、ワークフローの再設計を通じて、企業がAIを効果的に展開・採用し、効果的に価値を創造・獲得できるよう支援することに重点を置くべきである。</description>
+      <pubDate>Tue, 09 Dec 2025 15:10:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/topdatapointsfromopenaienterprise/</guid>
+    </item>
+    <item>
+      <title>SaaStrのCEO兼チーフAIオフィサーに聞く、マーケティングとGo-to-Marketのための20以上のAIエージェントの使い方</title>
+      <link>https://www.saastr.com/how-we-use-20-ai-agents-for-marketing-go-to-market-with-saastrs-ceo-and-chief-ai-officer/</link>
+      <description>この記事では、SaaStr AI Londonイベントの前に行われた、AIマーケティングスタックに関するライブワークショップについて論じている。AIマーケティングスタックで利用されるエージェントやアプリケーションについて掘り下げている。ワークショップでは、これらのツールやテクノロジーについて詳しく解説している。AIをマーケティング戦略に効果的に活用する方法について、読者を教育することを目的としている。このイベントは、AIテクノロジーを活用してマーケティング活動を強化しようとしているSaaS企業にとって、貴重なリソースとなる。AIマーケティングスタックで利用可能な様々なエージェントやアプリを理解することで、企業はマーケティングキャンペーンを最適化し、顧客エンゲージメントを向上させ、成長を促進することができる。このワークショップでは、AIツールを活用して業績を伸ばそうとするSaaS企業に、実用的な洞察と実践的なアドバイスを提供する。このようなワークショップやディープダイブに参加することで、SaaS企業は、急速に進化する技術環境の中で競争力を維持するために必要な知識とツールを身につけることができる。</description>
+      <pubDate>Tue, 09 Dec 2025 13:38:39 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-we-use-20-ai-agents-for-marketing-go-to-market-with-saastrs-ceo-and-chief-ai-officer/</guid>
+    </item>
   </channel>
 </rss>
