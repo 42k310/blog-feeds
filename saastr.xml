@@ -5,22 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Dec 2025 03:04:43 GMT</lastBuildDate>
-    <item>
-      <title>AIで代替できること、できないこと：営業、サポート、CS、その他</title>
-      <link>https://www.saastr.com/what-you-can-and-cant-really-replace-with-ai-today/</link>
-      <description>この記事では、B2B企業におけるAIの現状について、Eメールベースのアウトバウンド営業開発担当者（SDR）に焦点を当てて論じている。数多くのB2B企業と協力し、AIエージェントを導入した経験を持つ著者は、AIはアウトバウンドSDRの約90％以上を代替できるとしながらも、AIが効果を発揮するためには継続的な人的管理とトレーニングの必要性を強調している。重要な洞察は、AIの導入を成功させるには、日々のトレーニング、対応のオーケストレーション、リアルタイムの調整など、深いコミットメントが必要だということだ。プロンプトの洗練、レスポンスの分析、ターゲティングの調整に毎日時間を投資している企業は、EメールベースのSDR業務のかなりの部分をAIに置き換えることができる。しかし、&quot;セット・アンド・フェザー・イット &quot;のアプローチは、非効率的なAIの導入につながり、その結果、企業はAIが営業に機能しないと主張することになる。この記事では、AIは対面でのコールドコールに取って代わることはできないことも強調している。SaaS企業は、アウトバウンド・セールス・プロセスでAIを効果的に活用するために、日々のAI管理とトレーニングに時間とリソースを投資することが、実用的なアドバイスとなる。</description>
-      <pubDate>Thu, 11 Dec 2025 15:10:11 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/what-you-can-and-cant-really-replace-with-ai-today/</guid>
-    </item>
-    <item>
-      <title>インバウンドは死んでいない。GTMプレイブックは壊れていない。しかし、あなたの堀は数ヶ月に縮小している。  SaaStr AI London AMA LIVE with ジェイソン・レムキン</title>
-      <link>https://www.saastr.com/no-inbound-isnt-dead-the-gtm-playbook-isnt-broken-but-your-moats-are-shrinking-to-months/</link>
-      <description>この記事では、SaaStr AI London 2025のAsk Me Anything (AMA)セッションで得られた洞察を論じている。主な関心事は、インバウンド戦略の有効性、既存のGTM（Go-to-Market）プレイブックの実行可能性、AIが労働力の役割に与える潜在的な影響、前方展開されたエンジニアリングの役割への移行というアイデアなどであった。創業者、CRO、マーケティング担当者の切迫感が伝わってきた。
-
-SaaS企業にとって、この記事は、業界のトレンドを常に把握し、進化する環境に適応する準備を整えることの重要性を強調している。この記事は、継続的なイノベーションの必要性と、競争力を維持するための新たな戦略を模索する意欲を強調している。SaaS事業者は、現在のGTMアプローチの有効性を評価し、事業におけるAIの役割を検討し、成長と持続可能性のための新たな道を探ることが推奨される。変化を受け入れ、新たな可能性に対してオープンであることは、ダイナミックな市場で成功を収めようとするSaaS企業にとって重要なポイントである。</description>
-      <pubDate>Thu, 11 Dec 2025 12:54:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/no-inbound-isnt-dead-the-gtm-playbook-isnt-broken-but-your-moats-are-shrinking-to-months/</guid>
-    </item>
+    <lastBuildDate>Fri, 12 Dec 2025 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
