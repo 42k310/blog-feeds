@@ -5,35 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Dec 2025 03:04:43 GMT</lastBuildDate>
-    <item>
-      <title>20人以上のAIエージェントを導入し、人間のSDRチーム全体を置き換えた。実際に何が効果的なのか。  (ビデオ＋ポッド）</title>
-      <link>https://www.saastr.com/we-deployed-20-ai-agents-and-replaced-our-entire-sdr-team-heres-what-actually-works-video-pod/</link>
-      <description>SaaStr AI Londonで、スピーカーは、AI SDR戦略は、豊富なデータと履歴を持つ企業だけでなく、あらゆる規模のSaaS企業にとって効果的であることを強調した。彼らは、AIエージェントを使用して、60,000以上のパーソナライズされた電子メールを送信し、130以上の会議を自動的に予約し、イベント収益の15％を生み出した成功を共有した。重要なことは、顧客、収益、データベースがあれば、たとえ広範でなくても、営業開発にAIを活用するのに十分だということだ。膨大なデータだけに頼るのではなく、方法論の開発に重点を置くべきである。2026年5月に開催されるSaaStrのAI年次イベントまでに、AIエージェントが収益の50%に貢献するという予測もあり、AIが大幅な収益拡大をもたらす可能性は明らかだ。SaaS企業は、データ量よりも方法論の重要性を強調し、営業プロセスにおいてAI主導の戦略を模索し、導入することが推奨される。</description>
-      <pubDate>Tue, 16 Dec 2025 22:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-deployed-20-ai-agents-and-replaced-our-entire-sdr-team-heres-what-actually-works-video-pod/</guid>
-    </item>
-    <item>
-      <title>ベンダーの8万ARRを奪った7,500ドルの移行費用。  本当は$240,000だ。</title>
-      <link>https://www.saastr.com/the-7500-migration-fee-that-just-cost-a-vendor-80000-arr/</link>
-      <description>この記事では、SaaS取引における移行手数料の影響について論じ、移行手数料がどのように摩擦を生み、収益と顧客維持の損失につながるかについて洞察を示している。著者は、移行費用が潜在顧客の意思決定プロセスに大きな影響を与える可能性があることを強調しています。この記事では、移行手数料はコスト回収だけに焦点を当てるのではなく、顧客生涯価値や顧客獲得の障壁を減らすという観点から検討されるべきであると強調している。
-
-主な洞察は以下の通り：
-- 移行費用は摩擦を生み、意思決定の遅延、収益の損失、顧客維持につながる。
-- SaaS企業は顧客生涯価値を最適化し、顧客獲得の障壁を最小限に抑えるべきである。
-- 移行費用を処理するための戦略としては、費用を吸収する、初年度の価格設定に含める、オプションにする、交渉時に戦略的に免除するなどがある。
-- 顧客にとっては、課金される手数料のすべてが意思決定ポイントであり、ベンダーの乗り換え意欲に影響を与える可能性がある。
-
-SaaS企業に対する実用的なアドバイスとしては、移行費用が取引に与える影響を再考すること、摩擦を減らすために価格戦略を最適化すること、短期的な利益よりも長期的な顧客価値に焦点を当てることなどが挙げられる。</description>
-      <pubDate>Tue, 16 Dec 2025 15:10:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-7500-migration-fee-that-just-cost-a-vendor-80000-arr/</guid>
-    </item>
-    <item>
-      <title>Klaviyoが共同CEOを迎え、製品開発に専念。夢はあるが、うまくいくか？</title>
-      <link>https://www.saastr.com/klaviyo-adds-co-ceo-to-get-back-to-product-chano-to-handle-gtm-ops-ga-the-dream-but-does-it-work/</link>
-      <description>Klaviyoの共同創業者兼CEOであるアンドリュー・バイアレッキは、ワークデイの元共同CEOであるチャノ・フェルナンデスを共同CEOに任命し、GTM、オペレーション、G&amp;Aを担当させる。この動きは、創業者が自分の強みに集中し、経験豊富なプロフェッショナルが複雑な運営を管理するという理想的なシナリオに沿ったものだ。この移行が成功するかどうかは、共同CEO間の効果的な協力とコミュニケーションにかかっている。このコンセプトは有望に思えるが、その実行には慎重な計画、責任の明確化、戦略的ビジョンの共有が必要だ。SaaS企業は、成長とイノベーションを推進するために専門知識を活用し、責任を委譲することの重要性を認識することで、ここから学ぶことができる。創業者は製品のイノベーションとビジョンに集中し、運用面は経験豊富な専門家が管理することで、SaaSビジネスは業績を最適化し、効果的に規模を拡大することができる。</description>
-      <pubDate>Tue, 16 Dec 2025 12:57:26 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/klaviyo-adds-co-ceo-to-get-back-to-product-chano-to-handle-gtm-ops-ga-the-dream-but-does-it-work/</guid>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
