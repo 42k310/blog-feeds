@@ -5,34 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Dec 2025 03:04:52 GMT</lastBuildDate>
-    <item>
-      <title>セールスフォースによるクオリファイドの買収が、2025年における最も賢いAI GTM案件である理由</title>
-      <link>https://www.saastr.com/why-salesforce-acquiring-qualified-is-maybe-the-smartest-ai-gtm-deal-of-2025/</link>
-      <description>SalesforceはQualifiedの買収を発表し、2025年におけるAI GTMの重要な取引となった。QualifiedとAgentforceの両方を熟知している著者は、SaaStrでの両社の活用に焦点を当て、両社の同時運用から得られた実践的な洞察を強調している。Qualifiedの導入から得られた注目すべき指標には、697,000を超えるウェブサイトセッション、1,000を超える有意義な会話、約90日で100万ドル以上のクローズド収益、AI予約ミーティングから発生した70％以上のクローズド獲得案件などがある。Agentforceのパフォーマンスには、休眠状態のリードに～5,000通の電子メールを送信し、72%の開封率、以前は非アクティブだったコンタクトからの10%以上の応答率を達成したこと、6ヶ月間フォローアップがなかったリードとの取引を成立させたことなどが含まれる。著者は、AI GTMプラットフォームを2つ同時に運用した経験から、SaaS企業にとって貴重な洞察を提供している。このケーススタディは、営業とマーケティングの取り組みを強化し、有意義な会話を促進し、エンゲージメント率を高め、最終的に収益拡大に貢献するAI主導型ソリューションの可能性を強調している。</description>
-      <pubDate>Wed, 17 Dec 2025 23:10:18 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-salesforce-acquiring-qualified-is-maybe-the-smartest-ai-gtm-deal-of-2025/</guid>
-    </item>
-    <item>
-      <title>セールスとGTMにおけるAIの現状と未来 オーナーCROのジェイソン・レムキン氏とカイル・ノートン氏によるディープダイブ</title>
-      <link>https://www.saastr.com/the-present-and-future-of-ai-in-sales-and-gtm-a-deep-dive-with-jason-lemkin-and-kyle-norton-cro-at-owner/</link>
-      <description>ジェイソン・レムキンとカイル・ノートンは、小規模レストラン向けのAIソリューション「Owner.com」で協業し、数年で年間経常収益（ARR）が1億ドル近くに達する急成長を遂げた。彼らは、SaaS企業のGo-To-Market（GTM）戦略を変革するAIエージェントの重要性を強調している。主なポイントは、経営幹部が個人的にAIエージェントをトレーニングし、配備する必要性、複数のベンダーではなく1つのツールに集中すること、自律型エージェントの中心的ハブとしてSalesforceを活用すること、業界における高成長への期待へのシフトなどである。彼らは、機能よりもForward Deployed Engineersの重要性、AIエージェントの適切なトレーニング、顧客体験とチームの生産性を高めるためのAIの活用を強調している。SaaSの営業職の将来は進化し、トップ・パフォーマーの収入は大幅に増加するが、生産性の基準ははるかに高くなることが予想される。この記事は、AIがSaaSビジネスに与える変革のインパクトを強調し、成長と効率化のためにAIを活用しようとしているSaaS企業に実用的なアドバイスを提供しています。</description>
-      <pubDate>Wed, 17 Dec 2025 21:07:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-present-and-future-of-ai-in-sales-and-gtm-a-deep-dive-with-jason-lemkin-and-kyle-norton-cro-at-owner/</guid>
-    </item>
-    <item>
-      <title>110億ドルのNotion：14年後、次の偉大なB2B IPOの1つになる。</title>
-      <link>https://www.saastr.com/notion-and-growing-into-your-10b-valuation-a-masterclass-in-patience/</link>
-      <description>SaaS企業のNotionは、売上高が10倍になった超成長によって、2019年から2021年の間に評価額が8億ドルから110億ドルに上昇した。ARRの322倍という高い評価にもかかわらず、彼らは成長と実行に集中し続けた。2022年に市場環境が変化すると、ノティオンは着実な収益成長を維持し、2025年には6億ドルに達したが、評価倍率はARRの18倍まで低下した。ノティオンは、AI機能を導入することでAIのトレンドを活用し、価格を引き上げることなく顧客導入の増加とARPUの上昇を実現した。同社の創業者は、VCを取締役に迎えないことで経営権を維持し、創業者の自律性と戦略的意思決定を示している。ノティオンの歩みは、持続可能な成長に焦点を当て、市場の変化に適応し、収益と顧客価値を高めるためにAIのようなトレンドを活用することの重要性を浮き彫りにしている。SaaS企業は、成長、製品イノベーション、財務の持続可能性を優先し、変化する市場力学をうまく乗り切るというノティオンのアプローチから学ぶことができる。</description>
-      <pubDate>Wed, 17 Dec 2025 15:21:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/notion-and-growing-into-your-10b-valuation-a-masterclass-in-patience/</guid>
-    </item>
-    <item>
-      <title>ARR50億ドルのDatabricksとスノーフレークの比較：同じ収益、2倍の評価差。その理由とは？</title>
-      <link>https://www.saastr.com/databricks-vs-snowflake-at-5b-arr-same-revenue-2x-valuation-gap-heres-why/</link>
-      <description>DatabricksとSnowflakeはともにARRで約50億ドルだが、異なる経路でこのマイルストーンを達成した。クラウド・データウェアハウスで知られるスノーフレークはIPOに成功し、高成長を遂げた。Apache Sparkプロジェクトに端を発するDatabricksは、データサイエンスとAIの融合に焦点を当て、着実に成長しながら非上場企業であり続けた。似たような売上高にもかかわらず、両社の成長率は大きく異なり、Databricksの成長率は55％以上、Snowflakeは29％である。この成長率の差は、わずか2年で50億ドルの差となり、両社の評価倍率に影響を与える可能性がある。重要なことは、SaaS企業にとってAIの時代における持続的成長の重要性である。Snowflakeは再加速を維持する必要があり、Databricksは高成長の軌道を維持することを目指している。SaaS企業は、長期的な成功と評価額の成長を達成するために、市場の需要や技術トレンドに沿った成長戦略を優先すべきである。</description>
-      <pubDate>Wed, 17 Dec 2025 13:22:42 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/databricks-vs-snowflake-at-5b-arr-same-revenue-2x-valuation-gap-heres-why/</guid>
-    </item>
+    <lastBuildDate>Thu, 18 Dec 2025 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
