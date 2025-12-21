@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Dec 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 03:04:37 GMT</lastBuildDate>
+    <item>
+      <title>今週のアプリOpenRouter - すべてのLLMのためのユニバーサルAPI</title>
+      <link>https://www.saastr.com/app-of-the-week-openrouter-the-universal-api-for-all-your-llms/</link>
+      <description>OpenRouterは、多数のAIモデルから選択するという課題に直面しているAIネイティブの新興企業にとって重要なツールである。1つのAPIで、60以上のプロバイダーから300以上のモデルへのアクセスを提供し、統合、認証、課金プロセスを簡素化する。OpenRouterはルーターとして機能し、コスト、スピード、精度、プライバシー要件などの要素に基づいて最適なプロバイダーにプロンプトを誘導する。また、フェイルオーバーやコストの最適化を効率的に処理し、待ち時間を最小限に抑えます。このインフラレイヤーはAIネイティブ企業にとって不可欠であり、オペレーションを合理化し、パフォーマンスを向上させる。プロバイダーの選択とフェイルオーバーのプロセスを自動化するプラットフォームの機能は、AIテクノロジーに取り組む企業の時間とリソースを節約します。OpenRouterのようなツールを採用することで、競争の激しいAI環境で成長とイノベーションを目指すSaaS企業は、効率を高め、手作業を減らし、シームレスなAIモデルの利用を確保できる。</description>
+      <pubDate>Sat, 20 Dec 2025 23:02:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/app-of-the-week-openrouter-the-universal-api-for-all-your-llms/</guid>
+    </item>
+    <item>
+      <title>今、投資で最も恐れていること：  億ドルのARR減速</title>
+      <link>https://www.saastr.com/my-biggest-fear-in-investing-now-the-100000000-arr-slowdown/</link>
+      <description>この記事では、進化するSaaSビジネスの状況について、特に年間経常収益（ARR）が1億ドルを超えた後の課題と成長戦略に焦点を当てて論じている。歴史的に、ARRが1億ドルに達することは、大企業になるためのマイルストーンであり、IPOの準備であると考えられてきた。しかし、クラウドやAI技術の台頭により、そのハードルは上がり、現在では健全なIPOを目指す企業はARR5億ドルで50％の成長を維持することが期待されている。
+
+強調された重要な洞察のひとつは、ARR1億ドルを超える持続的成長のための複数製品戦略の重要性である。顧客はますます統合ソリューションを求めるようになっており、競合他社は提供製品を拡大している。記事では、顧客の60％が3つ以上の製品を購入し、ARR12億ドルを達成したプロコアの成功に言及し、複数製品提供へのシフトを強調している。
+
+紹介されているデータによると、多くのVCが支援する新興企業は、ARR1億ドル時点で40%以上の成長率を維持するのに苦労しており、潜在的な成長減速の懸念につながっている。この記事では、SaaS企業が競争環境をうまく乗り切り、ARR1億ドルを超えても成長を維持するためには、マルチプロダクト戦略を早期に採用する必要性を強調している。</description>
+      <pubDate>Sat, 20 Dec 2025 15:10:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/my-biggest-fear-in-investing-now-the-100000000-arr-slowdown/</guid>
+    </item>
   </channel>
 </rss>
