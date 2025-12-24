@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Dec 2025 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>AIの時代に営業が今年変わった15の方法</title>
+      <link>https://www.saastr.com/15-ways-sales-has-changed-this-year-in-the-age-of-ai/</link>
+      <description>過去1年半の間、Team SaaStrはAIとセールスに重点的に取り組んでおり、2025年6月以降、大きく加速している。彼らはSaaStrで20以上のAIエージェントのデプロイに成功し、AI SDRは人間のSDRの11-40倍の量を送信し、より良い結果をもたらした。彼らのAIインバウンドエージェントは、運用開始から90日以内に100万ドル以上の収益を生み出した。チームは、CRO、営業担当副社長、CMO、創業者と定期的に関わり、業界における効果的な戦略に関する知見を収集している。
+
+この記事から得られる主なポイントは、効率と効果を高めるために営業プロセスにAIをうまく統合することである。SaaS企業は、生産性と収益創出を高めるために、営業業務におけるAI技術の活用を検討することができる。また、業界の専門家や同業者と交流し、洞察やベストプラクティスを交換することも、戦略の最適化を目指すSaaS企業にとって有益である。</description>
+      <pubDate>Tue, 23 Dec 2025 15:07:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/15-ways-sales-has-changed-this-year-in-the-age-of-ai/</guid>
+    </item>
+    <item>
+      <title>MongoDB：2025年のAIによる大転換ストーリー</title>
+      <link>https://www.saastr.com/mongodb-the-great-ai-turnaround-story-of-2025/</link>
+      <description>2025年、MongoDBはB2Bソフトウェア事業で大きな転換を遂げた。2024年、同社は成長の鈍化、株価の下落、アナリストからの懐疑的な見方といった課題に直面した。しかし2025年、MongoDBの株価は、2つの好調な四半期、新CEO、AI能力への新たな確信により、YTDで70％以上急上昇した。当初の難局は、消費動向の軟化、企業との取引終了の長期化、他のデータベースとの競争に起因していた。MongoDBは26年度第2四半期の売上高が前年同期比24%増の5億9,100万ドルと予想を上回り、アトラスの消費傾向も改善した。11月には予想外のCEO交代があり、Dev Ittycheria氏が退任し、Chirantan &quot;CJ&quot; Desai氏が後任に就任した。この劇的な変革は、B2Bソフトウェア業界で成功を収めるためには、市場の課題に適応し、製品の成長に集中し、戦略的なリーダーシップの交代を行うことが重要であることを浮き彫りにしている。</description>
+      <pubDate>Tue, 23 Dec 2025 13:10:29 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/mongodb-the-great-ai-turnaround-story-of-2025/</guid>
+    </item>
   </channel>
 </rss>
