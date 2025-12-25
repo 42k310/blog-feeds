@@ -5,6 +5,13 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Dec 2025 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 03:04:30 GMT</lastBuildDate>
+    <item>
+      <title>AIの粗利率は本当に曲がり角にきているのか？OpenAIの70％コンピュートマージンの背後にある本当の数学 - そしてなぜB2Bスタートアップはまだトレッドミルの上を走っているのか？</title>
+      <link>https://www.saastr.com/have-ai-gross-margins-really-turned-the-corner-the-real-math-behind-openais-70-compute-margin-and-why-b2b-startups-are-still-running-on-a-treadmill/</link>
+      <description>OpenAIは、ChatGPTのサーバーコストをカバーした後に残る収益である「コンピュート・マージン」の大幅な増加を達成した。2024年1月の35%から倍増し、2025年10月には70%に達しており、2年足らずで目覚ましい効率改善を示している。この変化は、特にサム・アルトマンのリーダーシップの下、OpenAIにとってコンピュートマージンが重要な指標となり、収益性に強くフォーカスしていることを示している。SaaS企業はOpenAIの成功から、利益率を改善するためのサーバーコスト管理の効率性を重視することで学ぶことができる。コンピュートマージンのような重要な指標を監視し最適化することで、SaaSビジネスは収益性と財務パフォーマンスを向上させ、最終的に持続可能な成長を促進することができます。</description>
+      <pubDate>Wed, 24 Dec 2025 13:41:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/have-ai-gross-margins-really-turned-the-corner-the-real-math-behind-openais-70-compute-margin-and-why-b2b-startups-are-still-running-on-a-treadmill/</guid>
+    </item>
   </channel>
 </rss>
