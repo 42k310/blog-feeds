@@ -5,6 +5,19 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Jan 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 03:04:32 GMT</lastBuildDate>
+    <item>
+      <title>ばんざーい、儲かったね。しかし、それだけでは十分ではない。成長を再加速させる時だ。</title>
+      <link>https://www.saastr.com/hooray-you-got-profitable-thats-great-but-its-not-enough-its-time-to-reaccelerate-growth/</link>
+      <description>SaaS企業にとって、収益性を達成することは極めて重要だが、持続的な成長こそが長期的な成功の鍵である。市場は高成長企業を高く評価しており、高成長企業と低成長企業の評価倍率には大きな差があります。公開されているSaaSの評価倍率を見ると、Rubrik、Palantir、Figmaクラスの高成長企業は、低成長企業に比べてはるかに高い評価を得ています。
+
+PagerDutyとSEMrushという2つの注意すべき物語は、成長を維持することの重要性を強調している。PagerDutyは、ARR5億ドルの収益事業であるにもかかわらず、成長率の鈍化により株価が大幅に下落した。SEMrushは、ARR約4億5,500万ドルで、収益性の高い成長を遂げていたが、その成長軌道のため、控えめな倍率で買収された。
+
+純収益維持率（NRR）は重要な指標であり、PagerDutyのケースに見られるように、NRRの低下が評価額の大幅な下落につながった。NRRが100%に達すると、オーガニックな成長が止まり、企業は新規顧客の獲得に依存するようになるが、これにはコストがかかる。
+
+結論として、SaaS企業は、割高なバリュエーションを獲得し、停滞を避けるために、成長を優先させる必要がある。</description>
+      <pubDate>Sat, 03 Jan 2026 15:19:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/hooray-you-got-profitable-thats-great-but-its-not-enough-its-time-to-reaccelerate-growth/</guid>
+    </item>
   </channel>
 </rss>
