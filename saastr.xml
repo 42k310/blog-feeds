@@ -5,6 +5,30 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Jan 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>今、AIエージェントの管理は人間の管理と同程度の仕事。仕事が違うだけだ。</title>
+      <link>https://www.saastr.com/right-now-managing-ai-agents-is-about-as-much-work-as-managing-humans/</link>
+      <description>この記事では、SaaSビジネスにAIエージェントを導入することで、管理のオーバーヘッドがなくなるわけではなく、むしろ必要な仕事の種類がシフトするという重要な洞察が強調されている。AIエージェントを使用することで生産性の向上が見られるにもかかわらず、監督、レビュー、トレーニングに費やされる時間は、人間の従業員を管理することに匹敵する。著者は、SaaStr社で20以上のAIエージェントを導入した経験を紹介し、現在、チームの60％がAIで占められている。AIエージェントは、50万ドルのパイプラインを生み出し、何千ものチャットを行い、スピーカーの投稿を自律的にレビューするなど、大きな成果を示した。しかし、予想外の発見は、AIエージェントの管理に費やす時間は、仕事の性質は異なるものの、人間の管理に似ているということだった。この記事は、AIが業務に効率と効果をもたらす一方で、SaaS企業にとっては、AIエージェントを監督し、効果的に最適化するために必要な管理作業に備えることが極めて重要であることを強調している。</description>
+      <pubDate>Mon, 05 Jan 2026 15:10:42 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/right-now-managing-ai-agents-is-about-as-much-work-as-managing-humans/</guid>
+    </item>
+    <item>
+      <title>SVBの市場レポート：AIの効率は上がらず、VCへの資金集中はさらに進む。</title>
+      <link>https://www.saastr.com/svbs-state-of-the-markets-report-ai-isnt-more-efficient-vc-dollars-are-even-more-concentrated-and-ma-is-picking-up-but-the-deals-arent-any-better/</link>
+      <description>SVBの「市場の現状」レポートは、B2Bの創業者、経営者、投資家にとって重要な洞察に焦点を当てています。主なポイントは以下の通り：
+
+1.ベンチャーキャピタルは非常に集中しており、ほとんどの資金調達は5億ドル以上のメガディールに集中している。1億ドル未満の案件については、活動は横ばいであり、現実的な資金調達を期待することの重要性が強調されている。
+
+2.AIをめぐる誇大宣伝にもかかわらず、AI企業は非AI企業と比較して、従業員1人当たりの売上高が低く、利益率が悪く、燃焼倍率が高いなど、実際には効率が低いというデータがある。資本効率よりも市場で勝つことが優先されているようだ。
+
+3.シードからシリーズDへの卒業率は著しく低下しており、2022年には7年かかったのに対し、現在は約10年かかっている。新興企業がこの延長された時間軸を乗り切るために、より長いランウェイとブリッジラウンドが一般的になりつつある。
+
+4.VCに支援されたハイテク企業の約20%は、成長せず、収益性が低く、&quot;死に体 &quot;と呼ばれている。このような企業は、資金調達の難しさに直面し、ソフトランディングM&amp;Aやその他の出口戦略を検討する必要があるかもしれない。
+
+これらの洞察は、現在の市場環境におけるSaaS企業の現実的な成長戦略、効率的なリソース配分、適応性の重要性を強調している。</description>
+      <pubDate>Mon, 05 Jan 2026 12:48:17 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/svbs-state-of-the-markets-report-ai-isnt-more-efficient-vc-dollars-are-even-more-concentrated-and-ma-is-picking-up-but-the-deals-arent-any-better/</guid>
+    </item>
   </channel>
 </rss>
