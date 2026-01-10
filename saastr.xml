@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Jan 2026 03:04:36 GMT</lastBuildDate>
-    <item>
-      <title>アプリの &quot;ワンショット &quot;にかかる本当の時間：47,000行のコード</title>
-      <link>https://www.saastr.com/how-long-it-really-takes-to-one-shot-an-app-47000-lines-of-code-later/</link>
-      <description>この記事では、SaaS製品の迅速な構築に関する誤解について論じ、デモの作成と機能的な製品との間に大きな隔たりがあることを強調している。著者は、スタートアップ・シミュレーター・ゲーム「Founderscape.ai」の開発経験を紹介し、その制作に必要な時間と労力を強調している。最初の成功から、デバッグ、磨き上げまで、質の高い最終製品に欠かせない典型的な開発フェーズを概説している。この記事では、バグの修正やパフォーマンスの最適化など、開発中に直面した課題を詳述することで、「週末に作った」という神話を否定している。主な洞察には、正確な財務モデリングの重要性、AIライバルとの競争エコシステムの構築、信憑性を高めるための実世界データの取り込みなどが含まれる。著者は、単純なプロジェクトでは迅速な開発が可能だが、より複雑なSaaS製品には多大な時間と労力が必要であり、インタラクティブな製品を効果的に構築するには40～100時間以上かかる可能性があるとアドバイスしている。この記事は、SaaS企業に対し、迅速だが表面的なソリューションよりも、品質と徹底した開発プロセスを優先するよう促すものである。</description>
-      <pubDate>Fri, 09 Jan 2026 15:14:09 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-long-it-really-takes-to-one-shot-an-app-47000-lines-of-code-later/</guid>
-    </item>
-    <item>
-      <title>あなたが必要とする変化は、あなたが作る変化です。SaaStr AI Annual 2026は、そのお手伝いをします。</title>
-      <link>https://www.saastr.com/the-change-you-need-is-the-change-you-make-saastr-ai-annual-2026-will-help-you-get-there/</link>
-      <description>この記事では、SaaS業界の創業者が、特にB2BビジネスにおけるAIの台頭を受け、破壊を効果的に乗り切るための適切なコミュニティを見つけることの重要性を強調している。特にB2BビジネスにおけるAIの台頭が顕著である。この記事では、AIがすでに市場開拓戦略や製品開発など、ビジネスのさまざまな側面を再構築しつつあることを強調している。AIに適応し、活用する企業は繁栄するだろうが、この変化を受け入れるのが遅い企業は取り残されるリスクがある。この記事では、AI機能を取り入れ、AI主導の製品と競争し、AI戦略に関する取締役会からの問い合わせに対応しなければならないというプレッシャーが高まり続ける中、創業者がAIに積極的に取り組む必要性を強調している。成功の鍵は、このような変革が活発に行われている適切なネットワークやコミュニティを探し出すことにあり、創業者が進化するSaaSの状況で学び、適応し、成功できるようにすることだと示唆している。</description>
-      <pubDate>Fri, 09 Jan 2026 13:16:27 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-change-you-need-is-the-change-you-make-saastr-ai-annual-2026-will-help-you-get-there/</guid>
-    </item>
+    <lastBuildDate>Sat, 10 Jan 2026 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
