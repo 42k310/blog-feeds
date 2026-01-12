@@ -5,15 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Jan 2026 03:04:30 GMT</lastBuildDate>
-    <item>
-      <title>最も高額なLLMに価値がない場合：3,000以上のVCピッチデッキと850,000以上のスタートアップ評価を分析してわかったこと</title>
-      <link>https://www.saastr.com/when-the-most-expensive-llm-isnt-worth-it-in-b2b-what-we-learned-analyzing-2700-vc-pitch-decks-and-800000-startup-valuations/</link>
-      <description>この記事では、AI業界でよく見られる、優れた結果が得られると思い込んで常に最先端で高価なモデルを選ぶ誘惑について論じている。著者は、Opus 4.5とSonnet 4.5という2つのモデルを比較し、100以上のVCピッチデッキを分析するテストを実施した。Opusの方が67％高価であるにもかかわらず、品質評価、パターン認識、創業者への実用的なフィードバックという点で、結果はSonnetと本質的に同じであった。さらに、OpusはSonnetよりも処理速度が遅く、特に大量のデータを処理する場合には、ユーザー・エクスペリエンスの低下とコスト増につながる可能性があった。
-
-B2Bの創業者やAIチームにとって重要なことは、「最高の」モデルが特定のユースケースに最適とは限らないということだ。AIを活用するSaaS企業は、強力であるだけでなく、スピードやコスト効率といった特定のニーズに最適化されたモデルを選択することに注力すべきである。この教訓は、大量のデータを処理する企業にとって極めて重要であり、価格設定やパフォーマンスのわずかな違いが業務全体に大きな影響を及ぼす可能性がある。</description>
-      <pubDate>Sun, 11 Jan 2026 15:10:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/when-the-most-expensive-llm-isnt-worth-it-in-b2b-what-we-learned-analyzing-2700-vc-pitch-decks-and-800000-startup-valuations/</guid>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
