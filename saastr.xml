@@ -5,6 +5,13 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Jan 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 03:04:31 GMT</lastBuildDate>
+    <item>
+      <title>AI SDRの実力を確かめるには？まずは最高の人間をコピーする必要がある</title>
+      <link>https://www.saastr.com/how-to-make-sure-your-ai-sdr-is-actually-any-good-you-have-to-first-copy-your-best-human/</link>
+      <description>この記事では、SaaSビジネスでAI SDRの導入を成功させる鍵は、ツールの機能だけに頼るのではなく、適切なトレーニングにあることを強調している。著者は SaaStr で 20 人以上の AI エージェントを導入し、応答率を改善しながらメール量を大幅に増やし、AIのアウトバウンド活動から 200 万ドル以上のパイプラインを生み出した経験を紹介している。最初の失敗は、一般的なメッセージングとレスポンス率の低さに起因していたが、AI を新入社員のように訓練し、特に人間の SDR のベストプラクティスを模倣することで改善した。この記事は、AIツールをビジネスゴールに合致させ、成功した人間の戦略を再現できるようにトレーニングすることに時間と労力を投資することの重要性を強調している。優れたAIツールを選択することは不可欠だが、本当の価値はそれを効果的にトレーニングすることから生まれると示唆している。この洞察は、SaaS 企業がより良い営業成果を得るための適切なトレーニング方法に焦点を当てることで、AI SDR の可能性を最大限に引き出すための指針となる。</description>
+      <pubDate>Mon, 12 Jan 2026 15:10:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-to-make-sure-your-ai-sdr-is-actually-any-good-you-have-to-first-copy-your-best-human/</guid>
+    </item>
   </channel>
 </rss>
