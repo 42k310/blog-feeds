@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Jan 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>フリーミアムの復活 - AI版！しかし、フリーミアムがビジネスモデルとして実際に機能するには、おそらくまだ5,000万人のアクティブユーザーが必要だろう。</title>
+      <link>https://www.saastr.com/freemium-is-back-the-ai-edition-but-youll-still-probably-need-50-million-active-users-for-freemium-to-actually-work-as-a-business-model/</link>
+      <description>この記事では、SaaS業界、特にAIの時代におけるフリーミアムモデルの復活について論じている。ChatGPT、Google Gemini、Claude (Anthropic)、Perplexity、Midjourney、HiggsfieldのようなAI企業がフリーミアム戦略で大きな成長と収益を達成した成功事例が主な洞察である。これらの企業は、数百万人のアクティブユーザーを獲得し、フリーミアムの提供を通じて相当なARRを生み出し、コンバージョン率は2～5%であった。ChatGPTは2025年までに8億人の週間アクティブユーザーと200億ドルのARRを達成し、Google Geminiは6億5000万人の月間アクティブユーザーを超え、Claude（Anthropic）は3000万人の月間アクティブユーザーで50億ドルのARRを達成している。この記事では、フリーミアムと製品主導型成長（PLG）モデルを成功させるための規模の重要性を強調し、フリーミアムが効果的に機能するためには数百万人のユーザーが必要であることを示唆している。SaaS企業への実用的なアドバイスは、フリーミアムモデルを拡大するための青写真としてAI企業の成功を活用し、フリーミアム提供を通じて成長と収益を促進するために大規模なユーザーベースの構築に集中することです。</description>
+      <pubDate>Wed, 14 Jan 2026 15:10:58 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/freemium-is-back-the-ai-edition-but-youll-still-probably-need-50-million-active-users-for-freemium-to-actually-work-as-a-business-model/</guid>
+    </item>
+    <item>
+      <title>イレブンラボは24ヶ月で3億3000万ドルのARRを達成。Twilioはそこに到達するのに8年かかった。</title>
+      <link>https://www.saastr.com/elevenlabs-just-hit-330m-arr-it-took-twilio-8-years-to-get-there/</link>
+      <description>SaaS業界の著名人であるジェイソン・レムキンは、SaaS企業であるイレブンラボが2026年半ばまでにTwilioの価値を超えると予測している。このツイートは、イレブンラボの今後の成長と成功の可能性を示唆している。この成功を模倣しようとするSaaS企業にとって、顧客獲得コスト、顧客生涯価値、解約率、月間経常収益などの主要なビジネス指標に焦点を当てることは極めて重要である。顧客維持率の向上、新市場への進出、製品イノベーションへの投資など、効果的な成長戦略を実施することで、長期的な成功を促進することができる。さらに、俊敏性を維持し、市場トレンドに適応し、顧客中心のアプローチを育成することは、競争の激しいSaaS環境で持続的に成長するために不可欠です。これらの洞察と戦略を活用することで、SaaSビジネスは、イレブンラボが達成すると予想されるような大幅な成長と価値創造に向けて自らを位置づけることができる。</description>
+      <pubDate>Wed, 14 Jan 2026 13:20:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/elevenlabs-just-hit-330m-arr-it-took-twilio-8-years-to-get-there/</guid>
+    </item>
   </channel>
 </rss>
