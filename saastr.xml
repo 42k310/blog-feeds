@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Jan 2026 03:04:37 GMT</lastBuildDate>
-    <item>
-      <title>私たちは、80万回以上使用された12以上のVibe Codedアプリを構築しました。とても気に入っています。  でも、毎日メンテナンスしなければならない。</title>
-      <link>https://www.saastr.com/weve-built-12-vibe-coded-apps-used-800000-times-i-love-it-but-i-still-have-to-maintain-them-every-single-day/</link>
-      <description>この記事では、SaaStr.aiでのAI搭載アプリ構築の成功について論じており、様々なツールで合計80万件以上の利用実績があるという。特にAIを中核とするプロダクション・ソフトウェアでは、ユーザーが絶え間ない改善を期待しているため、日々のメンテナンスが重要であることを強調している。バイブ・コーディング」というコンセプトが強調されており、アプリが繁栄し、急速に進化するためには日々の注意が必要である。記事では、プロトタイプは最小限のメンテナンスで済むが、大規模な本番用ソフトウェアでは毎日のメンテナンスが必要で、精神的なオーバーヘッドも大きいと指摘している。この記事では、創業者がSaaS製品のメンテナンスに必要なコミットメントを理解する必要性を強調している。日々のメンテナンスの課題にもかかわらず、著者はバイブコーディングがもたらすインパクトとスピード・トゥ・バリューに熱意を示し、ユーザーからのフィードバックに基づく迅速な反復を可能にしている。記事の最後では、バイブコーディングを検討している創業者へのアドバイスとして、製品開発の様々な段階におけるメンテナンスの必要性を概説し、スケールアップした製品に必要な継続的なコミットメントを強調している。</description>
-      <pubDate>Fri, 16 Jan 2026 15:10:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/weve-built-12-vibe-coded-apps-used-800000-times-i-love-it-but-i-still-have-to-maintain-them-every-single-day/</guid>
-    </item>
-    <item>
-      <title>メリテックによる2025年のイグジット：M&amp;Aは5,870億ドルで10年以上ぶりの高水準・・・しかしIPOは低迷</title>
-      <link>https://www.saastr.com/meritechs-look-at-2025-exits-ma-at-587b-hits-a-decade-high-but-ipos-were-a-whimper/</link>
-      <description>2025年、ソフトウェア企業のIPO市場は依然として低迷し、純粋なソフトウェア企業のIPOはわずか6社にとどまり、SpaceX、OpenAI、Stripeのような有望企業にとって株式公開市場が魅力的でなかったことを示している。しかし、ハイテクセクターのM&amp;A活動は、規制の変更に後押しされ、10年間で最高の5,870億ドルに達しました。Figmaは、力強い収益成長とキャッシュフロー・マージンでIPOの質のベンチマークを設定した。IPO指標の中央値は堅調であったものの、リターンは控えめで、IPOの中央値は直近の非公開ラウンドを下回る水準で取引された。公開ソフトウェア企業は妥当なバリュエーションで取引されているが、買収者は選別的である。2025年のIPO上位5社は時価総額全体の56%を占めた。非ソフトウェアハイテクIPOは、ソフトウェア企業よりも優れた利益率プロファイルを示した。IPO時の時価総額の中央値は、企業の非公開期間が長くなるにつれて上昇している。この記事は、SaaS企業は非上場企業であり続けることを検討し、強力な財務パフォーマンスに焦点を当て、潜在的なM&amp;Aの機会に備えるべきであると示唆している。</description>
-      <pubDate>Fri, 16 Jan 2026 13:05:26 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/meritechs-look-at-2025-exits-ma-at-587b-hits-a-decade-high-but-ipos-were-a-whimper/</guid>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
