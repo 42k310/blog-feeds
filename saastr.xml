@@ -5,6 +5,29 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Jan 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 03:04:44 GMT</lastBuildDate>
+    <item>
+      <title>20VC x SaaStrが帰ってきた：Figmaがダメなら、どんな希望がある？さらにOpenAI広告、イーロン対サム、90億ドルのリプリット・ベットも</title>
+      <link>https://www.saastr.com/20vc-x-saastr-are-back-if-figma-isnt-good-enough-what-hope-is-there-plus-openai-ads-elon-vs-sam-and-the-9b-replit-bet/</link>
+      <description>この記事では、SaaS市場の現状について論じており、市場が衰退しているのではなく、AIの追い風を受ける企業とそうでない企業が選別されていることを強調している。主な洞察には、成長の重要性、勝者と敗者を分けるAIの影響、企業がそれに従って事業を運営する必要性などが含まれます。Figmaのバリュエーションは高いが、これは市場が成長を重視していることを反映している。中堅SaaS企業へのアドバイスとして、健全な成長率であれば成功は可能だが、ベンチャーキャピタルの調達で困難に直面する可能性があることが示唆されている。シンキング・マシーンズの崩壊は、失敗したシード・ラウンドに例えられ、創業者の相性の悪さという一般的な問題を浮き彫りにしている。記事はまた、イーロン・マスクのOpenAIへの影響力、OpenAIの広告ビジネスの可能性、Replitの製品の急速な改善についても触れている。SaaS企業は持続可能な成長に焦点を当て、AIのトレンドを活用し、市場の変動に備える必要がある。</description>
+      <pubDate>Thu, 22 Jan 2026 21:06:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-are-back-if-figma-isnt-good-enough-what-hope-is-there-plus-openai-ads-elon-vs-sam-and-the-9b-replit-bet/</guid>
+    </item>
+    <item>
+      <title>私たちは独自のAIマーケティング担当副社長を構築しました。実際に何をするのか。</title>
+      <link>https://www.saastr.com/we-built-an-ai-vp-of-marketing-this-year-heres-what-it-actually-does/</link>
+      <description>この記事では、SaaS企業であるSaaStr社が、AIマーケティング・オーケストレーション・ツールを購入するのではなく、構築する際の意思決定プロセスについて論じている。同社は90/10ルールに従い、必要なものの90%を購入し、適切なソリューションが存在しない場合に残りの10%を構築している。彼らは、コンテンツ生成だけでなく、マーケティング・チャネル全体のオーケストレーション、戦略、実行に焦点を当てることの重要性を強調している。彼らが構築した「10K」と名付けられたツールは、明確な目標とアカウンタビリティをもって、イベントの参加者と収益を促進することを目的としている。
+
+主な洞察には、コンテンツ生成にとどまらない包括的なマーケティング・オーケストレーション・ツールの必要性、AIツールにおける深い履歴分析とダイナミックなキャンペーン・プランニングの重要性、そうしたツールのリアルタイム適応性などが含まれる。この記事では、商用オプションでは不十分な場合に、特定のニーズに合わせてカスタムソリューションを構築することの利点が強調されている。SaaS企業は、高い機会費用とメンテナンス負担を避けるために、共通機能については既存のソリューションを活用しつつ、業務上の重要なギャップに対応するツールの構築を優先することをお勧めする。</description>
+      <pubDate>Thu, 22 Jan 2026 15:10:12 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/we-built-an-ai-vp-of-marketing-this-year-heres-what-it-actually-does/</guid>
+    </item>
+    <item>
+      <title>Wing Venturesの「企業におけるAIの現状」：50％のパイロットが成功、53％が前向きなROIを確認、70％がAIがさらに多くの人間を置き換えると見ている</title>
+      <link>https://www.saastr.com/wing-ventures-state-of-the-ai-in-the-enterprise-50-of-pilots-succeed/</link>
+      <description>ウイング・ベンチャーズは、180人以上のCレベル経営幹部を対象にAIに関する調査を実施し、「企業におけるAIの現状」レポートで主要な知見を共有した。調査結果は以下の通り：また、従業員1万人未満の企業では、営業やマーケティングの自動化にAIを活用することに最も熱心である一方、大企業ではコールセンターのAIを優先している。さらに、レポートではAPIビジネスによるARR（年間経常収益）の大幅な伸びについても言及しており、ChatGPT製品以外の成功も示している。SaaS企業は、これらの洞察を活用することで、AI導入の成功に焦点を当て、ROIが明確なユースケースを優先し、企業規模や業界のニーズに基づいてAIソリューションをカスタマイズすることができます。</description>
+      <pubDate>Thu, 22 Jan 2026 13:22:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/wing-ventures-state-of-the-ai-in-the-enterprise-50-of-pilots-succeed/</guid>
+    </item>
   </channel>
 </rss>
