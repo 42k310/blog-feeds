@@ -5,6 +5,31 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Jan 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>AI GTMツールがCursorやReplitの半分でも優れていれば、今日の世界は変わっていただろう。彼らはそこにたどり着くだろう。</title>
+      <link>https://www.saastr.com/if-ai-gtm-tools-were-half-as-good-as-cursor-or-replit-it-would-be-a-different-world-today-they-will-get-there/</link>
+      <description>この記事では、企業の営業・開発プロセスにおける様々なAIツールの有効性について論じており、他のAIツールと比較してCursorとReplitの成功を強調している。Cursorは2年足らずでARR$1Mから$500Mへと大きな成長を遂げ、2025年11月には年換算収益が$1B+に達し、現在では$293億の評価を受けており、Fortune 500の半数が使用している。Replitは2,250万人のユーザーと50万社の企業を超え、ユーザーはわずか6ヶ月でAIを使った200万個のアプリを作成した。
+
+著者は、応答率、発生した収益、パイプラインの価値などの指標を含む、彼らのAI GTMスタックのパフォーマンスに関する洞察を提供している。彼らは、コンテキストを理解し、コードベースをナビゲートし、CursorやReplitの機能に似たインテリジェントな推奨を提供するAIツールの重要性を強調している。この記事は、営業および開発プロセスにおけるAIツールが、大きな成長とユーザー採用を達成するために、より高度でコンテキストを理解したソリューションへと進化する必要性を強調している。</description>
+      <pubDate>Fri, 23 Jan 2026 15:10:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/if-ai-gtm-tools-were-half-as-good-as-cursor-or-replit-it-would-be-a-different-world-today-they-will-get-there/</guid>
+    </item>
+    <item>
+      <title>a16zによる市場の現状：プライベート・ユニコーンに47億ドル、</title>
+      <link>https://www.saastr.com/a16zs-state-of-markets-4-7t-in-private-unicorns/</link>
+      <description>a16zの &quot;State of Markets &quot;デッキは、SaaS業界のB2B創業者や幹部にとって重要な洞察に焦点を当てている：
+
+1.1.非上場のユニコーンは現在5.5兆ドルの価値を持ち、過去10年間で10倍の成長を遂げている。
+2.2.2026年に30%以上の成長が見込まれる公開ソフトウェア企業は5社未満であり、ほとんどの企業にとってIPO市場は厳しい。
+3.非上場企業の収益成長率は2025年に上位10位まで急上昇しており、成長率の高いエリート企業が非上場企業にとどまることを選択している。
+4.トークンの消費量は前年比50倍に増加し、一方でトークン価格は低下し、利用量の増加につながった。
+5.2017年から2018年にかけてのTPUの利用率はまだ100%であり、AIハードウェアに対する持続的な需要を示している。
+6.BigTech企業は2025年にAIインフラに3,000億ドル以上を費やしており、AI技術への投資が大きいことを示している。
+7.公開市場における業績の上振れと倍率拡大の関係は非線形であり、最大の倍率は最大の業績サプライズを持つ企業にもたらされる。
+8.ハイテク業界の時価総額は過去10年間で25～30兆ドルも他のセクターから引き離されており、ハイテク業界の優位性が浮き彫りになっている。</description>
+      <pubDate>Fri, 23 Jan 2026 13:56:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/a16zs-state-of-markets-4-7t-in-private-unicorns/</guid>
+    </item>
   </channel>
 </rss>
