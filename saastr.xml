@@ -5,24 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Jan 2026 03:04:38 GMT</lastBuildDate>
-    <item>
-      <title>ブレックスとハブ的資金調達の長所と短所</title>
-      <link>https://www.saastr.com/brex-and-the-pros-and-cons-of-hubristic-fundraising/</link>
-      <description>キャピタル・ワンによるブレックスの51.5億ドルでの買収は、SaaS業界における思い上がった資金調達の意味合いについての議論を呼び起こした。思い上がった資金調達とは、大胆なシナリオと高い成長期待をもって、積極的なバリュエーションで資金を調達することであり、基本的には、並外れた結果に会社の将来を賭けることである。Brexの買収は大きな勝利ではあるが、2022年の評価額123億ドルには届かず、思い上がった資金調達の影響について疑問が投げかけられている。傲慢な資金調達を行っている企業は、高い成長目標や収益倍率を設定し、大規模なIPOや戦略的撤退に成功を賭けているため、並外れた結果を求めるプレッシャーがある。Databricksのようにこのアプローチで成功する企業もありますが、300億ドル以上のIPOやエグジットは稀であるため、このような戦略の持続可能性に懸念が生じます。SaaS企業は、積極的な資金調達の意味を慎重に検討し、現実的に期待を管理し、長期的に潜在的な落とし穴を避けるために持続可能な成長戦略に焦点を当てる必要があります。</description>
-      <pubDate>Sat, 24 Jan 2026 15:18:47 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/brex-and-the-pros-and-cons-of-hubristic-fundraising/</guid>
-    </item>
-    <item>
-      <title>今週のAIアプリVivun - 実際に仕事をするAIセールス・エンジニア</title>
-      <link>https://www.saastr.com/ai-app-of-the-week-vivun-the-ai-sales-engineer-that-actually-does-the-work/</link>
-      <description>VivunのAvaは、技術営業で豊富な経験を持つ創業者によって設計されたAI営業アシスタントです。他のAI営業ツールとは異なり、Avaは単に通話を要約するだけでなく、会議の前、中、後に積極的に支援する。会議の準備を支援し、通話中にリアルタイムで洞察を提供し、フォローアップ資料を作成する。Avaのユニークなセールスポイントは「営業推論モデル」にあり、技術営業プロセスのニュアンスを理解し、チャンピオンとバイヤーを区別し、相互作用にわたって洞察を結びつける。
-
-Avaは、Salesforce、Gong/Chorus、Slack、Google/Microsoft、Clariといった一般的なツールとシームレスに統合できるため、既存の技術スタックに実用的な機能を追加できる。DocuSign、Dayforce、Clouderaなどの企業チームはすでにAvaの恩恵を受けており、人員を増やすことなく技術的な営業能力を拡大しています。
-
-AvaのようなAIセールス・エージェントを検討しているセールス・リーダーにとって重要な検討事項には、ドメインの専門知識、システム統合の容易さ、リアルタイムの実行能力が含まれる。Avaは、創業者の深い技術営業理解、迅速なシステム統合、営業チームのリアルタイム実行支援に重点を置いている点で際立っている。このツールは、複雑な技術的営業サイクルを持つ企業の営業チームや、需要に見合った十分なセールスエンジニアの雇用という課題に直面している組織に推奨される。</description>
-      <pubDate>Sat, 24 Jan 2026 12:36:09 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/ai-app-of-the-week-vivun-the-ai-sales-engineer-that-actually-does-the-work/</guid>
-    </item>
+    <lastBuildDate>Sun, 25 Jan 2026 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
