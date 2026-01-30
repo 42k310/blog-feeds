@@ -5,6 +5,42 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Jan 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 03:04:45 GMT</lastBuildDate>
+    <item>
+      <title>20VC x SaaStr 今週のSaaS：奇妙に感じた50億ドルのイグジット、推論コストが中成長SaaSの最後の釘となる理由、アンドリーセンの2/3AI支配</title>
+      <link>https://www.saastr.com/20vc-x-saastr-this-week-the-5-billion-exit-that-felt-weird-why-inference-costs-are-the-final-nail-for-mid-growth-saas-and-andreessens-2-3-ai-domination/</link>
+      <description>この記事では、最近行われた51億5000万ドルでのBrex社の買収について論じ、SaaS業界における高額評価と思い上がった資金調達の複雑さを浮き彫りにしている。Brexの見事な撤退にもかかわらず、野心的な成長予測に基づいて企業を過大評価することの潜在的な落とし穴が強調されています。この記事では、Anthropicの推論コストの課題に言及し、このような予期せぬ出費が中堅B2B SaaS企業に大きな影響を与える可能性があることを示唆しています。また、現実的な評価と持続可能な成長戦略の重要性についても触れており、Rampの評価再考や推論コストが競争力に与える影響などの例を挙げている。
+
+主な洞察として、高額のバリュエーションで資金を調達する際には注意が必要であること、成長期待を現実的に管理することの重要性、SaaSセクターにおける予期せぬ運営コストに関連する潜在的リスクなどが挙げられる。本稿では、競争の激しいSaaS市場で長期的な成功を収めるためには、成長への野心と財務的な慎重さのバランスを取ることが重要であることを強調している。</description>
+      <pubDate>Thu, 29 Jan 2026 17:48:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-this-week-the-5-billion-exit-that-felt-weird-why-inference-costs-are-the-final-nail-for-mid-growth-saas-and-andreessens-2-3-ai-domination/</guid>
+    </item>
+    <item>
+      <title>ICONIQの最新AIレポート：AI時代におけるPLGとSLGの比較、推論費用に関する実際のデータ、FDEの急増</title>
+      <link>https://www.saastr.com/iconiqs-latest-state-of-ai-report-the-10-most-important-data-points-for-saas-founders/</link>
+      <description>ICONIQが2026年1月に発表した「AIの現状」レポートは、300人のソフトウェア経営者を対象に調査を行い、AIビジネスの主要指標を浮き彫りにした：
+
+1.AI B2B企業では、売上主導と製品主導の成長が均等に分かれている。
+2.企業は平均3.1社のモデルプロバイダーを利用しており、OpenAIが最も人気がある。
+3.高成長企業は研究開発予算の57%をAIに割り当てており、AIへの投資が大幅に増加している。
+4.AIの粗利率は2026年に52%に達し、以前より上昇している。
+5.AIエージェントのデータ品質への対応は、多くの企業にとって依然として課題である。
+6.大企業ほど、顧客対応のAIエージェントを積極的に導入している。
+7.37%の企業が今後1年間にAIの価格設定を変更する予定であり、消費と成果に基づく価格設定が一般的になりつつある。
+8.AI企業にとって、モデル推論が規模に応じて支配的なコストドライバーとなる。
+9.推論コストは収益の平均23%に達し、企業は収益創出戦略の見直しを迫られている。
+10.前方展開されたエンジニアは顧客サポートにますます利用されるようになり、2026年には顧客の32%がこのサポートを受けると予測される。
+
+結論として、2026年に成功するAI企業は、実行、研究開発投資の増加、利益率の改善、エージェントの展開規模の拡大、ハイブリッド価格モデルに重点を置く。</description>
+      <pubDate>Thu, 29 Jan 2026 15:10:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/iconiqs-latest-state-of-ai-report-the-10-most-important-data-points-for-saas-founders/</guid>
+    </item>
+    <item>
+      <title>インターコムのCPOに聞く、ほとんどのB2B企業がAIで失敗している理由（そしてそれを回避する方法</title>
+      <link>https://www.saastr.com/why-most-b2b-companies-are-failing-at-ai-and-how-to-avoid-it-with-intercoms-cpo/</link>
+      <description>インターコムの最高製品責任者であるポール・アダムスは、同社がAIに賭けることでどのように変革し、その結果、AIエージェントであるFinが6,000人以上の顧客のために毎週100万件以上の顧客問題を解決するようになったかについての洞察を共有した。主な要点は、AIに特化した企業へとシフトするためには残酷な変革が必要であること、チームや戦略の再編など難しい決断を下すこと、などである。アダムスは、デザイナーにコードを書かせたり、譲れない基準を設けてエンジニアリングの生産性を2倍に押し上げたりするなど、真にイノベーションを起こすために境界を超えることの重要性を強調した。同社のソフトウェア開発アプローチは、従来の手法から、AIが可能にするもの、プロトタイピング、スケールでの学習に焦点を当てるものへと変化した。この劇的な変化には、古い原則を捨て、実行における不確実性を受け入れることが必要だった。AIの統合を検討しているSaaS企業は、AIの能力を十分に活用し、成長を促進するために、役割、プロセス、戦略の再評価を含め、組織および業務の大幅なシフトに備える必要がある。</description>
+      <pubDate>Thu, 29 Jan 2026 11:51:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-most-b2b-companies-are-failing-at-ai-and-how-to-avoid-it-with-intercoms-cpo/</guid>
+    </item>
   </channel>
 </rss>
