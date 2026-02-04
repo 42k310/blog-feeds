@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Feb 2026 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 03:06:35 GMT</lastBuildDate>
+    <item>
+      <title>AI GTMエージェントの1番の間違い：あなたのチームがまだ解明していないことをAIができると思い込むこと</title>
+      <link>https://www.saastr.com/the-1-error-with-ai-gtm-agents-assuming-they-can-do-what-your-team-hasnt-already-figured-out/</link>
+      <description>私たちは過去12ヶ月以上、SaaStr全体でAIエージェントを深く研究してきました。私たちは20以上のAIエージェントを導入し、現在100万ドル以上の収益を上げています。私たちは何百ものB2B企業がAI SDR、AIカスタマーサクセスエージェント、AIセールスアシスタントを導入しようとしているのを見てきました。そして、何度も何度も同じ間違いを目にしてきた。創業者は、AI GTMエージェントが、人間のチームには決してできなかったことを見つけ出すことができると思い込んでいる。全然違う。説明しよう。AIエージェントはフォース・マルチ... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 03 Feb 2026 15:09:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-1-error-with-ai-gtm-agents-assuming-they-can-do-what-your-team-hasnt-already-figured-out/</guid>
+    </item>
+    <item>
+      <title>「今まで聞いた中で最も馬鹿げたアイデア」 - Ownが20億ドルのセールスフォース買収に至った理由</title>
+      <link>https://www.saastr.com/the-dumbest-idea-ive-ever-heard-how-own-became-a-2b-salesforce-acquisition/</link>
+      <description>SaaStrのAIディープダイブでは、OwnのCEOであるSam Gutmannが、ほとんど全てに「No&amp;#8221」と言うことで、10億ドル規模のバックアップ企業を構築したことについて語ります。彼はHarpinder Singh（Innovation Endeavorsパートナー）と共に、その一部始終とトップ・ミスを共有しました。5月12日～14日にSFベイで開催されるSaaStrのAIアニュアルで、このような200以上のストーリーを聞いてください！トップ5 テイクアウェイ 1.Salesforceのバックアップを「今まで聞いた中で最も馬鹿げたアイデアだ」と切り捨てたCEOは、その後、Salesforceのカテゴリーを築き上げた。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 03 Feb 2026 12:27:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-dumbest-idea-ive-ever-heard-how-own-became-a-2b-salesforce-acquisition/</guid>
+    </item>
   </channel>
 </rss>
