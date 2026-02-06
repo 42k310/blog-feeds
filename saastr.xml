@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Feb 2026 03:07:40 GMT</lastBuildDate>
-    <item>
-      <title>20VC x SaaStr：SpaceXは1兆2500億ドル、SaaS株価は40％下落、そしてAIエージェントを100万人接続した週...その一部</title>
-      <link>https://www.saastr.com/20vc-x-saastr-spacex-at-1-25-trillion-saas-stocks-down-40-and-the-week-we-connected-a-million-ai-agents-sort-of/</link>
-      <description>ハリー・ステビングス、ジェイソン・レムキン、ローリー・O&amp;#8217;ドリスコルと スペースXはxAIとツイッターを吸収し、1兆2500億ドルの民間企業になった。上場B2B株は5週間で30～40％下落している。マイクロソフトは1日で時価総額3600億ドルを失った。ウェイモは1,100億ドルで160億ドルを調達。そしてMoltbookのどこかで、ジェイソンのAIエージェントが誤って彼のアメックスで44万1000ドル相当のオーデマ・ピゲの時計を注文してしまった。なんて一週間だ。これらすべてを繋ぐ線は、我々はAIの限界を見つけたということだ。 (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 05 Feb 2026 21:34:10 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-spacex-at-1-25-trillion-saas-stocks-down-40-and-the-week-we-connected-a-million-ai-agents-sort-of/</guid>
-    </item>
-    <item>
-      <title>多くのSaaSがいまだに「ひどい」理由：話しかけるだけでは思い通りにならない。AIの時代。</title>
-      <link>https://www.saastr.com/why-saas-is-still-terrible-you-cant-just-talk-to-it-and-have-it-do-what-you-want-its-time-in-the-age-of-ai/</link>
-      <description>私たちは、20年かけて素晴らしいSaaSアプリケーションを構築してきました。セールスフォース。HubSpot。Workday.ServiceNow。何千もの他の。彼らは、ビジネスの運営方法を変革してきました。何千億もの価値を生み出してきた。オンプレミスの時代には想像もできなかったことを可能にしてきた。しかし、まだ。実際に使ってみると、まだまだ「ひどい」のだ。ひどいといっても、&amp;#8220;動かない、&amp;#8221;というようなひどいものではない。専属の管理者。コンサルタント... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 05 Feb 2026 15:10:56 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-saas-is-still-terrible-you-cant-just-talk-to-it-and-have-it-do-what-you-want-its-time-in-the-age-of-ai/</guid>
-    </item>
-    <item>
-      <title>AI B2B企業の推論コストは売上高の平均23％。どのように支払うのか？</title>
-      <link>https://www.saastr.com/inference-costs-average-23-of-revenue-at-ai-b2b-companies-how-will-you-pay-for-it/</link>
-      <description>ICONIQ&amp;#8217;の最新レポート「State of AI」には、多くのB2B企業の創業者や取締役会が常に考えている疑問をまとめたチャートが掲載されている：AIの推論にいくらかけるべきか？スケーリングステージのAI企業では、モデル推論はAI製品の総コストの平均23％を占めている。人材は26％。インフラとクラウドは17％だ。考えてみてほしい。推論はAIチーム全体のコストとほぼ同じです。しかも、規模が大きくなってもコストは下がらない。立ち上げ前の段階では、推論はコストの20％を占める。規模が拡大する頃には... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 05 Feb 2026 13:40:04 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/inference-costs-average-23-of-revenue-at-ai-b2b-companies-how-will-you-pay-for-it/</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 15:04:32 GMT</lastBuildDate>
   </channel>
 </rss>
