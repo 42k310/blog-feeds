@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Feb 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 03:06:33 GMT</lastBuildDate>
+    <item>
+      <title>今日、人々が本当に生き生きとコーディングしていること。(Salesforceの構築ではない。）</title>
+      <link>https://www.saastr.com/what-folks-are-really-vibe-coding-today-its-not-building-their-own-salesforce/</link>
+      <description>LovableのCEOであるアントン・オシカは、今、企業におけるバイブコーディングの実際の使用例トップ4という、とても興味深いことを話してくれた。Lovableは現在、Rampで企業の間で2番目に急成長しているソフトウェア製品です。Lovableの企業における主な使用例は以下の通りです：1/エンジニアリングを待たずにラピッドプロトタイピング 2/プロセスやニーズにマッチした社内ツールの構築 3/... pic.twitter.com/wvNN73tpvK &amp;mdash; Anton Osika - eu/acc (@antonosika) Februar... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 10 Feb 2026 15:10:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/what-folks-are-really-vibe-coding-today-its-not-building-their-own-salesforce/</guid>
+    </item>
+    <item>
+      <title>20人以上のAIエージェントを市場投入し、実際に学んだこと（8ヶ月間）</title>
+      <link>https://www.saastr.com/what-we-actually-learned-deploying-20-ai-agents-across-our-entire-go-to-market-8-months-in/</link>
+      <description>LinkedInでは今、AIエージェントに懐疑的な声が高まっている。正直なところその一部は自業自得だ。多くのファウンダーがAI SDRを購入し、それをトレーニングせず、ゴミのような結果を得た。しかし、8ヶ月間SaaStrのGo-to-Market全体で20人以上のエージェントを3人の人間と犬1匹で運用した結果、私が知っていることは以下の通りだ：エージェントが調達した480万ドルの追加パイプライン。クローズドで獲得した収益は240万ドル。案件数... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 10 Feb 2026 12:25:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/what-we-actually-learned-deploying-20-ai-agents-across-our-entire-go-to-market-8-months-in/</guid>
+    </item>
   </channel>
 </rss>
