@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Feb 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 03:07:40 GMT</lastBuildDate>
+    <item>
+      <title>AIネイティブ企業と従来のB2Bスタートアップ企業との間に存在する今日的なギャップ。  そのためのチェックリスト。  あなたはどっち？</title>
+      <link>https://www.saastr.com/the-painful-gap-in-playbooks-and-urgency-between-ai-native-and-traditional-b2b-startups-today/</link>
+      <description>私も含め）投資を行う者は最近、AIネイティブのスタートアップ企業と伝統的なB2B企業の両方に多くの時間を費やしている。新規参入企業が何をしているのか、超成長企業が何をしているのか、そして既存企業がAI時代にどのように対処しているのかを見てきた。その違いは、製品だけでなく、事業の進め方や構造、そして正直なところ、社内にどれだけのエネルギーがあるかにまで及んでいる。私が現場で見ていることをお話ししましょう。そして、あなたにも正直になってもらいたい。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Wed, 25 Feb 2026 15:10:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-painful-gap-in-playbooks-and-urgency-between-ai-native-and-traditional-b2b-startups-today/</guid>
+    </item>
+    <item>
+      <title>エージェント・オーケストレーションの問題：いかにして20以上のAIエージェントをつなぎ合わせるか？</title>
+      <link>https://www.saastr.com/the-agent-orchestration-problem-how-we-wire-20-ai-agents-together-without-losing-our-minds/</link>
+      <description>世の中に出回っているAIエージェントのコンテンツのほとんどは、同じスクリプトに従っている：我々はAI SDRをデプロイした。複数のエージェントがある場合に何が起こるかについては誰も語らない。ArtisanのAI SDR、Salesforce AgentForceの別のエージェント、Qualifiedのインバウンドミーティング予約担当者、あなたがバイブでコーディングしたコンテンツレビューエージェント、その他十数種類のエージェントがあり、それらすべてが互いに会話し、データを共有し、互いのつま先を踏まないようにする必要があります。それがSaaSt... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Wed, 25 Feb 2026 13:11:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-agent-orchestration-problem-how-we-wire-20-ai-agents-together-without-losing-our-minds/</guid>
+    </item>
+    <item>
+      <title>Stripeの最新データ：スタートアップ企業の成長スピードは50％増、GDP成長率の50％をコンピュート需要が牽引、アプリ数は前年比60％増など</title>
+      <link>https://www.saastr.com/stripes-latest-data-startups-are-growing-50-faster-computer-demand-drove-50-of-gdp-growth-60-more-apps-yoy-and-more/</link>
+      <description>Stripeが2026年の年次報告書を発表した。しかし、その多くはステーブルコイン、エージェント型コマース・プロトコル、マクロ経済に関するものだ。しかし、あなたが今B2BまたはB2B + AI企業を構築しているのであれば、最も重要な5つの指標を抜き出してみよう。1.Stripeの2025年の新興企業コーホートは、2024年よりも50%速く成長している。毎年、Stripeは... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Wed, 25 Feb 2026 13:10:18 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/stripes-latest-data-startups-are-growing-50-faster-computer-demand-drove-50-of-gdp-growth-60-more-apps-yoy-and-more/</guid>
+    </item>
   </channel>
 </rss>
