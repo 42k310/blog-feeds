@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Mar 2026 15:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 03:07:45 GMT</lastBuildDate>
+    <item>
+      <title>30人のAIエージェントが稼働中。誰も話題にしないトップ5の課題はこれだ</title>
+      <link>https://www.saastr.com/we-have-30-ai-agents-in-production-here-are-the-top-5-issues-no-one-talks-about/</link>
+      <description>SaaStrでAIエージェントを本番稼動させて約10ヶ月になります。当初は2、3の実験から始まりましたが、今では30近いエージェントとバイブでコード化されたアプリが、アウトバウンドセールスからインバウンドクオリフィケーション、社内オペレーションまで、当社のGTMスタック全体で稼働するようになりました。30人のエージェントを管理するのは、ピーク時の12人の人間を管理するよりも大変です。すべての面で大変というわけではありません。しかし、予想外の点で大変なのです。ここでは、私たちが直面した問題のトップ5を紹介する。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 03 Mar 2026 17:08:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/we-have-30-ai-agents-in-production-here-are-the-top-5-issues-no-one-talks-about/</guid>
+    </item>
+    <item>
+      <title>私はまだ疲れている。もしあなたもそうなら、私はそれを理解する。</title>
+      <link>https://www.saastr.com/im-still-tired-and-if-you-are-too-i-get-it/</link>
+      <description>創業者の旅について、多くの人が驚くような話をしたい。私は10年以上前（！）に最後のスタートアップを売却した。そして、私はまだ疲れている。どういう意味かって？私は2011年に2番目のスタートアップをAdobeに売却した。かなり昔のことだ。それ以来、私たちはSaaStr AIを8桁のメディアとイベントビジネスに成長させました。14回以上のSaaStrグローバルイベントと11回のSaaStr AIアニュアルを開催。SaaStr Fundでは2つのファンドで2億ドル以上を投資し、7つのユニコーンに投資。すべての... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 03 Mar 2026 15:10:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/im-still-tired-and-if-you-are-too-i-get-it/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：ARR50万ドルで500万ドルの買収提案を受けました。VCはどう考えるでしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-we-have-a-5m-acquisition-offer-at-500k-arr-what-will-our-vcs-think/</link>
+      <description>親愛なるSaaStr：私たちは200万ドルを調達しましたが、投資家はこれ以上資金を投入したがりません。あと7ヶ月の猶予があります。ある買収者が400～500万ドルで買収したいと言っています。この結果をVCはどう思うだろうか？私はこの質問のバージョンをよく受けるので、あなたに直接言いたい：あなたのVCはこの取引にイエスと言うだろう。あなたのVCはこの取引にイエスと言うだろう。それはそれで構わない。数学と心理について説明しよう。数学はベンチャー企業には通用しない (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 03 Mar 2026 11:52:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-we-have-a-5m-acquisition-offer-at-500k-arr-what-will-our-vcs-think/</guid>
+    </item>
   </channel>
 </rss>
