@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Mar 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 03:06:35 GMT</lastBuildDate>
+    <item>
+      <title>コーワン・パラドックス：なぜAIエージェントは仕事を減らしてくれないのか？彼らはあなたにもっと仕事をさせる。</title>
+      <link>https://www.saastr.com/the-cowan-paradox-why-ai-agents-wont-let-you-do-less-work-theyll-make-you-do-more/</link>
+      <description>AIエージェントは私たちを仕事から解放してくれない。AIエージェントは、競争と顧客の期待に追いつくために、さらに多くの仕事をさせるのだ。四半期ごとのリリース？もうない。営業担当者が数日で返信してくる？終わった。顧客は自分の配備に責任がある？過去の遺物だ。どのAIベンダーも同じ夢をあなたに売っている。少ない従業員。少ない労力。同じアウトプット。もしかしたら、より良いアウトプットさえあるかもしれない。それは説得力のある売り文句だ。そして、それはほとんど間違っている。AIエージェントがそうではないからではない。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 07 Mar 2026 15:02:42 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-cowan-paradox-why-ai-agents-wont-let-you-do-less-work-theyll-make-you-do-more/</guid>
+    </item>
+    <item>
+      <title>RevenueCat&apos;s State of Subscription Apps: How 115,000+ Mobile Subscription Apps Deliver $16B in Revenueから学ぶトップ10。うまくいっていること。成長を静かに妨げているもの。</title>
+      <link>https://www.saastr.com/the-top-10-learnings-from-revenuecats-state-of-subscription-apps-how-115000-mobile-apps-deliver-16b-in-revenue-whats-working-whats-quietly-killing-growth/</link>
+      <description>RevenueCat State of Subscription Apps (SOSA) 2026が先日発表されましたが、これはサブスクリプションアプリのパフォーマンスに関するベンチマークレポートとしては最もデータ量の多いものです。115,000のアプリ、160億ドルの収益、10億以上のトランザクションから構築され、モバイルサブスクリプションアプリの50％以上から得られた実際のデータです。(余談ですが、SaaStr FundはRevenueCatの最初の投資家です。）これは、ほぼ完全にモバイルアプリとB2Cのデータセットです。我々はiOS... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 07 Mar 2026 13:48:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-top-10-learnings-from-revenuecats-state-of-subscription-apps-how-115000-mobile-apps-deliver-16b-in-revenue-whats-working-whats-quietly-killing-growth/</guid>
+    </item>
   </channel>
 </rss>
