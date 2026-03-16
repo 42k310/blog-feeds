@@ -5,6 +5,13 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Mar 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 03:05:29 GMT</lastBuildDate>
+    <item>
+      <title>最初のAI SDRを導入する前に知っておくべき10のこと：SaaStrのJasonとAmeliaによる最新情報</title>
+      <link>https://www.saastr.com/10-things-to-know-before-you-deploy-your-first-ai-sdr-the-very-latest-with-saastrs-jason-and-amelia/</link>
+      <description>SaaStrではAI SDRエージェントを10ヶ月以上運用している。私たちは4つの異なるベンダー（Artisan、Salesforce AgentForce、Qualified、Monaco）を毎日ローテーションで使用し、何十万ものアウトバウンドメッセージを送信し、1つのウェブサイトで150万のインバウンドセッションを処理した。先日、ある人から、最初のAI SDRを展開する前に知っておくべきことを教えてほしいと頼まれた。そこで、10個の大きな失敗を紹介しよう。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sun, 15 Mar 2026 14:10:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/10-things-to-know-before-you-deploy-your-first-ai-sdr-the-very-latest-with-saastrs-jason-and-amelia/</guid>
+    </item>
   </channel>
 </rss>
