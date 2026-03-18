@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Mar 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 03:06:35 GMT</lastBuildDate>
+    <item>
+      <title>ソフトウエア減速のどれだけがAnthropicとOpenAIに流れる予算か？  おそらく70％程度</title>
+      <link>https://www.saastr.com/how-much-of-the-software-slowdown-is-just-budgets-flowing-to-anthropic-and-openai-maybe-as-much-as-70/</link>
+      <description>このチャートを見てほしい。2021年のピーク以降、ほぼすべての主要上場ソフトウェア企業が、毎年低い成長率を記録している。1年おきではない。パッチでもない。毎年、順番に、例外なく。セールスフォースは25%から8%へ。スノーフレークは106％から24％へ。HubSpotは47％から17％へ。従来の説明では、バイブ・コーディングがソフトウェアを食っている。それはナンセンスだ。ただ、まだドルには表れていない。開発者たちは自分たちでも作っているのだから......。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 17 Mar 2026 14:13:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-much-of-the-software-slowdown-is-just-budgets-flowing-to-anthropic-and-openai-maybe-as-much-as-70/</guid>
+    </item>
+    <item>
+      <title>ほとんどの営業担当副社長が聞きたくない、AI導入に関する5つの不快な真実：ラリジンのデータ</title>
+      <link>https://www.saastr.com/5-uncomfortable-truths-about-ai-adoption-that-most-vps-of-sales-dont-want-to-hear-the-data-from-laridan/</link>
+      <description>Larridin社のCEOであるRuss Fradin氏は、前回のデジタルSaaStr AI Dayで、企業が営業チーム全体でAIの導入を実際に測定するのを支援する方法について説明した。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 17 Mar 2026 10:51:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/5-uncomfortable-truths-about-ai-adoption-that-most-vps-of-sales-dont-want-to-hear-the-data-from-laridan/</guid>
+    </item>
   </channel>
 </rss>
