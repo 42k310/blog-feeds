@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Mar 2026 03:07:39 GMT</lastBuildDate>
-    <item>
-      <title>CRMは1つ。しかし、私たちは6人以上のAIセールス・エージェントを24時間365日稼働させています。B2Bの未来はどうなる？</title>
-      <link>https://www.saastr.com/we-use-1-crm-but-we-use-4-ai-sales-agents-what-does-that-tell-us-about-the-future-of-b2b/</link>
-      <description>SaaStrでAIファーストを採用したとき、予想もしなかったことがありました。1つだけです。しかし、現在ではAgentforce、Monaco、Artisan、Qualifiedの4つの異なるAIセールスエージェントを同時に運用しています。さらに増やすかもしれません。これは壮大な戦略ではありません。有機的に起こったことなのです。各エージェントは、それぞれのレーンにおいて、他のエージェントとは少し違う、少し優れたことをしているのです：Agentforceは、私たちのチームがゴースト化していたリードを再活性化しました。 (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sat, 21 Mar 2026 14:10:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-use-1-crm-but-we-use-4-ai-sales-agents-what-does-that-tell-us-about-the-future-of-b2b/</guid>
-    </item>
-    <item>
-      <title>今週のSaaStr AIアプリ：Launchpad.io - B2Bソフトウェア企業が本番アプリケーションを数年ではなく数週間で出荷できるエンタープライズ・プラットフォーム</title>
-      <link>https://www.saastr.com/saastr-ai-app-of-the-week-launchpad-io-the-enterprise-platform-that-lets-b2b-software-companies-ship-production-apps-in-weeks-not-years/</link>
-      <description>結論Launchpadはペガシステムズ（Nasdaq: PEGA、時価総額約70億ドル）のローコード、AI搭載プラットフォームで、エンタープライズグレードのSaaSアプリケーションの構築、立ち上げ、運用を必要とするB2Bソフトウェア企業向けに構築されている。Lauchpad.ioは、バイブコーディングのおもちゃやAIプロトタイプジェネレーターではありません。Lauchpad.ioは、マルチテナント・クラウド・アーキテクチャ、ワークフロー自動化、コンプライアンス、購読者管理、AI搭載開発ツールなど、フル・プロダクション・スタックです。価格は月額900ドルから。 (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sat, 21 Mar 2026 11:57:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-launchpad-io-the-enterprise-platform-that-lets-b2b-software-companies-ship-production-apps-in-weeks-not-years/</guid>
-    </item>
-    <item>
-      <title>親愛なるSaaStr：当社のCFOは非常に洗練されているように聞こえますが、ほぼ毎月のようにバーンレートプランを逃しています。どうすればいいでしょうか?</title>
-      <link>https://www.saastr.com/cfomissingburn/</link>
-      <description>SaaStrへ：私たちのCFOはとても洗練されているように聞こえますが、ほぼ毎月バーンレートプランが不足しています。どうすればいいでしょうか?これは深刻な問題なので、率直に言います。私が何度も見てきたことだ：凡庸なCFOは現金を適切に管理しない。凡庸なCFOはキャッシュを適切に管理しない。回収プロセスのニュアンスを見逃す。また、経費を... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sat, 21 Mar 2026 10:10:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/cfomissingburn/</guid>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
