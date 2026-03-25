@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Mar 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:06:36 GMT</lastBuildDate>
+    <item>
+      <title>AIエージェントを訓練して、ただ...去ることはできない。私たちはそうしました。そして我々は知らなかった。</title>
+      <link>https://www.saastr.com/you-cant-train-an-ai-agent-and-then-just-go-away-we-did-and-it-fell-off-the-rails/</link>
+      <description>いつも使っているAIエージェントがいる。今では30人近くになります。そして重要なのは、それが収益に直結していないということです。だから、私たちは大きな間違いを犯した。一度うまくいって、ダイヤルが合ってしまえば、私たちはそれを無視してしまったのです。セットアップし、トレーニングし、うまく機能するのを見て、次の問題に移ったのです。実際、初期の頃はすべてのチャット、すべてのEメール、すべてのやりとりを読んでいました。しかし、うまく機能しているように見え、ミスもなかった。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 24 Mar 2026 14:10:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/you-cant-train-an-ai-agent-and-then-just-go-away-we-did-and-it-fell-off-the-rails/</guid>
+    </item>
+    <item>
+      <title>HappyFox創業者CEOに聞く、サポートデータを顧客獲得チャネルに変える5つの方法</title>
+      <link>https://www.saastr.com/5-ways-to-turn-your-support-data-into-a-customer-acquisition-channel-with-happyfoxs-founder-ceo/</link>
+      <description>シャリン・ジェインは、約100人の従業員を抱えながら、HappyFoxをARR$20M以上まで成長させた。彼は、ARR$1Mのサポート担当者5人から、ARR$20Mのサポート担当者6人になった。営業についても同じで、300万ドルで6人の売り手がいたのが、2000万ドルでも6人の売り手がいる。彼は最近、サポートデータを主要なGTMエンジンとして扱うことで、彼のチームがそれを達成した方法を共有した。以下は、最も実用的な5つの要点である。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 24 Mar 2026 10:19:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/5-ways-to-turn-your-support-data-into-a-customer-acquisition-channel-with-happyfoxs-founder-ceo/</guid>
+    </item>
   </channel>
 </rss>
