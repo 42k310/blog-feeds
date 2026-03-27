@@ -5,6 +5,34 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:08:44 GMT</lastBuildDate>
+    <item>
+      <title>今週の20VC x SaaStr：AnthropicはOpenAIのエンタープライズランチを食べている、Figmaの本当の問題はStitchではない、そして誰も話したがらないユニコーンの数学</title>
+      <link>https://www.saastr.com/20vc-x-saastr-this-week-anthropic-is-eating-openais-enterprise-lunch-figmas-real-problem-isnt-stitch-and-the-unicorn-math-nobody-wants-to-talk-about/</link>
+      <description>ハリー・ステビングス、ジェイソン・レムキン、ローリー・O&amp;#8217;ドリスコルと！RampのデータはOpenAIが避けてきたことを数字で示した：新しい企業AI支出の73%はAnthropicに流れている。10週間前は半々でした。そのシフト - 加えて、Figmaの株価暴落、AIを変革する製造業に$ 100Bベゾスの賭け、実質的な税金で創業者の約60％を要した$ 200B Grokの取引、ユニコーンの出口に関する不快な数学 - 密集した週のために作った。しかし、その根底にあるのは、私たちはもう... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Thu, 26 Mar 2026 20:46:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-this-week-anthropic-is-eating-openais-enterprise-lunch-figmas-real-problem-isnt-stitch-and-the-unicorn-math-nobody-wants-to-talk-about/</guid>
+    </item>
+    <item>
+      <title>私たちのAIカスタマー・サクセス・エージェントは、私が働いてきた人間のCSMの95％よりも一生懸命働いています。もしかしたら95％以上かもしれません。</title>
+      <link>https://www.saastr.com/our-ai-customer-success-agent-is-working-harder-than-95-of-human-csms-ive-worked-with-maybe-more-than-95/</link>
+      <description>昨日の出来事です。午前8時37分、当社のAIカスタマーサクセス&amp;#8220;QBee&amp;#8221;エージェントは、SaaStr AI Annual 2026のために150以上のパーソナライズされたスポンサー更新メールを送信しました。一括送信ではありません。ファーストネームトークンのメールマージでもありません。すべてのメールは、私たちがスポンサーを成功させるために必要なものにカスタマイズされていました。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Thu, 26 Mar 2026 14:14:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/our-ai-customer-success-agent-is-working-harder-than-95-of-human-csms-ive-worked-with-maybe-more-than-95/</guid>
+    </item>
+    <item>
+      <title>より速いクローズ。より短い契約。よりリーンなチーム。最新のICONIQ GTMレポートから学ぶトップ10。</title>
+      <link>https://www.saastr.com/fasterleanericoniq/</link>
+      <description>ICONIQは、150社以上のB2B + AIソフトウェア企業のGTMエグゼクティブを対象とした2026年1月の調査に基づき、2026年のGo-to-Marketの現状を発表した。Iconiqは、B2B + AIにおける最高の企業の大規模な断面における成長状態に投資しています。以下は、B2B + AIの創業者や幹部にとって最も重要な10の調査結果である：1.1.トップクォータイルのARR成長はベスト企業で再加速している。劇的に。優良企業が群れを引き離している。前年比ARR成長率トップクラスの企業 ... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Thu, 26 Mar 2026 12:51:27 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/fasterleanericoniq/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：カスタマーサクセスマネージャーをフォワードデプロイメントエンジニアに変えることはできますか？</title>
+      <link>https://www.saastr.com/dear-saastr-can-i-convert-my-customer-success-managers-into-forward-deployed-engineers/</link>
+      <description>短い答えだ：非常に特殊な場合のみで、通常は別のタイプの人間を雇う必要があるということだ。ほとんどのCSMはFDEの仕事には向いていません。それは彼らを非難しているのではなく、彼らは全く別の仕事をしているのです。CSMは関係を管理し、更新のリスクを軽減し、8～12アカウントのポートフォリオ全体の拡大を推進する。FDEは、1～3社の顧客とエンベデッドし、ワークフローを作成し、デバッグし、デプロイメントのブロッカーを毎日クリアし、AIが本番で実際に機能するかどうかを管理する。FDEは... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Thu, 26 Mar 2026 10:12:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-can-i-convert-my-customer-success-managers-into-forward-deployed-engineers/</guid>
+    </item>
   </channel>
 </rss>
