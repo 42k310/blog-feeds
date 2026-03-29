@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Mar 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 03:07:43 GMT</lastBuildDate>
+    <item>
+      <title>10 Things To.最初のAI SDRを展開する前に知っておくべき10のこと</title>
+      <link>https://www.saastr.com/dear-saastr-what-should-i-know-before-rolling-out-our-first-ai-sdr/</link>
+      <description>現在、SaaStrでは20人以上のAIエージェントを配備し、6万通以上のAI SDRメールを送信し、パイプラインと収益の50%以上をAIセールスエージェントから生み出しています。SaaStrを始める前に誰かに教えてもらいたかったことがあります。AISDRについて最初に言っておくと、ツールはそれほど重要ではない。10社のベンダーのデモをこなしてきたあなたにとって、それは聞きたくないことだろう。しかし、これが真実なのです。ツールは成果の20％程度です。残りの80%は、それをどのようにトレーニングするか、誰が... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 28 Mar 2026 14:10:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-should-i-know-before-rolling-out-our-first-ai-sdr/</guid>
+    </item>
+    <item>
+      <title>FALの共同創業者兼CTOがゼロからAIネイティブビジネスを構築して学んだこと</title>
+      <link>https://www.saastr.com/what-the-co-founder-and-cto-of-fal-learned-building-an-ai-native-business-from-scratch/</link>
+      <description>ゴーケム・ユルツェベンは、オープンソースおよびクローズドソースの画像・動画モデルをホストし、独自の推論エンジンを通じてそれらをAPIとして公開する、80億ドル規模のジェネレーティブ・メディア・プラットフォームであるFALのCTO兼共同創業者だ。彼は前回のSaaStr AI Annua lに参加し、最も急成長しているAIインフラビジネスの1つを構築するために学んだことを紹介します。この続きは5月12日～14日にSFで開催される2026 SaaStr AI Annualで &amp;nbsp; AIの粗利率は低下している。そしてその状態が続いている。これまで... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 28 Mar 2026 12:32:05 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/what-the-co-founder-and-cto-of-fal-learned-building-an-ai-native-business-from-scratch/</guid>
+    </item>
+    <item>
+      <title>SaaStrへ：バイヤーは契約期間の短縮を求め続けています。屈するべきでしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-buyers-keep-pushing-for-shorter-contracts-should-i-give-in/</link>
+      <description>おそらくそうだろう。そして、それを早く受け入れれば受け入れるほど、2026年に実際に機能する営業活動を構築することができる。過去2年間、B2Bの平均的な初期契約期間は短くなっている。ICONIQが2026年1月に実施した150人以上のGTMエグゼクティブを対象とした調査によると、このシフトは収益帯を問わず一貫している。バイヤーは、小規模な案件でより短いコミットメントを求めているだけではありません。バイヤーは、小規模な案件においてのみ、より短いコミットメントを求めているのではありません。これは交渉戦術ではない。これは交渉戦術ではない。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 28 Mar 2026 10:13:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-buyers-keep-pushing-for-shorter-contracts-should-i-give-in/</guid>
+    </item>
   </channel>
 </rss>
