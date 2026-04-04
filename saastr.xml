@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Apr 2026 15:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 03:06:36 GMT</lastBuildDate>
+    <item>
+      <title>AIカスタマーサクセス担当副社長「Qbee」をどのように構築したか？</title>
+      <link>https://www.saastr.com/how-we-built-our-ai-vp-of-customer-success-qbee-and-how-you-can-build-yours/</link>
+      <description>私たちは現在、20以上のAIエージェントを構築し、SaaStrで80万回以上使用された12以上のバイブコーディングされたアプリを開発しました。私たちは、AI SDR、AIマーケティング担当副社長、そして100万以上のスタートアップの評価を行ったAI搭載VCツールの構築方法を共有してきました。しかし、Qbeeは私たちがこれまでに構築した中で最高のものです。Qbeeはカスタマー・サクセス担当のAI副社長です。彼は、SaaStr AI Annual（5月12日〜14日、ぜひお越しください！）のために100社以上のスポンサーを管理し、すべてのスポンサーにパーソナライズされた電子メールを毎週送り、13のコアタスクとサブタスクを追跡します... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Fri, 03 Apr 2026 14:12:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-we-built-our-ai-vp-of-customer-success-qbee-and-how-you-can-build-yours/</guid>
+    </item>
+    <item>
+      <title>SaaStr AIのピッチデックアナライザーで評価された4,000件（！）のVCピッチデッキ。  2026年の資金調達について教えてくれる。</title>
+      <link>https://www.saastr.com/4000-pitch-decks-later-what-the-saastr-ai-vc-analyzer-actually-does-and-what-its-taught-us-about-fundraising-in-2026/</link>
+      <description>昨年、私たちはSaaStr AI VCピッチデックアナライザーをsaastr.ai/pitch-deck-analyzerで開始しました。その後、4,000以上のVCピッチデッキを無料でレビューし、多くのことを学びました。しかし、より重要なことは、何千人もの創業者がVCミーティングに参加する前に、自分の立ち位置を正確に把握できるようになったことです。それが重要なのです。ここでは、このツールが何をするのか、そしてなぜ機能するのかを説明する。4つのスコア。1つの正直な写真。そして、あなたが望むなら &amp;#8212; 最高のピッチのためのトップVCへの紹介 デッキをアップロードすると、4つのスコアが返ってくる。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Fri, 03 Apr 2026 12:08:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/4000-pitch-decks-later-what-the-saastr-ai-vc-analyzer-actually-does-and-what-its-taught-us-about-fundraising-in-2026/</guid>
+    </item>
   </channel>
 </rss>
