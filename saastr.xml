@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Apr 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 03:07:45 GMT</lastBuildDate>
+    <item>
+      <title>CIOがいま最もAIに置き換えたいと考えているもの</title>
+      <link>https://www.saastr.com/cioreplaceai/</link>
+      <description>B2B企業の経営幹部がいま問うべきは、CIOがソフトウェアをAIに置き換えようとしているかどうかではない。そうだ。問題は、どのソフトウェアを、どれくらいのスピードで、ということだ。レッドポイントは2026年3月に141人のCIOを対象に調査を実施し、次のような直接的な質問をした。「過去1年間に、どのソフトウェア・カテゴリーで現在のベンダーからのリプレースを真剣に検討しましたか？その回答から、実際にリプレース圧力が高まっているのはどこなのか、また、既存ベンダーが見出しから想像されるよりも安全なのはどこなのかがわかる。カテゴリーランキング... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 04 Apr 2026 14:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/cioreplaceai/</guid>
+    </item>
+    <item>
+      <title>規模の大きなテック企業がOpenAI + TBPNのような取引に注目すべき理由</title>
+      <link>https://www.saastr.com/every-scale-company-should-be-looking-at-deals-like-openai-tbpn-heres-why/</link>
+      <description>OpenAIは、Jordi HaysとJohn Cooganがホストを務める毎日のライブ技術トークショー、TBPNを買収しました。SaaStrでは初日からTBPNの超ファンです。私たちは長年にわたって多くのメディアやイベントなどを行ってきましたが、少なくとも私たちにとっては、最初から真の価値を付加する本物の何かを行っていることは明らかでした。しばらくの間、創業者中心のコンテンツをやってきて、いくつか思うことがある：#1.OpenAIは上場もしていないし、利益を上げているわけでもない。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 04 Apr 2026 13:10:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/every-scale-company-should-be-looking-at-deals-like-openai-tbpn-heres-why/</guid>
+    </item>
+    <item>
+      <title>親愛なるSaaStr：セールスに1年以上かかったことはありますか？</title>
+      <link>https://www.saastr.com/did-it-ever-take-you-a-year-to-close-a-sale/</link>
+      <description>親愛なるSaaStr：セールスに1年以上かかったことはありますか？もちろんです。例えばGoogleの場合、成約までに約18ヶ月かかりました：例えば、Googleの場合、成約までに約18ヶ月を要しました。ニーズの特定とプロジェクト・マネージャーとのディスカッションを数ヶ月に渡って実施 ニーズの特定と幅広いグループとのディスカッションを検討するため、約6回のオンサイト・ミーティングを実施 RFP ワークフローのプロトタイプを作成 統合機能がカスタム・アプリに接続できることを確認 新機能の出荷を待つ 90日間の未払いパイロットを実施 セキュリティ監査を通過 調達案件の規模を90%削減 投... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Sat, 04 Apr 2026 09:49:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/did-it-ever-take-you-a-year-to-close-a-sale/</guid>
+    </item>
   </channel>
 </rss>
