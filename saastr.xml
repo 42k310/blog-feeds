@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:06:35 GMT</lastBuildDate>
+    <item>
+      <title>Slackの日曜日。誰もAIエージェントにチェックインする必要はないと言わなかった。</title>
+      <link>https://www.saastr.com/its-sunday-on-slack-no-one-told-our-ai-agents-they-didnt-have-to-check-in/</link>
+      <description>日曜日の朝、起きてコーヒーを飲み、Slackを開いた。誰も働いていない。を除いては......いや、それはもうちょっとおかしい。すでに2つの詳細なレポートが私を待っていた。それぞれ午前0時と9時に投稿された。総参加者数、スポンサー数、チケット収入、有料チケットと無料チケットのミックス、2025年に対する前年比、ASPのトレンドなどなど。すべての... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Mon, 06 Apr 2026 14:10:21 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/its-sunday-on-slack-no-one-told-our-ai-agents-they-didnt-have-to-check-in/</guid>
+    </item>
+    <item>
+      <title>OpenAIの1220億ドル &quot;VCラウンド &quot;は、ベンダー取引、偶発的資本、そしておそらく手が出せないリターン保証だ</title>
+      <link>https://www.saastr.com/openais-122b-vc-round-is-vendor-deals-contingent-capital-and-a-guaranteed-return-it-arguably-cant-afford/</link>
+      <description>3つのアンカーとは、クラウドベンダー、チップベンダー、そして循環収益案件を持つ持ち株会社である。実際のVC的資本は、見出しのほんの一部である。OpenAIは、2026年3月31日にポストマネーバリュエーション8,520億ドルで1,220億ドルをクローズした。しかし、それほど単純ではない。そのほとんどはVCからの直接投資ではない。その構造が物語なのだ。3つのアンカー1,220億ドルのうち1,100億ドル このラウンドのアンカーは、アマゾン（500億ドル）、エヌビディア（300億ドル）、ソフトバンク（300億ドル）だ。これで1100億ドルを占める。T... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Mon, 06 Apr 2026 10:51:37 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/openais-122b-vc-round-is-vendor-deals-contingent-capital-and-a-guaranteed-return-it-arguably-cant-afford/</guid>
+    </item>
   </channel>
 </rss>
