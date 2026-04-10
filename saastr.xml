@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:07:58 GMT</lastBuildDate>
-    <item>
-      <title>20VC x SaaStr：Anthropicは300億ドルを達成し、トレーニング費用はOpenAIの4分の1、SpaceXは1兆7500億ドル、そしてなぜビッグスリーは過去25年間の全てのIPOの合計を凌駕するのか？</title>
-      <link>https://www.saastr.com/20vc-x-saastr-anthropic-hit-30-billion-and-training-costs-a-quarter-of-openais-spacex-files-at-1-75-trillion-and-why-the-big-three-will-dwarf-every-ipo-of-the-last-25-years-combined/</link>
-      <description>ハリー・ステビングス、ジェイソン・レムキン、ローリー・O&amp;#8217;ドリスコルとともに アンソロピックは年商300億ドルを達成した。年初の90億ドルから増加した。これは4ヶ月で3.3倍の成長だ。セールスフォースは300億ドルに到達するのに25年かかった。アンソロピックは5年で到達した。数え方によっては3年かもしれない。そして、ここがOpenAIの投資家を恐怖に陥れる部分だ：AnthropicのトレーニングコストはOpenAIの4分の1。4分の1です。4分の1だ。 (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 09 Apr 2026 20:03:38 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-anthropic-hit-30-billion-and-training-costs-a-quarter-of-openais-spacex-files-at-1-75-trillion-and-why-the-big-three-will-dwarf-every-ipo-of-the-last-25-years-combined/</guid>
-    </item>
-    <item>
-      <title>HubSpot、AIの価格を「使用ごと」から「解決ごと」に変更。しかし、それは本当に重要なのでしょうか？</title>
-      <link>https://www.saastr.com/hubspot-switching-ai-pricing-from-per-use-to-per-resolution-but-does-it-really-matter/</link>
-      <description>HubSpotはBreeze AIエージェントの価格を大幅に変更した。4月14日より、AIカスタマーエージェントの価格は、会話1件あたり1.00ドルから、解決した会話1件あたり0.50ドルに変更されます。また、プロスペクティングエージェントは、登録コンタクトあたりの月額定額料金から、アウトリーチに推奨されるリード1件あたり1.00ドルになります。特に最初の変更点である成果ベースの価格設定への移行は、一見すると大きな変更のように思える。AIが実際に仕事をしたときだけ支払う。もう、失敗した試みにお金を払う必要はない。 (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 09 Apr 2026 14:10:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/hubspot-switching-ai-pricing-from-per-use-to-per-resolution-but-does-it-really-matter/</guid>
-    </item>
-    <item>
-      <title>5月12日～14日にSFベイで開催されるSaaStr AI Annual 2026で、エージェント型CRM革命のリーダーをご紹介します！</title>
-      <link>https://www.saastr.com/meet-the-leaders-of-the-agentic-crm-revolution-at-saastr-ai-annual-2026/</link>
-      <description>CRM市場はゼロから再構築されようとしている。少しずつではありません。20年前のアーキテクチャーにAI機能を追加するのでもない。ゼロからです。5月12日～14日にSFベイで開催されるSaaStr AI Annual 2026では、それを実践しているほぼすべての企業に会うことができる。私は最近、Salesforceをほとんど使っていなかったのが、20以上のAIエージェントを導入した途端、GTM業務全体の中心に据えるようになったことについて書いた。その論文とはエージェントに従え。エージェントが最も仕事をしているCRMを選びましょう。ほぼ全ての企業で、SalesforceとAIエージェントの双方が、GTM業務の中心となっている。 (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 09 Apr 2026 12:10:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/meet-the-leaders-of-the-agentic-crm-revolution-at-saastr-ai-annual-2026/</guid>
-    </item>
+    <lastBuildDate>Fri, 10 Apr 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
