@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 03:06:32 GMT</lastBuildDate>
+    <item>
+      <title>AIエージェントの導入が失敗する理由トップ10</title>
+      <link>https://www.saastr.com/the-top-10-reasons-your-ai-agent-implementation-is-failing/</link>
+      <description>この件に関して、たくさんのメールをいただいています。たくさんだ。創業者、営業担当副社長、CRO、RevOpsリーダー。彼らは次のようなことを書いてきます： &amp;#8220;AISDR/AIエージェント/AIサポートを試しました。うまくいきませんでした。SaaStrであなたが話しているような結果は得られていません。私たちは何を間違えているのでしょうか？私たちは、SaaStrのすべてのGTM部門に20人以上のAIエージェントを配備しました。20人以上の従業員から、3人の人間と20人のエージェントになりました。売上は... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Fri, 10 Apr 2026 14:17:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-top-10-reasons-your-ai-agent-implementation-is-failing/</guid>
+    </item>
+    <item>
+      <title>ビッグ3のIPOは2000年以降のすべてを凌駕する。合算。</title>
+      <link>https://www.saastr.com/the-big-3-ipos-will-dwarf-everything-else-since-2000-combined/</link>
+      <description>スペースXは4月1日、SECに秘密裏に申請した。OpenAIは1220億ドルというシリコンバレー史上最大の民間資金調達を完了したばかり。Anthropicは10月の上場を目指している。ビッグ3。PitchBookは、この3社の上場は、2000年以降にVCが支援したすべてのIPOを合計したよりも大きな価値を生み出すと述べている。合算。すべて... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Fri, 10 Apr 2026 12:10:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-big-3-ipos-will-dwarf-everything-else-since-2000-combined/</guid>
+    </item>
   </channel>
 </rss>
