@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Apr 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:06:37 GMT</lastBuildDate>
+    <item>
+      <title>5月14日に開催される2026 SaaStr AI CMO Summitに、Snowflake CMOのDenise Perssonと150名以上のB2B + AIマーケティングのトップリーダーと共に参加しませんか？</title>
+      <link>https://www.saastr.com/come-join-us-at-the-2026-saastr-ai-cmo-summit-our-4th-with-snowflake-cmo-denise-persson-and-150-of-the-top-b2b-marketing-leaders/</link>
+      <description>今年もやります。4年連続で、SaaStr AI CMO SummitをSaaStr AI Annual 2026の一環として開催します - AI + B2Bの最先端で活動する最高のマーケターとGTMエグゼクティブのための半日ディープダイブです。今年は、SnowflakeのCMOであるDenise Persson氏をお招きし、エンタープライズ・ソフトウェアにおける最も象徴的なGo-to-Marketエンジンの1つであるSnowflakeのスケーリングから学んだことを共有していただきます。デニスは2016年からスノーフレークのCMOを務めている。 (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Mon, 13 Apr 2026 17:30:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/come-join-us-at-the-2026-saastr-ai-cmo-summit-our-4th-with-snowflake-cmo-denise-persson-and-150-of-the-top-b2b-marketing-leaders/</guid>
+    </item>
+    <item>
+      <title>なぜ誰も十分なFDEを持たないのか、なぜCSはそのギャップを埋められないのか、そしてなぜエージェントの多くは自ら配備できないのか。  少なくともまだ。</title>
+      <link>https://www.saastr.com/why-no-one-has-enough-fdes-why-cs-cant-fill-the-gaps-and-why-agents-most-cant-deploy-themselves-today/</link>
+      <description>AIエージェントを大規模に展開する誰もが今、同じことを言っている。そして、それは正しい。しかし、ほとんどの企業はその事実から間違った結論を導き出している。FDE不足は単なる雇用問題ではない。それは、実際の企業内でAIを導入するために実際に何が必要かという構造的な問題であり、その作業を行うために通常頼りになる人材やチームが、なぜそれができなくなったのかということだ。何が... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Mon, 13 Apr 2026 14:10:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-no-one-has-enough-fdes-why-cs-cant-fill-the-gaps-and-why-agents-most-cant-deploy-themselves-today/</guid>
+    </item>
   </channel>
 </rss>
