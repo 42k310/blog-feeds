@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Apr 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 03:07:27 GMT</lastBuildDate>
+    <item>
+      <title>ウェイモ1台で量産アプリを出荷。25分。自分で書いたコード0行。</title>
+      <link>https://www.saastr.com/we-shipped-a-production-app-in-one-waymo-ride-25-minutes-zero-lines-of-code-i-wrote-myself/</link>
+      <description>私たちはコーチェラに行くためにSFOに向かうウェイモに乗っていた。ターミナルまで約25分。もし、SaaStr AI Annual 2026の参加者全員が、LinkedInのためにカスタム&amp;#8220;I&amp;#8217;I&apos;ll Be There&amp;#8221;カードを作成し、自分の顔写真、メッセージ、SaaStr AI 2026のブランディングを添えて、ウェブサイトからすぐに共有できるとしたらどうだろう？モックアップではない。プロトタイプでもない。saastrannual.comでライブ配信される本番アプリは、実際の参加者が自分のネットワ... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 14 Apr 2026 14:07:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/we-shipped-a-production-app-in-one-waymo-ride-25-minutes-zero-lines-of-code-i-wrote-myself/</guid>
+    </item>
+    <item>
+      <title>Anthropicの従業員数はわずか5,000人。これほど効率的な会社はほとんどありません。それは選択によるものだ。</title>
+      <link>https://www.saastr.com/anthropic-only-has-5000-employees-almost-no-one-has-ever-been-this-efficient-thats-by-choice/</link>
+      <description>Anthropic just hit $30 billion in annualized revenue. $30 billion. In a company founded in 2021. With somewhere between 3,000 and 5,000 employees, depending on which source you trust. That is the not just the fastest $30 billion revenue run in the history of technology. It&amp;#8217;s the leanest. And it&amp;#8217;s not even close. The Revenue Ramp That Broke Every Record Brad Gerstner at Altimeter (an investor in both Anthropic and OpenAI) laid out the revenue trajectory on a recent podcast, and the nu... (翻訳失敗) (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 14 Apr 2026 12:10:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/anthropic-only-has-5000-employees-almost-no-one-has-ever-been-this-efficient-thats-by-choice/</guid>
+    </item>
   </channel>
 </rss>
