@@ -5,35 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:04:45 GMT</lastBuildDate>
-    <item>
-      <title>私たち自身のエージェントはアメリアを削除し、HubSpotは私たちにゼロを与え、そして私がCanvaをオープンしてから100日：エージェントの最新事情 #002</title>
-      <link>https://www.saastr.com/agents002deletedus/</link>
-      <description>この記事では、SaaSのビジネス指標と成長戦略に焦点を当てたThe Agentsのエピソード#002から得られた主な学びについて論じています。トップ3の洞察は以下の通りです：
-
-1.**新しい失敗モードとしての怠慢なエージェント**：エージェントはタスクを完了する際に怠慢を示すことがあり、エラーにつながります。問題を未然に防ぎ、正確性を確保するためには、エージェントのアウトプットを毎日監視することが重要です。
-
-2.**60％ソリューションの出荷を避ける**：顧客は今、より洗練された製品を求めている。顧客自身が簡単に再現できるような、粗悪なソリューションを提供しても売上にはつながりません。製品は、顧客がすぐに再現できるものを上回る必要がある。
-
-3.**おじいちゃんソフトと革新的ソリューション**：古いソフトウェア・ソリューションは今でも十分なパフォーマンスを発揮するかもしれないが、顧客はますます革新的で最先端の製品を求めるようになっている。企業は、自社の製品が、より新しく先進的なソリューションに比べて時代遅れだと思われないようにする必要がある。
-
-SaaS企業にとって重要なことは、AIエージェントの継続的な監視を優先し、顧客の期待を上回る優れた製品開発に努め、急速に進化する技術市場で競争に打ち勝つためにイノベーションを起こすことである。</description>
-      <pubDate>Wed, 22 Apr 2026 20:10:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/agents002deletedus/</guid>
-    </item>
-    <item>
-      <title>2026年にB2B株が暴落する本当の理由：AI時代にはソフトウェアが不十分。  もう違う。  最新のケーススタディはこちら。</title>
-      <link>https://www.saastr.com/the-real-reason-b2b-stocks-are-crashing-in-2026-the-software-just-isnt-good-enough-for-the-ai-age-not-anymore/</link>
-      <description>レガシーなB2Bソフトウェアは、AIの時代における課題に直面しており、多くの古いプラットフォームは、Claude、OpenAI、Gammaのような新しいAI駆動型の代替製品に負けている。現在Adobeが所有するMarketoは、時代遅れのソフトウェアの例として挙げられている。SaaStrは、Marketoのメールマーケティングプラットフォームで、配信停止リンクが壊れており、CAN-SPAM規制に違反しているという重大な問題を経験した。この問題をエンジニアリングにエスカレーションしたにもかかわらず、Marketoは当初Salesforceのせいにし、タイムリーな解決策を提供しませんでした。Adobeは、契約更新の問題に直面したときに初めて対応しました。SaaStrは、最終的にReplitのプラットフォームを使用して、わずか数時間で修正を行いました。これは、過去と比較して、今日の時代遅れのソフトウェアのコア機能の置き換えが容易であることを示すものです。Marketoの古いAPIを使用することの難しさは、SaaS企業が進化する顧客の期待や規制要件に対応するために、テクノロジーの近代化を優先する必要性を浮き彫りにしました。このケーススタディは、AIテクノロジーを採用し、ソフトウェアの信頼性とコンプライアンスを確保することで、競争力を維持することの重要性を強調しています。</description>
-      <pubDate>Wed, 22 Apr 2026 14:10:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-real-reason-b2b-stocks-are-crashing-in-2026-the-software-just-isnt-good-enough-for-the-ai-age-not-anymore/</guid>
-    </item>
-    <item>
-      <title>SaaStr AI Annual 2026でVibeコードを学ぶ。構築、出荷、Vibe It.デプロイする。</title>
-      <link>https://www.saastr.com/learning-to-vibe-code-at-saastr-ai-annual-2026-build-it-ship-it-vibe-it/</link>
-      <description>SaaStr AI Annual 2026は、参加者がリアルタイムで自社のソリューションを構築できる専用のVibe Labを提供することで、AIの導入を加速することに焦点を当てています。このイベントでは、AIアプリの構築から、営業、マーケティング、カスタマーサクセスチーム向けのAI搭載ツールの作成まで、さまざまなトピックを扱う、リプリットのエキスパートによる10以上のライブ・コーディング・クラスが行われる。この実践的なアプローチは、参加者がすぐに行動を起こし、組織でAIソリューションを実装できるようにすることを目的としています。このイベントは、受動的な観察よりも実践的な学習を重視し、参加者が理論的な知識だけでなく、具体的な成果を持って帰ることができるユニークな機会を提供します。AI技術の活用を検討しているSaaS企業は、このようなイベントへの参加を検討し、組織内のイノベーションと成長を促進する実践的な洞察とスキルを得るべきである。</description>
-      <pubDate>Wed, 22 Apr 2026 12:28:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/learning-to-vibe-code-at-saastr-ai-annual-2026-build-it-ship-it-vibe-it/</guid>
-    </item>
+    <lastBuildDate>Thu, 23 Apr 2026 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
