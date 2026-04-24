@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Apr 2026 03:04:47 GMT</lastBuildDate>
-    <item>
-      <title>20VC x SaaStr：600億ドルのカーソル買収、Figmaのクロード・デザイン、そしてリップリングが10億ドルで78%の成長を遂げ、&quot;SaaS Is Dead &quot;の常識を覆した理由とは？</title>
-      <link>https://www.saastr.com/20vc-x-saastr-the-60b-cursor-deal-claude-design-comes-for-figma-and-why-ripplings-78-growth-at-1b-kills-the-saas-is-dead-meme/</link>
-      <description>CursorによるSpaceX/xAIによる600億ドルの買収で、プライベートM&amp;Aは前例のないレベルに達し、WizやWhatsAppといったこれまでの記録を上回った。この買収は、より低い収益倍率での買収を可能にする高い株式評価の力を示している。この傾向は今後も続く可能性があり、将来的にはさらに大規模な取引が行われるとの予測もある。ARR10億ドルを達成し、急成長しているリップリングのようなSaaS企業は、&quot;SaaSは死んだ &quot;という神話を否定している。エージェント・ファブリック・テクノロジーの出現は、エンタープライズ・ソフトウェアの将来を形作るものであり、セールスフォースは自らを重要なプレーヤーと位置づけている。SaaSビジネスは、成長戦略と、進化するM&amp;A環境の中でチャンスをつかむことに集中すべきである。本記事では、Cursorの戦略的決断に見られるように、事業売却におけるタイミングの重要性を強調している。全体として、SaaS企業は機敏さを保ち、市場トレンドを活用し、業界を変える可能性のある買収に備えるべきである。</description>
-      <pubDate>Thu, 23 Apr 2026 20:10:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-the-60b-cursor-deal-claude-design-comes-for-figma-and-why-ripplings-78-growth-at-1b-kills-the-saas-is-dead-meme/</guid>
-    </item>
-    <item>
-      <title>FDEを受ける人、受けない人：今、B2BとAIの大論争が起きている</title>
-      <link>https://www.saastr.com/who-gets-an-fde-and-who-doesnt-the-great-b2b-ai-debate-right-now/</link>
-      <description>SaaS企業は、急速な成長により、専任のFDE（Forward Deployed Engineer）サポートを提供するという課題に直面している。5,000人以上の従業員を抱える大企業はFDEの支援を受けるが、小規模の顧客は自己トレーニングのリソースに頼らざるを得ない。FDEの存在はAIエージェントの成功に大きく影響し、セルフサービスの顧客が20％であるのに対し、企業の顧客は60～80％の自動化率を達成している。セールスフォースの経験は、成果を上げるためには割引よりも適切な導入が重要であることを強調している。AIエージェントの導入を成功させ、より高いエンゲージメント、応答率、収益創出につなげるためには、立ち上げ時にFDEが実際に関与することが極めて重要である。この記事では、AIエージェントの導入における人的支援の重要性を強調しており、文書や自己トレーニングだけに頼るよりも効果的であるとしている。SaaS企業は、AIエージェントの導入を成功させ、自動化率を最大化するために、FDEリソースの配備を優先すべきであり、最終的にビジネス運営を変革することになる。</description>
-      <pubDate>Thu, 23 Apr 2026 14:05:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/who-gets-an-fde-and-who-doesnt-the-great-b2b-ai-debate-right-now/</guid>
-    </item>
-    <item>
-      <title>ARR147億ドルのServiceNowから学んだ5つの興味深いこと：22％の成長、54の法則、そしてビート・アンド・ロスのパラドックス</title>
-      <link>https://www.saastr.com/5-interesting-learnings-from-servicenow-at-14-7b-in-arr-22-growth-rule-of-54-and-still-a-14-stock-drop/</link>
-      <description>サービスナウは2026年第1四半期、株価が年初来で32%下落し、バリュエーションも懸念されるなど、厳しい局面に直面した。にもかかわらず、同社の業績は好調で、サブスクリプション収入は36億7,000万ドルに達し、前年同期比22%増となった。非GAAPベースの営業利益率は32％で、フリー・キャッシュフローは16億7000万ドル、利益率は44％だった。非GAAPベースのEPSも20％増加した。同社は通年の契約収入を157億3,500万ドル～157億7,500万ドルとガイダンスを引き上げた。しかし株価は時間外取引で13～15％下落し、ローコード／ローメンテナンスのプラットフォームが従来のソフトウェアに取って代わることへの市場の懸念を示した。ServiceNowのCEOは楽観的な見方を崩しておらず、同様のプラットフォームを構築するにはかなりのコストがかかると述べ、今後数年で倍増するだろうと予測している。SaaS企業は、サブスクリプション収入の増加、強力な営業利益率、短期的な市場変動にもかかわらず長期的な成長戦略の維持に注力するServiceNowから学ぶことができる。</description>
-      <pubDate>Thu, 23 Apr 2026 12:10:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-servicenow-at-14-7b-in-arr-22-growth-rule-of-54-and-still-a-14-stock-drop/</guid>
-    </item>
+    <lastBuildDate>Fri, 24 Apr 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
