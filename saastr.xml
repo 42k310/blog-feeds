@@ -5,33 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Apr 2026 03:04:56 GMT</lastBuildDate>
-    <item>
-      <title>SaaStr AI Annual 2026」第1回登壇者44名：実際にAIを大規模に出荷している創業者と運営者たち</title>
-      <link>https://www.saastr.com/the-first-44-speakers-for-saastr-ai-annual-2026-the-founders-and-operators-actually-shipping-ai-at-scale/</link>
-      <description>この記事では、サンフランシスコのベイエリアで開催される、AIとB2Bコールドに焦点を当てたイベントについて紹介している。この記事では、44人以上の創業者、CXO、経営者が、ビジネスを拡大し、高いARRを達成し、エンタープライズAIを効果的に導入するためのAIネイティブ戦略に関する洞察を共有する予定であることを紹介している。主な講演者には、Owner.comのアダム・ギルド氏が10億ドルの垂直型B2B企業におけるAIネイティブ化について、Lovableのアントン・オシカ氏が1年未満で2億ドルのARRを達成したことについて、Higgsfieldのアレックス・マシュラボフ氏が基礎モデルを訓練することなく3億ドルのARRを達成したことについて議論する。このイベントでは、AIネイティブCRMの構築、医療システムへのAIの導入、超成長AIインフラ企業の運営面などのトピックが取り上げられる。注目すべき議論には、AIエージェントのデータレイヤーの重要性、企業におけるAIの現実的な展開、AI BDRの効果的な運営に関する洞察などが含まれる。このイベントは、AIを活用して成長と効率化を目指すSaaS企業に実用的な洞察を提供することを目的としている。</description>
-      <pubDate>Mon, 27 Apr 2026 16:33:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-first-44-speakers-for-saastr-ai-annual-2026-the-founders-and-operators-actually-shipping-ai-at-scale/</guid>
-    </item>
-    <item>
-      <title>セールスフォースへの支払いが昨年比83％増の理由。しかし、Notionの使用を完全に停止。AIエージェントの座席問題は実在する</title>
-      <link>https://www.saastr.com/why-we-pay-salesforce-83-more-than-last-year-but-stopped-using-notion-entirely-the-ai-agent-seat-problem-is-real/</link>
-      <description>この記事では、AIエージェントが従来のB2Bソフトウェアのビジネスモデルに与える影響について、特にSaaSの指標と成長戦略に焦点を当てて論じている。著者は、AIエージェントの統合によりSalesforceの利用が大きく変化したSaaStrでの自身の経験からの洞察を共有している。人間の席を80％削減したにもかかわらず、Salesforceの請求額は前年比で83％増加した。この増加は、AIエージェントが人間よりもはるかに効率的かつ効果的にSalesforceを使用したことに起因している。
-
-主な要点としては、価格モデルをシートから消費ベースの価格設定に変更することの重要性、AIエージェントを活用してSaaSプラットフォームの利用率と価値を高めること、従来のB2BソフトウェアをAI主導のエコシステムにおける重要なコンポーネントとして位置付け直すことなどが挙げられる。SaaS企業は、顧客体験の向上、オペレーションの最適化、成長の促進におけるAIエージェントの可能性を探ることが推奨される。今回紹介するケースは、AI技術を取り入れることで、SaaSビジネスの収益と価値創出がどのように向上するかを示している。</description>
-      <pubDate>Mon, 27 Apr 2026 14:11:49 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-we-pay-salesforce-83-more-than-last-year-but-stopped-using-notion-entirely-the-ai-agent-seat-problem-is-real/</guid>
-    </item>
-    <item>
-      <title>ガートナー2026年のソフトウェア支出は1兆4,400億ドルに。減速は訪れず。予算は確保できているか？</title>
-      <link>https://www.saastr.com/gartner-software-spend-now-1-44-trillion-in-2026-revised-back-up-to-15-1-the-slowdown-never-came-are-you-grabbing-it/</link>
-      <description>ガートナーの最新予測では、2026年のソフトウェア支出は15.1%増の1兆4,400億ドルに達し、前回の14.7%増を上回ると予測している。この成長傾向は、B2B SaaS企業にとって大きなチャンスであることを示している。特に、2026年だけでも1,900億ドルの新規ソフトウェア支出が見込まれており、市場の大幅な拡大を示している。成長が15.1%より遅い企業は、この急拡大する分野で市場シェアを失うリスクがある。
-
-IT支出全体は、2026年には前年比13.5%増の6兆3,100億ドルに達すると予測されており、データセンターへの支出が主要な牽引役となっている。B2B SaaSの創業者にとっては、市場ダイナミクスを考えると、ソフトウェアの提供に注力することが引き続き重要である。GenAIモデルへの支出が前年比2倍以上に増加していることは、エンタープライズAIソリューションの採用が増加していることを意味する。
-
-成長にもかかわらず、約9％のIT予算は既存のソフトウェアの値上げの影響を受けており、競争力のあるAI機能と製品を提供することの重要性を強調している。SaaS企業は、市場での地位を確保するために、この進化する状況に適応する必要がある。</description>
-      <pubDate>Mon, 27 Apr 2026 12:10:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/gartner-software-spend-now-1-44-trillion-in-2026-revised-back-up-to-15-1-the-slowdown-never-came-are-you-grabbing-it/</guid>
-    </item>
+    <lastBuildDate>Tue, 28 Apr 2026 15:04:27 GMT</lastBuildDate>
   </channel>
 </rss>
