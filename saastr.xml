@@ -5,22 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:04:39 GMT</lastBuildDate>
-    <item>
-      <title>バイブ・コーディングのコード行数について皆が議論している。一方、14,230行がGTM全体を動かしている。</title>
-      <link>https://www.saastr.com/everyones-debating-lines-of-code-in-vibe-coding-meanwhile-14230-lines-runs-our-whole-gtm/</link>
-      <description>この記事では、ソフトウェア開発におけるコード行数をめぐる議論について、SaaStrが構築した「10K」というAI VPのマーケティング・アプリを例に論じている。このアプリは、74ファイルにわたる14,230行のコードで構成され、様々なマーケティングタスクを効率的に実行する。著者は、このコードが「過剰コーディング」であるかどうかを疑問視し、反復的な開発プロセスによる潜在的な非効率性の存在を認めている。しかし、強調されている重要な点は、本当に重要なのは、アプリが効果的に機能し、実際の問題を解決するかどうかということである。
-
-この記事では、ユーザー、顧客、チームは、コードの行数よりも機能性、信頼性、問題解決能力を優先することを強調している。アプリケーションが手作業に取って代わり、業務を効率化し、価値を提供することに成功すれば、コードの正確な行数はそれほど重要ではなくなると論じている。焦点は、簡潔さのためにコードを減らすのではなく、効率化のためにコードを最適化することである。結局のところ、この記事は、SaaS企業にとって、コードベースの行数よりも、ソフトウェアの有効性と有用性が成功の主な指標となるべきだと示唆している。</description>
-      <pubDate>Tue, 28 Apr 2026 14:10:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/everyones-debating-lines-of-code-in-vibe-coding-meanwhile-14230-lines-runs-our-whole-gtm/</guid>
-    </item>
-    <item>
-      <title>アプリ爆発は始まったばかり。AI駐車券配布アプリまで登場。</title>
-      <link>https://www.saastr.com/the-app-explosion-has-just-begun-yes-we-now-even-have-a-parking-pass-distribution-app/</link>
-      <description>SaaStr AI Annualは、特定の参加者に紐づく3つの異なるバリエーションを持つ4,000以上の駐車券を配布するという課題に直面しており、その結果、12,000以上の可能な組み合わせが発生しました。従来、このプロセスにはスプレッドシートと電子メールによる手作業が必要で、イベント・チームの非効率と深夜の労力の原因となっていました。しかし今年、AI最高責任者がReplitとClaude Desktopを使ってミニアプリを素早く開発し、わずか60分でプロセスを自動化した。このアプリは4,000通のパーソナライズされたEメールを生成し、それぞれが参加者にパス、ロット、日付を正しく割り当て、最初のセットアップ時間以上の人間の介入を不要にした。この自動化の成功は、複雑な業務タスクを効率的に合理化するためにテクノロジーを活用する力を示している。SaaS企業はこの事例から、業務内で繰り返される手作業プロセスを特定し、生産性を高め、人的ミスを減らすための自動化ツールを検討することができる。</description>
-      <pubDate>Tue, 28 Apr 2026 12:38:20 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-app-explosion-has-just-begun-yes-we-now-even-have-a-parking-pass-distribution-app/</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Apr 2026 15:04:30 GMT</lastBuildDate>
   </channel>
 </rss>
