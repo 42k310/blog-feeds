@@ -5,40 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Apr 2026 03:05:18 GMT</lastBuildDate>
-    <item>
-      <title>Our Salesforce Bill Went UP 80%, Marketo Can’t Honor Its Own Unsubscribes, and We Stealth-Churned Off Notion: The Agents #003 (翻訳失敗)</title>
-      <link>https://www.saastr.com/our-salesforce-bill-went-up-80-marketo-cant-honor-its-own-unsubscribes-and-we-stealth-churned-off-notion-the-agents-003/</link>
-      <description>The Agentsポッドキャストのエピソード#003では、アメリアとチームがSaaSビジネスの重要な進展について語ります。主な洞察には、前年比47％の収益成長、成功した戦略と直面した課題が含まれます。このポッドキャストでは、レガシースタックの弱点、マーケティングキャンペーンを自動化するAI、ソフトウェアの不具合を素早く修正する方法など、実際に遭遇した問題について掘り下げています。注目すべき出来事には、Marketoが配信停止を管理できなかったことや、Salesforceからの予期せぬ請求の急増などがある。さらに、チームはNotionのような未使用のソフトウェアサブスクリプションを発見し、ツールの使用状況を監視して最適化することの重要性を示した。SaaS企業はこのポッドキャストから、ソフトウェア利用の最適化、技術的な問題への迅速な対処、マーケティングオートメーションのためのAIの活用に注力することで学ぶことができる。このポッドキャストは、SaaSビジネスの成長と効率化を推進するために、SaaSの指標を監視し、課題に適応し、ソフトウェア・サブスクリプションをプロアクティブに管理することの重要性を強調しています。</description>
-      <pubDate>Wed, 29 Apr 2026 20:11:49 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/our-salesforce-bill-went-up-80-marketo-cant-honor-its-own-unsubscribes-and-we-stealth-churned-off-notion-the-agents-003/</guid>
-    </item>
-    <item>
-      <title>マーケティングとカスタマーサクセスのAI VPを自社開発。2つのベンダーがそれぞれ2万ドル以上の損失。そして、彼らはその理由を知ることはないだろう。</title>
-      <link>https://www.saastr.com/we-vibe-coded-our-own-ai-vp-of-marketing-and-customer-success-platform-two-vendors-just-lost-20k-each-and-theyll-never-know-why/</link>
-      <description>この記事では、SaaStrにおける2つのユニークなアプリケーションの開発について論じている。1つ目は、ニッチなイベント・メディア事業のマーケティング活動を指揮するために設計された、社内で「10K」と名付けられたAIマーケティング担当副社長だ。このツールは、10年以上にわたるSaaStrのデータを活用し、キャンペーンの優先順位付け、予算管理、収益と観客動員数の目標に関する洞察を提供する。このツールは、既存のツールが特定のニーズに対応していなかったため、市場の空白を埋めるものです。2つ目のアプリケーションは、カスタマーサクセスとプロジェクト管理のプラットフォームである。これらの開発は、既製のツールが固有のビジネス要件を満たさない場合のカスタムソリューションの重要性を浮き彫りにしている。SaaS企業は、既存ソリューションのギャップを特定し、カスタムツール開発のために内部データを活用し、成長と効率化を推進するためにニッチに特化した機能に集中することで、このアプローチから学ぶことができる。</description>
-      <pubDate>Wed, 29 Apr 2026 14:14:26 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-vibe-coded-our-own-ai-vp-of-marketing-and-customer-success-platform-two-vendors-just-lost-20k-each-and-theyll-never-know-why/</guid>
-    </item>
-    <item>
-      <title>エージェントメールが必要です。クロードが新しいプロジェクトでAgentMailを試すように言いました。だからそうしました。そして他には目もくれませんでした。</title>
-      <link>https://www.saastr.com/i-need-agentic-email-claude-said-try-agentmail-so-i-did-and-never-looked-at-anything-else/</link>
-      <description>この記事では、従来のSEO戦略から、SaaSビジネスの文脈におけるAEO（Answer Engine Optimization）と呼ばれる新しいコンセプトへのシフトについて論じている。AEOは、複数の検索結果を表示するGoogleのような従来の検索エンジンとは異なり、ユーザーに単一または限られた数のレコメンデーションを提供するAI駆動型検索エンジンへの最適化に焦点を当てている。
-
-主な洞察は以下の通り：
-- AEOは、当選者が一人である宝くじに似ており、コンバージョンのためには、トップ・レコメンデーションであることが重要である。
-- AI検索トラフィックは、Googleオーガニック（2.8%）と比較して、著しく高いコンバージョン率（14.2%）。
-- AEOのダイナミクスは、クエリごとの勝者総取りの結果につながる。
-- AIモデルのポジションバイアスは最初のレコメンデーションに有利であるため、トップの座を確保することが重要である。
-
-SaaS企業への実行可能なアドバイス
-- AI主導の検索結果でトップのレコメンデーションになることに集中することで、AEO向けにコンテンツを最適化する。
-- ユーザーの意図にマッチした、簡潔で関連性の高いカテゴリーフレーズを作成する。
-- AIモデルのポジションバイアスを理解し、活用することで、可視性とコンバージョンを最大化する。
-
-全体として、SaaSビジネスは、AI主導の検索エンジンの進化する状況で成功するために、AEOを優先する戦略を適応させる必要がある。</description>
-      <pubDate>Wed, 29 Apr 2026 12:47:13 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/i-need-agentic-email-claude-said-try-agentmail-so-i-did-and-never-looked-at-anything-else/</guid>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
