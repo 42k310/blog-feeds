@@ -5,6 +5,35 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Apr 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 03:04:50 GMT</lastBuildDate>
+    <item>
+      <title>20VC x SaaStr：エージェントがモデルを選ぶとき、OpenAIが息を吹き返す、そしてThoma BravoはMedalliaで51億ドルを払拭した</title>
+      <link>https://www.saastr.com/20vc-x-saastr-when-the-agents-pick-the-models-openai-comes-back-to-life-and-thoma-bravo-just-wiped-out-5-1b-on-medallia/</link>
+      <description>この記事では、ハイテク業界における主要な進展について論じており、エージェントが人間ではなく、モデル、ベンダー、ワークフローに基づいて意思決定を行うようにシフトしていることを強調している。この変化は、競争環境、B2B企業の末端価値、IPOの成功に影響を与える。主な洞察は以下の通り：
+1.エージェントがクロードのような他のモデルよりもOpenAIのモデルを好むことによるOpenAIの復活。
+2.2.B2Bソフトウェアは現在、3つのバケツに分類される：末端価値の低下、システム・オブ・レコード、エージェント・レバレッジド。
+3.CanvaのIPOは成功すると予想されるが、エージェントがCanvaを好まないため、従来の市場プレミアムはない。
+SaaS企業への実行可能なアドバイスとしては、エージェントの選好の重要性を理解すること、エージェントが意思決定を行うという新しいパラダイムに適応すること、進化するハイテク業界において長期的な成功を確実にするためにエージェントのニーズに沿った製品作りに注力すること、などが挙げられる。</description>
+      <pubDate>Thu, 30 Apr 2026 21:41:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-when-the-agents-pick-the-models-openai-comes-back-to-life-and-thoma-bravo-just-wiped-out-5-1b-on-medallia/</guid>
+    </item>
+    <item>
+      <title>SaaStr AI Annual 2026の参加者増加の40%はAIエージェントによるものでした。これが何を意味するのか。</title>
+      <link>https://www.saastr.com/our-ai-agents-drove-40-of-our-attendance-growth-at-saastr-ai-annual-2026-heres-what-that-actually-means/</link>
+      <description>この記事では、AIを活用したアウトバウンドとクオリフィケーションがSaaS企業の成長、特にイベントチケット販売に与えた影響について論じている。主な洞察として、AIエージェントが有料登録の16%、全体の成長の40%に貢献し、収益が大幅に増加したことが挙げられている。SaaS企業へのアドバイスとしては、自社の成長ステージを見極めることである。急成長している企業（前年比500％以上）にとっては、AIエージェントは優先事項ではないかもしれないが、16％の収益増加が大きい企業にとっては、AI GTMエージェントの導入が推奨される。AIエージェントの費用対効果、効率性、一貫性は、従来のSDRチームに対する利点として強調されている。この記事では、成長に影響を与える制約を理解し、既存の戦略を補完するためにAIを戦略的に導入することの重要性を強調している。主な要点は、AI SDR の複合効果、従来の方法と比較したコンバージョン率の大幅な増加、AI によるアウトリーチが他のチャネルとカニバリゼーションを起こさないことなどである。</description>
+      <pubDate>Thu, 30 Apr 2026 14:10:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/our-ai-agents-drove-40-of-our-attendance-growth-at-saastr-ai-annual-2026-heres-what-that-actually-means/</guid>
+    </item>
+    <item>
+      <title>セールスフォース、2019年からSFオフィスの55％を静かに削減。OpenAIとAnthropicは、そのすべてを取り戻した。</title>
+      <link>https://www.saastr.com/salesforce-has-quietly-cut-55-of-its-sf-office-since-2019-openai-anthropic-took-more-than-all-of-it-back/</link>
+      <description>かつてサンフランシスコのオフィステナントでトップだったセールスフォースは、2019年には220万平方フィートから2026年には100万平方フィートへと55％の面積を削減し、大幅な縮小を遂げた。このシフトは、リモートワーク、組織の合理化、買収後の統合などの要因によるものである。この傾向はセールスフォース以外にも広がっており、ウェルズ・ファーゴ、ウーバー、WeWork、メタなどの一流企業もオフィススペースを大幅に縮小したり、完全に明け渡したりしている。
+
+興味深いことに、グーグル、OpenAI、Anthropicがサンフランシスコのオフィススペース・シーンにおける重要なプレーヤーとして浮上している。OpenAIとAnthropicは現在、合計で215万平方フィートを占め、Salesforceの現在のフットプリントを上回り、過去のピークに匹敵する。この成長は、サンフランシスコにおけるB2BとAI企業の進化を浮き彫りにしている。
+
+SaaSビジネスにとって、このデータは、変化する職場環境に適応し、オフィススペース利用を最適化し、市場のダイナミクスに対応して機敏に行動することの重要性を強調している。リモートワークの導入、効率的な人員管理、戦略的な不動産の決定は、進化するテック業界において成長と競争力を維持するために不可欠です。</description>
+      <pubDate>Thu, 30 Apr 2026 12:42:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/salesforce-has-quietly-cut-55-of-its-sf-office-since-2019-openai-anthropic-took-more-than-all-of-it-back/</guid>
+    </item>
   </channel>
 </rss>
