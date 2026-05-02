@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 01 May 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 03:04:42 GMT</lastBuildDate>
+    <item>
+      <title>AtlassianとTwilioが四半期を潰し、加速。SaaSpocalypseは終わったのか？</title>
+      <link>https://www.saastr.com/atlassian-and-twilio-crush-the-quarter-accelerate-is-the-saaspocalypse-over/</link>
+      <description>B2Bソフトウェア大手2社、アトラシアンとTwilioは最近の決算で大幅な収益増を報告し、アトラシアンは70億ドル以上のランレート、Twilioは56億ドル以上のランレートとなった。アトラシアンの収益は前年同期比32%増で、クラウド収益は29%に加速した。Twilioは前年同期比20%増と3年以上ぶりの急成長を達成し、通期ガイダンスを上方修正した。好調な業績にもかかわらず、両社の株価はこの1年で大きく下落した。アトラシアンの株価は22.77%急騰したが、それでも52週高値から約65%下落している。
+
+アトラシアンの決算の主なポイントは、70億ドルを超えるランレートでの目覚ましい成長率、加速するクラウド収益の伸び、拡大を推進するAI製品Rovoの成功、ITSMにおける大幅な競合の置き換え、Remaining Performance Obligations (RPO)の37%増などである。
+
+これらの企業の決算報告は、SaaSの危機という一般的なシナリオを覆すものであり、SaaS業界におけるクラウドの加速、成長のためのAI統合、競合の置き換え戦略の重要性を浮き彫りにしている。</description>
+      <pubDate>Fri, 01 May 2026 16:55:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/atlassian-and-twilio-crush-the-quarter-accelerate-is-the-saaspocalypse-over/</guid>
+    </item>
+    <item>
+      <title>多くのソフトウェア・リーダーが「堀」を持っている。いや、それだけでは十分ではない。</title>
+      <link>https://www.saastr.com/yes-many-software-leaders-have-moats-no-thats-not-enough/</link>
+      <description>B2Bソフトウェア業界では、売上総利益維持率（GRR）は依然として重要な指標であり、GRRの中央値は約90％、トップ企業は95％以上を達成している。高いスイッチングコストや深い統合性といった強みは顧客の維持に役立つが、既存顧客の離脱を防ぐだけであり、成長を保証するものではない。アナリストは、AIによる破壊に対する企業の耐性を評価しており、AdobeやSalesforceのようなかつてのワイド・ムート企業は、AIの脅威により格下げされている。CrowdStrikeやCloudflareのような企業は、AIによるサイバーセキュリティ需要の増加により好調と見られている。ベインのレポートによると、GRRは90％を維持しているが、純収益維持率は108％程度に低下しており、成長の鈍化を示している。強力なデータ・モートを持ち、フィンテックを組み込んでいる企業が勝者となる一方、業界のコンテキストを欠いている企業は敗者となると見られている。AIに対する安全性だけでなく、AI予算を獲得することにも焦点を当てるべきである。なぜなら、AIへの支出は大幅に増加すると予測されており、企業は進化する状況の中で成長を確保するために適応し、革新することが極めて重要になるからである。</description>
+      <pubDate>Fri, 01 May 2026 14:10:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/yes-many-software-leaders-have-moats-no-thats-not-enough/</guid>
+    </item>
   </channel>
 </rss>
