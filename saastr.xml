@@ -5,15 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 May 2026 03:04:31 GMT</lastBuildDate>
-    <item>
-      <title>今月、貴社の製品をよりエージェントフレンドリーにする最も簡単な方法とは？あなたのAPIが実際にエージェントフレンドリーであることを確認してください。おそらくそうではない。</title>
-      <link>https://www.saastr.com/the-simplest-way-to-make-your-product-more-agentic-this-month-make-sure-your-api-is-actually-agent-friendly-it-probably-isnt/</link>
-      <description>この記事では、B2B SaaS企業にとってAPIをよりエージェントフレンドリーにすることの重要性に焦点を当てている。重要な洞察は、2026年にはAPIの主要なユーザはもはや人間の開発者ではなく、AIエージェントであり、デザインと機能の転換が必要であるということだ。この記事では、多くのB2Bベンダーがこの変化に追いついておらず、JSONを返すREST APIで十分だと思い込んでいるが、実際にはそうではないことを強調している。
-
-提供される実用的なアドバイスは、SaaS企業が、契約からあいまいさを取り除き、能力を明示し、状態を再開可能にし、突然変異をidempotentにし、エラーを実行可能にすることによって、APIがエージェントフレンドリーに設計されていることを保証することである。自動化されたボットのトラフィックが2024年に人間のトラフィックを上回り、RAGベースのエージェントのトラフィックが大幅に増加しているため、このシフトは非常に重要である。エージェントファーストの設計原則に焦点を当てることで、SaaS企業はAIエージェントの新時代に向けてAPIを最適化し、効率を改善し、待ち時間を短縮し、全体的なパフォーマンスを向上させることができる。</description>
-      <pubDate>Sat, 02 May 2026 14:10:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-simplest-way-to-make-your-product-more-agentic-this-month-make-sure-your-api-is-actually-agent-friendly-it-probably-isnt/</guid>
-    </item>
+    <lastBuildDate>Sun, 03 May 2026 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
