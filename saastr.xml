@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 03:04:49 GMT</lastBuildDate>
-    <item>
-      <title>パランティアQ1 2026年、エンタープライズ・ソフトウェアの常識を覆す。再び。収益成長率は85%に加速、ARRは65億ドル超に</title>
-      <link>https://www.saastr.com/palantir-q1-2026-has-broken-the-enterprise-software-mold-again-revenue-accelerates-to-85-at-6b-arr/</link>
-      <description>パランティアは2026年第1四半期決算を発表し、売上高は前年同期比85%増の16億3,300万ドル、ランレートは65億ドル以上、2026年通期予想は76億6,000万ドルと10%ポイント上方修正した。同社の成長軌道は標準的なSaaSの常識を覆すもので、規模が拡大したにもかかわらず成長が再加速している。B2B企業の経営者にとって重要な洞察は、真のプラットフォームシフトが起これば、規模が拡大しても成長が再加速する可能性があることを理解することである。PalantirのRule of 40は145%で、従来のソフトウェア企業を上回り、強力な財務指標と収益性を示している。パランティアの米国コマーシャル部門は前年同期比133%増となり、AI Agent Thesisの真のインパクトを示した。レガシー産業やコンサルティングのバイヤーは現在、AIワークフローを大規模に採用している。創業者にとって重要なことは、AIインフラストラクチャープレイにおける営業レバレッジは従来のSaaSモデルとは異なり、成功のハードルが変化しているということである。これらの指標と成長戦略を理解することで、SaaS企業は2026年に業界の常識を超え、ナビゲートできる可能性がある。</description>
-      <pubDate>Mon, 04 May 2026 21:23:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/palantir-q1-2026-has-broken-the-enterprise-software-mold-again-revenue-accelerates-to-85-at-6b-arr/</guid>
-    </item>
-    <item>
-      <title>高GRRは素晴らしい。しかし、衰退を覆い隠すこともある。特に ServiceNow と Workday にとっての真のリスク。</title>
-      <link>https://www.saastr.com/high-grr-is-great-but-it-can-also-mask-decay-a-real-risk-for-servicenow-and-workday-in-particular/</link>
-      <description>この記事では、エンタープライズ ソフトウェアの中で最も重要でありながら、最も愛されていない製品というレッテルを貼られているにもかかわらず、Workday が 97% という驚異的な Gross Revenue Retention (GRR) を誇っていることについて論じています。この高い継続率は、企業の重要な問題を解決する能力、構造化されたデータロックイン、そして契約構造に起因しています。長期契約は、愛されていないにもかかわらず高い継続率を誇る製品が直面する課題を覆い隠す上で、重要な役割を果たしている。この記事では、GRRのようなSaaSのビジネスメトリクスの背後にあるダイナミクスを理解することの重要性と、それらが見た目以上に予測可能であることを強調しています。SaaS 企業は、Workday の成功から、重要なビジネス課題の解決、構造化されたデータ ロックインの作成、顧客維持と収益予測可能性を向上させる契約構造の最適化に焦点を当てることで学ぶことができます。</description>
-      <pubDate>Mon, 04 May 2026 14:10:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/high-grr-is-great-but-it-can-also-mask-decay-a-real-risk-for-servicenow-and-workday-in-particular/</guid>
-    </item>
-    <item>
-      <title>無料のSaaStr.ai VCツールでスタートアップの評価額が1,000,000を超えました。</title>
-      <link>https://www.saastr.com/we-just-crossed-1000000-startup-valuations-on-our-free-saastr-ai-vc-tools/</link>
-      <description>SaaStr.aiは、無料のVCツールで1,002,048件以上のスタートアップの評価と4,423件以上のピッチデッキを分析し、マイルストーンに達した。1,200人以上のアクティブな創業者と180人以上のVCパートナーによって使用されているこのスイートは、偏りのない評価を創業者に提供し、市場での真の価値を理解することを支援することを目的としています。データからの主な洞察によると、創業者は高成長企業を過大評価し、堅実ではあるが華々しいものではない企業を過小評価する傾向がある。成長率は、企業価値を決定する上でARRよりも重要である。真のAIネイティブ企業は、単にAI機能を追加した企業よりも高い倍率を要求する。多くの創業者は、自社の評価指標を正確に把握することに苦慮しており、これが評価に関する会話に影響を与える可能性がある。このツールは、実際の数字を用いて創業者に力を与え、SaaStrとのエンゲージメントを促進するために無料で提供されています。将来的には、創業者と投資家の間の情報ギャップを埋めることを目的としたディリジェンス・シミュレーター、取締役会準備ツール、タームシート分析ツールなどを開発中だ。SaaStr.aiの焦点は、SaaS業界の創業者に価値ある洞察と支援を提供することに変わりはありません。</description>
-      <pubDate>Mon, 04 May 2026 12:39:05 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-just-crossed-1000000-startup-valuations-on-our-free-saastr-ai-vc-tools/</guid>
-    </item>
+    <lastBuildDate>Tue, 05 May 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
