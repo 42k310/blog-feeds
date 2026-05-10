@@ -5,6 +5,13 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 May 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 03:04:33 GMT</lastBuildDate>
+    <item>
+      <title>AIマーケティング担当副社長は本当に副社長なのか？  彼に聞いてみた</title>
+      <link>https://www.saastr.com/is10kavpmarketing/</link>
+      <description>この記事では、SaaStrのマーケティング業務管理におけるAI主導のシステム「10K」の役割について論じている。10Kは、マーケティング担当副社長の代わりではなく、ダッシュボードやデータベースとして機能し、販売データの更新、ニュースレターの草稿、マーケティングのアイデアの生成などのタスクを自動化する。通常、マーケティング・アナリスト、オペレーション・コーディネーター、ジュニア・コンテンツ・マーケターが担当するタスクを代替することで、コストを削減し、人的ミスを減らすことができる。10Kはデータ主導のタスクに優れているが、戦略的な意思決定や人材管理、部門横断的な政治的問題には対応できない。10Kの費用対効果に優れた運用と、データ報告の遅延を減らす能力が強調されている。この記事では、人間の判断力、戦略的思考、対人スキルを必要とする役割において、AIの限界を理解することの重要性を強調している。SaaS企業は、業務効率化のために10KのようなAIツールの活用を検討することはできるが、重要な意思決定やリレーションシップ管理については人間の専門知識で補うべきである。</description>
+      <pubDate>Sat, 09 May 2026 14:04:05 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/is10kavpmarketing/</guid>
+    </item>
   </channel>
 </rss>
