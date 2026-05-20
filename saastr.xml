@@ -5,13 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 May 2026 03:04:32 GMT</lastBuildDate>
-    <item>
-      <title>144のB2B APIを評価。平均スコアは71/100。新しいAIエージェントAPIレポートカードは、B2Bの本当の立ち位置を教えてくれます。</title>
-      <link>https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/</link>
-      <description>この記事では、SaaS企業にとってのAPI品質の重要性について、自律型エージェントの視点から6つの重要な基準に基づいてB2B APIを評価するAIエージェントAPIレポートカードに焦点を当てて論じている。B2B APIの平均スコアは71/100で、改善の余地があることを示している。エージェントにとって重要な6つの基準は、APIデザイン、イベント＆ストリーミング、認証＆セキュリティ、料金制限、SDK＆ドキュメント、エージェントの準備である。評価された116のAPIのうち、Aレンジに入ったのはわずか27で、Stripeが95点でトップだった。Slack、Adyen、RevenueCat、Linearなどの企業も高得点を獲得した。この記事では、APIの品質がベンダーの存続と撤退の重要な要因であるとして、顧客維持におけるAPIの重要性を強調している。SaaS企業は、ワークフローにおいて重要な役割を果たす自律型エージェントに効果的に対応するために、APIの改善に注力することをお勧めする。リストの下位には、Marketo、Gainsight、Workdayが含まれており、エージェント主導のワークフローの需要に効果的に対応するために改善が必要な領域が強調されている。</description>
-      <pubDate>Tue, 19 May 2026 14:10:59 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/</guid>
-    </item>
+    <lastBuildDate>Wed, 20 May 2026 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
