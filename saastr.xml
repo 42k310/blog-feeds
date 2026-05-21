@@ -5,6 +5,22 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 May 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>10K（当社AI VPマーケティング）とQBee（当社AI VPカスタマーサクセス）がうまくいく理由：アプリとエージェントは一つのシステム</title>
+      <link>https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/</link>
+      <description>この記事では、B2B環境におけるAIエージェントの有効性について論じており、これらのエージェントを導入済みのウェブアプリケーションと組み合わせてビジネスオペレーションを強化することの重要性を強調している。重要な洞察は、10KやQBeeのようなAIエージェントとReplitエージェントのようなライブアプリを組み合わせることで、シームレスな対話、リアルタイムのデータアクセス、効率的な意思決定が可能になるということです。この統合されたアプローチにより、データ検証、販売更新、電子メール起草、視聴者セグメンテーションなどのタスクを、単一の会話スレッド内で迅速かつ正確に実行することが可能になる。
+
+SaaS企業に対する実用的なアドバイスは、AIエージェントを独立した機能としてではなく、既存のアプリケーションに統合されたコンポーネントとして活用することである。AIエージェントが導入済みアプリケーションと同じシステムやデータにアクセスできるようにすることで、企業はプロセスを合理化し、生産性を向上させ、より良い結果を導くことができる。この記事では、AIエージェントと実際のアプリケーションを組み合わせることで、大幅な効率向上と情報に基づいた意思決定につながり、AIを搭載したツールがビジネスオペレーションに革命をもたらす可能性を紹介している。</description>
+      <pubDate>Wed, 20 May 2026 14:10:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/</guid>
+    </item>
+    <item>
+      <title>ARR35億ドルのHubSpotから学んだ5つの興味深いこと：23％の成長報告、2億1100万ドルの自社株買い、そして16％の株価下落</title>
+      <link>https://www.saastr.com/5-interesting-learnings-from-hubspot-at-3-5b-in-arr-23-reported-growth-211m-in-buybacks-and-a-16-stock-drop/</link>
+      <description>ハブスポットの26年第1四半期決算は、売上高が23％増の8億8100万ドル、サブスクリプション売上高が8億6230万ドル、ARRランレートが34億5000万ドルだった。コンセンサスを1,800万ドル上回ったものの、株価は時間外で16％下落した。市場は今、確かな成長よりも目に見える再加速を評価している。HubSpotの成長は、主にドル安によるものだが、恒常為替レートベースでは横ばいから減速している。AIによる収益ストーリーはまだ進行中であり、AIの価格変更が当面の売上に影響を及ぼしている。成果ベースの価格設定への移行により、第2四半期のスタートが遅れ、販売実行に影響を及ぼしている。AIのアクティベーション数は増加しているが、実際の収益貢献はまだ実現していない。B2B事業者は、業績を正確に把握するために、恒常為替レートベースの成長に注目すべきである。HubSpotの成長は10％台後半で減速している。AI収益を強調する企業は、アクティベーション数だけでなく、実際の貢献度を示す必要がある。B2BにおけるAI収益への移行は予想以上に時間がかかっている。再加速を評価する市場において、SaaS企業は有望なシナリオだけでなく、具体的な成長を示す必要がある。</description>
+      <pubDate>Wed, 20 May 2026 12:51:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-hubspot-at-3-5b-in-arr-23-reported-growth-211m-in-buybacks-and-a-16-stock-drop/</guid>
+    </item>
   </channel>
 </rss>
