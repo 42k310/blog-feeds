@@ -5,6 +5,26 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:04:49 GMT</lastBuildDate>
+    <item>
+      <title>需要が垂直化したとき、Anthropicはいかにしてゼロから営業組織を作り直したか？</title>
+      <link>https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/</link>
+      <description>Anthropicは、2025年12月にClaude Opus 4.6をリリースした後、急激な需要の急増に見舞われ、営業組織の迅速な見直しが必要となった。AIとセルフサービス機能の活用に注力することで、同社は2026年に新規法人顧客の54％をセルフサービスファネルで獲得することに成功した。主な洞察には、顧客体験を損なうことなく予期せぬ需要に対応するための営業戦略の重要性、営業業務を合理化するためのクロードのようなAIツールの統合、従来のB2B成長モデルからの脱却、企業顧客向けのセルフサービス・オプションの採用などが含まれる。B2B＋AIの営業リーダーに対する実行可能なアドバイスとしては、異なる部門間のシームレスなコミュニケーションとコラボレーションを促進するツールに投資すること、企業顧客向けのセルフサービス・オプションを含めるために営業ファネルを再構築すること、効率性と拡張性を高めるためにAIを営業技術スタックの中心的な構成要素にすることなどが挙げられる。営業プロセスをAI機能と連携させ、顧客体験を優先させることで、SaaS企業は急成長を効果的に乗り切り、市場の新たな機会を活用することができる。</description>
+      <pubDate>Thu, 21 May 2026 14:10:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/</guid>
+    </item>
+    <item>
+      <title>2026年の最新GTM組織：20-30%スリム化、9倍フラット化、担当者一人当たりの純新規売上高を～2倍増加 ICONIQ Growthの最新記事。</title>
+      <link>https://www.saastr.com/moderngtmleanerflatter/</link>
+      <description>ICONIQの2026年GTMベンチマークレポートでは、SaaS企業のための主要な洞察を紹介しています：  
+1.AIをGTMプロセスに完全に統合している企業は、FTEあたり2倍の収益を生み出している。AI CSMは非常に効果的であり、1人のAI CSMは20人の人間のCSMの仕事をこなすことができる。  
+2.AIの採用はマーケティングとSDRに広がっており、RevOpsでは大きな伸びを示している。アカウント・マネジメントとCSMチームには、未開拓のAIの可能性がある。  
+3.AIはトップ・オブ・ファネルのコンバージョン率を最大11ポイントも大幅に押し上げ、ターゲティングとパーソナライゼーションにおけるAIの重要性を強調している。  
+4.高業績の営業組織はよりフラットであり、マネージャー1人当たりのIC比率は9.2～9.8であるのに対し、その他は4.4～5である。AIツールは、よりスリムな管理構造を可能にする。  
+5.ハンター・ファーマー・モデルが復活しつつあり、高業績企業は新規ロゴ販売とクロスセリング活動を統合している。拡大を成功させるには、セールスのオーナーシップがカギとなる。  
+SaaS企業は、生産性向上のためにAIを活用し、トップ・オブ・ファンネルのAIアプリケーションに注力し、AIサポートでよりフラットな営業構造を設計し、ハンター・ファーマー営業モデルを統合して成長することができる。</description>
+      <pubDate>Thu, 21 May 2026 12:10:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/moderngtmleanerflatter/</guid>
+    </item>
   </channel>
 </rss>
