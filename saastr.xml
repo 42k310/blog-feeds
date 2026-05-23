@@ -5,6 +5,32 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 22 May 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>もう一度雇うか」は忘れよう。今、本当のテストは、あなたがエージェントに置き換えるかどうかです。</title>
+      <link>https://www.saastr.com/forget-would-you-hire-them-again-the-real-test-now-is-whether-youd-replace-them-with-an-agent/</link>
+      <description>技術やビジネス・マネジメントの進化に伴い、「この人をまた雇いますか」という従来の質問は時代遅れになりつつある。新たな問いは、&quot;エージェントに代えますか？&quot;である。このシフトは、人間の従業員の何分の一かのコストで知識作業のかなりの部分を実行できる有能なエージェントの台頭によるものである。
+
+主な洞察は以下の通り：
+1.マネージャーは、チーム編成を評価する際に、人間対エージェントの力学を考慮する必要がある。
+2.職務内容は、タスクよりもむしろ成果に焦点を当てるべきである。
+3.管理者は、エージェントがどのようなタスクを規模に応じて確実に実行できるかを評価する必要がある。
+4.残された人間の仕事の価値を見極めることは、チーム構成を決める上で極めて重要である。
+5.人間の判断、関係構築、戦略的タスクとエージェントの効率性のバランスをとることが、チームのパフォーマンスを最適化する鍵である。
+
+SaaS企業への実行可能なアドバイスは以下の通り：
+1.最適な効率を実現するために、人間とエージェントの組み合わせを考慮し、チーム構成を再考する。
+2.実際の生産環境でエージェントの能力を評価するためのパイロット・プログラムを実施する。
+3.エージェントと比較して、人間の役割の必要性を継続的に評価する。</description>
+      <pubDate>Fri, 22 May 2026 14:05:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/forget-would-you-hire-them-again-the-real-test-now-is-whether-youd-replace-them-with-an-agent/</guid>
+    </item>
+    <item>
+      <title>20VC x SaaStr：Anthropicは9億ドル以上、Salesforceはトークンに3億ドル、SpaceXは史上最大のIPOを申請、そしてなぜテックラッシュは始まったばかりなのか？</title>
+      <link>https://www.saastr.com/20vc-x-saastr-anthropic-at-900b-salesforce-spends-300m-on-tokens-spacex-files-for-the-biggest-ipo-in-history-and-why-the-tech-lash-is-just-beginning/</link>
+      <description>Anthropicは、2月の評価額を大幅に上回る9000億円の評価額で300億ドルを調達する。この評価額は売上高の18倍程度であり、魅力的なベンチャー取引となっている。同社の戦略は、ハイパースケーラーから巨大なコンピューティングパワーを確保するために、事業のごく一部を手放すことでリスクを回避するというものだ。Anthropicの資金調達に対するアプローチはOpenAIとは異なり、より低いバリュエーションで迅速に取引を成立させることを目指している。一方、セールスフォースは2026年にAnthropicトークンに3億ドルを費やす予定で、これは主にコーディングのためであり、同社の総エンジニアリングコストの約4％に相当する。この動きは、テック企業にとってのAIへの戦略的投資の重要性を示している。この記事は、AIベンチャー領域におけるこうした動きの重要性を強調し、SaaS企業が成長戦略、評価リスク、急速に進化するテックランドスケープにおける投資決定を慎重に検討する必要性を強調している。</description>
+      <pubDate>Fri, 22 May 2026 12:20:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-anthropic-at-900b-salesforce-spends-300m-on-tokens-spacex-files-for-the-biggest-ipo-in-history-and-why-the-tech-lash-is-just-beginning/</guid>
+    </item>
   </channel>
 </rss>
