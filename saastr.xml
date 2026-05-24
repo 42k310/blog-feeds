@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 May 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>平凡なプロンプトでも、今日、かなり優れたソフトウェアを構築できる</title>
+      <link>https://www.saastr.com/even-a-mediocre-prompt-can-build-pretty-good-software-today/</link>
+      <description>この記事では、AI技術を使ったスピーカーカードページの構築という文脈で、プロンプト・エンジニアリングの進化について論じている。AIモデルが曖昧なプロンプトから意図を理解するように進化し、プロンプトを完璧に構成する必要性が減少したことを強調している。焦点は、明確な製品アイデアを持つこと、出力エラーを認識し修正すること、設計上の決定を下すこと、反復を厭わないことに移っている。著者は、何を作りたいかを知り、開発プロセスに積極的に関与し、重要な製品とデザインの決定を下すことの重要性を強調している。この記事では、AIは実装の詳細を支援することはできるが、製品とユーザー・エクスペリエンスを形成するためには人間の入力が依然として重要であることを強調している。重要なことは、現在の状況では、迅速なエンジニアリングを完璧にすることよりも、製品ビジョンを構想し、導き、洗練させる能力の方がより重要であるということだ。</description>
+      <pubDate>Sat, 23 May 2026 14:10:20 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/even-a-mediocre-prompt-can-build-pretty-good-software-today/</guid>
+    </item>
+    <item>
+      <title>SaaStr 今週のAIアプリ：Helply。ずっと無料で、AIが実際にチケットを解決したときだけ課金する、起動中のB2Bサポート・プラットフォーム。</title>
+      <link>https://www.saastr.com/saastr-ai-app-of-the-week-helply-the-bootstrapped-b2b-support-platform-thats-free-forever-charges-only-when-ai-actually-resolves-a-ticket-and-showed-up-to-saastr-ai-2026-with-giant-pandas/</link>
+      <description>Grooveの創業者であるアレックス・ターンブルは、AIネイティブのB2BサポートプラットフォームであるHelplyの構築に移行した。Helplyは無料のサポートプラットフォームを提供し、ユーザーはAIがチケットの解決、解約アラート、アップセルフラグなど測定可能な結果を出した時のみ料金を支払う。Helplyは、Rumble、Proposify、Covidence、LingQ、Unsplash、Kapwingなど、ARR100万ドルから5000万ドルのB2B企業を魅了している。Helplyは、独自の価格設定モデルとAI主導の成果にフォーカスすることで、SaaS業界で一線を画している。このアプローチは従来のSaaSビジネスモデルに挑戦し、SaaS企業の成長を促進するイノベーションとカスタマーサクセスメトリクスの重要性を強調している。SaaS企業は、価値ある製品を無料で提供する一方で、支払いを測定可能な成果に結びつけるというHelplyの戦略から学ぶことができ、これにより顧客満足度、顧客維持、全体的な業績を向上させることができる。</description>
+      <pubDate>Sat, 23 May 2026 12:16:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-helply-the-bootstrapped-b2b-support-platform-thats-free-forever-charges-only-when-ai-actually-resolves-a-ticket-and-showed-up-to-saastr-ai-2026-with-giant-pandas/</guid>
+    </item>
   </channel>
 </rss>
