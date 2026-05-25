@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 May 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>なぜカスタマー・サクセス・マネージャーの95％は前へ進むエンジニアになれないのか？その意味とは？</title>
+      <link>https://www.saastr.com/why-95-of-customer-success-managers-cant-be-turned-into-forward-deployed-engineers-and-what-that-means/</link>
+      <description>この記事では、B2B SaaS企業におけるフォワード・デプロイ・エンジニア（FDE）の需要の高まりについて論じており、このギャップを埋めるためにカスタマー・サクセス・マネージャー（CSM）を再利用しても、求められるスキルセットが異なるため効果的ではないことを強調している。FDEの求人情報は1年間で12倍に急増し、AI企業の運営方法が構造的に変化していることを示している。FDEの役割には、AIソリューションの展開における技術的で積極的な業務が含まれ、CSMの役割のような反応的で人間関係重視の性質とは大きく異なる。FDE業務に必要な独自のスキルセットのため、企業はこのギャップを埋めるのに苦労している。AIエージェントの導入には、オートメーションではまだ代替できない、手作業で判断力の高い作業が必要だ。FDE作業は高価で時間がかかるため、CSMが既存の責任の範囲内で処理するのは難しい。この記事では、年間契約額（ACV）に基づくさまざまな戦略を提案している：FDEは5万ドル以上のACVで収益性が高く、ハイブリッド・モデルは1万ドルから5万ドルのACVで機能し、1万ドル以下のACVではシステム化された自動化が必要である。成功しているAIネイティブ企業は、従来のB2B企業と比較して、FDEと実装スペシャリストの割合が高く、販売後のリソースの配分が異なっている。このシフトがTime-to-Valueを促進し、ビジネスの拡大につながる。</description>
+      <pubDate>Sun, 24 May 2026 14:10:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-95-of-customer-success-managers-cant-be-turned-into-forward-deployed-engineers-and-what-that-means/</guid>
+    </item>
+    <item>
+      <title>The Agents Episode #005が公開されました！AI副社長2人の月給は257ドル、ウェブサイトは自らをエージェントに、そしてQBは83通のパーソナライズドEメールを午前12時20分に送信した。</title>
+      <link>https://www.saastr.com/the-agents-episode-005-is-out-our-2-ai-vps-cost-257-month-a-website-willed-itself-into-becoming-an-agent-and-qb-sent-83-personalized-emails-at-1220am/</link>
+      <description>この記事では、2026年のSaaStr AI年次イベントの前に録音されたThe Agentsポッドキャストのエピソード005について論じている。ポッドキャストのエピソードの詳細は記載されていませんが、SaaStr AI Annualイベントの文脈から、SaaS（Software as a Service）ビジネスに関連するトピックを取り上げていると思われます。SaaS企業は、このようなポッドキャストから、SaaSビジネスの指標、成長戦略、業界の専門家からの実用的なアドバイスに関する洞察を得ることができます。このようなコンテンツから得られる主なものには、サブスクリプションモデルの最適化、顧客維持率の向上、営業およびマーケティング活動の拡大、製品開発の強化、SaaS製品におけるAI技術の活用に関する議論が含まれる。SaaSビジネスは、このような業界特有のコンテンツを積極的に探し、利用することで、最新のトレンド、ベストプラクティス、競争の激しいSaaS業界で成功するための戦略について常に情報を得ることができます。</description>
+      <pubDate>Sun, 24 May 2026 12:14:20 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-agents-episode-005-is-out-our-2-ai-vps-cost-257-month-a-website-willed-itself-into-becoming-an-agent-and-qb-sent-83-personalized-emails-at-1220am/</guid>
+    </item>
   </channel>
 </rss>
