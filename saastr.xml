@@ -5,26 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2026 03:04:39 GMT</lastBuildDate>
-    <item>
-      <title>独自のAIカスタマーサクセス担当副社長 &quot;Qbee &quot;を構築して得たトップ10の学び</title>
-      <link>https://www.saastr.com/top-10-learnings-from-building-our-own-ai-vp-of-customer-success-qbee/</link>
-      <description>この記事では、SaaStr AIにおける様々なAIエージェントやアプリの導入の成功について論じており、その中でも際立った成果として、カスタマーサクセスのAI VPであるQBeeを紹介しています。QBeeは、スポンサーを効率的に管理し、顧客とのやり取りを改善することで、大幅な時間の節約とエンゲージメントの向上を実現しました。共有された主な洞察は以下の通り：
-
-1.基本的なプロジェクトから始め、データによって自動化を推進させる：QBeeはシンプルなプロジェクト管理ツールから、実際の顧客データインサイトに基づくカスタマーサクセスのAI VPへと進化した。
-2.四半期レビューよりも日々の対話：QBeeの日々のパーソナライズされた対話は、従来の四半期ごとのビジネスレビューを上回り、継続的な顧客エンゲージメントの重要性を強調した。
-3.ハイパー・パーソナライゼーションが鍵：AIを活用した効果的な顧客コミュニケーションでは、真のパーソナライゼーションを実現するために、メッセージごとに4～6個のユニークなデータ・ポイントが必要です。
-
-この記事では、カスタマーサクセスの役割においてAI導入を成功させるためには、データをAI開発の指針にすること、日々の顧客との対話に優先順位をつけること、そして超パーソナライゼーションに焦点を当てることの重要性を強調している。</description>
-      <pubDate>Mon, 25 May 2026 14:09:42 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/top-10-learnings-from-building-our-own-ai-vp-of-customer-success-qbee/</guid>
-    </item>
-    <item>
-      <title>SaaStrへ  最高の営業リーダーはどのようにハイパフォーマーを維持しているのか？</title>
-      <link>https://www.saastr.com/dear-saastr-how-do-the-best-sales-leaders-retain-their-high-performers/</link>
-      <description>本記事では、SaaSの営業リーダーが高業績の営業担当者を維持するための戦略について論じている。主なポイントとしては、トップ・パフォーマーの迅速な登用、積極的な商談成立支援、ポジティブな職場環境の醸成、業績に連動した競争力のある給与の支払い、雇用保障の確保、会社の変革への関与、効率性向上のためのAIツールの提供、製品開発における発言権の付与などが挙げられる。その焦点は、認識、サポート、権限委譲を通じて優秀な人材を維持することだ。アドバイスでは、市場の変化に対応し、MRを意思決定に関与させ、彼らの効果を高めるツールを提供することの重要性が強調されている。最終的な目標は、トップ・パフォーマーに評価され、安心感を与え、会社の成功に不可欠であると感じさせることであり、それによって離職率を下げ、高業績の営業チームを維持することである。</description>
-      <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-the-best-sales-leaders-retain-their-high-performers/</guid>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
