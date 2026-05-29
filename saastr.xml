@@ -5,6 +5,29 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 May 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 03:04:46 GMT</lastBuildDate>
+    <item>
+      <title>20VC x SaaStr 今週のSaaStr：Anthropicは70％のマージンを達成、OpenAIはS-1を提出、Nvidiaは$580Bであくびをする。</title>
+      <link>https://www.saastr.com/20vc-x-saastr-this-week-anthropic-hits-70-margins-openai-files-its-s-1-and-nvidia-yawns-at-56b/</link>
+      <description>本稿では、企業における人材とテクノロジー（トークン）の適切なバランスを見つけることの重要性について、特にAIの設備投資とROIの観点から論じている。主な洞察として、Nvidiaの目覚ましい収益性、絶対的な数字よりも成長率を重視する市場、将来の成功を決定するROIの重要性などが挙げられる。AnthropicのようなSaaS企業は、AI投資の効率化に注力していることが強調されており、Uber、Microsoft、Door Dashのような企業がAI投資に基づいて戦略的意思決定を行っている例も紹介されている。記事では、特に支出が増加し、レイオフの可能性が懸念される中、企業がAI投資のROIを評価する必要性を強調している。高い成長率を通じて利益率と収益性を改善したAnthropicの成功は、効果的なAI投資戦略の一例として紹介されている。SaaSビジネスは、長期的な成功と収益性を確保するために、AI投資の経済的影響を慎重に検討することをお勧めします。</description>
+      <pubDate>Thu, 28 May 2026 18:47:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-this-week-anthropic-hits-70-margins-openai-files-its-s-1-and-nvidia-yawns-at-56b/</guid>
+    </item>
+    <item>
+      <title>AI広報があなたのスタートアップのメディアとのチャンスを奪っている</title>
+      <link>https://www.saastr.com/ai-pr-is-killing-your-startups-chances-with-the-media/</link>
+      <description>ジェイソン・レムキンのツイートは、特にAIの文脈で、ブロックを回避するためにローテーションやスローアウェイ・ドメインを使用することについて言及している。これは、ドメインやユーザーのブロックを克服する戦略を暗示しており、おそらくメール配信や通信制限に関連している。これらの戦術を利用しない「いい加減なPRアプリ」についての言及は、ローテーションと捨てドメインを活用することが、SaaS業界においてより高度で効果的なアプローチである可能性を示唆している。
+
+SaaSビジネスにとって、このツイートは、顧客にリーチし障害を克服するための戦略を強化するために、AIのような技術的進歩を常にアップデートすることの重要性を強調している。また、SaaS業界における課題を克服するために、ローテーションやスローアウェイ・ドメインといった戦術を活用する際の革新性と適応性の必要性も示唆している。SaaS企業は、競争の激しいSaaS市場において、アウトリーチ、コミュニケーション、全体的なパフォーマンスを向上させるために、このような戦術の模索を検討することができる。</description>
+      <pubDate>Thu, 28 May 2026 14:10:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/ai-pr-is-killing-your-startups-chances-with-the-media/</guid>
+    </item>
+    <item>
+      <title>ガートナー：2026年のAIソフトウェア支出は60%増の4,530億ドル。2027年にはさらに41%増の6,380億ドルに</title>
+      <link>https://www.saastr.com/gartner-ai-software-spending-to-grow-60-to-453b-in-2026-and-its-still-early/</link>
+      <description>ガートナーの最新データによると、AIソフトウェア支出は急増しており、2026年には前年比60％増の4,530億ドルに達し、2027年には6,380億ドルに達すると予測されている。SaaS企業が市場シェアを維持するためには、カテゴリー成長率以上の成長が必要である。AIサイバーセキュリティ、AIモデル、AIデータ分野は急成長しており、2026年の成長率はそれぞれ98％、110％、278％である。企業はこの競争環境で勝ち抜くために、CIOにROIを証明することに注力しなければならない。主なポイントは、膨大なAIソフトウェアのTAM（Total Addressable Market）、前例のない60％の成長率、戦略的な予算配分の必要性、市場での成功のためのカスタマーサクセスの重要性、2027年のソフトウェア市場のさらなる拡大予測などである。SaaS企業は、競争力を維持し市場シェアを獲得するために、これらの洞察を活用し、成長戦略を活況を呈するAIソフトウェア市場に合わせるべきである。</description>
+      <pubDate>Thu, 28 May 2026 12:17:53 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/gartner-ai-software-spending-to-grow-60-to-453b-in-2026-and-its-still-early/</guid>
+    </item>
   </channel>
 </rss>
