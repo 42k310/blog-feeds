@@ -5,6 +5,39 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 03:05:11 GMT</lastBuildDate>
+    <item>
+      <title>AI副社長カスタマー・サクセスの意外な効果：顧客の怒鳴り声が激減。すべてが穏やかになりました。</title>
+      <link>https://www.saastr.com/one-unexpected-benefit-of-our-ai-vp-customer-success-customers-yell-a-lot-less-everything-is-just-more-calm/</link>
+      <description>この記事では、SaaSビジネスにおいて、AIエージェントがいかに人間よりも顧客から良く扱われ、よりスムーズなやり取りと顧客サービス問題の減少につながっているかについて論じている。著者は、顧客とのやり取りを管理するためにQBeeのようなAIエージェントを使用することの利点、特にイベントのスポンサーの納品物のようなタスクを処理することの利点を強調しています。Replit上に構築されたAIエージェントQBeeは、効率的にタスクを管理し、リマインダーを送信し、防衛やエスカレーションのような人間の感情を排除して問題を解決する。著者は、顧客はAIエージェントに対して異なる反応を示し、人間のようにエスカレートしたり、個人的なやりとりをするのではなく、要求に従うと強調している。このような顧客の行動の違いは、AIエージェントが摩擦を減らし、プロフェッショナルなやり取りを維持する上で有効であることを強調している。この記事は、顧客と接する役割にAIエージェントを活用することで、SaaSビジネスにおける効率を高め、衝突を減らし、全体的な顧客体験を改善できることを示唆している。</description>
+      <pubDate>Sat, 30 May 2026 14:10:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/one-unexpected-benefit-of-our-ai-vp-customer-success-customers-yell-a-lot-less-everything-is-just-more-calm/</guid>
+    </item>
+    <item>
+      <title>今週のAIアプリギフトで取引を成立させるAIエージェント、Delightloop</title>
+      <link>https://www.saastr.com/aiappweekdelightloop/</link>
+      <description>Delightloopは、AI-SDRによるパーソナライズされたメールの飽和によって引き起こされるB2Bギフトとアウトリーチの課題に対処するソリューションです。以前は、B2Bギフトは手作業で、コストがかかり、効果的ではなく、コンバージョン率が低くなることが多かった。AI-SDRの台頭により、パーソナライズされたEメールが受信トレイに溢れ、レスポンス率が急落し、B2Bアウトリーチの効果が低下している。Delightloopは、AIを活用してB2Bギフティングを強化し、アウトリーチをよりインパクトのあるものにするソリューションを提供することで、このギャップを埋めることを目指している。
+
+主な要点
+1.従来のB2Bギフトの方法は非効率でコストがかかり、コンバージョン率の低下を招いていた。
+2.AI-SDRによるパーソナライズされたEメールの普及は、見込み客の受信ボックスを飽和させ、レスポンス率を低下させた。
+3.DelightloopのAIを活用したソリューションは、B2Bギフトとアウトリーチの効果を改善することを目的としている。
+
+実行可能なアドバイス
+1.SaaS企業は、アウトリーチ戦略を強化するためにAI技術の活用を検討すべきである。
+2.飽和状態の市場で際立つために、パーソナライズされたインパクトのあるギフト戦略に注力する。
+3.変化する市場力学に対応するため、アウトリーチ戦術を継続的に適応させ、革新する。</description>
+      <pubDate>Sat, 30 May 2026 11:26:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/aiappweekdelightloop/</guid>
+    </item>
+    <item>
+      <title>ヴィヴンのCMOと20人のAIセールス・エージェントのスタックを1人のAIチームが打ち負かした方法</title>
+      <link>https://www.saastr.com/how-one-ai-teammate-beat-a-stack-of-20-ai-sales-agents-with-vivuns-cmo/</link>
+      <description>Vivun社のCMOであるJarod Greene氏は、営業組織内で複数のエージェントが営業サイクルの異なる部分を担当することの課題を強調している。これらのエージェントによって引き起こされる分断は、特にライブの営業電話において、文脈の喪失と実行の遅れにつながる可能性がある。バイヤーはすでに十分な情報を得ており、パーソナライズされた迅速な対応を期待しているため、これは極めて重要だ。グリーン氏は、初対面の約40％が意思決定に至らず、その結果、担当者が重要な質問に答えるのに苦労し、「ゴースト化」することが多いと指摘する。
+
+複数のエージェントを使うことの問題は、営業プロセス全体に対するまとまった理解がないことと、取引のさまざまな段階にわたって文脈を維持できないことにある。グリーン氏は、営業サイクル全体を通して一貫して営業の推論、方法論、行動を保持し、適用できるAIチームメイトを1人確保することの重要性を強調している。このAIチームメイトは、重要な情報をすぐに入手できるようにし、重要な瞬間に何をし、何を知り、何を言い、何を見せるべきかについてMRを導くことができる。このようにAIを活用することで、企業は営業効率を高め、断片的なプロセスやコンテキストの欠如による案件損失のリスクを低減することができる。</description>
+      <pubDate>Sat, 30 May 2026 09:01:17 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-one-ai-teammate-beat-a-stack-of-20-ai-sales-agents-with-vivuns-cmo/</guid>
+    </item>
   </channel>
 </rss>
