@@ -5,24 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2026 03:04:36 GMT</lastBuildDate>
-    <item>
-      <title>GTM Stack Anthropicが業界トップから学ぶ活用法：驚くほど有名な名前。新しい使い方。</title>
-      <link>https://www.saastr.com/the-gtm-stack-anthropic-uses-from-its-head-of-industries-surprisingly-familiar-names-used-in-new-ways/</link>
-      <description>AIの専門知識で知られるAnthropic社は、驚くことに、期待されるようなカスタムAIネイティブの販売プラットフォームを使用していない。その代わりに、自社のAI技術であるClaudeをこれらのプラットフォームに統合することで、既存のB2Bアプリケーションを活用している。このアプローチにより、クロードを多くの企業がすでに使用しているB2Bアプリケーションの中核に接続することができる。これは型破りに見えるかもしれないが、新しいテクノロジーを既存のシステムに効果的に統合することの重要性を浮き彫りにしている。
-
-この戦略は、車輪を再発明することなくAIを自社製品に組み込もうとするSaaS企業にとって、実用的なアプローチを示している。既存のプラットフォームにAIツールを統合することで、企業は両テクノロジーの長所を活用し、顧客に強化されたサービスを提供することができる。このアプローチは、効率性の向上、顧客体験の改善、市場での競争優位につながる。
-
-SaaS企業は、成長を促進し、顧客に価値を提供するために、革新的な技術を既存のプラットフォームにシームレスに統合することに集中することで、Anthropicのアプローチから学ぶことができます。</description>
-      <pubDate>Sun, 31 May 2026 14:10:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-gtm-stack-anthropic-uses-from-its-head-of-industries-surprisingly-familiar-names-used-in-new-ways/</guid>
-    </item>
-    <item>
-      <title>リプリット・チームとエージェントのディープ・ダイブ：10K、QBee、AGI的ブルームバーグ・ベータ・メール、英語でプログラミング（マジで）</title>
-      <link>https://www.saastr.com/a-deep-dive-with-the-replit-team-on-our-agents-10k-qbee-the-agi-ish-bloomberg-beta-email-and-programming-in-english-for-real/</link>
-      <description>本稿では、SaaSビジネスにおけるAIエージェントの活用へのシフトを強調した、SaaStr AI 2026イベントからの洞察を論じている。主なポイントは、ポストAIの世界における成功の主な指標として、複合的な速度に焦点を当てることの重要性であり、ストーリー・ポイントは時代遅れになりつつある。この記事では、エージェント工学を取り入れた企業によって急激な生産性向上が達成され、指数関数的な成長と競争上の優位性がもたらされていることを強調している。また、SaaS企業が市場での競争力を維持するためには、AIエージェントを統合することで人的アウトプットを増幅する必要性を強調している。さらに、社内ツールの使いやすさと営業成績の相関関係が強調されており、製品を自ら使用する担当者はノルマを達成する可能性が高いことが示されている。記事は、ハイテク業界におけるかつてないレベルの競争と、AIエージェントの力を活用することで企業が適応する必要性を強調して締めくくられている。</description>
-      <pubDate>Sun, 31 May 2026 12:10:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/a-deep-dive-with-the-replit-team-on-our-agents-10k-qbee-the-agi-ish-bloomberg-beta-email-and-programming-in-english-for-real/</guid>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 15:04:37 GMT</lastBuildDate>
   </channel>
 </rss>
