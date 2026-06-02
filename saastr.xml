@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2026 15:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 03:04:53 GMT</lastBuildDate>
+    <item>
+      <title>今、私たちは4人以上のAI SDRエージェントを運用しています。これがその理由です。</title>
+      <link>https://www.saastr.com/right-now-we-run-4-ai-sdr-agents-heres-why/</link>
+      <description>この記事では、SaaS企業にとってオールインワンのプラットフォームよりも特化したAIエージェントの重要性を強調している。この記事では、アウトバウンド、インバウンド、リアクティベーション、新規ロゴ獲得などの機能別に特化したAIエージェントのスタックについて論じており、特定のタスクに特化したツールを使用することの有効性を強調している。この記事では、複数のベンダーを利用することは規模が大きくなれば有益かもしれないが、AI SDR を始めるほとんどの企業では、大きな進歩を遂げるために最初は 1、2 社のベンダーが必要なだけかもしれないと示唆している。ツールを追加する前に、まず1つのプラットフォームの使用を深めることに集中することをアドバイスしている。機能によって必要なアプローチやメトリクスが異なり、単一のプラットフォームがすべてのタスクに同じように優れているわけではないからだ。複数のプラットフォームを運用するコストがかかることは認めるが、パイプライン、コンバージョン率、効率性という点では、経費を上回るメリットがあると記事は主張している。高度にセグメント化された環境では、オールインワンのソリューションよりも特化したツールの方が効果的であり、ツールそのものよりも戦略の重要性を強調している。</description>
+      <pubDate>Mon, 01 Jun 2026 14:16:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/right-now-we-run-4-ai-sdr-agents-heres-why/</guid>
+    </item>
+    <item>
+      <title>ARR5億7500万ドル、成長率23％のEntrataは、PEが支援するソフトウェアIPOの次の波の第一号。キャッチフレーズ：ほとんど加速していない。</title>
+      <link>https://www.saastr.com/entrata-is-first-of-the-next-wave-of-pe-backed-software-ipos-the-catch-almost-none-of-them-are-accelerating/</link>
+      <description>多世帯向け不動産管理オペレーティング・システムのEntrata社は、ARR5億ドル以上、成長率23％、プラス・キャッシュフローという堅実な指標で、ニューヨーク証券取引所にIPOを申請した。特別な数字ではないものの、Entrataの財務は健全なビジネスを示している。売上総利益率は約60～63％、営業利益率は16～28％に改善し、純利益はプラスを達成した。同社のRule of 40スコアは約47-51で、成長と収益性のバランスの良さを示している。EntrataのS-1提出書類から読み取れる主な洞察には、同社の決済ソリューションの必須性、プラットフォームへの高い顧客統合率、ユニットあたりの平均収益指標の増加などが含まれる。Entrataの成功は、SaaS業界における効率的な成長の重要性を浮き彫りにしている。株式公開を目指す他のPE支援ソフトウェア企業は、成長率を加速させなければ困難に直面する可能性がある。SaaS企業は、持続可能な成長と収益性を促進するために、利益率の高い製品の提供、顧客の統合、単位当たりの収益の増加を重視するEntrataから学ぶことができます。</description>
+      <pubDate>Mon, 01 Jun 2026 12:48:11 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/entrata-is-first-of-the-next-wave-of-pe-backed-software-ipos-the-catch-almost-none-of-them-are-accelerating/</guid>
+    </item>
+    <item>
+      <title>パパイヤグローバルはどのようにクロード、愛すべき、そしてSupabaseと生産コンプライアンスエージェントを構築したか。  そしてエンジニアなし</title>
+      <link>https://www.saastr.com/your-ai-agent-will-get-you-sued-how-papaya-global-built-a-compliance-ai-it-could-put-its-name-on/</link>
+      <description>SaaStr AI Annual 2026で、Papaya Globalのクライアントサクセス担当副社長と製品設計責任者は、ミスが大きな代償を生む可能性のある給与計算コンプライアンスのためのAIエージェントの正確性を確保するための課題について議論した。彼らは、テクノロジーを迅速に構築することよりも、顧客からの信頼を得ることの重要性を強調した。彼らは、規制されたワークフローでは、顧客はChatGPTのような一般的なモデルに答えを依存する可能性があり、SaaS企業はこれらのモデルよりも信頼できることが重要であると強調した。Papayaのアプローチでは、AI内のコンプライアンス知識を強化するために、22の特定のルールで、発生した障害に基づくルールライブラリを作成しました。彼らは、競争上の優位性としてドメインの専門知識の必要性を示し、特定のルールと修正を持つことで、一般的なモデルと比較して精度が大幅に向上することを示しました。さらに、2つ目のAIを導入して1つ目のAIの回答を検証することで、エラーを減らし、システムの信頼性を確保することを目指した。この3段階のパイプライン・アプローチは、コンプライアンスを重視する領域におけるAI主導型ソリューションの精度と信頼を維持するという課題に対処する戦略的な方法を反映している。</description>
+      <pubDate>Mon, 01 Jun 2026 10:36:12 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/your-ai-agent-will-get-you-sued-how-papaya-global-built-a-compliance-ai-it-could-put-its-name-on/</guid>
+    </item>
   </channel>
 </rss>
