@@ -5,6 +5,31 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 03:04:58 GMT</lastBuildDate>
+    <item>
+      <title>ザ・エージェント #0063人の人間と21人以上のAIエージェントでSaaStr AIを実行。各エージェントを数字で紹介します。</title>
+      <link>https://www.saastr.com/the-agents-episode-06-we-run-saastr-on-3-humans-and-21-ai-agents-heres-every-agent-agent-by-agent-with-the-numbers/</link>
+      <description>SaaStr AI 2026で、SaaStr AIは、トップ21以上のAIエージェントのバックエンドと3人の人間を展示し、これらのエージェントの内部構造とリアルタイムのオペレーションを、故障も含めて明らかにした。いくつかのエージェントはReplit上で開発され、他のエージェントはサードパーティツールでトレーニングされ、合計で数百万のインタラクションを管理している。このウォークスルーでは、各エージェントの機能、運用されているテクノロジー・スタック、そして予期せぬ教訓についての洞察が得られた。AIエージェントのこの透明性と詳細な分析は、SaaS企業にとって貴重な教訓となる。AIエージェントのバックエンドオペレーションを理解することは、SaaSビジネスがテクノロジースタックを最適化し、エージェントのパフォーマンスを向上させ、顧客とのインタラクションを強化するのに役立つ。AIエージェントの内部構造を分析することで、SaaS企業は改善点を特定し、戦略を練り直し、AIテクノロジーを効果的に活用して成長を促進することができます。</description>
+      <pubDate>Wed, 03 Jun 2026 14:09:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-agents-episode-06-we-run-saastr-on-3-humans-and-21-ai-agents-heres-every-agent-agent-by-agent-with-the-numbers/</guid>
+    </item>
+    <item>
+      <title>7つのAI GTMセッションが1つのSaaStrステージに：Vercel、Artisan、Lightfield、Attention、Qualified、Aurasell、Relevance</title>
+      <link>https://www.saastr.com/7-ai-gtm-sessions-on-one-saastr-stage-vercel-artisan-lightfield-attention-qualified-aurasell-and-relevance/</link>
+      <description>この記事では、SaaSビジネス、特にSaaStrの文脈におけるAIエージェントの活用に焦点を当てている。著者は、ArtisanやQualifiedのような企業のAIエージェントを自社の業務で活用することに言及し、これらの技術の実用的な適用と影響を紹介している。コールドメールやウェブサイトでのやり取りといったタスクへのAIエージェントの利用が強調され、ビジネスプロセスを強化する上での有効性が示されている。
+
+主な洞察として、SaaSビジネスにおけるAIエージェントの統合が進み、業務の合理化と効率化が図られていることが挙げられる。この記事は、競争力を維持し成長を促進するために、SaaS業界の最新技術の進歩に後れを取らないことの重要性を強調している。
+
+SaaS企業に対する実用的なアドバイスには、反復的な作業を自動化し、顧客とのやり取りを強化し、全体的な生産性を高めるAIエージェントの可能性を探ることが含まれる。AI技術を業務に取り入れることで、SaaS企業はワークフローを最適化し、顧客体験を向上させ、急速に進化する市場で将来的に成功を収めることができる。</description>
+      <pubDate>Wed, 03 Jun 2026 09:18:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/7-ai-gtm-sessions-on-one-saastr-stage-vercel-artisan-lightfield-attention-qualified-aurasell-and-relevance/</guid>
+    </item>
+    <item>
+      <title>エージェントはトークンの使用量で人間を抜いた。そして予算をはるかに上回る消費。  OpenRouterのCOOとのディープダイブ</title>
+      <link>https://www.saastr.com/agents-just-passed-humans-in-token-usage-and-they-burn-far-more-than-anyone-budgeted-a-deep-dive-with-openrouters-coo/</link>
+      <description>OpenRouter社のCOO兼共同設立者であるクリス・クラーク氏は、AIにおいてエージェント的利用が人間的利用を追い越すことの重要性を強調する。OpenRouterは毎週約28兆トークンを処理しており、これは世界的な推論のかなりの部分を占めている。人間の代わりにエージェントがタスクを実行するようになったことは、SaaS企業にとっても意味がある。エージェントのタスクは、複雑なコンテキストの負荷により、予想以上にトークンを消費する。エージェントが成功するためには、高品質の推論、信頼性の高いツール呼び出し、成功した呼び出しが必要です。推論の品質はプロバイダーによって異なり、AIモデルのパフォーマンスに影響を与えます。ツールコールはエージェントのパフォーマンスにとって極めて重要であり、コールの成功はエージェント機能にとって不可欠である。ツールコールの成功率はプロバイダーによって異なり、AIシステムの全体的なパフォーマンスに影響を与える。SaaS企業は、自社製品にAI機能を組み込む際、最適なパフォーマンスと効率を確保するために、これらの要因を考慮する必要がある。</description>
+      <pubDate>Wed, 03 Jun 2026 09:12:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/agents-just-passed-humans-in-token-usage-and-they-burn-far-more-than-anyone-budgeted-a-deep-dive-with-openrouters-coo/</guid>
+    </item>
   </channel>
 </rss>
