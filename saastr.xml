@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 03:04:48 GMT</lastBuildDate>
-    <item>
-      <title>当社のAIマーケティング担当副社長に「Vibe」のコードを組み込みました。その実際の役割とは？</title>
-      <link>https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/</link>
-      <description>この記事では、SaaS（Software as a Service）ビジネスにおける「90/10の法則」の重要性を強調し、必要な機能の90％は購入し、ソリューションが存在しない残りの10％を自社で構築するよう提言している。コンテンツ制作よりもマーケティングの統合的な運用に焦点を当て、多様なチャネルにわたる戦略と実行の必要性を強調している。 SaaStr社は、マーケティング活動、キャンペーン計画、データ分析、パイプライン管理、ワークフローの自動化を処理する「10K」というAIマーケティングエージェントを開発した。このAIシステムは、過去のデータとリアルタイムのインプットを活用して予測を行い、マーケティング活動を自動化し、人間のマーケターと並行して機能する。 記事では、このAIシステムが優秀なマーケティング担当副社長（VP）の能力を超えることはないかもしれないが、平均的な人間のマーケターよりは優れた成果を上げられると示唆している。マーケティング戦略の強化を目指すSaaS企業に対しては、AIと人間のマーケティング担当副社長を並行して運用し、その成果を比較し、提案内容について議論するというアプローチが推奨されている。</description>
-      <pubDate>Sat, 06 Jun 2026 14:10:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/</guid>
-    </item>
-    <item>
-      <title>アップルが時価総額1兆ドルに達するまで42年かかった。Anthropicなら5年で達成するだろう。</title>
-      <link>https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/</link>
-      <description>AIは企業設立のスピードと規模に革命をもたらしており、Anthropicのような企業は、2021年の設立からわずか5年で9,650億ドルの企業価値を達成し、1兆ドルに到達する軌道に乗っています。これは、Appleが達成するのに42年を要したマイルストーンです。 AnthropicとOpenAIは従業員1人あたりの売上高において目覚ましい数字を記録しており、Anthropicは従業員1人あたり940万ドルを生み出している。これは、従業員1人あたり200万～250万ドルを生み出すAppleやAlphabetを大幅に上回る数値である。 こうしたAI主導の企業において、売上高と従業員数の連動性が失われていることが急速な成長の鍵となっている。製品そのものが労働力となり、高い効率性と拡張性をもたらしているのだ。 これらの企業のコスト基盤は固定化され、縮小傾向にある。収益の増加に伴いコンピューティングコストが低下するため、利益率の拡大につながっている。この新しいモデルは、収益と従業員数が比例して拡大するという従来の通念に異を唱えるものであり、AI技術に牽引されるSaaSビジネスにおける効率性と成長の新たな時代を体現している。</description>
-      <pubDate>Sat, 06 Jun 2026 12:38:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/</guid>
-    </item>
-    <item>
-      <title>VercelがAIエージェントを活用して業務を遂行する仕組み：マーケティング業務の96％、サポート業務の93％をAIが担い、SDRチームを再配置。CPOのトム・オッキノ氏との詳細な対談</title>
-      <link>https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/</link>
-      <description>かつてFacebookとGoogleにそれぞれ在籍していたトム・オッキノ氏とマルテ・ウブル氏は、SaaStr AI Deployにおいて、Vercelのエージェント構築アプローチに関する知見を共有した。Vercelは、他社に提供する前に自社用に数百ものエージェントを開発しており、その際、「非差別化された熱損失」の削減に重点を置いていた。 彼らは、基盤となる作業は必ずしも特定の目的のために構築される必要はないと強調し、限られたリソースを製品、パイプライン、顧客に集中させることを提案しています。 UI中心のソフトウェアからエージェントベースのシステムへの移行が強調されています。エージェントは自律的に動作し、異なる方法で対話するため、企業は自社のニーズに合わせたカスタムエージェントを開発する必要があります。Vercelの経験から、「エージェント・アズ・ア・サービス（Agents as a Service）」は実現不可能であることが示されており、代わりに企業は、カスタムエージェントを効率的に構築するためのインフラやツールに投資すべきです。 重要なポイントは、各チームが独自のエージェントを作成する必要があり、その判断はエージェント自体ではなく、ツールやインフラに関する「自社開発か外部調達か」という選択であるということです。この洞察は、SaaS企業が成長戦略を見直し、エージェントベースのシステムに向けた効率的な開発手法に注力する上での指針となるでしょう。</description>
-      <pubDate>Sat, 06 Jun 2026 09:21:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/</guid>
-    </item>
+    <lastBuildDate>Sun, 07 Jun 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
