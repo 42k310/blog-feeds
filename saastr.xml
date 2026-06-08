@@ -5,6 +5,26 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 03:04:46 GMT</lastBuildDate>
+    <item>
+      <title>『The Agents #006』から得た10の学び：当社のフル・ゴー・トゥ・マーケット・エージェント・スタックを支える数字</title>
+      <link>https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/</link>
+      <description>この記事では、SaaSビジネスにおけるトップクラスのGo-to-Marketエージェントのバックエンドを分析した知見について論じています。SaaStr社は、3人の人間と20体以上のAIエージェントで運営されています。分析から得られた主なポイントには、コミット数、APIスタック、月額コスト、ライブデモなどの指標が含まれます。 焦点は、SaaSビジネスの成長を促進するために、これらの指標に基づいた実践的なアドバイスにあります。10の重要なポイントはこれらの数値データに基づいており、業務の最適化と市場での成功を目指すSaaS企業にとって貴重な知見を提供します。このデータ駆動型のアプローチは、SaaS業界において情報に基づいた意思決定を行い、パフォーマンスを向上させるために、主要な指標を追跡・分析することの重要性を浮き彫りにしています。</description>
+      <pubDate>Sun, 07 Jun 2026 14:22:47 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/</guid>
+    </item>
+    <item>
+      <title>22のツール。300万ドルの費用。11人の運用担当。Aurasell CEOが提唱する「GTMスタック廃止」の理由</title>
+      <link>https://www.saastr.com/22-tools-3m-in-fees-11-ops-people-aurasells-case-for-killing-the-gtm-stack/</link>
+      <description>SaaStr AI 2026イベントにおいて、AurasellのCEOであるジェイソン・ユーバンクス氏は、多くの企業が採用している市場投入（Go-to-Market）プロセスにおける非効率性を指摘した。 彼は、B2B営業担当者が実際に営業活動に費やす時間は全体の24～30％に過ぎず、残りの時間はコンテキストの切り替えや手作業といった営業以外の活動に費やされていると指摘しました。ユーバンクス氏は、この指標を各営業担当者の主要なKPIとして測定することの重要性を強調しました。
+
+ユーバンクス氏は、レガシーなスタックに伴う高いコストに関する洞察を共有し、自身の前職では22種類の異なるツールに年間300万ドル以上を費やし、その維持管理に11人の運用チームメンバーを必要としていたという事例を挙げました。彼は、複数のニッチなツールを導入するとデータが断片化し、担当者が的確な判断を下す能力を阻害することになると強調しました。
+
+Aurasellのソリューションは、統一されたデータ基盤、会話のコンテキスト層、および自動化層に焦点を当て、営業プロセスを効率化します。このプラットフォームは、既存のツールを段階的に置き換える柔軟性を提供し、完全なリプレース（既存システムの全面的な入れ替え）アプローチの必要性を低減します。
+
+総じて、ユーバンクス氏が強調した重要なポイントは、ツールの乱立を解消し、データ統合を改善し、営業チームの生産性を最大化することで、市場投入（Go-to-Market）業務を最適化することの重要性であった。</description>
+      <pubDate>Sun, 07 Jun 2026 10:09:02 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/22-tools-3m-in-fees-11-ops-people-aurasells-case-for-killing-the-gtm-stack/</guid>
+    </item>
   </channel>
 </rss>
