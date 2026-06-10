@@ -5,22 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 03:04:43 GMT</lastBuildDate>
-    <item>
-      <title>かつては営業が原動力だった。しかし、AI分野のリーダーたちにとっては、むしろ最後尾の車両のような存在になりつつある。</title>
-      <link>https://www.saastr.com/sales-used-to-be-the-engine-for-the-ai-leaders-its-often-more-the-caboose/</link>
-      <description>この記事では、SaaS企業における営業部門の役割の変化について論じており、営業チームは依然として不可欠であるものの、急速な拡大を遂げている組織において、もはや成長の主な原動力ではなくなっている点を強調している。焦点はインバウンド需要へと移行しており、営業活動よりも製品、カテゴリー、市場動向の方が成長をより大きく牽引している。 Anthropicのような企業は、セルフサービス型のエンタープライズ戦略で成功を収めており、新規エンタープライズ契約の相当部分が、営業チームの直接的な関与なしに成立している。一方、変化する市場のダイナミクスに適応できていない企業、特にAIを活用していない企業は、強力な営業チームを擁しているにもかかわらず、成長の鈍化に直面している。 本記事は、営業チームには需要の減少や市場トレンドの転換を食い止めることはできないと強調しており、成長の原動力としての営業の重要性が変化していることを示唆しています。また、強力な営業チームが成長率に大きな影響を与え得た過去と、現在の状況を対比させています。 重要なポイントは、SaaS企業は従来の営業手法のみに依存するのではなく、変化する市場の動向に合わせて戦略を適応させ、成長を牽引するためにプロダクト・マーケット・フィットを優先する必要があるということです。</description>
-      <pubDate>Tue, 09 Jun 2026 14:10:32 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/sales-used-to-be-the-engine-for-the-ai-leaders-its-often-more-the-caboose/</guid>
-    </item>
-    <item>
-      <title>なぜB2B業界のベテラン経営者にとってAI分野での競争がこれほど難しいのか：顧客は月額20～200ドルで「Claude」を活用し、多くのことを実現できる。一方、あなたたちは優れた機能を利用するために、API呼び出し1回につき1ドルも支払っているのだ。</title>
-      <link>https://www.saastr.com/why-its-so-hard-for-b2b-leaders-to-compete-in-ai-your-customers-can-do-it-in-claude-for-20-month-youre-paying-1-00-per-api-call/</link>
-      <description>この記事では、B2B AI市場における価格設定の課題について論じており、真にインパクトのあるAIソリューションは往々にして高額になることを強調している。また、真に複雑なAIタスクの場合、API呼び出し1回あたり1ドル以上かかることもあり、一部の企業が目指す「顧客1人あたり数セント」という水準よりも大幅に高いことが指摘されている。 基本的なAIタスクと複雑なAIタスクとの価格格差は、特に事業規模が拡大するにつれて、B2B AI企業にとって課題となり得ます。本記事では、Claude.aiのようなAIプラットフォームの価格モデルについて解説しており、同プラットフォームでは複雑なタスクの場合、1回の呼び出しあたり最大2.25ドル以上のコストがかかることがあります。
-
-著者は、様々なAIアプリケーションを開発してきたSaaStrでの経験を共有している。シンプルなAIアプリは費用対効果が高い一方で、より複雑なものは1回あたりの利用コストが高くなり、収益化戦略に影響を及ぼす可能性がある。 本記事では、平均契約額（ACV）の高いスタートアップは、数千社の顧客を抱える大手B2B企業よりも、こうしたコストを吸収しやすい可能性があると示唆している。また、B2B市場で複雑なAIサービスを提供する際の経済的課題を乗り越えるため、ヘビーユーザーがライトユーザーを補填するような価格戦略を検討することを推奨している。</description>
-      <pubDate>Tue, 09 Jun 2026 12:10:05 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-its-so-hard-for-b2b-leaders-to-compete-in-ai-your-customers-can-do-it-in-claude-for-20-month-youre-paying-1-00-per-api-call/</guid>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
