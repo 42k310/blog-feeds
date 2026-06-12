@@ -5,6 +5,33 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:04:48 GMT</lastBuildDate>
+    <item>
+      <title>なぜM&amp;Aにおける「ノー」は、たいてい「永遠のノー」を意味するのか</title>
+      <link>https://www.saastr.com/why-no-in-ma-usually-means-no-forever/</link>
+      <description>この記事では、M&amp;A取引におけるタイミングの重要性が強調されており、特に「時間は取引を台無しにする」という格言が当てはまる。OpenAIによるTBPNの買収事例は、取引の成立が遅れることで買収企業内で大きな変化が生じ、その結果、取引が頓挫する可能性があることを浮き彫りにしている。 本記事では、取引が破談になる原因は、直接的な拒否だけでなく、主要人材の離職、組織再編、優先順位の変更といった買収企業内部の変化にもあると強調している。
+
+主な洞察としては、小規模なチップ取引が「チャンピオンリスク」に脆弱であること、副社長（VP）や上級副社長（SVP）が長期にわたり同じ役職で同じ優先順位を維持する可能性は低いこと、そしてM&amp;Aの状況においては、良い取引には原則として「イエス」と答えるべきだという助言が挙げられる。 創業者にとっての実践的な教訓は、買収企業の状況が変化すれば機会が二度と訪れない可能性があるため、買収提案を真剣に受け止めるべきだということである。
+
+全体として、本記事はM&amp;A活動に取り組むSaaS企業に対し、貴重な洞察と実践的なアドバイスを提供しており、機会を迅速に捉えることの重要性と、取引の結果に影響を与える可能性のある力学を理解することの重要性を強調している。</description>
+      <pubDate>Thu, 11 Jun 2026 14:10:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-no-in-ma-usually-means-no-forever/</guid>
+    </item>
+    <item>
+      <title>AIがコモディティ化した。SaaStr AI 2026で、6つの業界が「真の競争優位性」として一致した点とは</title>
+      <link>https://www.saastr.com/the-ai-became-the-commodity-heres-what-6-verticals-agreed-was-the-actual-moat-at-saastr-ai-annual-2026/</link>
+      <description>この記事では、SaaStr AI 2026で開催された6つのセッションから得られた重要な知見について取り上げており、コマース、収益管理、グローバル給与計算のコンプライアンス、規制対象のフィンテック、法務および高齢者介護分野におけるAIなど、さまざまな業界のSaaS企業を網羅しています。 これら多様な企業に共通するテーマは、データの重要性、自動化、ガードレールの構築、モデルよりも成果に焦点を当てること、そして管理業務よりも人間関係を優先することでした。 
+
+主なポイントとしては、データを「競争優位性（堀）」として重視すること、管理業務の自動化、機能実装に先立つガードレールの構築、成果を最優先すること、そして明確な境界内でAIのスピードを活用することの重要性が挙げられます。 本記事では、SaaS企業がそれぞれの業界で成長と成功を推進するために、これらの戦略がいかに重要であるかを強調しています。これらの重要な教訓に焦点を当てることで、SaaS企業は業務を強化し、顧客との関係を改善し、持続可能な成長を実現することができます。</description>
+      <pubDate>Thu, 11 Jun 2026 11:48:20 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-ai-became-the-commodity-heres-what-6-verticals-agreed-was-the-actual-moat-at-saastr-ai-annual-2026/</guid>
+    </item>
+    <item>
+      <title>かつては製品の陰に隠れていたデータレイヤー。今やそれが製品そのものとなった。FireboltのCEOとの対談</title>
+      <link>https://www.saastr.com/your-data-layer-used-to-hide-behind-your-product-now-it-is-the-product-with-firebolts-ceo/</link>
+      <description>FireboltのCEOであるベンジャミン・ワグナー氏は、SaaSビジネスに影響を与える3つの重要な変化を指摘しています。第一に、ソフトウェアが実行される場所が変化しており、顧客はオンプレミスオプションを含む導入の柔軟性を求めています。第二に、社内チームがデータ層と密接に連携するようになり、コラボレーションを円滑にするためのオープンソースソリューションの重要性が強調されています。 最後に、顧客側の担当者がデータへの直接アクセスを求めるようになり、データレイヤーは製品の重要な構成要素へと変貌を遂げつつあります。これらの変化に対応するため、SaaS企業は、導入の柔軟性を確保するためにオープンソースの分析用データベースの導入を検討し、エンジニアが一般的なデータベース言語を使用できるようにし、顧客によるデータへの直接アクセスの要望に備える必要があります。データレイヤーはもはや目に見えない存在ではなく、顧客体験の重要な一部となっているのです。 こうした変化を早期に受け入れ、担当者が主導するソフトウェアとのやり取りを見据えた構築を行うことが、この進化する環境においてSaaS企業が成功するための鍵となるでしょう。</description>
+      <pubDate>Thu, 11 Jun 2026 09:30:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/your-data-layer-used-to-hide-behind-your-product-now-it-is-the-product-with-firebolts-ceo/</guid>
+    </item>
   </channel>
 </rss>
