@@ -5,26 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 03:04:38 GMT</lastBuildDate>
-    <item>
-      <title>AI SDRの導入に2週間かかる理由。そして、なぜ多くの人が依然としてチャットを好むのか。</title>
-      <link>https://www.saastr.com/why-ai-sdrs-take-2-weeks-to-deploy-and-why-most-people-still-prefer-chat/</link>
-      <description>この記事では、2026年にSaaStrが営業、マーケティング、カスタマーサクセスの各部門でAIエージェントを導入した経験から得られた2つの重要な教訓を紹介しています。 
-
-教訓その1では、アウトバウンド担当者のウォームアップ期間や導入前の膨大な準備作業を考慮し、AI SDRを導入する際には少なくとも2週間の立ち上げ期間を確保すべきであると強調しています。また、日々のモニタリングの重要性と、AI SDRを既存システムに統合する際の複雑さについても言及しています。
-
-教訓その2は、チャットやメールに加えマルチモーダルな音声エージェントを提供しているにもかかわらず、大多数の顧客は依然として音声やビデオによるやり取りよりもチャットを好むという事実を明らかにしています。個々の好みに応えるため、チャット、音声、ビデオのいずれであっても、ユーザーが好みのコミュニケーションチャネルを選択できるオプションを提供することが推奨されています。
-
-SaaS企業に向けた実践的なアドバイスとしては、AI SDRの導入に十分な立ち上げ期間を確保すること、導入前の徹底した準備を行うこと、AIエージェントの日常的なモニタリングを実施すること、ユーザーに複数のコミュニケーションチャネルを提供すること、そしてユーザーが好みの対話形式を選択できるようにすることが挙げられます。</description>
-      <pubDate>Fri, 12 Jun 2026 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-ai-sdrs-take-2-weeks-to-deploy-and-why-most-people-still-prefer-chat/</guid>
-    </item>
-    <item>
-      <title>「SaaStr AI Annual 2026」で最も多くのリードを獲得したのは誰か？トップ15社が、B2B予算の行方を明かす</title>
-      <link>https://www.saastr.com/who-got-the-most-leads-at-saastr-ai-annual-2026-the-top-15-tell-you-exactly-where-b2b-budget-is-going/</link>
-      <description>SaaStr AI 2026では、スポンサーのエンゲージメントは、B2BおよびAI分野の創業者、経営者、バイヤーから獲得したリード数によって測定されました。 上位スポンサーは、Replit、Lightfield、Aurasell、Salesforce、Ripplingでした。ランキングは「構築」「販売」「運営」の3つのカテゴリーに分類されました。「販売」ツールが優勢で、上位15社のうち7社がソフトウェア販売を支援するソフトウェアを提供しており、B2B＋AI分野における収益重視のソリューションへの需要が示されました。 特に、LightfieldやVivunといったスポンサーの間ではAIネイティブなシフトが見られ、AIファーストの収益化製品への傾向が反映されていました。「Building（構築）」ツールも存在感を示し、Replitがリード生成でトップに立ったことは、バイヤーが独自のソリューションを構築できるよう支援することの重要性を強調しています。 さらに、Rippling、Revolut Business、Aircallといった運用ツールも大きな関心を集めており、B2B＋AI市場において不可欠な運用ソリューションへの需要が継続していることが浮き彫りになりました。企業はこれらのトレンドを注視し、B2B＋AI顧客の進化するニーズに応えるべく、自社の提供サービスを調整すべきです。</description>
-      <pubDate>Fri, 12 Jun 2026 12:33:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/who-got-the-most-leads-at-saastr-ai-annual-2026-the-top-15-tell-you-exactly-where-b2b-budget-is-going/</guid>
-    </item>
+    <lastBuildDate>Sat, 13 Jun 2026 15:04:30 GMT</lastBuildDate>
   </channel>
 </rss>
