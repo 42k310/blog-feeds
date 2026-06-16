@@ -5,24 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 03:04:41 GMT</lastBuildDate>
-    <item>
-      <title>20年も付き合っている顧客を、新規顧客よりも粗末に扱っていませんか？　おそらくそうでしょう</title>
-      <link>https://www.saastr.com/do-you-treat-your-20-year-customers-worse-than-your-new-ones/</link>
-      <description>この記事では、Adobe Marketoを例に挙げ、SaaS企業が新規顧客の獲得を優先するあまり、長期顧客を軽視しているという問題を指摘しています。著者は20年以上にわたり忠実な顧客であったにもかかわらず、CAN-SPAM法違反などの問題が発生した際には、不十分なサポートしか受けられず、責任を問われる事態に直面しました。 著者は、このような行動はMarketoに限ったことではなく、AI時代以前の多くのB2B企業に見られる一般的な傾向であると指摘している。
-
-記事では、SaaS企業が新規顧客の獲得を優先し、パーソナライズされたオンボーディングやサポートを提供する一方で、既存顧客に対しては価格の値上げや必要な時のサポート不足といった扱いをしていることが強調されている。 著者はこの現象を「20年税」と名付け、長期顧客が新規顧客に比べて不当な扱いを受けている現状を指摘している。
-
-さらに、この記事では技術の進歩により顧客の乗り換えコストが低下し、ベンダーに依存することなく自らソリューションを構築できるようになった点についても論じている。 著者は、Replitのようなツールによってチームが迅速に機能を開発できるようになり、ベンダーの力が弱まっていると指摘している。記事は、顧客がより多くの選択肢と力を手にするという変化する環境に適応するため、SaaS企業が顧客維持を優先し、長期顧客に対してより良いサポートを提供する必要性を強調して締めくくっている。</description>
-      <pubDate>Mon, 15 Jun 2026 14:18:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/do-you-treat-your-20-year-customers-worse-than-your-new-ones/</guid>
-    </item>
-    <item>
-      <title>管理業務を自動化し、顧客との関係を維持する：Reevoのエージェントが販売担当者の生産性を5倍に高めた方法</title>
-      <link>https://www.saastr.com/automate-the-admin-not-the-relationship-how-reevos-agents-made-sellers-5x-more-productive/</link>
-      <description>SaaStr AI 2026イベントにおいて、ReevoのCROであるアリ・ゴトビ氏は、同社のAIネイティブ型収益プラットフォームが、管理業務を自動化することで営業プロセスを効率化し、営業担当者が顧客との関係構築に集中できるようにする方法について見解を述べた。 ゴトビ氏は、営業担当者に事務作業を習得させるのではなく、その負担を取り除くことの重要性を強調し、人的判断をほとんど必要としない労力のかかるタスクを自動化する一方で、人間中心の顧客関係構築活動は維持すべきだと指摘しました。 Reevoのプラットフォームは、主要な営業指標を単一のインターフェースに集約し、営業担当者が商談の準備、案件の進捗管理、CRMのメンテナンス、不適格案件の選別、コーチングを効率的に管理できるようにします。これらの領域でAIを活用して生産性を高めることで、営業チームは効率性を向上させ、データの正確性を維持し、収益の成長を促進することができます。 本セッションでは、営業業務を最適化し、営業担当者が顧客とのやり取りで卓越した成果を上げられるよう支援するために、AIを戦略的に導入することの重要性が強調されました。</description>
-      <pubDate>Mon, 15 Jun 2026 09:38:03 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/automate-the-admin-not-the-relationship-how-reevos-agents-made-sellers-5x-more-productive/</guid>
-    </item>
+    <lastBuildDate>Tue, 16 Jun 2026 15:04:29 GMT</lastBuildDate>
   </channel>
 </rss>
