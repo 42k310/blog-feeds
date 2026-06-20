@@ -5,54 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 03:04:56 GMT</lastBuildDate>
-    <item>
-      <title>SnowflakeのCMOは、700人のマーケティング業務を統括している。彼女は1日の始まりに、ダッシュボードではなくデータと対話することから始める。</title>
-      <link>https://www.saastr.com/snowflakes-cmo-runs-marketing-for-700-people-she-starts-her-day-by-talking-to-her-data-not-a-dashboard/</link>
-      <description>Snowflakeのデニス・パーソン氏は、SaaStr AI 2026において、マーケティングチーム全体にエージェントを大規模に展開することに関する知見を共有しました。 主なポイントとしては、ダッシュボードから平易な英語による直接的なデータ分析への移行、単一の信頼できる情報源（Single Source of Truth）に依拠して営業・マーケティングデータの不整合を解消すること、データ品質への先行投資の重要性を強調すること、AIを活用してリソースを固定したまま成長を目指すこと、そしてツールの認定資格よりもソフトスキルを重視した採用に注力することなどが挙げられます。
-
-パーソン氏は、メディアチャネルの統合と日々の最適化提案の活用により、見込み客1件あたりのコストを30％削減できたことを強調しました。Snowflakeでは、700名の従業員全体にAIリテラシーを浸透させるため、毎週のAIスキル研修や課題を通じて、強制ではなくインスピレーションを重視した取り組みが行われました。
-
-実践的なアドバイスとしては、対話型のデータ分析への移行、データ品質への早期投資、人員増なしにAIを活用して成長を図る、採用においてソフトスキルを優先する、そして一貫したトレーニングや課題を通じて組織全体でAIリテラシーを構築するための投資などが挙げられる。</description>
-      <pubDate>Fri, 19 Jun 2026 22:29:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/snowflakes-cmo-runs-marketing-for-700-people-she-starts-her-day-by-talking-to-her-data-not-a-dashboard/</guid>
-    </item>
-    <item>
-      <title>ベンチャーキャピタルは確かに多角化している。しかし、それは同時に、Netflixのように、毎年欠かさずヒット作を生み出し続けなければならないということでもある。</title>
-      <link>https://www.saastr.com/vcs-are-diversified-yes-but-that-also-means-they-need-a-constant-stream-of-hits-like-a-movie-studio-every-single-year/</link>
-      <description>この記事では、ベンチャーキャピタル（VC）がファンドのリターンを生み出す上で直面する課題について論じ、ビジネスモデルを維持するためには、成功したエグジットを継続的に生み出す必要があることを強調している。また、10億ドル規模のエグジットでさえ、LPの期待に応えるには不十分である可能性があることも指摘している。 Cartaの2025年第3四半期レポートのデータによると、多くのVCファンドが目標とするリターン倍率の達成に苦戦しており、相当数のファンドがLPへの現金分配を一切行えていないことが明らかになった。 本記事は、エグジット戦略とファンド規模の力学を理解することの重要性を強調し、小規模なファンドは、大規模なファンドに比べてプレッシャーが少なく、成功を収めやすいという利点がある可能性があると指摘している。また、巨額の資金を調達するメガファンドが増加傾向にあり、リターン目標を達成するためには、さらに大規模なエグジット成果が必要となっていることも指摘している。 ここで提示された知見は、VCからの資金調達を目指すSaaS企業にとって警鐘となるものであり、競争の激しい業界環境において長期的な成功を確実にするためには、持続可能な成長と収益性が重要であることを強調している。</description>
-      <pubDate>Fri, 19 Jun 2026 14:10:56 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/vcs-are-diversified-yes-but-that-also-means-they-need-a-constant-stream-of-hits-like-a-movie-studio-every-single-year/</guid>
-    </item>
-    <item>
-      <title>なぜマーケティング部門は、ほぼ例外なく営業部門の直属の部署にしてはならないのか</title>
-      <link>https://www.saastr.com/why-marketing-should-almost-never-report-to-sales/</link>
-      <description>この記事では、SaaS企業においてマーケティング部門が営業部門の管轄下にあることが理にかなっているという、よくある誤解について論じています。営業部門が収益を担っていることや、それによって連携が図られるという点から、理論上は理にかなっているように思えるかもしれませんが、実際には、この体制は非効率や課題を招くことがよくあります。 著者は、無制限の資金がある場合を除き、マーケティングを営業の管轄下に置くことは通常、得策ではないと主張している。
-
-主な洞察は以下の通りである。
-1. マーケティングを営業の管轄下に置くことで、連携が簡素化され、摩擦が軽減されるという誤解。
-2. SaaS企業において、マーケティングと営業それぞれの独自の役割と専門性を認識することの重要性。
-3. 特にCEOがマーケティングに対する理解を欠いている場合、マーケティングの責任を営業に委ねることによる潜在的な落とし穴。
-
-SaaS企業に向けた実践的なアドバイスには、以下の点が挙げられます：
-1. マーケティングと営業チームが緊密に連携しつつ、それぞれの強みを活かすために、報告体制は分離しておくこと。
-2. 方向性の不一致を避けるため、経営陣に対してマーケティングと営業の明確な価値と機能について理解を深めてもらうこと。
-3. 部門間の知識のギャップを埋めるために、リソースと研修に投資すること。</description>
-      <pubDate>Fri, 19 Jun 2026 12:01:15 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-marketing-should-almost-never-report-to-sales/</guid>
-    </item>
-    <item>
-      <title>Attention.comが営業電話を商談パイプラインに変える方法：自社が保有する最高のGTMデータ、そしてなぜ多くのB2Bチームがそれを無駄にしているのか</title>
-      <link>https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/</link>
-      <description>Attention.comのCEOであるアニス・ベナセール氏は、SaaStr AI 2026において、SaaS企業の市場参入戦略の改善に関する知見を共有しました。シリーズBの資金調達を完了し、ARR（年間反復収益）が1,500万ドル、年間成長率が4～5倍に達するAttention社は、営業チームの業務をインテリジェントに自動化しています。 ベナセール氏は、パイプラインの拡大に向けて見込み客との会話を活用することの重要性を強調しました。主なポイントは以下の通りです。
-
-1. リアルタイムのデータに基づいて毎月「理想的な顧客プロファイル（ICP）」を見直し、特定のバイヤーペルソナを効果的にターゲットにする。
-2. 合成ペルソナを用いて返信率を予測し、収集した会話データに基づいてアウトリーチをパーソナライズすることで、相乗効果を生み出す「Go-to-Market Machine」を構築する。
-3. 単なるメモ取りにとどまらず、自動的に価値あるインサイトを提供するプロアクティブなAIエージェントを開発する。
-
-SaaS企業の創業者に向けた実践的なアドバイスとしては、ICPを定期的に更新すること、アウトバウンド戦略のために会話履歴を分析すること、そして能動的な顧客エンゲージメントのためにAIエージェントに投資することが挙げられます。会話から得られるリアルタイムデータを活用することで、SaaS企業はターゲット設定を強化し、アウトリーチをパーソナライズし、競争の激しい市場において営業効率全体を向上させることができます。</description>
-      <pubDate>Fri, 19 Jun 2026 09:21:05 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/</guid>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
