@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>VP+レベルの候補者の90％以上は、10回の面接を経て何を学んだのか説明できません。これは不適格の理由となります。</title>
+      <link>https://www.saastr.com/90-of-vp-candidates-cant-tell-me-what-theyve-learned-after-10-interviews-thats-a-disqualifier/</link>
+      <description>この記事は、SaaS企業の経営幹部候補者にとって、好奇心と深い理解がいかに重要であるかを強調しています。著者は、最終面接官として、チームとの度重なるやり取りを通じて何を学んだかを候補者に尋ねることを提案しています。ほとんどの候補者は、表面的な情報を超えた詳細な洞察を示すことができないため、真の好奇心が欠けていることがうかがえます。 採用に成功する候補者は、洞察に富んだ質問を投げかけ、ユニットエコノミクス、顧客維持率、組織の課題を分析することで、深い理解を示します。
+
+この記事では、基本的な業務の実情について質問できなかったある候補者の事例を取り上げ、採用候補者を評価する上で好奇心がいかに重要であるかを浮き彫りにしています。著者は、面接の過程で好奇心を示さない候補者は、実際に職務に就いた後もそれを発揮する可能性は低いと強調しています。 このアプローチは、ビジネスを徹底的に学びたいと真に考えている候補者を見極めるためのフィルターとして機能します。
+
+重要なポイントは、経営幹部を採用する際には、履歴書やマニュアルよりも「好奇心」を優先することです。候補者が自社の業務を深く掘り下げようとする意欲を評価することで、SaaS企業は、重要な質問を投げかけ、有意義な成長を牽引する可能性の高い人材を見極めることができるのです。</description>
+      <pubDate>Sat, 20 Jun 2026 14:10:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/90-of-vp-candidates-cant-tell-me-what-theyve-learned-after-10-interviews-thats-a-disqualifier/</guid>
+    </item>
+    <item>
+      <title>Lightfieldはステージ上で実働するCRMシステムをその場で構築し、その後、行き詰まっていた取引をわずか3分で打開した</title>
+      <link>https://www.saastr.com/lightfield-just-assembled-a-working-crm-live-on-stage-then-unstuck-a-stalled-deal-in-3-minutes/</link>
+      <description>Lightfieldの創業者であるキース・ペイリス氏は、実際のデータを用いたCRMのライブデモを披露し、2026年に向けたAIネイティブのCRM機能を強調した。 約3,000社の顧客を抱えるLightfieldは、4つの主要なステップを実演しました。それは、データソースを連携させてCRMを手間なくセットアップすること、過去のデータ分析を活用して停滞している商談を診断すること、得られた知見に基づいてプロセスを自動化すること、そして成約済み案件のパターンを活用して新たなパイプラインを創出することです。 このデモでは、Lightfieldの自動化機能が際立っており、連絡先の検索やカスタムシーケンスの作成といったタスクが平易な英語で指定され、バックグラウンドでPythonを用いて実行されました。 最大のポイントは、組織全体で得られた知見やベストプラクティスをシームレスに運用に活かし、手動でのデータ入力から脱却して、取引の効率的な成約に注力できる点にあります。SaaS企業は、LightfieldのCRMにおけるAI活用アプローチから学び、プロセスの効率化、データからのインサイト抽出、そして営業効果の向上を図ることができます。</description>
+      <pubDate>Sat, 20 Jun 2026 10:31:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/lightfield-just-assembled-a-working-crm-live-on-stage-then-unstuck-a-stalled-deal-in-3-minutes/</guid>
+    </item>
   </channel>
 </rss>
