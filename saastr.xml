@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>SalesforceのARR倍率は2.8倍、HubSpotは56％下落、Adobeの利益倍率は11倍：現在、これらの銘柄は売られすぎているのだろうか？</title>
+      <link>https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/</link>
+      <description>2月、AIの進歩によって「ユーザー単位のライセンス」が時代遅れになるのではないかという懸念から、ソフトウェア市場は大幅な下落に見舞われ、48時間の間にソフトウェア時価総額が2,850億ドルも蒸発した。この出来事は「SaaSpocalypse」と呼ばれた。 しかし、その後市場は回復し、IGVソフトウェア指数は4月に52週間ぶりの安値を記録したものの、現在は改善の兆しを見せている。 回復傾向にあるとはいえ、すべてのソフトウェア企業が同程度に回復したわけではありません。SaaS企業は、成長と持続可能性を推進するために、顧客獲得コスト（CAC）、顧客生涯価値（CLV）、解約率、月次経常収益（MRR）といった主要指標に注力すべきです。 さらに、変化し続ける市場動向や顧客のニーズに合わせて、価格設定モデル、製品ラインナップ、顧客エンゲージメント戦略を適応させていく必要があります。絶えず変化するソフトウェア業界で成功を収めるためには、SaaS企業が俊敏性、革新性、そして顧客中心の姿勢を維持し続けることが極めて重要です。</description>
+      <pubDate>Mon, 22 Jun 2026 14:01:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/</guid>
+    </item>
+    <item>
+      <title>RipplingのAI戦略：データグラフこそが競争優位性である</title>
+      <link>https://www.saastr.com/ripplings-ai-bet-the-data-graph-is-the-moat/</link>
+      <description>RipplingのAI戦略は、同社のすべての製品を支える単一の連携データベース「従業員グラフ」を中心に展開されています。同社は、AIが効果を発揮するには、断片化されたデータではなく、整理され、相互に関連付けられたグラフの上に構築される必要があると主張しています。成功の鍵は、データフィールド間の関係性を理解し、生成されるインサイトの正確性と信頼性を確保することにあります。 Ripplingの製品展開は、インサイトからアクション、そしてプロアクティブなワークフローへと進展しており、ビジネスデータにAIを活用するあらゆる企業にとって有益なアプローチを示しています。従業員の昇進といったアクションを実行できるのは、システムがすべてのデータポイントと権限を把握しており、安全かつ正確な実行を保証しているからです。 プロアクティブなワークフローへの注力は、手動によるデータクエリから自動化されたインサイト提供へとパラダイムを転換させます。創業者にとっての重要な教訓は、信頼できる回答を生成し、信頼性の高いアクションを可能にするためには、AIモデルだけでなく、統合されたデータグラフが不可欠であるということです。これは、HRソフトウェアに限らず、あらゆる業界におけるAI駆動型ソリューションにおいて、強固なデータ基盤を構築することの重要性を強調しています。</description>
+      <pubDate>Mon, 22 Jun 2026 09:51:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/ripplings-ai-bet-the-data-graph-is-the-moat/</guid>
+    </item>
   </channel>
 </rss>
