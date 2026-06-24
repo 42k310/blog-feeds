@@ -5,13 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 03:04:43 GMT</lastBuildDate>
-    <item>
-      <title>「ガードレールを付けすぎて自社エージェントを壊してしまった」「AIの財務担当副社長が、8年間見落としていた設定を発見した」「ソフトウェアの更新手続きを、今やエージェントが担当している」：『The Agents #007』</title>
-      <link>https://www.saastr.com/we-added-too-many-guardrails-and-broke-our-own-agent-our-ai-vp-of-finance-found-a-setting-wed-missed-for-8-years-and-an-agent-is-now-the-one-renewing-your-software-the-agents-007/</link>
-      <description>『The Agents』の第007回エピソードでは、SaaSビジネスの指標と成長戦略に焦点が当てられました。主なハイライトとしては、前年比で売上高が-19％から+47％へと成長したことが挙げられ、これは実施された戦略が成功したことを反映しています。 このエピソードでは、本番環境でAIエージェントを運用する上での課題について議論され、AIエージェントの構築自体は以前より容易になったものの、本番環境での効果的な運用は依然として難しい点が強調されました。また、イベント「SaaStr AI Annual 2026」は、エージェントの構築や共有に携わる1万人が集結した成功した集会として取り上げられました。 また、このエピソードでは、アプリへの過度な安全対策、AIチーム内での役割の混乱、ベンダー契約更新プロセスにおけるトラブルなど、チームが経験したいくつかの失敗事例も紹介されました。これらの実例はSaaS企業にとって教訓となり、本番環境でAIエージェントを展開する際の適切な監督と管理の重要性を強調しています。 全体として、このエピソードでは、何が機能し、何が問題となっているかについて実践的な知見が提供され、SaaS企業がエージェント導入における課題を効果的に乗り越えるための戦略が提案されました。</description>
-      <pubDate>Tue, 23 Jun 2026 14:10:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-added-too-many-guardrails-and-broke-our-own-agent-our-ai-vp-of-finance-found-a-setting-wed-missed-for-8-years-and-an-agent-is-now-the-one-renewing-your-software-the-agents-007/</guid>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
