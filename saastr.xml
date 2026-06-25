@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 03:04:52 GMT</lastBuildDate>
+    <item>
+      <title>アドビが、恒例の大幅な価格引き上げを延期した。これは2022年以来、B2B分野における価格決定力に生じた初めての大きな亀裂である。</title>
+      <link>https://www.saastr.com/adobe-just-deferred-a-big-annual-price-increase-its-the-first-big-crack-in-b2b-pricing-power-since-2022/</link>
+      <description>従来、価格決定力に強みを持っていたアドビは、Creative Cloudの価格改定による5億ドルのARR増加計画を延期し、市場を驚かせた。過去最高の売上高やARRの伸びなど、堅調な業績にもかかわらず、この決定を受けて株価は下落した。 アドビは、ユーザーから収益を得る前に、より多くのユーザーを獲得するためにフリーミアムモデルへと移行しており、これが価格戦略に影響を与えている。同社の価格決定力は、プロフェッショナル／エンタープライズ層と、コンシューマー／プロシューマー／中小企業（SMB）層に分かれており、後者ではCanvaやFigmaといったより手頃な価格の代替サービスとの競争に直面している。 アドビのエンタープライズ部門は依然として堅調で、価格引き上げの延期はなく、SAPやコカ・コーラといった主要顧客との契約更新も順調に進んでいる。SaaS企業は、価格引き上げと顧客獲得戦略のバランスを取り、市場の動向を理解し、各市場セグメントの競争環境に応じて価格戦略を適応させるという点で、アドビの経験から学ぶことができる。</description>
+      <pubDate>Wed, 24 Jun 2026 14:19:11 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/adobe-just-deferred-a-big-annual-price-increase-its-the-first-big-crack-in-b2b-pricing-power-since-2022/</guid>
+    </item>
+    <item>
+      <title>PayPalは、人間が電話をかけることなど到底考えられないような見込み客8,000件をAgentforceに割り当てた。その結果、コンバージョン率が50％も跳ね上がった。</title>
+      <link>https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/</link>
+      <description>「SaaStr AI 2026」で特に注目を集めたセッションでは、SalesforceのAdam Alfano氏とPayPalのEitan Saban氏が、AgentforceにおけるAIセールスエージェントの活用経験について議論しました。主なポイントとしては、未来的なコンセプトよりもリアルタイムの戦略を重視し、営業向けAIエージェントを成功裏に導入するための実践的な知見が挙げられます。 焦点は、遠い未来のAIトレンドではなく、現在有効な実践手法に当てられました。このアプローチは、営業プロセスでAIを活用しようとしているSaaS企業にとって、実行可能なアドバイスが重要であることを浮き彫りにしています。セールスフォースやペイパルといった業界リーダーの経験から学ぶことで、SaaS企業はAI営業エージェントを効果的に拡大するための貴重な知見を得ることができます。 本セッションでは、AIを活用した営業分野における実践的な教訓と具体的な成果の重要性が強調され、SaaS企業が売上拡大に向けてAI技術の活用を推進・最適化するためのロードマップが提示されました。</description>
+      <pubDate>Wed, 24 Jun 2026 14:10:35 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/</guid>
+    </item>
+    <item>
+      <title>SaaStr様： 会社に対して不満を抱いている投資家には、どのように対応すればよいでしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-how-do-i-deal-with-investors-that-are-unhappy-with-the-company/</link>
+      <description>不満を抱える投資家に対して効果的に対応するには、透明性が鍵となります。 毎月末には速やかに月次報告を共有し、60日ごとにZoomを通じて投資家ミーティングを実施して、信頼を醸成しましょう。データに基づいた率直な根本原因分析を行い、課題を説明するとともに、現在の製品ロードマップに沿って、成長やバーンレートに関連する主要な問題に対処する計画を提示してください。また、「ゼロキャッシュ日」を継続的に開示し、資本を効果的に管理する責任感を示しましょう。 外部要因のせいにするのではなく、財務上の課題に対して主体的に責任を負う姿勢を示しましょう。定期的な取締役会を開催することで、投資家の関与と認識を確保できます。その開催頻度は、投資家の関与度や支援の程度を左右します。透明性を保ち、データに基づいた判断を行い、懸念事項に積極的に取り組むことで、SaaS企業は投資家の信頼を築き、より明るい未来への道を切り開くことができます。</description>
+      <pubDate>Wed, 24 Jun 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-how-do-i-deal-with-investors-that-are-unhappy-with-the-company/</guid>
+    </item>
   </channel>
 </rss>
