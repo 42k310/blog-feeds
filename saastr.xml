@@ -5,6 +5,37 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:04:48 GMT</lastBuildDate>
+    <item>
+      <title>ベンチャーキャピタルが今注目しているもの：10年で1,000億ドル</title>
+      <link>https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/</link>
+      <description>この記事では、長年にわたるSaaSビジネスの指標と成長戦略の変遷について論じている。著者は、かつて10億ドルの企業価値が注目に値するものと考えられていたことを振り返り、セールスフォースや初期のB2Bソフトウェア企業のIPOなどの例を挙げている。しかし、状況は一変し、現在ではベンチャーキャピタル（VC）各社が1,000億ドル以上のエグジットを目指し、さらには1兆ドル規模の成果さえ視野に入れている。 この変化は、SaaS業界において、指数関数的な成長と企業価値への期待という新たな時代の到来を意味している。
+
+この記事から得られる主な洞察は以下の通りである。
+1. SaaS企業の企業価値に関する歴史的展望。
+2. より大規模なエグジットに向けたVC企業の期待の変化。
+3. SaaSセクターにおける1兆ドル規模の企業価値目標の台頭。
+
+SaaS企業に向けた実践的なアドバイスは以下の通りです：
+1. 急速な成長を受け入れ、野心的な企業価値目標を目指すこと。
+2. ビジネス戦略において、拡張性と長期的な持続可能性に焦点を当てること。
+3. 市場での競争力を維持するために、業界のトレンドや投資家の期待を常に把握しておくこと。</description>
+      <pubDate>Thu, 25 Jun 2026 14:10:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/</guid>
+    </item>
+    <item>
+      <title>SaaStr AI 2026でのアムジャド・マサドと私：私たちが実際に開発したエージェントと、Replitの創業者が見据える今後の展望</title>
+      <link>https://www.saastr.com/amjad-masad-and-me-at-saastr-ai-2026-the-agents-we-actually-built-and-what-replits-founder-thinks-comes-next/</link>
+      <description>ReplitのCEOであるアムジャド・マサド氏は、SaaStr AI 2026で開催されたライブセッションに参加し、10KやQBeeといったAIエージェントと対話しながら、リアルタイムで反応を示しました。マサド氏は2016年にReplitを設立しており、AIやプラットフォーム構築に関する深い専門知識から、貴重な洞察を提供しました。 このセッションでは、SaaSビジネスにおいてマーケティングやカスタマーサクセスのためにAIを活用することの重要性が強調された。AIエージェントに対するマサド氏のフィードバックは、SaaS分野におけるAIアプリケーションの進化と可能性を浮き彫りにした。SaaS企業は、マーケティング戦略や顧客サービスを強化するために、業務にAI技術を組み込むことの重要性を理解することで、この経験から学ぶことができる。 AIを取り入れることは、競争の激しいSaaS業界において、効率の向上、パーソナライズされた顧客対応、そしてビジネス全体の成長につながる可能性があります。マサド氏の専門知識は、技術の進歩に遅れずについていき、それらを効果的に活用してSaaSビジネスの成功を推進することの価値を浮き彫りにしています。</description>
+      <pubDate>Thu, 25 Jun 2026 12:09:19 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/amjad-masad-and-me-at-saastr-ai-2026-the-agents-we-actually-built-and-what-replits-founder-thinks-comes-next/</guid>
+    </item>
+    <item>
+      <title>Booking.com for Businessは、わずか6週間で無料の経費管理ツールをリリースしました。ツールそのものを真似るのではなく、そのプロセスを真似てください。</title>
+      <link>https://www.saastr.com/booking-com-for-business-shipped-a-free-expense-tool-in-6-weeks-dont-copy-the-tool-copy-the-sequence/</link>
+      <description>Booking.com for Businessは、ビジネス出張における顧客の不便な点を解消することに重点を置き、6週間で無料の経費管理ツールを開発しました。 ジョシュア・ウッド氏は、AIは最終的には単なる販促用の機能ではなく、製品開発の標準的な要素になるだろうと強調しました。重要な教訓は、顧客の摩擦を特定して解消し、顧客維持率を向上させることです。Booking.com for Businessは、大企業向けのツールを中小企業向けにそのまま複製するのではなく、中小企業のニーズに合わせたシンプルな経費管理ツールを開発しました。 このツールでは、ユーザーが領収書の写真を撮影するだけで、日時や場所などのさまざまな要素に基づいて自動的に分類されます。このアプローチは、複雑さよりもシンプルさと効率性を優先しています。顧客がどこで課題に直面しているかを理解し、それに対処することで、SaaS企業はユーザー体験を向上させ、解約率を低減することができます。</description>
+      <pubDate>Thu, 25 Jun 2026 09:29:53 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/booking-com-for-business-shipped-a-free-expense-tool-in-6-weeks-dont-copy-the-tool-copy-the-sequence/</guid>
+    </item>
   </channel>
 </rss>
