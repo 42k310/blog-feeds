@@ -5,6 +5,41 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:05:04 GMT</lastBuildDate>
+    <item>
+      <title>2026年にナヴァンが30％上昇している理由。他の多くの大手公開ソフトウェア企業が下落している中で。</title>
+      <link>https://www.saastr.com/why-navan-is-up-30-in-2026-when-so-many-other-public-software-leaders-are-down/</link>
+      <description>この記事では、2026年のB2Bソフトウェア企業の業績について論じており、Navan（旧TripActions）を除き、ほとんどの企業が株価の大幅な下落に見舞われた。Navanの株価はIPO後に急落したが、2027年度第1四半期の堅調な決算を発表した後、回復した。 主な業績指標としては、売上高が前年同期比40％増、総受注高（GBV）が50％増、決済額が29％増となった。 非GAAP営業利益率は900ベーシスポイントという大幅な改善を見せた。また、ナヴァンは通期業績予想を上方修正し、30％以上の持続的な成長を見込んでいる。これは、ソフトウェア企業全般が業績予想を下方修正する傾向にある状況とは対照的である。 
+
+この記事では、ナヴァンの成功から得られる5つの重要な教訓を強調している：
+1. ユーザー数に応じたライセンス料ではなく、取引高に基づくナヴァンの収益モデルが、業界の課題から同社を守った。
+2. AIはナヴァンの成長の原動力となり、製品の品質向上とコスト削減を同時に実現した。
+3. ナヴァンの「Cognition」プラットフォームは、AIと人間のエージェントをうまく統合し、最適なパフォーマンスを実現した。
+4. AI技術に柔軟に対応し、効果的に活用する同社の能力が、その強靭性と成長に寄与した。
+5. 価格設定モデルを変化する市場の動向に合わせることの重要性。従業員数に依存するモデルよりも、顧客の活動に基づく収益のスケーラビリティを重視すること。</description>
+      <pubDate>Fri, 26 Jun 2026 14:10:11 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/why-navan-is-up-30-in-2026-when-so-many-other-public-software-leaders-are-down/</guid>
+    </item>
+    <item>
+      <title>YouTubeのチャンネル登録者数が20万人を突破：最も急成長しているコンテンツは、私たちが公共の場でAIエージェントを稼働させている様子です</title>
+      <link>https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/</link>
+      <description>SaaStr AIのYouTubeチャンネルは最近、登録者数20万人を突破し、再生回数は1,170万回、総視聴時間は100万時間を超えました。本番環境でAIエージェントを活用して企業を運営することに焦点を当てたコンテンツは、B2Bのスケールアップといった従来のトピックよりも人気を集めています。 過去90日間で、再生回数は167％、新規登録者数は56％、視聴時間は65％増加しました。再生回数の伸びは、「Shorts」や短編クリップによるものであり、それらがエージェントの詳細な解説動画への深いエンゲージメントにつながっています。 AIエージェントの実稼働を記録したシリーズ『The Agents』は、視聴数とチャンネル登録者数の増加を牽引する主要な要因となっています。このシリーズでは、成功例や失敗例を含む実世界のシナリオを紹介しており、AI導入に関する実践的な知見を求める視聴者の共感を呼んでいます。 このシリーズは長編コンテンツを上回る成果を上げており、理論的な議論よりも、実際のエージェントのワークフローを紹介することの重要性を浮き彫りにしています。視聴者の関心は、推測に基づく議論よりも実用的な導入方法にあり、SaaS企業が視聴者を惹きつけ、維持するためには、自社の技術の実世界での活用例を実証することに注力する必要があることが示されています。</description>
+      <pubDate>Fri, 26 Jun 2026 12:55:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/</guid>
+    </item>
+    <item>
+      <title>20VC × SaaStr：Googleが48時間で2人の世代を代表する科学者を失った、ウォール街がついに投げかけた7,250億ドルの疑問、そしてAI分野で3位であることがなぜ「死の宣告」となるのか</title>
+      <link>https://www.saastr.com/20vc-x-saastr-google-loses-two-generational-scientists-in-48-hours-the-725b-question-wall-street-is-finally-asking-and-why-3-in-ai-is-a-death-sentence/</link>
+      <description>この記事では、AIおよびB2B分野、とりわけ中国における激しい競争と急速な進展について論じている。 主な論点としては、AIへの巨額投資、人材の移動、そしてDRAM価格の変動が消費財に影響を与えるなど、様々な産業への波及効果が挙げられている。GoogleからAnthropicへのトップ研究者の移籍は、研究者が情熱を注げる分野に取り組める環境の重要性と、官僚的な障壁がイノベーションに及ぼす悪影響を浮き彫りにしている。 本記事は、複利効果により勝者が勝ち続ける傾向にあるテクノロジー業界において、勢いの重要性を強調している。また、市場でトップ2に入っていない企業が直面する課題についても指摘しており、収益の大部分はトッププレイヤーによって占められる傾向にある。 特にAI分野において、市場で3番手の立場にあることに関連するリスクが強調されており、オープンソースの代替案がクローズドソースのモデルに対する脅威となっている。記事では、イノベーションにおいて3番手であることは後れを取るよりはましだが、それでもなお大きな課題を抱えていると示唆している。</description>
+      <pubDate>Fri, 26 Jun 2026 12:00:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-google-loses-two-generational-scientists-in-48-hours-the-725b-question-wall-street-is-finally-asking-and-why-3-in-ai-is-a-death-sentence/</guid>
+    </item>
+    <item>
+      <title>HappyFoxがAIエージェントに20ドルの投資で100万ドルの資金調達に成功した経緯――CEOシャリン・ジェイン氏との対談</title>
+      <link>https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/</link>
+      <description>HappyFoxのCEOであるシャリン・ジェイン氏は、SaaStr AI 2026において、既存の顧客基盤を活用して成長を図る方法について見解を述べた。HappyFoxは、売上高20Mドルを誇り、外部資金を一切受けていないため、効率的な成長に注力している。同社のビジネスモデルは「ランド・アンド・エクスパンズ（Land and Expand）」であり、既存顧客に追加サービスを提供している。 同社は、自社の拡大戦略に「顧客からのアップグレード要請を待つ」という受動的な側面があるという欠点を見出した。これを解決するため、サポートチケットを分析して拡大の機会を能動的に特定するAIエージェント「Rex」を開発した。このエージェントのコストは20ドル未満であり、数ヶ月で1Mの拡大売上を生み出した。 同社は、AIの導入によりユーザー数の拡大が鈍化している一方で、AIを活用したアップセルや新規部門へのクロスセルが最大の収益源となっていることを発見しました。重要な教訓は、既存の顧客データを効果的に活用して、先を見越した事業拡大を図ることにあると言えます。このアプローチにより、HappyFoxは最小限の投資で大幅な売上成長を実現し、既存の顧客基盤からビジネスチャンスを掘り起こす可能性を実証しました。</description>
+      <pubDate>Fri, 26 Jun 2026 09:14:13 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/</guid>
+    </item>
   </channel>
 </rss>
