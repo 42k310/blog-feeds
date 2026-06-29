@@ -5,31 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 03:04:51 GMT</lastBuildDate>
-    <item>
-      <title>独自のAIマーケティング担当副社長を構築する方法：SaaStr AI 2026による完全ガイド</title>
-      <link>https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/</link>
-      <description>「SaaStr AI Annual 2026」において、アメリア・ルッテ氏は、メンタルモデルと10ステップのプロセスを用いて、わずか15分で業務用AIエージェントを構築する方法を実演しました。 「10K」と名付けられたこのAIエージェントは、当初はダッシュボードの更新を自動化するという単純な目標から始まりましたが、やがてキャンペーンの構築やメールのコピーライティングなど、さまざまなタスクを処理できるよう進化しました。 効果的なAIエージェントを構築するための重要なポイントは、各エージェントに単一の目標を設定すること、エージェントが独自の個性を発展させられるようにすること、そして自律層とオペレーター層を分離して維持することです。構築プロセスには、詳細な仕様書の作成、実際の履歴データの組み込み、SalesforceなどのAPIとの連携、ワークフローの段階的な構築、エラー防止のための安全対策の設定、そしてデプロイ前の出力の検証が含まれます。 重要なアドバイスとしては、明確な目標から始め、詳細な仕様書を作成し、エージェントの入力と出力が望ましいビジネス成果と整合していることを確認することが挙げられます。これらの手順に従うことで、SaaS企業はAIを効果的に活用し、業務の効率化と成長の促進を図ることができます。</description>
-      <pubDate>Sun, 28 Jun 2026 14:10:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/</guid>
-    </item>
-    <item>
-      <title>SaaStr様：スタートアップの顧客開拓をしている際、自分が「厄介者」のように感じてしまうのは普通のことでしょうか？</title>
-      <link>https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/</link>
-      <description>この記事では、SaaSスタートアップにおけるアウトバウンド営業の課題について論じ、成功に向けた実践的なアドバイスを提供しています。見込み客開拓において「迷惑な存在」のように感じられるのは当然のことだと強調しつつも、そのスキルを向上させ、断りに対処できる熟練した営業担当者を採用することを提案しています。 主な洞察としては、断りをうまく受け止められる優秀な営業担当者の発掘、彼らを適切に評価し報酬を与えること、キャリアアップの機会を提供すること、そしてアウトバウンド営業を「科学」と「芸術」の融合として捉えることの重要性が挙げられています。この記事では、画一的なアプローチを避け、個別化されたターゲットを絞ったアプローチを推奨しています。また、見込み客を効果的に成約に結びつけられない平凡な営業担当者を排除する必要性も強調しています。 結論として、この記事は、アウトバウンド営業が適切に行われれば将来においても成功し得ることを強調し、SaaS企業が売上目標を達成するためには、粘り強さ、スキル、そして戦略が重要であることを指摘している。</description>
-      <pubDate>Sun, 28 Jun 2026 12:51:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/</guid>
-    </item>
-    <item>
-      <title>「1件の交渉が頓挫、1件の自動化、10件の新規見込み客」：ライトフィールドのCEO、キース・ペイリス氏がAIネイティブのGTMループを実演</title>
-      <link>https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/</link>
-      <description>LightfieldのCEO、キース・ペイリス氏は、SaaStrで同社のAIネイティブCRMの機能を強調するライブデモを披露しました。このデモでは、停滞している取引をリアルタイムで処理し、自動化を活用して新たな見込み客を開拓する様子が紹介されました。 約3,000社の顧客にサービスを提供するライトフィールドのCRMは、顧客に関する包括的なコンテキストと自動化に重点を置いており、営業担当者がCRMの管理業務ではなく、販売活動そのものに集中できるように支援しています。
-
-主なポイントは、手動でのデータ入力なしでCRMが自動的に構築される機能、リードスコアリングや商談状況の更新といったタスクの自動化、そして過去のデータ分析に基づくインサイトの提供です。ライトフィールドは、停滞した商談を診断し、CIOの関与が必要であることを特定することで、AIが営業チームに実用的なインサイトをもたらす方法を実証しました。
-
-この記事では、CRMにおいてAIと自動化を活用し、営業プロセスを合理化して取引成果を向上させ、効率を高めることの重要性が強調されています。SaaS企業は、リアルタイムの意思決定、反復的なタスクの自動化、データ駆動型の洞察に基づく営業戦略の強化といった、Lightfield社のAI活用アプローチから学ぶことができます。</description>
-      <pubDate>Sun, 28 Jun 2026 09:25:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/</guid>
-    </item>
+    <lastBuildDate>Mon, 29 Jun 2026 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
