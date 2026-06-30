@@ -5,6 +5,29 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>Databricksの共同創業者、アルサラン・タヴァコリ氏：「あらゆるソフトウェア独占は、今後24カ月以内に崩壊する」</title>
+      <link>https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/</link>
+      <description>Databricksは著しい成長を遂げており、売上高のランレートは69億ドル、AI製品のランレートは17億ドルを超えています。共同創業者のアルサラン・タヴァコリ＝シラジ氏は、現在独占的な地位にある企業であっても、今後12～24ヶ月以内にその地位を維持できなくなる可能性があると指摘しました。 AI分野における価格決定力に影響を与える3つの主要な要因として、構築コスト、ローエンド市場での競争、そして移行が挙げられます。多くの企業がROIを明確に把握しないままAIに投資しており、測定可能な成果がないまま支出が急増しています。 AI投資を具体的なビジネス成果に結びつけられる企業が、成功を収める態勢にある。エンタープライズAIにおける焦点は、モデルの品質からコンテキストへと移行しており、データの整合性、ガバナンス、およびアクセシビリティが極めて重要となっている。 真の課題は、AIエージェントにコンテキストを提供することにあります。ほとんどの組織では、最新かつ容易にアクセス可能なコンテキスト情報が不足しているからです。進化し続けるAIの分野で成功を収めるためには、企業はAI投資がビジネス成果に与える影響を理解することを最優先し、AIシステムに関連性の高いコンテキストを提供することに注力しなければなりません。</description>
+      <pubDate>Mon, 29 Jun 2026 14:10:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/</guid>
+    </item>
+    <item>
+      <title>SaaStr様：中小企業（SMB）に対する価格引き上げには、どのようなアプローチが適切でしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/</link>
+      <description>中小企業向けSaaSビジネスにおいて価格引き上げを検討する際は、成長と顧客維持のバランスをとるために、慎重な戦略を立てることが極めて重要です。主な推奨事項は以下の通りです。
+
+1. タイミング：高成長期には顧客獲得と価値創出に注力し、成長が鈍化した段階で価格引き上げを検討する。
+2. 付加価値の向上：価格を引き上げる前に製品の価値を高め、値上げの正当性を示し、解約率を低減する。
+3. 階層型プラン：既存顧客を遠ざけることなくアップセルを図るため、高度な機能を備えた上位プランを導入する。
+4. 段階的な値上げ：値上げ幅は控えめ（年率5～6％程度）に抑え、顧客の期待値を管理できるよう十分な事前通知を行う。
+5. テストと学習：一部の顧客を対象に値上げを試験的に実施し、戦略を洗練させ、解約率を最小限に抑える。
+6. 頻度：顧客の信頼を維持し、代替サービスへの乗り換えを防ぐため、頻繁な価格変更は避ける。
+
+これらの戦略に従い、顧客中心のアプローチを維持することで、SaaS企業は中小企業（SMB）向けの価格引き上げを成功させ、成長を促進しつつ顧客離れの最小化を図ることができます。</description>
+      <pubDate>Mon, 29 Jun 2026 09:34:37 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/</guid>
+    </item>
   </channel>
 </rss>
