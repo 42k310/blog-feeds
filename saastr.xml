@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>エージェントが復活した。アウトバウンドは死んでいない。当社のエージェントたちは互いに融合しつつある。そして、債権回収はまさに自動運転モードに入った。</title>
+      <link>https://www.saastr.com/the-agents-is-back-outbound-isnt-dead-our-agents-are-collapsing-into-each-other-and-collections-just-went-on-autopilot/</link>
+      <description>この記事では、SaaSビジネスモデルにおける専門エージェントの進化について論じている。各機能ごとに多数の狭義のエージェントを配置するという業界の傾向とは対照的に、記事で紹介されている企業は、エージェントを少数でより包括的なものに統合している。同社は、既存の「AIマーケティング担当副社長」エージェント内で動作する「AI財務担当副社長」を導入した。 この統合により、機能の深化と、異なる業務機能間での知識の共有が可能になります。
+
+主な洞察としては、エージェントの数を減らし、より統合されたものへと移行すること、企業内での知識共有のメリット、そしてSaaSビジネスモデルの進化の重要性が挙げられます。記事で紹介された企業は、新しいエージェントを既存のシステムにうまく統合することに成功しており、シームレスな導入の重要性を浮き彫りにしています。
+
+SaaS企業に向けた実践的なアドバイスとしては、効率化のためのエージェント統合の検討、部門横断的な知識共有の活用、そして既存システムを強化するための革新的な手法の模索などが挙げられます。また、ポッドキャストへのゲスト出演が示すように、他のSaaS企業とのコラボレーションも、成長と発展に向けた貴重な知見をもたらす可能性があります。</description>
+      <pubDate>Wed, 01 Jul 2026 15:17:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-agents-is-back-outbound-isnt-dead-our-agents-are-collapsing-into-each-other-and-collections-just-went-on-autopilot/</guid>
+    </item>
+    <item>
+      <title>Figmaは46％の成長を遂げ、株価倍率は6倍となっている。一方、その他の企業は30％以上の成長率を示しており、株価倍率は15～36倍となっている。</title>
+      <link>https://www.saastr.com/figma-grows-46-and-trades-at-6x-everyone-else-growing-30-trades-at-15-36x/</link>
+      <description>SaaS企業のFigmaは、1株33ドルで上場し、時価総額は680億ドルに達したが、その後100億ドルまで下落し、ピーク時から87％減少した。 株価の下落にもかかわらず、Figmaの業績指標は改善し、四半期売上高は46％増の3億3,340万ドルとなり、前四半期に比べて伸び率が加速した。また、同社は純ドルリテンション率139％、粗利益率82％、フリーキャッシュフローマージン27％を報告した。 Figmaの顧客基盤は拡大し、年間10万ドル以上を支払うアカウント数は48％増加、有料顧客数は54％増の69万人に達した。同社は通期業績予想を約14億ドルに上方修正し、中間値で35％の成長を示した。 AIによる競争がFigmaに与える影響に対する市場の懸念は、同社の堅調な業績指標によって否定されている。Figmaは、成長率は緩やかだが収益性の高いSaaS企業であるHubSpotと比較されることが多く、HubSpotの売上高はFigmaの2.6倍であるにもかかわらず、時価総額はFigmaとほぼ同水準である。 AIへの懸念を背景に、市場が高倍率のSaaS株を見直したことが、Figmaの株価に影響を与えた。この記事では、Figmaの現在の評価額が、同社の堅調な事業基盤や成長の可能性を反映していない可能性があるとの見解を示している。</description>
+      <pubDate>Wed, 01 Jul 2026 14:10:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/figma-grows-46-and-trades-at-6x-everyone-else-growing-30-trades-at-15-36x/</guid>
+    </item>
   </channel>
 </rss>
