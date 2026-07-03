@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 03:04:39 GMT</lastBuildDate>
-    <item>
-      <title>20VC × SaaStr：トークンのROI危機が誰にでも襲いかかる、Anthropicが中国のオープンソース禁止を要求、マイクロソフトは2000年以来最悪の月を記録</title>
-      <link>https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/</link>
-      <description>ハリー・ステッビングス氏、ジェイソン・レムキン氏、ロリー・オドリスコル氏をパネリストに迎えたディスカッションでは、今年上半期に企業のトークン支出が大幅に増加した一方で、売上高の伸びという観点からは明確な根拠が見られないという点が焦点となった。 この傾向は、企業がAI技術に多額の投資を行っているにもかかわらず、それに見合ったリターンを得られていないという、AI時代の現状を反映している。3人は、企業がAIイニシアチブからの投資対効果（ROI）を実証するのに苦戦している「トークンROI危機」を指摘した。 コインベースのブライアン・アームストロング氏の事例では、オープンソースモデルへの移行により、AIの利用が増加した一方で、AI関連支出は50％減少したことが示された。 この危機に対処するため、専門家たちは、利用上限や支出アラートを課すのではなく、より適切なデフォルト設定、ルーティング、キャッシュに注力することを推奨した。彼らは、エンジニアが最適なAIモデルを選択できるよう導くために、効果的なデフォルト設定を行うことの重要性を強調した。この知見は、AI投資の拡大という課題に直面しつつ、有意義なリターンを確保しようとするSaaS企業にとって極めて重要である。</description>
-      <pubDate>Thu, 02 Jul 2026 16:37:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/</guid>
-    </item>
-    <item>
-      <title>Vercelは10人のSDRチームを1人にまで縮小した。その総費用は年間5,000ドルだ。VercelのCOO、ジャンヌ・デウィット・グロスラー氏に話を聞いた。</title>
-      <link>https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/</link>
-      <description>VercelのCOOであるジーン・デウィット・グロッサー氏は、同社のコア機能を自動化する「Go-to-Marketエンジニアリングチーム」を立ち上げた結果、大幅な効率化を実現した。 主な成果指標としては、カスタマーサポート担当者が総案件数の93％を処理し、コンテンツ担当者が主要なコンテンツ更新の96％を実施し、リード選定担当者が10人規模の業務を1人に集約し、年間コストを5,000ドルに抑えたことが挙げられる。 Vercelのアプローチは、GTMエンジニア、データサイエンティスト、および各分野の専門家からなるチームで社内エージェントを構築し、ベストプラクティスを文書化してワークフローに組み込むというものでした。これらのエージェントは、人間によるフィードバックを通じて継続的に改善され、最終的に一貫して人間を上回るパフォーマンスを発揮するようになりました。 この戦略により、SDRのノルマは30％増加しました。エージェント構築を成功させるためのアドバイスとしては、ヘッドレスで構成可能なアーキテクチャに注力すること、人間のプロセスを文書化・コード化すること、そしてエージェントが人間のパフォーマンスを上回るまで厳格な品質保証（QA）を行うことが挙げられます。重要なポイントは、テクノロジーを活用して反復的なタスクを自動化し、熟練した従業員がより付加価値の高い業務に集中できるようにすることです。</description>
-      <pubDate>Thu, 02 Jul 2026 14:15:02 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/</guid>
-    </item>
+    <lastBuildDate>Fri, 03 Jul 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
