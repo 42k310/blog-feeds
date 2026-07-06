@@ -5,6 +5,26 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>「疲弊」対「活況」：ソフトウェア支出が過去最高を更新している理由を徹底分析……それにもかかわらず、SaaS企業の半数は依然として淘汰されつつある</title>
+      <link>https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/</link>
+      <description>B2Bソフトウェア市場では、相反する傾向が見られます。ソフトウェアへの総支出は15％のペースで増加している一方で、上場ソフトウェア企業の企業価値は低下しています。市場は2つのグループに分かれています。1つはAIを活用して成長を大幅に加速させているグループ、もう1つは時代遅れの戦略に固執しているグループです。SaaS企業にとっての重要なポイントは以下の通りです。 
+
+1. 汎用的なアプリを開発するのではなく、成約の獲得など、真の価値を生み出す機能に注力すること。
+2. 平凡な人間の努力を上回る成果が期待できるため、高品質なAIソリューションの開発に投資すること。
+3. 人間中心のチームから、少数の人間とAIエージェントを組み合わせた体制へと移行することで、生産性を向上させ、コストを大幅に削減できる。
+
+企業は、効果的なAIソリューションの構築、プロセスの最適化、そしてテクノロジーを活用した成長と効率化を最優先すべきです。本記事では、競争力を維持し、繁栄を続けるために、B2Bソフトウェア市場の変化する状況に適応することの重要性を強調しています。</description>
+      <pubDate>Sun, 05 Jul 2026 14:06:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/</guid>
+    </item>
+    <item>
+      <title>Google Cloudの成長担当副社長が語る「AIネイティブなマーケティングチームの構築」：SaaStr AI 2026から得た8つの学び</title>
+      <link>https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/</link>
+      <description>Google Cloudのグローバル・デマンド＆グロース担当バイスプレジデントであるサラ・ケネディ・エリス氏は、SaaStr AI 2026において、マーケティング分野におけるAI導入に関する重要な知見を共有しました。同氏は、AI導入の主な障壁はエージェントの質ではなく、ワークフロー上の摩擦にあると強調しました。成功しているチームは、より優れたモデルが登場するのを待つのではなく、チェンジマネジメントとトレーニングに注力しています。 AIを積極的に導入している企業は、同時に学習意欲も最も高い企業であり、計画的なスキル構築が導入を促進することを示しています。Googleのトレーニング手法は、短い動画やゲーミフィケーションを取り入れており、多忙なスケジュールにも組み込みやすく、成功を収めています。Googleにおけるコンテンツ制作のスケール化により、品質を維持あるいは向上させつつ、制作時間を70％短縮することに成功し、コンテンツ制作におけるAIの可能性を実証しました。 重要なポイントは、高品質な成果を得るために必要な人間の判断が限られている、大量処理が必要なタスクに焦点を当てることです。SaaS企業は、GoogleのAI導入、研修、コンテンツ制作へのアプローチから学び、自社のビジネスの成長と効率化を推進することができます。</description>
+      <pubDate>Sun, 05 Jul 2026 12:45:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/</guid>
+    </item>
   </channel>
 </rss>
