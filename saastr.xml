@@ -5,6 +5,19 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 03:04:35 GMT</lastBuildDate>
+    <item>
+      <title>私たち全員が、独自のHubSpotやSalesforceを「Vibe Code」で開発しない5つのシンプルな理由</title>
+      <link>https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/</link>
+      <description>この記事では、SaaSビジネスにおけるAIエージェントの導入について、特に「SaaStr AI」の文脈で論じている。著者は、AI SDRやAIマーケティング担当副社長といったAIエージェントを活用し、市場参入戦略を強化することについて言及している。 同社は、CRMシステムをゼロから構築したのではなく、Salesforceなどの既存システムの上に「ヘッドレス」なアプローチを採用したことを明らかにしている。このアプローチでは、AIエージェントがデータとやり取りし、チームに指示を出す仕組みとなっている。
+
+重要な知見として、確立されたプラットフォーム上でAIエージェントを活用することは、CRMシステムをゼロから構築するよりも効果的である可能性がある。 既存システムをデータ層として維持しつつ、AIエージェントをインターフェースとして活用するというこのアプローチは、著者の会社において成功を収めています。
+
+この記事では、CRMシステムを自社開発のソリューションで完全に置き換えるという誤解に対して警鐘を鳴らし、AIエージェントを効果的に統合することの重要性を強調しています。 また、Salesforceが最近ヘッドレスAIエージェントをリリースしたことも取り上げられており、このアプローチが業界で認められていることを示唆しています。
+
+SaaS企業は、AIエージェントが既存のシステムをどのように強化できるかを検討し、完全な置き換えではなく統合に焦点を当て、ビジネスプロセスにおけるAI導入の階層的アプローチのメリットを理解することで、この経験から学ぶことができます。</description>
+      <pubDate>Tue, 07 Jul 2026 14:10:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/</guid>
+    </item>
   </channel>
 </rss>
