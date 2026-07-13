@@ -5,6 +5,30 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 15:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>SaaStrが今週の「20VC」を取り上げる：OpenAIが政府に5％を譲渡するのが理にかなっている理由、ブロックリスクの終焉、そしてフロンティア・モデルが最も安価な理由</title>
+      <link>https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/</link>
+      <description>この記事では、AI、成長戦略、資金調達に注力するSaaS企業に向けた重要な洞察と実践的なアドバイスについて解説しています。 
+
+1. **利害の一致を図るための少額株式売却**：戦略的パートナーに対して5％程度の少額の株式を売却することは、パートナーにとって財務的な影響が最小限に思える場合でも、利害の一致と強力な支援につながる可能性があります。この利害の一致は、規制上の課題を乗り越え、強固なパートナーシップを構築する上で極めて重要となります。
+
+2. **AI分野へのシード投資**：AI時代において、シード投資家は、複数の資金調達ラウンドによる将来の希薄化を考慮し、実質的な参入価格が表向きの価格の約4倍になることを念頭に置くべきです。この希薄化を理解し、そのリスクを許容することが、AIスタートアップへの投資において不可欠です。
+
+3. **創業者の行動の変化**：VCによる「ブロックリスク」の低下は創業者の行動を変え、過去の高額な資金調達ラウンドによって阻まれることへの懸念を軽減しました。この変化により、創業者はブロックされる脅威に直面することなく、よりリスクを冒し、エグジットを追求する自由を得られるようになりました。
+
+4. **資金力のある中核事業**：Meta（旧Facebook）のように、資金力のある中核事業を持つ企業は、即時のROIが見通せない場合でも、新規事業に多額の投資を行う柔軟性を持っています。強固な中核事業があれば、即時のリターンを求められるプレッシャーなしに、新たな機会を模索し、イノベーションを起こす自由が得られます。
+
+5. **顧客重視**：SaaS企業の成功と成長には、アーリーアダプターや忠実な顧客が不可欠であるため、彼らを優先すべきです。アーリーアダプターとの強固な関係を構築することは、長期的な成功と市場拡大の鍵となります。</description>
+      <pubDate>Sun, 12 Jul 2026 20:34:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/</guid>
+    </item>
+    <item>
+      <title>PEソフトウェアの未処理案件：1,000社以上のユニコーン企業は、果たして売却されるか、あるいは上場するのだろうか？</title>
+      <link>https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/</link>
+      <description>プライベート・エクイティ業界は、売却されていないポートフォリオ企業の積み残しという重大な課題に直面しており、その解消には約9年かかるとの試算がある。ベイン・アンド・カンパニーの「2026年グローバル・プライベート・エクイティ・レポート」によると、売却されていない企業の数は約3万2,000社、時価総額は3.8兆ドルに達しており、前年より増加している。 未売却企業の数は依然として増加しており、年半ばの更新時点では約3万3,000社に達している。この未売却案件には、明確なエグジット戦略を持たない数十億ドル規模のソフトウェア企業が多数含まれており、状況を一層複雑にしている。 業界では、OMERSがTouchBistroをConstellation Softwareに1億ドルで売却した事例に見られるように、多額の損失を被るケースが相次いでいる。SaaS企業は、プライベート・エクイティ市場におけるこうした課題に留意し、潜在的な障害を効果的に乗り越えるために、堅実な成長戦略と明確なエグジット計画を確実に策定しておくべきである。</description>
+      <pubDate>Sun, 12 Jul 2026 14:06:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/</guid>
+    </item>
   </channel>
 </rss>
