@@ -5,33 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 03:04:47 GMT</lastBuildDate>
-    <item>
-      <title>ソフトウェアは終わったのか？　いいえ。ただ、成功するのが以前よりずっと難しくなっただけです。Rory O’Driscoll氏を招いたSaaStr AIディープダイブ</title>
-      <link>https://www.saastr.com/is-software-dead-no-it-just-got-a-lot-harder-to-win-the-saastr-ai-deep-dive-with-rory-odriscoll/</link>
-      <description>ベテランのソフトウェア投資家であるロリー・オドリスコル氏は、業界内で懸念されている「ソフトウェアは終わった」という見方を一蹴している。同氏は、競争環境は激化しているものの、ソフトウェア業界は依然として活況を呈していると強調している。 30年以上の経験を持つオドリスコル氏は、自身の主張を裏付けるデータに深く掘り下げ、現在、ソフトウェア分野での成功にはより多くの努力が必要となったものの、依然として達成可能であることを示している。この洞察は、市場での競争激化に直面しているSaaS企業にとって極めて重要である。 業界が進化し、より厳しい環境になっていることを理解することは、SaaS企業が成長戦略を見直す上で役立つだろう。 顧客獲得コスト、解約率、生涯価値といったSaaSビジネスの主要指標に焦点を当てることで、企業は変化する環境に適応し、繁栄し続けることができる。オドリスコルの見解は、ダイナミックなソフトウェア市場を航行するSaaS企業にとって、粘り強さ、戦略的な意思決定、そしてデータ駆動型のアプローチがいかに重要であるかを浮き彫りにしている。</description>
-      <pubDate>Wed, 15 Jul 2026 18:48:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/is-software-dead-no-it-just-got-a-lot-harder-to-win-the-saastr-ai-deep-dive-with-rory-odriscoll/</guid>
-    </item>
-    <item>
-      <title>当社のトップAIエージェントとの1時間のセッションは13.42ドルです。この金額では、人間を雇うことなどできません。</title>
-      <link>https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/</link>
-      <description>この記事では、SaaS企業を具体例として、事業運営におけるAI活用の効率性と費用対効果について論じている。特に、10Kという名のAIマーケティング担当副社長が、1時間の業務を13.42ドルで完了させた事例を取り上げ、これが人的労務費よりも大幅に低いことを強調している。 この比較は、コンテキストの切り替えやアイドル時間などの要因により、時間当たりのコストが10倍高い（約145ドル）場合もある人間のマーケティング専門家との対比で行われている。
-
-この記事では、AIモデルの構築には多額の費用がかかる可能性がある一方で、その運用コストは比較的安価であることを強調している。 例えば、「10K」や「Qbee」といったAI VPの月額運用コストは約254.06ドルであり、10K単体の運用にかかる限界費用は月額30～60ドル程度です。このコスト効率の高さは、AIモデルのアーキテクチャに起因しています。
-
-重要なポイントは、SaaSビジネスにおいてAIを活用することで、従来の人手による作業と比較して、運用コストを大幅に削減し、生産性を向上させることができるという点です。SaaS企業には、反復的な作業や高速処理を必要とするタスクに対してAI技術に投資し、効率性と費用対効果を最適化することが推奨されています。</description>
-      <pubDate>Wed, 15 Jul 2026 14:10:09 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/</guid>
-    </item>
-    <item>
-      <title>SaaStr.ai 様：社内リクルーターをいつ採用すべきでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/</link>
-      <description>この記事では、SaaS企業が社内リクルーターを採用すべきか、それとも外部リクルーターを利用すべきかという判断プロセスについて論じています。四半期ごとに5人以上を安定して採用できるようになれば、専任の社内リクルーターを採用すべきだと提案しています。 記事で提示された試算によると、四半期あたり2～3名を超える採用を行う場合、外部リクルーターに20％の手数料を支払うよりも、社内リクルーターを雇用する方が費用対効果が高くなります。社内リクルーターは、企業文化や理想的な候補者のプロファイルを深く理解しており、適任な候補者を積極的に発掘できる点で優れていると強調されています。 一方、外部の採用エージェントは「手当たり次第にアプローチする（spray and pray）」手法をとっており、専門性の高い役職に必要な質の高い候補者を提供できない可能性があるとしています。
-
-この記事では、特に採用が困難なポジションについては初期段階で外部リクルーターを活用しつつ、会社の規模が拡大し採用頻度が高まるにつれて社内リクルーターへ移行することを推奨しています。また、採用件数が増加するにつれ、採用プロセスを効率的に管理し、主要なチームメンバーが本来の業務に集中できるようにするためには、社内リクルーターの配置が不可欠であると強調しています。</description>
-      <pubDate>Wed, 15 Jul 2026 09:18:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/</guid>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
