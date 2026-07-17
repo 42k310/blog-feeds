@@ -5,37 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 03:04:50 GMT</lastBuildDate>
-    <item>
-      <title>20VC × SaaStr This Week：AppleがOpenAIを提訴、トークン最大化の時代が幕を開け、AIコーディングに立ちはだかるTAMの課題</title>
-      <link>https://www.saastr.com/20vc-x-saastr-this-week-apple-sues-openai-the-token-maxing-era-begins-and-the-tam-question-hanging-over-ai-coding/</link>
-      <description>この記事では、AppleがOpenAIを相手取って提起した営業秘密侵害訴訟について論じており、OpenAIのハードウェア事業への注力が、収益性の高いコーディング事業から注意をそらす可能性がある点を指摘している。この訴訟は、AI関連支出の増加を受けてMetaなどの企業が開発者にモデル利用料を課すなど、コーディングへの重点シフトを示唆している。記事では、現在の市場環境において、ハードウェアよりもコーディングを優先することの重要性を強調している。 主なポイントは以下の通りです：
-
-1. この訴訟はOpenAIのロードマップを遅らせることはないが、AI人材の価値を見直すきっかけとなり、企業レベルでの影響力や、OpenAIへの移籍を検討しているエンジニアへのメッセージが浮き彫りになる。
-2. カリフォルニア州の雇用法では、競業避止義務の執行が困難であることや「不可避的開示の法理」により、機密情報の窃取は無意味であり、これは同地域がイノベーションにおいて持つ政策上の優位性を示している。
-3. 価値がエンタープライズ向けコーディングに集中していることから、OpenAIのハードウェアへの注力には疑問が呈されており、収益性の高い中核事業に焦点を当てる必要性が示唆されている。
-
-SaaS企業に対しては、収益を生み出す活動を優先し、市場動向を注視し、法令遵守を徹底することで、業務の妨げを避け、成長機会を最大化することが推奨されている。</description>
-      <pubDate>Thu, 16 Jul 2026 15:52:12 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-this-week-apple-sues-openai-the-token-maxing-era-begins-and-the-tam-question-hanging-over-ai-coding/</guid>
-    </item>
-    <item>
-      <title>30日間で3件の30億ドル規模のB2B買収：Intercom/Fin、Cognite、MaintainX。これら3社はすべて、同じもの――AIのためのデータ――を買収した。</title>
-      <link>https://www.saastr.com/three-3b-b2b-acquisitions-in-30-days-intercom-fin-cognite-and-maintainx-they-all-bought-the-same-thing-data-for-ai/</link>
-      <description>30日間の間に、3社のB2B企業がそれぞれ約30億ドルで買収されました。セールスフォースがFin（旧Intercom）を36億ドルで、オートデスクがMaintainXを36億ドルで、シュナイダーエレクトリックがCogniteを31億ドルで買収しました。 事業分野は異なるものの、これらには共通点がある。それは、モデルそのものだけでなく、それぞれの分野におけるAIに不可欠な独自データに対してプレミアムを支払ったという点だ。買収価格に影響を与えた重要な指標は、売上高ではなく、独自データの価値であった。 
-
-セールスフォースとFinの取引を詳しく見てみると、総ARRは4億ドル以上と報じられているものの、真の注目点はFinのAIエージェント事業にある。同事業のARRは1億ドルを突破し、年率350％の成長率で、同社の成長の大部分を牽引している。 セールスフォースは、4億ドルの統合ARRに対して9倍の倍率で買収したが、高成長を遂げているAI事業部門だけでも、30倍以上の評価額が付く可能性がある。これは、SaaS業界において、革新的なAI駆動型ソリューションが成長と買収価値を高める上でいかに重要であるかを浮き彫りにしている。成長を目指す企業は、独自のデータと革新的な技術を活用し、差別化を図り、価値を創出することに注力すべきである。</description>
-      <pubDate>Thu, 16 Jul 2026 14:10:45 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/three-3b-b2b-acquisitions-in-30-days-intercom-fin-cognite-and-maintainx-they-all-bought-the-same-thing-data-for-ai/</guid>
-    </item>
-    <item>
-      <title>ベイエリアは現在、AIベンチャーへの投資額の51％、B2B分野への投資額の53％を占めている。</title>
-      <link>https://www.saastr.com/the-bay-area-now-takes-51-of-every-ai-venture-dollar-and-53-of-every-b2b-dollar/</link>
-      <description>Cartaが発表した2025年7月から2026年6月までのスタートアップ・エコシステム・リーダーボードによると、サンフランシスコはAIおよびAI+B2Bスタートアップの主要な拠点であり続けており、 同プラットフォームにおけるスタートアップへの総投資額1,240億ドルのうち、41.3％にあたる513億ドルを集めている。ニューヨークが18.0％で2位、ボストンが8.7％で3位となった。このデータは、スタートアップエコシステムにおけるベイエリアの継続的な優位性を裏付けている。
-
-この競争の激しい環境下で成功を目指すSaaS企業にとって、成長戦略と指標に注力することは極めて重要です。 投資がどこに流れているかを把握することは、SaaS企業が事業拡大計画やターゲット市場について、情報に基づいた意思決定を行う上で役立ちます。Cartaのデータから得られる知見を活用することで、SaaS企業はこれらの主要なスタートアップエコシステム内における成長の機会や潜在的なパートナーシップを特定する指針を得ることができます。これらの地域における投資動向や主要プレイヤーに関する情報を常に把握することで、SaaS企業は成功と戦略的な成長に向けた体制を整えることができるでしょう。</description>
-      <pubDate>Thu, 16 Jul 2026 12:32:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-bay-area-now-takes-51-of-every-ai-venture-dollar-and-53-of-every-b2b-dollar/</guid>
-    </item>
+    <lastBuildDate>Fri, 17 Jul 2026 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
