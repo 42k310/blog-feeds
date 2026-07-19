@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>2026年の営業担当者の年間ノルマ：トップパフォーマーが実際に担っているノルマは、SMB向けが75万ドル、ミッドマーケット向けが135万ドル、エンタープライズ向けが225万ドル</title>
+      <link>https://www.saastr.com/sales-rep-annual-quotas-what-high-performers-are-actually-carrying/</link>
+      <description>ICONIQの2026年GTMベンチマークレポートによると、B2BおよびAIソフトウェア企業における販売ノルマが大幅に増加しており、上位4分の1に属するエンタープライズ向け営業担当者の年間ノルマは225万ドル、ミッドマーケット向け営業担当者は135万ドル、 SMB担当のAEは75万ドルとなっています。 150社以上のGTM担当幹部を対象とした調査に基づくこのレポートによると、高業績者はクロスセルや契約更新の主導に注力しており、従来の営業組織（65～75％）と比較して、より高いノルマ達成率（85～90％）を実現していることが示されています。 報酬体系は拡大志向へとシフトしており、AEの報酬が「純新規定期収益（Net New Recurring Revenue）」や「純ドルベースの顧客維持率（Net Dollar Retention）」に連動する割合が増加している。マーケティングやSDRプロセスにAIを統合している企業では、リードの成約率が向上しており、達成率を損なうことなくより高いノルマを設定することが可能になっている。 本レポートは2026年の販売目標の基準を提示し、企業に対し、より高い販売目標を達成し、優秀な人材を維持するために、パイプラインの創出、販売目標の設定、および報酬戦略を整合させるよう提言している。この変化に対応できなければ、収益機会の喪失や離職率の上昇につながる可能性がある。</description>
+      <pubDate>Sat, 18 Jul 2026 12:10:56 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/sales-rep-annual-quotas-what-high-performers-are-actually-carrying/</guid>
+    </item>
+    <item>
+      <title>SaaStr「今週のAIアプリ」：Nue。B2BとAIが現在実際に価格設定を行う方法に合わせて構築された収益プラットフォーム</title>
+      <link>https://www.saastr.com/saastr-ai-app-of-the-week-nue-the-revenue-platform-built-for-how-b2b-ai-actually-prices-now/</link>
+      <description>現在、B2B＋AI企業にとって最大の課題は、製品開発ではなく価格戦略です。AI企業は、従来の「ユーザー数ベース」の価格モデルから、利用量、消費量、クレジット、成果ベースのモデルへと移行しつつあります。しかし、見積もり、請求、収益認識のための既存のシステムは、静的な価格モデルを前提に設計されているため、新しい価格戦略に迅速に対応することが困難です。 そこで注目されるのが、収益管理スタック全体を刷新することなく、柔軟な価格モデルの変更を可能にするプラットフォーム「Nue」です。
+
+Nueは、CPQ（コンフィギュレーション・プライシング・クォーテーション）、請求、利用量計測、収益認識を統合したプラットフォームを提供することで、現在の見積もりから収益計上までのプロセスの断片化という課題を解決します。 消費量ベース、クレジット、ハイブリッドモデルに重点を置いて設計されているため、AI企業が動的な価格戦略を容易に導入できます。レガシーシステムとは異なり、Nueではコードではなく設定を通じて価格変更が可能であり、企業は価格設定の実験を効率的に実施できます。
+
+Nueの主な機能には、Salesforceデータモデルへのネイティブ対応、スタンドアロン環境での互換性、正確な収益認識のためのリアルタイム利用状況追跡、および収益サイクル全体を網羅する包括的なソリューションが含まれます。価格設定業務を効率化することで、NueはB2BおよびAI企業が価格戦略をより効果的に改善し、収益の成長を促進することを支援します。</description>
+      <pubDate>Sat, 18 Jul 2026 09:40:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-nue-the-revenue-platform-built-for-how-b2b-ai-actually-prices-now/</guid>
+    </item>
   </channel>
 </rss>
