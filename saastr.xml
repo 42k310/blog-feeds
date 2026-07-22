@@ -5,32 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 03:04:40 GMT</lastBuildDate>
-    <item>
-      <title>当社には20体以上のAIエージェントと、たった3人の人間しかいません。それでもなお、「本物の」B2Bソフトウェアが必要なのです。</title>
-      <link>https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/</link>
-      <description>この記事では、SaaSビジネスにおいてAIエージェントがCRMシステムの必要性を代替できるという誤解に焦点を当てています。著者は、AIエージェントが生産性や効率性を向上させることはできるものの、効果的に機能するためには依然として適切なB2Bソフトウェアに依存していると論じています。主なポイントは以下の通りです。
-
-1. **人間には使いやすいインターフェースが必要**： ほとんどのユーザーは、Postgresのような生のデータベースを直接操作することはありません。ユーザーには、パイプライン、ステージ、テリトリー、アカウントなど、自身のワークフローに沿った直感的なインターフェースが必要です。
-
-2. **エージェントのための共有システム**：AIエージェントも、データ処理における誤解や不整合を避けるために、標準化されたシステムを必要とします。 共通の「システム・オブ・レコード」を持つことで、ロジックとデータ処理の一貫性が確保されます。
-
-3. **「真実の源」としてのCRM**：CRMシステムは、テックスタック内のさまざまなツールと統合される「真実の源」としての役割を果たします。CRMを排除して生のデータベースに依存すると、下流のプロセスや統合に支障をきたします。
-
-4. **安全性とガバナンス**：SalesforceのようなCRMシステムには、ガードレール、権限設定、検証ルール、監査証跡といった組み込みの安全機能が備わっており、エラーを防止しデータの整合性を確保します。これらは、自作のデータベース環境には備わっていない可能性があります。
-
-この記事では、AIエージェントがタスクの自動化や業務の効率化を実現できる一方で、データの整合性、標準化されたプロセス、SaaSビジネスエコシステム内でのシームレスな連携を確保するためには、依然として堅牢なCRMシステムに大きく依存している点を強調しています。</description>
-      <pubDate>Tue, 21 Jul 2026 14:10:25 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/</guid>
-    </item>
-    <item>
-      <title>VP採用における「20分テスト」。おそらくあらゆる採用において</title>
-      <link>https://www.saastr.com/the-20-minute-test-in-vp-hiring-maybe-all-hiring/</link>
-      <description>SaaS業界の著名人であるジェイソン・レムキン氏は、重要人材の採用において迅速な意思決定が重要であることを強調している。 彼は投資判断と採用を例えに挙げ、Zoom面接の最初の20分以内に、その候補者が副社長（VP）職に適任であると確信が持てない場合は、その候補者を不採用とするのが最善であるかもしれないと述べています。これは、採用プロセスにおける第一印象や直感の重要性を浮き彫りにしています。
-
-レムキン氏の助言は、SaaS企業がチームを構築する際に、採用プロセスを合理化し、効率的な意思決定を行う必要性を強調している。迅速な評価を優先し、最初の直感を信頼することで、企業は重要な役職に適していない可能性のある候補者に時間を浪費することを回避できる可能性がある。 このアプローチは、成長と競争力を維持するために機敏さと決断力が鍵となる、SaaS業界のスピード感あふれる性質と合致しています。</description>
-      <pubDate>Tue, 21 Jul 2026 12:10:34 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-20-minute-test-in-vp-hiring-maybe-all-hiring/</guid>
-    </item>
+    <lastBuildDate>Wed, 22 Jul 2026 15:04:30 GMT</lastBuildDate>
   </channel>
 </rss>
