@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 22 Jul 2026 15:04:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>平凡な営業チームが、本来なら勝ち取れたはずの取引を台無しにしてしまう理由</title>
+      <link>https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/</link>
+      <description>この記事では、SaaS業界において、年間10万ドル以上の取引が見込める潜在顧客へのアプローチにおいて、あるベンダーが機会を逃してしまった事例について論じている。このベンダーは、見込み客が関心を示していたにもかかわらず、汎用的なメールを送るにとどまり、アプローチを個別化することができなかった。 著者は、取引を獲得するためには、アプローチをカスタマイズし、見込み客のニーズを理解することが重要であると指摘している。また、ウォームリードに対しては、価値をアピールし、現在のプロバイダーとの差別化を図るために、個別に合わせたコミュニケーションが必要であると強調している。記事では、販売後の取り組みが緩みがちになるため、ベンダーとの最初のやり取りが、関係全体の基調を決定づけることが多いと述べている。 また、手抜きなアプローチは反応を引き出せないだけでなく、見込み客の目から見てそのベンダーを候補から外してしまうことにもなりかねないと警告しています。重要なポイントは、SaaS企業が他社との差別化を図り、信頼を築き、最終的に新規ビジネスを獲得するためには、ウォームリードに対するパーソナライズされた、配慮の行き届いた関与が不可欠であるということです。</description>
+      <pubDate>Wed, 22 Jul 2026 14:02:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/</guid>
+    </item>
+    <item>
+      <title>SaaStr様：規模が小さすぎるという理由で、非常に大きなRFPの案件を逃してしまいました。何かアドバイスはありますか？</title>
+      <link>https://www.saastr.com/rfp-lost-small-size/</link>
+      <description>この記事では、規模が小さいために重要なRFPの受注を逃してしまったSaaS企業に向けたアドバイスを紹介しています。主なポイントとしては、「Lost Now （But Not Forever）」を立ち上げ、潜在顧客との関係を維持すること、新製品のリリース情報を連絡先に随時提供すること、RFPのフィードバックを活用して機能開発の優先順位を決定すること、セキュリティとコンプライアンスに注力して信頼を築くこと、エンタープライズ企業のニーズに応えるようチーム文化を進化させること、そして大企業との取引がすべてスタートアップであるという理由だけで失われるわけではないことを理解することなどが挙げられます。 この記事では、継続的な改善、失敗からの学び、そして最終的に成功を収めるために競争の場から離れないことの重要性を強調しています。 実践的なアドバイスとしては、イベントやウェビナーを通じた関係構築、セキュリティ対策の優先、RFPのフィードバックに基づいた製品開発、そしてエンタープライズ要件を受け入れる文化の醸成などが挙げられます。これらの戦略に従うことで、SaaS企業は将来のRFP獲得の可能性を高め、ビジネスを成長させることができます。</description>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/rfp-lost-small-size/</guid>
+    </item>
   </channel>
 </rss>
