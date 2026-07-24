@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>売上高68億ドルを達成したStripeから得られる5つの興味深い知見：33％の成長、47％のフリーキャッシュフローマージン、そしてPayPalへの530億ドルの買収提案</title>
+      <link>https://www.saastr.com/5-interesting-learnings-from-stripe-at-6-8-billion-in-revenue-33-growth-47-free-cash-flow-margins-and-a-53b-bid-for-paypal/</link>
+      <description>Stripeの2025年の財務データによると、売上高は68億ドル、前年比33％増となり、これはフリーキャッシュフローが32億ドルへと急増したことが原動力となった。特に、2026年第1四半期だけで20億ドルの売上高を計上した。 主な分析ポイントとしては、Stripeの売上高が50億ドルを超え、成長が再び加速したことが挙げられる。これは、AIネイティブ企業との収益分配モデルによるものであり、高い顧客獲得コストをかけずに、それらの企業の成長から利益を得られる独自の立場を確立している。 33％の成長率を維持しつつ47％のフリーキャッシュフロー・マージンを達成したことは、同社の大規模な事業運営における効率性を示しており、上場しているB2B同業他社と比較して「Rule of 80」企業としての地位を確立しています。 さらに、Revenueスイート製品を含むStripeの非決済事業は、2026年に年間ランレート10億ドルに達する見込みであり、総売上高の約15％を占めることになる。 創業者は、現在のAIサイクルにおいて、利用量ベースや収益分配型の価格設定モデルを検討し、成長を促進し選択肢を広げるために、規模拡大時の効率性を優先すべきである。</description>
+      <pubDate>Thu, 23 Jul 2026 15:32:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-stripe-at-6-8-billion-in-revenue-33-growth-47-free-cash-flow-margins-and-a-53b-bid-for-paypal/</guid>
+    </item>
+    <item>
+      <title>AIはSaaSを滅ぼすことはない。しかし、製品提供を停止したベンダーは淘汰されるだろう。ポイントソリューションが最もリスクにさらされている。</title>
+      <link>https://www.saastr.com/ai-wont-kill-saas-but-it-will-kill-vendors-that-stopped-shipping-point-solutions-are-most-at-risk/</link>
+      <description>この記事では、SaaSビジネスにおける「購入か自社開発か」という判断の重要性が強調されている。著者は、ほとんどの場合、ソフトウェアを自社で開発するよりも購入するほうが、効率的かつ費用対効果が高いと示唆している。 また、「90/10の法則」が取り上げられており、約90％のケースにおいて、企業のニーズの90％を満たすソフトウェアを購入することが正しい選択であると述べられている。
+
+この記事では、ソフトウェアは、その開発や保守に必要なリソースに比べれば安価であることを強調している。また、専門のベンダーによる保守は、多くの場合、社内での保守作業よりも優れた成果を上げられると述べられている。さらに、保守に伴う隠れたコスト、時間的負担、そして中核となる製品開発からの注意散漫についても論じられている。
+
+例として、著者が購入したニュースレター作成ツールをわずか2時間でカスタム構築されたソリューションに置き換え、毎週大幅な時間の節約を実現した事例が挙げられている。B2B SaaSの創業者が、自社の具体的なニーズと、時間およびコスト削減の可能性に基づいて、ソフトウェアを購入するか自社開発するかを慎重に検討すべきであるというのが、この記事の重要なポイントである。</description>
+      <pubDate>Thu, 23 Jul 2026 14:10:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/ai-wont-kill-saas-but-it-will-kill-vendors-that-stopped-shipping-point-solutions-are-most-at-risk/</guid>
+    </item>
   </channel>
 </rss>
