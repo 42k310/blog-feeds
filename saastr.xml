@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>AIエージェントの数は最大で30まで増えましたが、現在は20へと減少しています。統合が実際にどのようなものなのかをご紹介します。『The Agents #011』ライブ配信！</title>
+      <link>https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/</link>
+      <description>この記事では、SaaStrの事業運営の変遷について論じており、効率と生産性を向上させるためにAIエージェントを統合する方向への転換に重点を置いている。当初は30名近くいたエージェントを約20名に削減した結果、生産性が4倍に向上した。 同社は、新しいエージェントを新たに作成するよりも、実績のあるエージェントにさらに投資する方が、より高いリターンにつながることを発見した。リソースを薄く広げるのではなく、すでにうまく機能しているものにさらに注力することを推奨している。
+
+さらに、この記事では、AIダッシュボード「10K」が、マーケティング担当副社長、財務担当副社長、RevOps担当副社長など、社内のさまざまな役割へと変貌を遂げたことが紹介されています。機能を単一のAIエンティティに統合したことで、契約処理、請求書発行、回収業務の効率化、さらにはコミッションの自動計算までが可能となり、業務効率が大幅に向上しました。
+
+SaaS企業にとっての重要な教訓は、絶えず新しいAIエージェントを作成するのではなく、成果を上げている既存のAIエージェントの最適化に注力することである。機能を単一のAIエンティティに統合することで、業務の大幅な改善と生産性の向上が期待できる。</description>
+      <pubDate>Fri, 24 Jul 2026 14:10:42 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/</guid>
+    </item>
+    <item>
+      <title>毎月、MRRの少なくとも100％を現金で回収すべきです。理想的には110％以上です。</title>
+      <link>https://www.saastr.com/you-should-be-collecting-at-least-100-of-your-mrr-each-month-in-cash-ideally-110/</link>
+      <description>ジェイソン・レムキン氏は、SaaSビジネスにおいて、毎月少なくとも月次経常収益（MRR）の100％を回収することの重要性を強調しており、理想としては110％を目標とすべきだと述べています。 100％を下回ると、財務プロセスの不備を示しており、予期せず企業の資金持続期間を短縮する恐れがあります。この助言は、SaaSビジネスを持続させる上で財務の健全性が果たす極めて重要な役割を浮き彫りにしています。MRRを一貫して適時に回収することで、企業は競争の激しいSaaS市場において、安定性、成長、そして長期的な存続を維持することができます。 この指標は、企業の財務効率と業務効率を示す重要な指標となります。SaaS企業は、安定した収益源を確保し、持続可能な成長に向けた事業継続期間を延長するために、財務プロセスの最適化を優先すべきです。堅実な財務管理の実践に注力することで、SaaS企業は業界における回復力、競争力、そして総合的な成功を高めることができます。</description>
+      <pubDate>Fri, 24 Jul 2026 13:40:03 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/you-should-be-collecting-at-least-100-of-your-mrr-each-month-in-cash-ideally-110/</guid>
+    </item>
   </channel>
 </rss>
