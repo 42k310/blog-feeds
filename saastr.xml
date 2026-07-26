@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 03:04:43 GMT</lastBuildDate>
+    <item>
+      <title>既存のスタックを活用する：Anthropicの産業部門責任者、AtlassianのAI部門責任者、そしてScaleのRory O’Driscollが、なぜ同じAI戦略にたどり着いたのか</title>
+      <link>https://www.saastr.com/build-on-the-stack-you-have-how-anthropics-head-of-industries-atlassians-head-of-ai-and-scales-rory-odriscoll-landed-on-the-same-ai-playbook/</link>
+      <description>「SaaStr AI 2026」イベントでは、アトラシアンのシャリフ・マンスール氏、アンソロピックのエレノア・ドルフマン氏、スケール・ベンチャー・パートナーズのロリー・オドリスコル氏による3つの注目セッションが行われました。 シャリフ・マンスール氏はアトラシアンでAIおよびプロダクトマネジメントを統括し、大規模なチームを率いています。エレノア・ドルフマン氏はアンソロピックで営業チームを率い、商業および産業分野に注力しています。30年以上の経験を持つロリー・オドリスコル氏は、スケール・ベンチャー・パートナーズのソフトウェア分野の投資家です。
+
+これらのセッションから得られた主な知見には、プロダクトマネジメントにおけるAIの活用、商業・産業分野における営業戦略、ソフトウェア投資の動向といったトピックが含まれていたと思われます。SaaS企業は、製品開発におけるAIの重要性を理解し、業界ごとに営業戦略を最適化し、ソフトウェア分野の投資動向を常に把握することで、これらの知見を活用できるでしょう。 実践的なアドバイスとしては、製品強化のためのAIツールの活用、特定の業界に合わせた営業アプローチのカスタマイズ、そしてSaaS業界での成長と成功に向けた投資家との強固な関係の構築などが挙げられます。</description>
+      <pubDate>Sat, 25 Jul 2026 14:01:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/build-on-the-stack-you-have-how-anthropics-head-of-industries-atlassians-head-of-ai-and-scales-rory-odriscoll-landed-on-the-same-ai-playbook/</guid>
+    </item>
+    <item>
+      <title>SaaStr様：複数年契約の締結をいつから働きかけるべきでしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/</link>
+      <description>現在の市場環境において、AI時代のSaaS企業にとって、複数年契約を推進することは、かつてほど有益ではないかもしれない。 ICONIQのデータによると、新規顧客における3年契約の割合は28％から23％に減少した一方で、1年未満の契約は4％から13％に増加した。この変化は、AIの入れ替えサイクルが18ヶ月ごとに短縮され、長期契約が急速に時代遅れになる可能性があることから、購入者の合理的な行動によって引き起こされている。
+
+Datadog、Figma、Databricks、Snowflakeといったトップクラスの企業は、契約期間ではなく実証済みのROIに基づいて更新や契約延長を確保するため、110～123％という高い純収益維持率（NRR）の達成に注力している。 SaaS企業へのアドバイスは、初期の契約期間よりもNRRと更新の質を優先し、シリーズBまでにNRR 120％を目指すことです。カスタマーサクセス、導入支援、アフターセールスサポートに投資し、60～90日以内に迅速なROIを実現することで、契約更新がより確実になり、顧客からの長期的なコミットメントにつながります。 AI主導のB2B市場が進化し続ける中、2026年に成功を収めるためには、カスタマーサクセスと価値実現を重視することが鍵となります。</description>
+      <pubDate>Sat, 25 Jul 2026 09:17:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/</guid>
+    </item>
   </channel>
 </rss>
