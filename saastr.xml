@@ -5,6 +5,17 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 15:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 03:04:31 GMT</lastBuildDate>
+    <item>
+      <title>当社の新しいAI財務担当副社長は、契約を締結し、請求書を発行し、代金の回収も行います。そのトレーニングには4件の取引が必要でした。</title>
+      <link>https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/</link>
+      <description>財務チームが休暇中という重要な時期に、あるSaaS企業は、当初「マーケティング担当AI副社長」として導入されていた「10K」というAIエージェントを活用し、財務プロセスの自動化を実現しました。このAIエージェントは、人間の介入を必要とせずに、取引処理、契約締結、請求書発行、債権回収、販売手数料の計算、広告費の予測を効率化しました。 既存のAIエージェントに財務業務を統合することで、同社は大幅な効率化を実現し、収益運営を改善しました。
+
+多くの企業における取引の成約、請求書発行、回収といった従来のプロセスは、手作業で行われることが多く、遅延やキャッシュフローの問題を招きがちです。このAIエージェントは、こうした連携上の問題を効果的に解決し、SaaS企業における財務業務の自動化の可能性を示しました。
+
+主な知見としては、導入前に自動化プロセスを徹底的にテストすること、AIエージェントが失敗から学習できるよう明確なガイドラインを提供すること、そして実際のシナリオに基づいて自動化ルールを継続的に改善することの重要性が挙げられます。このケーススタディは、AIを既存システムに統合することで、SaaSビジネスの指標を最適化し、業務を効果的に効率化できることを示しています。</description>
+      <pubDate>Sun, 26 Jul 2026 14:10:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/</guid>
+    </item>
   </channel>
 </rss>
