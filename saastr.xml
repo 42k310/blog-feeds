@@ -5,23 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 03:04:33 GMT</lastBuildDate>
-    <item>
-      <title>御社のエージェントは、まもなくベンダーとの契約を打ち切ろうとしています。当社のエージェントは、Marketoとの契約を打ち切りました。</title>
-      <link>https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/</link>
-      <description>この記事では、MarketoのAPIの制限や価格戦略に関する問題を受けて、MarketoからSalesforce Marketing Cloudへのデータ移行について論じている。主なポイントは以下の通りである。
-- SaaSビジネスにおいてAPIの品質が重要であること。これは、AIエージェントのパフォーマンスや顧客とのやり取りに直接影響を与えるためである。
-- APIの制限といった問題を特定し、顧客離反に関する意思決定を推奨するAIエージェントの役割。これにより、顧客維持のあり方が変化していることが浮き彫りになる。
-- 乗り換えコストが低下し、関係性の影響力が弱まるにつれ、従来の顧客離反防止策の重要性が薄れつつあること。
-- Marketoが、価格をわずかに引き上げる代わりにAPI制限を引き上げることで顧客を維持する機会を逃したこと。これは、顧客への配慮と、顧客維持のための交渉意欲の価値を浮き彫りにしている。
-
-SaaS企業に向けた実践的なアドバイスは以下の通りです：
-- AIエージェントをサポートし、顧客体験を向上させるために、APIの品質を最優先する。
-- AIエージェントが問題を洗い出し、解約防止策を提案できるようにし、意思決定プロセスに影響を与える。
-- 貴重な顧客を維持するためにAPI制限の引き上げなどの解決策を提案するなど、顧客のニーズや懸念に積極的に対応する。
-- 顧客中心の戦略と顧客フィードバックへの迅速な対応に注力し、進化するSaaS業界の動向に適応する。</description>
-      <pubDate>Tue, 28 Jul 2026 12:00:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/</guid>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 15:04:28 GMT</lastBuildDate>
   </channel>
 </rss>
