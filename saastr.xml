@@ -5,6 +5,26 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 15:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 03:04:41 GMT</lastBuildDate>
+    <item>
+      <title>AIがSaaSを滅ぼしているわけではない。SaaSが自らを滅ぼしているのだ。</title>
+      <link>https://www.saastr.com/ai-isnt-killing-saas-saas-is-killing-itself/</link>
+      <description>この記事は、B2Bソフトウェア業界における重大な問題を浮き彫りにしている。そこでは、ソフトウェア企業がAIの進歩が原因で失敗しているのではなく、顧客への配慮の欠如や顧客重視の姿勢の欠如が原因で失敗しているのだ。 著者は、大手ベンダーであるAdobe Marketoに関する不快な体験を共有している。同社のソフトウェアが1日半にわたってダウンしたため、多数の購読者へのニュースレター配信が失敗に終わり、さらに数週間にわたり購読解除リンクが機能しなくなったという。 こうした重大な問題にもかかわらず、Adobe Marketoは対応を怠り、翌年には価格を20％引き上げる計画さえ立てていた。
+
+ここから得られる重要な教訓は、B2Bソフトウェア企業の成功には、顧客対応と製品の信頼性が不可欠であるということだ。 これらの側面を軽視すると、顧客の不満を招き、最終的にはソフトウェア製品の衰退につながる可能性があります。著者は、競争の激しいSaaS業界で成功を収めるためには、企業が顧客サービス、製品の品質、そして顧客のニーズへの迅速な対応を優先すべきだと提言しています。この事例は、SaaS企業が競争力を維持し、顧客を維持するためには、顧客満足度と製品の卓越性に注力すべきであるという警告となっています。</description>
+      <pubDate>Wed, 29 Jul 2026 14:10:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/ai-isnt-killing-saas-saas-is-killing-itself/</guid>
+    </item>
+    <item>
+      <title>SaaStr様： 創業者が決して耳にすることのない、最高のアドバイスとは何でしょうか？</title>
+      <link>https://www.saastr.com/dear-saastr-whats-the-best-advice-founders-never-hear/</link>
+      <description>この記事では、SaaS起業家にとって重要でありながら見過ごされがちなアドバイスについて論じています。主なポイントとしては、成長を促進するために、ネットプロモータースコア（NPS）や顧客生涯価値（CLV）といった顧客成功指標に注力することの重要性が挙げられます。また、持続可能なビジネスを構築するためには、新規顧客の獲得よりも顧客満足度と顧客維持を優先すべきである点が強調されています。
+
+実践的なアドバイスとしては、長期的な成功を確実にするために、月次経常収益（MRR）、解約率、顧客獲得コスト（CAC）といった主要なSaaS指標を測定・最適化することが挙げられます。また、成長を支えるために、強力なカスタマーサクセスチームへの投資や、拡張性のあるプロセスの導入の重要性も強調されています。
+
+さらに、顧客のフィードバックを活用して製品・サービスを継続的に改善し、ユーザーとの強固な関係を築くことも提案されています。顧客の成功を最優先し、主要指標を監視し、フィードバックに基づいて改善を繰り返すことで、SaaS企業は持続可能な成長を促進し、忠実な顧客基盤を確立することができるのです。</description>
+      <pubDate>Wed, 29 Jul 2026 09:28:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-whats-the-best-advice-founders-never-hear/</guid>
+    </item>
   </channel>
 </rss>
