@@ -5,33 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 03:04:48 GMT</lastBuildDate>
-    <item>
-      <title>20VC × SaaStr：ジェンセンの初めてのツイート、私に無断でコードを書き換えたエージェント、そしてPEの事業再生戦略が通用しなくなった理由</title>
-      <link>https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/</link>
-      <description>この記事では、アルファベットのフリーキャッシュフローのマイナス、トラヴィス・カラニック氏による資金調達、フランシスコ・パートナーズの最近の事業終了など、テクノロジーおよびビジネスに関するさまざまな最新動向について論じている。主な洞察としては、アンソロピックの決定やOpenAIとHugging Faceをめぐる騒動など、テクノロジー業界における戦略的動きの重要性が挙げられている。 また、テクノロジー企業の将来を形作る上で、ビジネスモデルや規制プロセスが果たす重要な役割を強調している。公開書簡への署名がもたらす意味や、企業イメージへの影響についても言及している。さらに、NVIDIAのようなテクノロジー大手が、オープンソースモデルと独自技術のバランスを取る上で直面している課題についても触れている。 国家安全保障をめぐる議論、法的課題、規制当局の承認プロセスに関する考察は、テクノロジー業界の複雑さを浮き彫りにしている。全体として、本記事は、テクノロジービジネスの変化し続ける状況、イノベーションと規制の相互作用、そしてこのダイナミックな環境を乗り切るために企業が考慮すべき戦略的課題について、洞察を提供している。</description>
-      <pubDate>Thu, 30 Jul 2026 15:08:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/</guid>
-    </item>
-    <item>
-      <title>（おそらく）絶対に採用できない役職：最高製品・技術責任者（CPTO）</title>
-      <link>https://www.saastr.com/the-one-hire-you-just-cant-make-chief-product-technology-officer/</link>
-      <description>この記事では、ARRが1億ドルを超えるB2B企業における最高製品・技術責任者（CPTO）の台頭について、特にAI主導型の業務への移行という文脈に焦点を当てて論じている。 著者は、CPTOという役割がしばしば失敗に終わる理由として、この役職に就く個人が、実際には効果的なプロダクトリーダーやテクノロジーリーダーとして機能していない点を挙げている。彼らは、実務よりも高レベルの議論を好む戦略家として描かれている。
-
-著者は、ARRが1億ドルから10億ドル以上の企業であっても、エンジニアリング部門とプロダクト部門には、それぞれ技術面や顧客面に深く関与する別々のリーダーを置くことを優先すべきだと提言している。これらの役割を1つのポストに統合すると、特にAI技術が急速に進化する状況下では、非効率を招き、意思決定プロセスを遅らせる恐れがある。
-
-本記事では、AIの能力を理解し、製品開発やエンジニアリングのワークフローにおいてイノベーションを推進できるリーダーの存在が重要であると強調している。そして、AIの時代において、企業はCPTOのようなハイブリッドな役職を設けるよりも、専門性の高いリーダーを育成することに注力すべきであると結論付けている。なぜなら、ハイブリッドな役職は進歩やイノベーションを阻害する恐れがあるからだ。</description>
-      <pubDate>Thu, 30 Jul 2026 14:03:40 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-one-hire-you-just-cant-make-chief-product-technology-officer/</guid>
-    </item>
-    <item>
-      <title>SaaStr様：この分野のトップ企業から、どうやって顧客を奪うのでしょうか？</title>
-      <link>https://www.saastr.com/how-do-you-pull-your-saas-competitors-customers-to-your-saas-instead/</link>
-      <description>この記事では、小規模なSaaS（Software as a Service）企業が、単に優れた製品を提供するだけでなく、それ以上の付加価値を提供することで、業界のリーダー企業から顧客を引き付ける方法について論じています。重要なポイントは、顧客は契約の買い取り、データの移行、チームのオンボーディングといったサービスを提供し、移行プロセスを簡素化できるベンダーをしばしば求めているということです。 包括的なサポートと支援の提供に注力することで、中小のSaaS企業は他社との差別化を図り、大手競合他社から顧客を引き寄せることができる。
-
-SaaS企業に向けた実践的なアドバイスとしては、競争の激しい市場で差別化を図る手段として、カスタマーサポートやサービス提供の価値を強調することが挙げられる。 自社プラットフォームへの移行を支援するために、一歩踏み込んだ対応を行う姿勢を示すことで、SaaS企業は信頼とロイヤリティを築き、最終的には顧客の獲得と維持につながります。この顧客中心のアプローチは、中小のSaaS企業が業界のリーダーと効果的に競争し、市場シェアを拡大するのに役立ちます。</description>
-      <pubDate>Thu, 30 Jul 2026 09:23:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-do-you-pull-your-saas-competitors-customers-to-your-saas-instead/</guid>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
