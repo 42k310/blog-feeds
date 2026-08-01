@@ -5,33 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 03:04:47 GMT</lastBuildDate>
-    <item>
-      <title>ARR 15億ドルを達成したProcoreから得られた5つの興味深い知見：16％の成長、初のGAAP基準営業利益、そしてDroneDeployへの8億4500万ドルの投資</title>
-      <link>https://www.saastr.com/5-interesting-learnings-from-procore-at-1-5-billion-in-arr-16-growth-its-first-gaap-operating-profit-and-845m-for-dronedeploy/</link>
-      <description>建設ソフトウェア業界をリードするProcoreは、一時的な成長鈍化を経て、再び成長軌道に乗っています。同社は最近、サービス体制を強化し、成長の勢いを維持するため、DroneDeployを8億4500万ドルで買収しました。 主な財務ハイライトとしては、2026年度第2四半期の売上高が3億7,500万ドル（前年同期比16％増）、GAAPベースの営業利益が初めて黒字化したほか、総売上高維持率95％、純売上高維持率106％といった堅調な指標が挙げられる。 Procoreの経営陣には大きな変化があり、Ajei Gopal氏がCEOに就任した。同社の株価はARRの約4.3倍で取引されており、27年度の非GAAP営業利益率について25％を予想している。
-
-DroneDeployの買収は、建設プロセスにおけるリアルタイムの認識能力と高度な推論能力の向上を目指し、AI機能を自社プラットフォームに組み込むという戦略的転換を意味しています。この動きは、既存企業がAI機能に対してより高い倍率で買収を行うという傾向を浮き彫りにしており、垂直産業においてデータを保有し、AIを活用することの重要性を強調しています。 AI機能を自社開発するのではなく買収によって獲得するというProcoreの戦略は、イノベーションに対する慎重なアプローチを示している。SaaS企業はProcoreの買収戦略から学び、各業界における成長と競争力を高めるためにAI機能の強化に注力すべきである。</description>
-      <pubDate>Fri, 31 Jul 2026 14:36:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-procore-at-1-5-billion-in-arr-16-growth-its-first-gaap-operating-profit-and-845m-for-dronedeploy/</guid>
-    </item>
-    <item>
-      <title>3.8倍の「エクジット」が1.6倍になるとき：マークアップとリターンのギャップ</title>
-      <link>https://www.saastr.com/dilutionalwaysmore/</link>
-      <description>この記事では、ベンチャーキャピタル投資の動向や、特にSaaS業界における買収による実質的なリターンの算出に伴う複雑さについて論じている。また、負債、税金、運転資金、取引費用などのさまざまな要因が株主への最終的な分配額に影響を与えるため、企業の表向きの評価額は分配可能持分とは同一ではないことを強調している。
-
-主な洞察としては、企業が追加の資金調達を行う際の希薄化が持分比率に与える影響、エンタープライズバリューと所有権価値の違いを理解することの重要性、そして買収取引におけるエスクローやホールドバックに関連するリスクなどが挙げられる。
-
-この記事では、SaaS企業に対し、表面上の企業価値だけでなく、時間の経過に伴う持分比率にも注意を払い、希薄化やホールドバックといった要因を考慮せずに、一見した倍率だけを喜ぶことには慎重であるべきだと助言している。また、表面上の企業価値ではなく、実際の現金リターンに焦点を当てることで、投資の真のリターンを理解することの重要性を強調している。</description>
-      <pubDate>Fri, 31 Jul 2026 14:10:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dilutionalwaysmore/</guid>
-    </item>
-    <item>
-      <title>SaaStr様：　複数年契約の場合、営業担当者の報酬はどのように設定していますか？</title>
-      <link>https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/</link>
-      <description>この記事では、SaaSビジネスにおける複数年契約の営業担当者の報酬体系について論じている。資金が極めて重要な初期段階においては、前払いされた現金全額に対して全額のコミッションを支払うことを提案している。 著者は、更新率が高いため、前払いの現金がない複数年契約についてはコミッションを一切支払わなかったという自身の経験を共有している。複数年の前払い現金に対して100％のコミッションを支払っているスタートアップは、わずか10％程度に過ぎない。事業が成長するにつれて現金の重要性は低下するため、複数年契約を確保するために過度な割引を行うことは避けるべきだと注意を促している。 著者は、ARRが1,000万ドルに達した後、2年目および3年目の前払い金に対して25％のコミッションを支払う方式に移行し、これらの年が当年度のARRに影響を与えないようにしました。不適切なコミッション体系が買収後に望ましくない契約を招いた事例からも明らかなように、インセンティブは極めて重要です。 好ましくない結果を招かないためには、割引に関するガードレールを設けることが不可欠です。結局のところ、本記事は、SaaS企業において持続可能な成功を推進するためには、報酬戦略を事業目標や成長段階と整合させることが重要であることを強調しています。</description>
-      <pubDate>Fri, 31 Jul 2026 09:04:20 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/jason-lemkin-interesting-startup-sales-incentive-plan-echosign-reps-compensated-multi-year-deals/</guid>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 15:04:23 GMT</lastBuildDate>
   </channel>
 </rss>
