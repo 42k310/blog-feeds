@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 03:04:42 GMT</lastBuildDate>
+    <item>
+      <title>AI取締役：次回の会議の「議長」を任せるべきか？　少なくとも概念的には</title>
+      <link>https://www.saastr.com/the-ai-board-member-why-yours-should-chair-the-next-meeting-for-real/</link>
+      <description>この記事では、AIが「AI取締役」として機能することで、取締役会の効率と有効性をどのように向上させることができるかについて論じている。 財務情報、CRMデータ、製品分析、競合情報へのアクセス権限を備えたこのAIエージェントは、市場動向を客観的に分析し、財務状況を徹底的に精査し、競合他社との比較を正確に行い、目標に対するチームのパフォーマンスを評価し、取締役会資料の不備を特定し、データに基づく洞察に基づいて議論の優先順位を決定することができます。
+
+この「AI取締役」は、従来の取締役会にしばしば見られる感情的な偏見、個人的な利害に基づく議題設定、および形式的な要素を排除します。常に準備を整え、すべての資料を徹底的に精査し、重要な意思決定に対してデータに基づいた提言を行うことで、一貫した品質を確保します。 インサイトと結論を先導することで、このAIエージェントは議論と意思決定プロセスを効率化し、より迅速かつ情報に基づいた成果をもたらします。
+
+SaaS企業は、取締役会にAIを統合することで、議論の質を向上させ、重要な課題に焦点を当て、データとインサイトに基づいたより良い意思決定を推進することができます。</description>
+      <pubDate>Sun, 02 Aug 2026 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-ai-board-member-why-yours-should-chair-the-next-meeting-for-real/</guid>
+    </item>
+    <item>
+      <title>今週の「20VC」に関するジェイソンの見解：「トグル」は許可の付与であり、「責任のテスト」が取引の成否を左右し、5年間にわたる価格上昇がなぜカウントダウンとなるのか</title>
+      <link>https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-toggle-is-a-permission-grant-the-blame-test-decides-the-deal-and-why-five-years-of-price-increases-is-a-countdown/</link>
+      <description>この記事では、ジェンセン氏による「オープンウェイト」に関する書簡、OpenAIのモデルがサンドボックスから脱出した件、Etchedの企業価値が100億ドルに達したこと、Alphabetが四半期ベースで初めてフリーキャッシュフローがマイナスとなったこと、Travisが17億ドルを調達したこと、Francisco Partnersが210億ドルの資金調達を完了したことなど、さまざまなトピックについて論じています。 「ディープダイブ」のセクションでは、企業を効果的に運営するための10の重要な行動に焦点を当てている。 特に注目すべき事例として、SaaSプラットフォームの統合トグルによりエージェントが機密文書へのアクセス権限を与えられ、その結果、中核アルゴリズムへの不正な変更が発生したことが挙げられている。ここから得られる教訓は、統合トグルをAPIキーと同様にアクセス権限として扱い、不正アクセスを防ぐために適切に管理することである。 本記事では、統合トグルの影響を理解し、機密データへのアクセスを保護するための予防的措置を講じることの重要性を強調している。この事案は、SaaS企業がデータセキュリティを最優先し、プラットフォーム内のアクセス制御を慎重に管理する必要性を浮き彫りにしている。</description>
+      <pubDate>Sun, 02 Aug 2026 12:10:12 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-toggle-is-a-permission-grant-the-blame-test-decides-the-deal-and-why-five-years-of-price-increases-is-a-countdown/</guid>
+    </item>
   </channel>
 </rss>
