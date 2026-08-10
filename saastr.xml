@@ -5,6 +5,28 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>アトラシアンがLoomの無料クリエイターライセンスを廃止した。これらはLoomの販路でもあった。</title>
+      <link>https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/</link>
+      <description>この記事では、アドビやアトラシアンの事例を挙げながら、SaaS製品から無料版を廃止する戦略について論じている。著者は、無料版はユーザーを惹きつけ、ファネルの上流における活動を促進する一方で、有料アカウントへの転換にはつながらず、サポートチームや営業チームにとって負担となる場合が多いと指摘している。 無料版を廃止することで、企業は業務を効率化し、不要な要素を削減し、ひいてはブランド認知度の向上につながる可能性があります。
+
+アトラシアンがLoomの無料ライセンスを廃止し、有料ライセンスに転換した決定は、この戦略の好例です。 この措置は、価格設定や課金対象となるユーザー数に大きな影響を与える可能性があります。例えば、レコーダー10名、ウォッチャー90名からなるワークスペースが、突然100名分の料金を支払うことになるケースが挙げられます。この記事では、無料プランと有料アカウント内の無料シートを正確に区別することの重要性が強調されています。
+
+SaaS ビジネスにとって重要なポイントは、無料版がユーザーを有料顧客へと転換させる価値と、それに伴う運用コストや潜在的なデメリットを比較検討することです。企業は、製品の無料版を廃止する決定を下す際、価格設定、顧客セグメント、およびビジネス全体の成長への影響を考慮すべきです。</description>
+      <pubDate>Sun, 09 Aug 2026 14:10:21 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/</guid>
+    </item>
+    <item>
+      <title>SaaStr様：SaaSスタートアップにとって、適切なデモからの成約率はどの程度でしょうか？</title>
+      <link>https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/</link>
+      <description>この記事では、SaaSスタートアップにとってのデモ成約率の重要性について論じています。良好なデモ成約率は10％～20％とされています。成約率が8％～10％を下回ると、営業チームは毎月10～15件の成約を成立させる必要が生じるため、バーンアウトにつながる恐れがあります。 持続可能な業務負荷を維持するためには、営業チームのデモ実施数は月間50件を超えないことが理想的です。営業チームがノルマを達成するためには、20％以上のコンバージョン率が望ましいと言えます。
+
+この記事では、ファネルに入るリードの数がコンバージョン率に影響を与え、リード数が増加するとコンバージョン率が低下する可能性があることが指摘されています。 また、コンバージョン率を向上させるためには、質の高い見込み客の獲得に注力する必要性を強調しています。ブランドが成長し、より一般的な見込み客を惹きつけるようになると、コンバージョン指標は低下する可能性があります。
+
+記事では、特定のファネル指標に固執するのではなく、長期的な視点で指標を測定し、改善することに注力すべきだと助言しています。さらに、特にビジネスの規模が拡大するにつれて、コンバージョン率を高めるための戦略を実施することを提案しています。</description>
+      <pubDate>Sun, 09 Aug 2026 09:26:21 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/</guid>
+    </item>
   </channel>
 </rss>
