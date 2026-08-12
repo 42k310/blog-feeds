@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 03:04:38 GMT</lastBuildDate>
+    <item>
+      <title>売上高114億ドルを達成したパロアルト・ネットワークスから得られた5つの興味深い知見：ARR成長率60％、NRR 120％、そして株価を2倍にした250億ドルの買収</title>
+      <link>https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/</link>
+      <description>時価総額2,650億ドルのパロアルト・ネットワークスは、戦略的な買収とビジネスモデルの進化を経て、過去1年間で株価が100％上昇しました。当初はファイアウォール企業でしたが、買収を通じてネットワークセキュリティ、セキュリティ運用、クラウドセキュリティ、ID管理、可観測性といった主要分野を柱とする包括的なセキュリティプラットフォームへと変貌を遂げました。 同社の年間売上高は114億ドルに達しており、そのうちハードウェアが占める割合はわずか10％にとどまっています。AIは重要な成長要因となっており、検査対象となるトラフィックの増加、攻撃への迅速な対応、新しいIDの管理、テレメトリデータの生成を通じて、サイバーセキュリティ業界の価値を高めています。 サイバーアーク（CyberArk）やクロノスフィア（Chronosphere）といったパロアルト・ネットワークスの買収は、同社の成長に寄与している。 同社の成功は、AIがセキュリティソリューションをいかに強化し、SaaS企業に新たな機会を創出できるかを示しています。SaaS企業は、パロアルト・ネットワークスの成長戦略から学ぶことができ、事業拡大と価値創造を推進するためには、製品ラインナップの進化、AI技術の活用、そして戦略的な買収が重要であることを認識すべきです。</description>
+      <pubDate>Tue, 11 Aug 2026 14:10:19 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/</guid>
+    </item>
+    <item>
+      <title>SaaStr AI Dayに登壇したPylonの創業者たち：1,000人のサポートチームがチケットの50％を未処理のままにしていた。人員数は変わらなかった。</title>
+      <link>https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/</link>
+      <description>先ごろ開催された「SaaStr AI Day」で、マーティ・カウサス氏とアドヴィス・チェリカニ氏は、SaaSビジネスにおける顧客体験（CX）の指標として、デフレクション率がなぜ理想的ではないのかについて議論しました。その代替案として、彼らは「エージェント主導型カスタマーサポート」という新しい概念を紹介しました。 創業3年以上で約1,600社のB2B顧客を抱える彼らの会社「Pylon」は、この新しいアプローチに注力しています。「デフレクション率」から「エージェント主導型カスタマーサポート」への転換は、単に問い合わせを他へ転送するのではなく、顧客との強固な関係構築を重視した、より積極的かつパーソナライズされたカスタマーサービス戦略を示唆しています。 SaaS企業は、単にサポート対応回数を減らすことよりも、顧客とのエンゲージメントや顧客のエンパワーメントを優先することで、この新しい視点から恩恵を得ることができます。この洞察は、顧客満足度とロイヤリティの向上を図るために、SaaS業界においてカスタマーサポート戦略を進化させることの重要性を浮き彫りにしています。</description>
+      <pubDate>Tue, 11 Aug 2026 10:40:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/</guid>
+    </item>
   </channel>
 </rss>
