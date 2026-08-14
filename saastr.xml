@@ -5,39 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 03:04:51 GMT</lastBuildDate>
-    <item>
-      <title>Canvaが2026年の成長見通しを3分の1に下方修正、ジェフ・ディーンがGoogleを退社、イーロンが独自のファブを建設：20VC × SaaStr</title>
-      <link>https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/</link>
-      <description>この記事では、SaaS業界におけるさまざまな洞察やトレンドについて論じています。
-
-1. AIの運用コストの高騰により、Canvaの成長予測が30％から20％に下方修正されたことは、SaaS企業にとって存続に関わる問題を提起しています。この低下が、さらなる減速に向かう傾向なのかどうかに注目すべきです。
-   
-2. ユーザーが意思決定プロセスにおいて自社製品を検討対象に含めることの重要性が強調されている。検討対象から外れてしまうことは、たとえ製品自体に問題がなくとも、重大な課題につながる可能性があるからだ。
-
-3. ノーコードツールの時代は進化しており、以前はこうしたツールを使って行われていたタスクを、AIがますます担うようになっています。企業はこの技術の変化に適応する必要があります。
-
-4. Figmaはエンタープライズ向け製品として、自動化に関連する課題に直面しているものの、企業のプロセスやワークフローに重点を置いているため、Canvaよりも堅調であると見られています。
-
-5. Canvaの企業価値は、現在の成長率および類似の上場企業を基に約120億ドルと推定されており、SaaS業界において成長指標が企業価値に与える影響が浮き彫りになっている。
-
-総じて、SaaS企業は、AIコスト、ユーザーへの配慮、技術トレンドの進化、および成長指標が、自社の事業戦略や企業価値に与える影響を慎重に検討する必要がある。</description>
-      <pubDate>Thu, 13 Aug 2026 23:32:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/</guid>
-    </item>
-    <item>
-      <title>実物商品を扱うB2B分野が快進撃：Shopifyが34％増、Toastが23％増、Samsaraが30％増</title>
-      <link>https://www.saastr.com/b2b-for-physical-products-is-crushing-it-shopify-34-toast-23/</link>
-      <description>この記事では、AIが上場ソフトウェア企業にどのような影響を与えているかについて論じられているが、実世界向けのサービスを提供する一部の企業は、その価格モデルが主にユーザー数に連動していないため、それほど大きな影響を受けていない。Shopifyは堅調な決算を発表し、売上高は34％増の35億8000万ドル、GMVは32％増の1156億ドルとなった。 Toastも減速の兆しは見られず、売上高は23％増の19億1000万ドル、新規加盟レストラン数は過去最高を記録した。 コネクテッド・モビリティ分野をターゲットとするSamsaraは、ARRが19億9,000万ドル（30％増）と報告した。これらの企業の成長率は、上場B2B企業の中央値である約13％を上回っている。 セールスフォースの直近四半期の成長率は13%でしたが、その一部は買収によるものです。レストラン、出荷商品、トラック輸送などのセクターは、セールスフォースのようなCRM企業よりも2～3倍速いペースで成長しています。この記事では、AIがShopifyのような企業にはそれほど大きな影響を与えていないことを強調し、その成功は単なる価格モデルを超えた要因によるものであると指摘しています。</description>
-      <pubDate>Thu, 13 Aug 2026 14:10:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/b2b-for-physical-products-is-crushing-it-shopify-34-toast-23/</guid>
-    </item>
-    <item>
-      <title>SaaStr様：B2Bビジネスにおいて、ACVがどの程度の規模になればアカウントマネージャーが必要になるのでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-at-what-acv-size-do-i-need-an-account-manager-in-b2b/</link>
-      <description>この記事では、B2B SaaSビジネスにおいて、年間契約額（ACV）に基づいてアカウントマネージャーをいつ導入すべきかを判断することの重要性について論じています。ACVが8,000～10,000ドル未満の場合、コストの制約から専任のアカウントマネージャーを配置することは現実的ではない可能性があり、企業はオンボーディングやサポートの体系化に注力すべきです。 ACVが1万ドル以上の場合、顧客の生涯価値（LTV）がこの費用を賄えるため、たとえ複数の顧客を兼任する形であっても、専任のアカウントマネージャーへの投資は正当化されます。ACVが5万ドル以上に達すると、きめ細かなサポートを提供するために、顧客ごとに専任のアカウントマネージャーを配置することが不可欠となります。 重要なポイントは、アカウントマネージャーの配置に関する決定においては、ACVだけでなく、導入の複雑さや事業拡大の可能性も考慮すべきだということです。 企業は成長に合わせてカスタマーサクセスチームを拡大すべきであり、ARRが200万～300万ドルに達した時点で、カスタマーサクセス担当副社長（VP）の採用を検討すべきです。Toastのような一部の企業は、従来のアカウントマネージャーを置かずにACV 1万ドルで効率的に運営していますが、ACVが1万ドル以上のほとんどの企業は、カスタマーサクセスの取り組みを通じて顧客維持率の向上と事業拡大の恩恵を受けています。</description>
-      <pubDate>Thu, 13 Aug 2026 09:58:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-at-what-acv-size-do-i-need-an-account-manager-in-b2b/</guid>
-    </item>
+    <lastBuildDate>Fri, 14 Aug 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
