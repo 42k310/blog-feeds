@@ -5,22 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 03:04:45 GMT</lastBuildDate>
-    <item>
-      <title>KlaviyoのCEOが語る、エージェントを活用して15億ドルの企業価値を築くこと：「ダーク・ファクトリー」、Composer、そして全従業員が6月までにL3を達成しなければならなかった理由</title>
-      <link>https://www.saastr.com/klaviyos-ceo-on-building-at-1-5b-with-agents-dark-factory-composer-and-why-every-single-employee-had-to-hit-l3-by-june/</link>
-      <description>成功を収めているSaaS企業であるKlaviyoは、EC事業者向けの「実用的な指標」に焦点を当てることで著しい成長を遂げ、Shopifyエコシステムにおいて80％のシェアを獲得しました。 同社の2026年第2四半期の売上高は3億7,060万ドルに達し、顧客数は20万5,000社を超え、通期の業績予想を15億2,600万ドルから15億3,400万ドルに上方修正しました。 Klaviyoの成功は、AI主導のアプローチによるものです。同社では、従業員がAI自律レベル3で業務を行うことが求められており、これにより全員が複数のAIセッションを効果的に実行できるようになっています。同社は、AIソリューションを効率的に開発するためのエージェントチームの構築を重視しています。 Klaviyoの社内システム「Dark Factory」は、問題をサブシステムに分解し、各部分をエージェントが担当することで、開発プロセスを効率化している。また同社は、AIを活用してマーケティングツール「Composer」を強化しており、リアルタイムの消費者反応データを提供するとともに、「コーチ」エージェントを用いて提案内容を評価している。 Klaviyoのアプローチは、AIツールを用いたユーザーのエンパワーメントに焦点を当て、APIを活用したインフラ開発とヘッドレスアプローチの採用を重視しています。同社のL1/L2/L3方針により、全従業員が高いレベルのAI自律性を持って業務を遂行することが保証され、進化し続けるAI技術の時代における成功が促進されています。</description>
-      <pubDate>Fri, 14 Aug 2026 15:08:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/klaviyos-ceo-on-building-at-1-5b-with-agents-dark-factory-composer-and-why-every-single-employee-had-to-hit-l3-by-june/</guid>
-    </item>
-    <item>
-      <title>DatabricksのARRが70億ドルを突破、80％増（！）：30ポイントの成長加速、1,900億ドルの企業価値、そしてエージェント向けのマージン請求書</title>
-      <link>https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/</link>
-      <description>B2Bソフトウェア企業のDatabricksは、第2四半期に売上高ランレートが70億ドルを突破するという重要なマイルストーンを達成し、前年同期比で80％という目覚ましい成長を記録しました。また、同社はCoatueが主導する50億ドルの戦略的資金調達ラウンドを、企業価値1,900億ドルで成立させました。 主な注目点としては、Databricksの堅調な財務実績が挙げられます。Lakebaseの売上高ランレートは1億ドルを突破し、Lakehouseは15億ドルを超え、前年同期比で100％以上の成長を記録しました。さらに、同社は調整後フリーキャッシュフローが引き続きプラスであることを報告しています。
-
-Databricksの成功を模倣しようとするSaaS企業にとって、売上高ランレートの成長に注力し、戦略的投資を確保し、プラスのキャッシュフローを維持することは極めて重要な戦略である。 製品イノベーションの推進、顧客基盤の拡大、および業務効率の最適化に注力することで、競争の激しいSaaS市場において持続可能な成長を実現できます。データ分析、クラウド技術、AI機能を活用することで、業績と顧客への価値提案をさらに高めることが可能です。</description>
-      <pubDate>Fri, 14 Aug 2026 12:14:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/</guid>
-    </item>
+    <lastBuildDate>Sat, 15 Aug 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
