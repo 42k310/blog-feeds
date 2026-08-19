@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:04:40 GMT</lastBuildDate>
+    <item>
+      <title>Ripplingは、実際の給与データを用いて、モデルごとに2,100回のエージェント実行を実施しました。最も安価なモデルは、最も高価なモデルと同等の結果を出しました。</title>
+      <link>https://www.saastr.com/rippling-ran-2100-scored-agent-runs-per-model-on-real-payroll-data-the-cheapest-model-tied-the-most-expensive-one/</link>
+      <description>Ripplingは、実際の給与データを用いて15のAIモデルを実環境テストし、合格率、コスト、処理速度などの指標を評価しました。 この調査の結果、最も安価なモデルであるOpus 4.6が、最も高価なモデルと同等の性能を示したことが明らかになりました。その合格率は91％、コストは1,453ドル、処理時間は最下位10％のタスクで154秒でした。 「GPT-5.5 low」はより安価で高速でしたが、精度はわずかに劣りました。一方、「GLM 5.2」は処理速度は遅かったものの、コストパフォーマンスは著しく優れていました。 B2B企業の創業者が得るべき主な教訓は、以下の通りです：最高水準に達すると品質の向上は頭打ちになる、新しいモデルが必ずしも優れているわけではない（Opus 4.6は新しいモデルを上回る性能を示した）、バージョン番号が性能の向上を保証するわけではない（Grok 4.6は前バージョンよりも性能が劣った）。 本調査は、SaaS企業にとって最も費用対効果が高く効率的なソリューションを見極めるために、実環境でのAIモデルテストの重要性を強調しています。</description>
+      <pubDate>Tue, 18 Aug 2026 14:10:58 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/rippling-ran-2100-scored-agent-runs-per-model-on-real-payroll-data-the-cheapest-model-tied-the-most-expensive-one/</guid>
+    </item>
+    <item>
+      <title>次の大型取引を控えているなら？　価格を2倍に設定しましょう。</title>
+      <link>https://www.saastr.com/on-your-next-big-deal-double-your-pricing/</link>
+      <description>SaaS業界の著名人であるジェイソン・レムキン氏は、ハイエンド市場への進出を目指すSaaS企業に対し、既存顧客の料金を維持しつつ、新規顧客向けの価格を2倍に引き上げることを検討すべきだと提言しています。新規顧客への価格を引き上げることで、企業は市場がより高い料金を支払う意思があるかどうかを迅速に把握することができます。この戦略は、より大きな予算を持つ大口顧客をターゲットとする企業にとって特に有効です。
+
+この助言は、価格戦略を調整することで、SaaS企業が市場を効果的にテストし、顧客の反応を測ることができることを示唆しています。また、SaaS業界において顧客価値と価格弾力性を理解することの重要性も浮き彫りにしています。このアプローチは、企業が収益源を最適化し、収益性を向上させ、より高層級の顧客に対応するのに役立ちます。
+
+結論として、SaaS企業は、新規顧客への価格を2倍にするといった価格戦略の実験を行うことで、成長を加速させ、より大規模な顧客を引き付け、市場での地位を強化することができる。</description>
+      <pubDate>Tue, 18 Aug 2026 12:00:56 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/on-your-next-big-deal-double-your-pricing/</guid>
+    </item>
   </channel>
 </rss>
