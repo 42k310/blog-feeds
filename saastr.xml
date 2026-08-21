@@ -5,6 +5,17 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:04:36 GMT</lastBuildDate>
+    <item>
+      <title>ある垂直型B2B企業のオーナーは、Agentsを活用してARR 1億ドルを達成した後、事業を加速させた。重要な気づきは、顧客がログインするたびに、オーナーは失敗しているということだ。</title>
+      <link>https://www.saastr.com/vertical-b2b-leader-owner-acclerated-after-100m-arr-with-agents-the-key-insight-every-time-a-customer-logs-in-owner-has-failed/</link>
+      <description>飲食店向けSaaSプラットフォーム「Owner」の創業者であるアダム・ギルド氏は、SaaStr AIステージで洞察を共有した。OwnerはARR（年間反復収益）が1億ドルに達した後、成長が加速し、新規顧客の83％以上が無料のAI製品から利用を開始している。 ギルド氏が導き出した製品に関する重要な結論は、従来のB2Bの常識に異を唱えるものだ。彼は、ログイン数は今や「失敗のシグナル」であり、製品の効率性が高まるにつれてDAU、WAU、MAUといった指標は低下すべきだと示唆している。また、ユーザーが複雑な設定を行わなくても成果をもたらす「主張のある製品」の重要性を強調している。 
+
+彼は、ClaudeやChatGPTのような高度なAIモデルがもたらす課題に対抗する上で、明確な方向性を持った製品がいかに重要であるかを強調している。また、価値あるデータを生成するためには、顧客全体で一貫したシステムを徹底することの重要性も説いている。さらに、プラットフォームの転換期においては成長指標が遅行指標となり得る点について論じ、成長には常に少人数の従業員で済むと決めつけるべきではないと助言している。
+
+ギルド氏の「Owner」での経験は、投資家、社内チーム、業界の専門家からの懐疑的な見方があっても、企業が進化する技術や市場の動向に適応する必要性を示している。</description>
+      <pubDate>Thu, 20 Aug 2026 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/vertical-b2b-leader-owner-acclerated-after-100m-arr-with-agents-the-key-insight-every-time-a-customer-logs-in-owner-has-failed/</guid>
+    </item>
   </channel>
 </rss>
