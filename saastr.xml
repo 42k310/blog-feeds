@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>結局のところ、どの企業も営業チームを持つことになります。AI時代であっても例外ではありません。ただ、そのチームの規模が拡大する時期が、以前より遅くなっているだけです。例えば、Replit、Gamma、Lovable、Anthropicなどがその例です。</title>
+      <link>https://www.saastr.com/everyone-ends-up-with-a-sales-team-even-in-the-ai-era-the-team-just-scales-later-now/</link>
+      <description>ReplitのCEOであるアムジャド・マサド氏は、製品への需要が高まるにつれて営業チームの必要性を認識し、営業文化に対する見方の変化について語った。同氏は、顧客との夕食会が効果的であることを指摘し、たとえフリーミアムやセルフサービスモデルからスタートしたとしても、ほとんどのB2B企業にとって、最終的には営業チームを構築することが重要であると強調した。 マサド氏の経験は、Twilio、Slack、Stripeといった成功したSaaS企業に共通する傾向を反映しており、ビジネスの規模が拡大するにつれて営業チームの導入が不可欠になることを示しています。 重要なポイントは、一部のSaaS企業にとって当初は営業チームが必ずしも必要ではないかもしれないものの、持続的な成長とより高い収益目標の達成には、多くの場合、営業チームが不可欠な要素となるということです。この洞察は、SaaSビジネスモデルの進化と、成長計画に営業戦略を取り入れることで市場の需要に適応することの重要性を浮き彫りにしています。</description>
+      <pubDate>Sat, 22 Aug 2026 14:10:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/everyone-ends-up-with-a-sales-team-even-in-the-ai-era-the-team-just-scales-later-now/</guid>
+    </item>
+    <item>
+      <title>適切な副社長を採用できたかどうかを見極める、4つのステップからなる簡単なチェックリスト</title>
+      <link>https://www.saastr.com/a-simple-4-part-test-to-know-if-youve-hired-the-right-vp/</link>
+      <description>SaaS業界の著名人であるジェイソン・レムキン氏は、SaaS企業における副社長（VP）の採用が効果的かどうかを評価するための4つの基準を提案しています。 このテストには、VPが就任後60日以内に優れた人材を採用できたか、そのリーダーシップの下で主要な指標が改善されたか、創業者の負担を軽減できたか、そしてチームがそのリーダーシップを信頼しているか、といった点の評価が含まれます。レムキン氏は、VPがこのテストに合格しない場合、その人物は期待に応えられない可能性があることを強調しています。
+
+適切なVPの採用は、企業の成長と成功に多大な影響を与えるため、このアドバイスはSaaS企業にとって極めて重要です。これらの重要な分野に焦点を当てることで、SaaS企業は、経営陣が会社を正しい方向に導き、業績を向上させ、チームからの信頼と支持を得られるようにすることができます。
+
+SaaS企業は、この4つの基準からなるテストを実践的な指針として活用し、VP候補者を評価するとともに、競争の激しいSaaS市場において企業の継続的な成長と成功を確保するために必要な調整を行うことができます。</description>
+      <pubDate>Sat, 22 Aug 2026 12:43:20 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/a-simple-4-part-test-to-know-if-youve-hired-the-right-vp/</guid>
+    </item>
   </channel>
 </rss>
