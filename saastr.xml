@@ -5,6 +5,39 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 15:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 03:04:47 GMT</lastBuildDate>
+    <item>
+      <title>20VC × SaaStr：NvidiaがPoolsideの「Model Factory」を60億ドルで買収、OpenAIは2027年に上場へ、そしてなぜ90億ドルでもシードラウンドのハードルをクリアできなくなったのか</title>
+      <link>https://www.saastr.com/20vc-x-saastr-nvidia-pays-6b-for-poolsides-model-factory-openai-has-to-go-public-in-2027-and-why-9b-no-longer-clears-the-bar-for-seed/</link>
+      <description>この記事では、Nvidiaが最近Poolsideの「Model Factory」に対して行った60億ドルの投資について、そのさまざまな側面を掘り下げ、AI業界における課題や影響を明らかにしている。 主な論点としては、NVIDIAが非独占的ライセンスを確保し、Poolsideに10億ドルを投資するという戦略的動き、資金調達における「無限資本主義」の限界、そしてAI市場における資本集約性の重要性などが挙げられる。
+
+さらに、本記事ではAI時代におけるシード投資の複雑さについても論じており、90億ドルという成果であっても、2026年のシード投資家にとって必ずしも基準を満たすとは限らないと指摘している。また、この業界が資本集約的であることを踏まえ、シードファンドが存続可能となるためには50倍といった大幅なリターンが必要であることを強調している。
+
+さらに、本記事では、最先端モデルの開発を目指す企業が直面する資金面の制約に焦点を当て、そのような取り組みに資金を提供できる企業はごくわずかである点を指摘している。また、マイクロソフト、グーグル、アマゾン、そして現在ではNVIDIAといったハイパースケーラーが、最先端のAIプロジェクトへの資金提供において果たす役割を強調し、他の多くのプレイヤーが十分な資金確保に苦戦している現状を浮き彫りにしている。
+
+全体として、この記事はAI業界の資金動態に関する貴重な洞察を提供しており、資本集約型技術の進化する環境を乗り切る上で、SaaS企業が直面する課題と機会を強調している。</description>
+      <pubDate>Thu, 27 Aug 2026 15:31:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-nvidia-pays-6b-for-poolsides-model-factory-openai-has-to-go-public-in-2027-and-why-9b-no-longer-clears-the-bar-for-seed/</guid>
+    </item>
+    <item>
+      <title>成長率が30％を超えている上場B2B企業はわずか7社のみだ。AIネイティブ企業グループの中では、これは最下位に相当する。</title>
+      <link>https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/</link>
+      <description>この記事では、30％を超える成長率を記録している7つの上場B2Bソフトウェア企業を取り上げ、SaaSセクターにおける競争環境の変遷に焦点を当てています。業界のベンチマークが急速に変化しているため、ARR（年間反復収益）が2億ドルのB2B企業にとって、18％の成長率を達成しても、もはや業績不振とは見なされなくなっていることを強調しています。
+
+主な洞察としては、成長率がここ数年で大幅に上昇し、成長実績に基づいた評価倍率が変化しているという点が挙げられる。また、Palantir、Datadog、Cloudflare、Snowflakeなど、利用量に応じた課金モデルを採用している企業は、AI技術の普及が進んでいることから、成長が加速していることも指摘されている。
+
+この分析によれば、同じ売上規模で事業を展開する企業であっても、成長率や評価額はさまざまであり、成長こそが市場競争力や投資家の関心を決定づける重要な要素であることを示唆している。
+
+この記事では、フィグマ（Figma）を際立った事例として取り上げ、ライセンス数に依存するビジネスモデルであっても、ライセンス数に加えて利用量に応じた課金層を追加するといった革新的な収益化戦略を通じて、急速な成長を実現できることを示している。この事例は、市場のトレンドや顧客のニーズを最大限に活用するために、ビジネスモデルを適応させることの重要性を浮き彫りにしている。</description>
+      <pubDate>Thu, 27 Aug 2026 14:10:18 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/</guid>
+    </item>
+    <item>
+      <title>SaaStr様：B2Bマーケティングプログラムがうまくスケールしない兆候にはどのようなものがありますか？</title>
+      <link>https://www.saastr.com/what-are-some-signs-that-your-saas-marketing-programs-wont-scale-well/</link>
+      <description>この記事では、B2Bマーケティングプログラムが十分にスケールしない可能性を示す主な兆候について論じており、その主要な指標として、成果に見合わない過剰な支出が挙げられています。個々のキャンペーンに過度に注力するのではなく、マーケティング活動全体の有効性を考慮することが重要であると強調されています。オーガニックリードは当初、顧客獲得単価（CPA）が低いものの、有料マーケティングはコストが高くなりがちであるため、バランスの取れたアプローチが求められます。 推奨される指標は、すべての顧客獲得チャネルを合わせたマーケティング費用を、初年度の平均契約価値（ACV）の3～6か月分以内に抑えることだ。成功しているソフトウェア企業は、顧客獲得において口コミや紹介に頼ることが多く、これらの分野への投資の重要性が浮き彫りになっている。 著者は、投資した1ドルにつき少なくとも1ドルの収益を生み出すマーケティングプログラムに投資することを勧めています。これは、長期的な顧客価値とそれに伴う収益の成長につながるからです。顧客満足度を確保し、二次収益を活用することで、マーケティングへの投資は長期的に大きなリターンをもたらすことができます。</description>
+      <pubDate>Thu, 27 Aug 2026 09:43:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/what-are-some-signs-that-your-saas-marketing-programs-wont-scale-well/</guid>
+    </item>
   </channel>
 </rss>
