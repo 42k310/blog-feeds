@@ -5,26 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 03:04:41 GMT</lastBuildDate>
-    <item>
-      <title>エージェントが記録管理システムを引き継ぐとき：誰も入力していない40GBのデータ、半日で構築された更新エージェント、そしてエージェントたちがClayを愛用する理由：The Agents #013</title>
-      <link>https://www.saastr.com/when-agents-take-over-the-system-of-record-40gb-nobody-typed-a-renewal-agent-built-in-half-a-day-and-why-our-agents-love-clay-the-agents-013/</link>
-      <description>『The Agents』の第013回では、エージェントが「システム・オブ・レコード」を管理することになった場合に何が起こるかに焦点を当てています。ServiceTitanは最近、この問題を理由にPodiumとの連携を停止しました。 『The Agents』のチーム自身も、主にAPIを通じてSalesforceに約40GBのデータを書き込んでおり、積極的にログインしていなくても超過料金が発生する原因となっていました。これは、エージェントがCRMデータやストレージコストに与える影響を浮き彫りにしており、そのコストは急速に膨れ上がる可能性があります。
-
-ServiceTitanが9年間の提携と共通顧客を抱えていたにもかかわらずPodiumとの提携を打ち切った決定は、パートナーがエージェントを活用して、従来は「システム・オブ・レコード」が管理していたタスクを処理することで、直接の競合相手となるリスクを浮き彫りにしています。ServiceTitanのこの動きは、AIと自動化の時代におけるパートナーシップの見方の変化を示唆しています。
-
-SaaS企業は、ServiceTitanとPodiumの事例に見られるように、エージェントが「システム・オブ・レコード」内のコア機能を担うことによる影響に留意すべきです。この変化に伴い、パートナーシップやデータ管理戦略の再評価、そしてエージェントの自律性が高まるにつれて生じうる潜在的な競合関係の検討が必要になるかもしれません。</description>
-      <pubDate>Fri, 28 Aug 2026 15:28:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/when-agents-take-over-the-system-of-record-40gb-nobody-typed-a-renewal-agent-built-in-half-a-day-and-why-our-agents-love-clay-the-agents-013/</guid>
-    </item>
-    <item>
-      <title>「Linear」で作成されるコンテンツの50％は、現在エージェントによって作成されています。1年前は3％でした。</title>
-      <link>https://www.saastr.com/50-of-the-work-created-in-linear-is-now-created-by-agents-a-year-ago-it-was-3/</link>
-      <description>SaaS企業のLinearは先日、企業価値25億ドル（前年の2倍）を基に、9,900万ドルのセカンダリー資金調達を行うことを発表した。同社はキャッシュフローが黒字であり、手元資金はこれまでの調達総額を上回っている。 注目すべき指標として、Linearのワークスペースにおける業務の50％を、エージェント（自動化ツール）が担うようになったことが挙げられる。これは1年前の3％から劇的に増加した数値である。確立されたワークフローツール内でのこのような急速な普及率は珍しく、通常、同程度の成長を達成するには数年を要する。 Linearにおけるエージェント導入の成功は、OpenAIやCursorなどの企業が製品開発に同社のプラットフォームを活用していることに起因している。
-
-また、Linearのデータによると、2026年初頭以降、コードが添付された課題が7倍に増加しており、これは単に作業が作成されただけでなく、コードを伴って完了していることを示しています。この傾向は、製品の品質を確保するために、エージェントによって生成された作業量と完了率の両方を追跡することの重要性を浮き彫りにしています。 Linearの成長戦略をAtlassianなどの競合他社と比較すると、Linearはエージェントが生成した作業の内容に焦点を当てているのに対し、他社は成長率を重視しており、指標の開示に対するアプローチの違いが浮き彫りになっています。これは、SaaSビジネスにおいて、単なる成長だけでなく、自動化プロセスの実際の影響や構成を測定することの重要性を示しています。</description>
-      <pubDate>Fri, 28 Aug 2026 12:52:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/50-of-the-work-created-in-linear-is-now-created-by-agents-a-year-ago-it-was-3/</guid>
-    </item>
+    <lastBuildDate>Sat, 29 Aug 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
