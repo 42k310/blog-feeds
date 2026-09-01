@@ -5,35 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 03:04:40 GMT</lastBuildDate>
-    <item>
-      <title>私たちは独自の「Claudeforce」上で、Salesforce Headlessを6か月間運用してきました。もう元には戻りません。</title>
-      <link>https://www.saastr.com/weve-been-running-salesforce-headless-and-our-own-claudeforce-for-6-months-were-never-going-back/</link>
-      <description>SaaStrは、Salesforce APIを活用してヘッドレス化を図り、その上に「Claudeforce」と呼ばれるAIエージェントを構築することで、Salesforceへのアプローチを転換しました。「10K」と名付けられたこの新しいシステムにより、より効率的なデータアクセスと、他のAPIとのリアルタイムな連携が可能になりました。この移行から得られた主な知見は以下の通りです。
-
-1. 効率の向上：ヘッドレスCRMシステムへの移行により、効率と生産性が大幅に向上し、ユーザーも従来のUIインターフェースよりもこの方式を好むようになりました。
-2. エージェント活用率の向上：SaaStrの運用担当エージェントの半数以上が現在、CRMレイヤーと直接連携しており、新しいエージェントの追加が容易になったことで、業務の効率化が進んでいます。
-3. データアクセスの一元化：ヘッドレス化により、SaaStrはさまざまなシステムからのデータを統合する「メタCRM」を構築することが可能となり、顧客情報の包括的な把握とプロセスの合理化を実現しました。
-4. ワークフローの自動化：ヘッドレスシステムにより、見積から入金までのプロセスなどの自動化されたワークフローを構築できるようになり、手作業が削減され、業務効率が向上しました。
-5. リアルタイムの更新：AIによる収益担当副社長（VP of Revenue）がSlackにリアルタイムで更新情報を配信するため、関係者は手動でのリクエストを行うことなく、タイムリーな情報を得ることができます。
-
-全体として、ヘッドレスCRMシステムへの移行により、SaaStrでは業務効率が向上しただけでなく、データ統合の強化やワークフローの自動化も実現しました。</description>
-      <pubDate>Mon, 31 Aug 2026 14:10:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/weve-been-running-salesforce-headless-and-our-own-claudeforce-for-6-months-were-never-going-back/</guid>
-    </item>
-    <item>
-      <title>SaaStr様：担当の営業担当者の業績が著しく不振ですが、重要な取引に関わっています。彼を解雇すべきでしょうか、それとも取引が成立するまで待つべきでしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-my-sales-rep-is-grossly-underperforming-but-is-involved-in-a-key-deal-should-i-fire-him-or-wait-for-the-deal-to-close/</link>
-      <description>この記事では、SaaS企業の創業者に対し、業績不振の営業担当者が重要な取引を成立させるのを待ってから対策を講じるのではなく、早急に行動を起こすよう助言しています。主なポイントは以下の通りです。
-
-1. **業績不振の営業担当者は切り捨てる**：彼らをチームに残しておくと、チームのパフォーマンス基準が低下してしまいます。
-2. **契約の進展は営業担当者の功績ではない可能性が高い**：契約が前進しているのは、製品や企業の評判、あるいは顧客のニーズによる可能性が高い。
-3. **見込み客を逃すことによるコスト**：業績不振の営業担当者が在籍し続ける限り、他の見込み客から得られるはずの収益を毎日失っていることになる。
-4. **不適任者を早期に特定する**：B2B営業においては、1つの販売サイクル以内に営業担当者のパフォーマンスを評価することが極めて重要です。
-
-具体的な対策としては、案件の再割り当て、損失の最小化、そして会社の全体的な業績と利益向上につながる高パフォーマンスなチーム構築に注力することが挙げられます。</description>
-      <pubDate>Mon, 31 Aug 2026 09:29:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-my-sales-rep-is-grossly-underperforming-but-is-involved-in-a-key-deal-should-i-fire-him-or-wait-for-the-deal-to-close/</guid>
-    </item>
+    <lastBuildDate>Tue, 01 Sep 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
