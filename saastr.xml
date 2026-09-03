@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 03:04:40 GMT</lastBuildDate>
-    <item>
-      <title>ハーヴェイ、グリーン、ルブリックの各CPOが語る、業界をリードするエージェントをリリースするために実際に必要なこと</title>
-      <link>https://www.saastr.com/the-cpos-of-harvey-glean-and-rubrik-on-what-it-actually-takes-to-ship-a-category-winning-agent/</link>
-      <description>この記事では、B2B企業における最高製品責任者（CPO）の役割の変遷について論じており、顧客に価値ある機能を提供するAIベースのエージェントを迅速にリリースするという方向へのシフトを強調している。アトラシアンがAIの収益化に成功したことで株価が大幅に上昇したことは、製品提供においてAIを活用することの重要性を浮き彫りにしている。 主な洞察としては、重要なサービスを妨げないエージェントから着手し、エージェントのロードマップを製品全体の「第2の構築」として優先する必要性が挙げられている。また、納期を確定する前にワークフローを慎重に評価することの重要性が強調されており、万が一誤りがあっても顧客の業務に支障をきたさない機能に焦点を当てるべきである。 この記事では、エージェントが故障した場合の影響度に基づいて分類し、リスクの低い機能を優先的に実装することを提案しています。また、特定のワークフローを予測するのではなく、多様な顧客ニーズに対応できるプラットフォームを構築する必要性も強調しています。 ここで提示されているアドバイスは、SaaS企業がAI駆動型エージェントを開発する際に、綿密な計画、優先順位付け、リスク評価を行うことを中心としており、これにより製品の成功したローンチと顧客満足度を確保することを目的としています。</description>
-      <pubDate>Wed, 02 Sep 2026 16:07:40 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-cpos-of-harvey-glean-and-rubrik-on-what-it-actually-takes-to-ship-a-category-winning-agent/</guid>
-    </item>
-    <item>
-      <title>当社の最新AIエージェントは、更新業務専門のエージェントです。このエージェントは、どの顧客アカウントに対しても、人間には到底及ばないほど優れた更新用資料を作成します。大口顧客に限らず、すべての顧客を対象としています。</title>
-      <link>https://www.saastr.com/our-newest-ai-agent-is-a-renewal-agent-it-builds-a-better-renewal-deck-than-any-human-could-for-every-single-account-not-just-the-big-ones/</link>
-      <description>この記事では、時間的制約から、大口顧客のみにカスタマイズされた更新用資料が提供され、その他の顧客には定型メールが送られるという、企業でよく見られる慣行について論じています。また、Ameliaが「10K」（AIによる収益担当副社長）を基盤として、わずか半日で開発したAI更新エージェントを紹介しています。 このAIエージェントは、大口顧客だけでなく、すべての更新案件に対してパーソナライズされた更新メール、資料、データを作成することで、更新プロセスを効率的に処理するように設計されています。 AI技術を活用することで、SaaS企業は更新プロセスを効率化し、顧客エンゲージメントを向上させ、新規顧客獲得に費やすべき時間を犠牲にすることなく、すべての顧客にパーソナライズされた対応を提供できるようになります。これは、SaaS業界において、テクノロジーを活用して顧客関係を強化し、ビジネスの成長を促進することの重要性を浮き彫りにしています。</description>
-      <pubDate>Wed, 02 Sep 2026 14:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/our-newest-ai-agent-is-a-renewal-agent-it-builds-a-better-renewal-deck-than-any-human-could-for-every-single-account-not-just-the-big-ones/</guid>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
