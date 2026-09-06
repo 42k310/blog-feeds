@@ -5,6 +5,13 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 03:04:32 GMT</lastBuildDate>
+    <item>
+      <title>カリフォルニア州はSaaSやAIツールに課税しており、これによりソフトウェアの価格が8～10％高くなる見込みです。SB 122が購入者とベンダーに与える影響について解説します。</title>
+      <link>https://www.saastr.com/california-is-taxing-saas-and-ai-tools-and-is-about-to-make-your-software-8-10-more-expensive-heres-what-sb-122-does-to-buyers-and-vendors/</link>
+      <description>2027年1月1日より施行されるカリフォルニア州のSB 122法は、既製ソフトウェアおよびSaaSを売上税の課税対象とし、他の州の制度と整合させることで、年間20億ドルの税収を見込んでいる。 税率は購入者の所在地に基づき、7.25％から約10.75％の範囲となります。同法は「有形動産」の定義を「デジタル製品」まで拡大しており、B2B SaaSベンダーに影響を及ぼします。 既製ソフトウェアは課税対象となる一方、カスタムソフトウェアやIaaS、PaaSなどのデジタルインフラは免税となります。課税地判定のルールでは購入者のカリフォルニア州内の住所が優先され、課税対象となる要件（ネクサス）には、物理的な拠点の存在またはカリフォルニア州内での売上高50万ドル以上が含まれます。 単一の購入者に対する年間売上高が500万ドルを超えるベンダーは、税金の徴収責任を購入者に移管することになります。B2B企業は、カリフォルニア州税・手数料管理局（California Department of Tax and Fee Administration）への登録および法令遵守に向けた準備を行う必要があります。カリフォルニア州で事業を展開するSaaS企業にとって、同法の微妙なニュアンスを理解し、納税義務を評価し、価格戦略を適応させることが極めて重要です。</description>
+      <pubDate>Sat, 05 Sep 2026 14:10:29 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/california-is-taxing-saas-and-ai-tools-and-is-about-to-make-your-software-8-10-more-expensive-heres-what-sb-122-does-to-buyers-and-vendors/</guid>
+    </item>
   </channel>
 </rss>
