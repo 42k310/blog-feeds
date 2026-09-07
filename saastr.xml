@@ -5,6 +5,29 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:04:39 GMT</lastBuildDate>
+    <item>
+      <title>今週の「20VC」に関するジェイソンの見解：ロックはガードレールを上回る、エージェントがソフトウェアを選ぶ、そして448件の未完了タスクを抱えながらの構築</title>
+      <link>https://www.saastr.com/jasons-takes-on-this-weeks-20vc-locks-beat-guardrails-agents-pick-your-software-and-building-with-448-open-tasks/</link>
+      <description>この記事では、あるポッドキャストのエピソードをもとに、SaaS企業に向けた重要な洞察と実践的なアドバイスについて論じています。主なポイントは以下の通りです。
+1. AIエージェントが連携し、自律的に意思決定を行うことの影響を理解すること。
+2. 書き込み権限を持つAIエージェントによる予期せぬ行動に備えたシステム設計の重要性。
+3. 予測不可能な結果を未然に防ぐため、ルールとガードレール間の矛盾に対処すること。
+4. AIエージェントのアクセスを制限する権限階層を導入し、データセキュリティを確保すること。
+5. エージェントがAIツールを好んで利用している状況を認識し、効率向上のためにそれらを活用すること。
+6. AIエージェントが自然に好んで利用するツールを観察し、それを調達判断の指標とすること。
+7. SaaS企業におけるAI主導のGTM（市場投入）戦略の成長可能性を検討すること。
+
+重要なポイントは、AIエージェントの自律的な行動に対応できるようシステムを積極的に設計し、明確なルールと権限を確立し、生産性を高めるAIツールを活用することです。また、SaaS企業はAIのトレンドを常に把握し、AI主導の戦略がもたらす成長機会を最大限に活用すべきです。</description>
+      <pubDate>Sun, 06 Sep 2026 18:26:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/jasons-takes-on-this-weeks-20vc-locks-beat-guardrails-agents-pick-your-software-and-building-with-448-open-tasks/</guid>
+    </item>
+    <item>
+      <title>「SaaSpocalypse」の先へ：2026年の勝者と敗者（現時点での状況）</title>
+      <link>https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/</link>
+      <description>この記事では、市場の変動が続いた後、特にAI分野におけるB2Bソフトウェア株の回復について論じている。 主なポイントとして、IGVやXSWといったテクノロジー・ソフトウェアETFの回復が挙げられており、CrowdStrikeやTwilioといった企業が堅調な成長を見せている。また、CrowdStrike、Twilio、Snowflake、Datadogといった企業については、年間経常収益（ARR）や成長率といったSaaSの指標が注目されている。 また、SaaSビジネスモデルにおけるAIワークロード、価格設定モデル、顧客集中リスクといった要因の重要性が強調されている。さらに、セールスフォースのような大手既存企業の業績や、市場動向がそれらの株価に与える影響についても言及されている。 実践的な示唆としては、利用量ベースの価格モデルに注力すること、顧客集中リスクを監視すること、サイバーセキュリティ分野におけるAIの導入といった市場動向を常に把握しておくことが挙げられています。全体として、この記事はB2Bソフトウェアセクター、特にAI技術や革新的な価格戦略を活用している企業における回復力と成長の可能性を強調しています。</description>
+      <pubDate>Sun, 06 Sep 2026 14:10:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/</guid>
+    </item>
   </channel>
 </rss>
