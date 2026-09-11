@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:04:41 GMT</lastBuildDate>
+    <item>
+      <title>20VC × SaaStr：ジェンセン氏がAGIを発表、シリーズC前のセカンダリーで1億7000万ドルを調達、そしてインデックスが同分野から撤退した理由</title>
+      <link>https://www.saastr.com/20vc-x-saastr-jensen-declares-agi-170m-of-secondary-before-the-series-c-and-why-index-walked-away-from-town/</link>
+      <description>この記事では、InstinctやGrokBotといった新しいコンシューマー向けエージェントにおいて、利用規約に違反するものの有用な機能を提供するという「ルール破り」の重要性について論じている。また、法的制約があるため、上場企業に比べてスタートアップの方がルールを破る上で有利である点も強調されている。 また、Instinctへの25億ドルの投資を見送った意思決定プロセスについても掘り下げ、こうした決定は単に製品志向ではなく、ポートフォリオ全体に基づいて行われるものであることを強調している。消費者向け投資においては、スタートアップが早期に勢いを確立し、その後で収益化を図る必要性が強調されている。 さらに、この記事では、ジェンセン・フアン氏がAGI（汎用人工知能）の到来を宣言したことにも触れ、その背景としてNVIDIAのチップでトレーニングされたOpenAIのGPT Astraを挙げています。AGIという概念は「ナンセンスな用語」として疑問視され、焦点はコード開発への多額の投資へと移っています。 全体として、この記事は、製品機能における「常識破り」の動向、SaaS業界における投資意思決定、そしてAI技術の進化する状況について、洞察を提供している。</description>
+      <pubDate>Thu, 10 Sep 2026 16:00:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-jensen-declares-agi-170m-of-secondary-before-the-series-c-and-why-index-walked-away-from-town/</guid>
+    </item>
+    <item>
+      <title>売上高60億ドルを達成したSnowflakeから得られた5つの興味深い知見：37％の成長率と加速する勢い、126％のNRR、そしてAI投資の財源確保に向けた粗利益率の下方修正</title>
+      <link>https://www.saastr.com/5-interesting-learnings-from-snowflake-at-6-billion-in-revenue-37-growth-and-accelerating-126-nrr-and-a-gross-margin-guided-down-to-pay-for-ai/</link>
+      <description>Snowflakeの2027年度第2四半期の決算は目覚ましい成長を示し、製品売上高は前年同期比37％増の14億9000万ドルに達した。決算発表後、同社の株価は急騰し、過去最高値に迫った。 スノーフレークは通期の製品売上高見通しを大幅に上方修正し、成長の再加速を示唆した。 主な注目点としては、AI製品が一部牽引した、前四半期比での製品売上高の大幅な伸びが挙げられます。AI製品を中核製品と統合するというスノーフレークの戦略は成功を収めており、AI製品が成長に大きく貢献しています。また、AIを中核製品と同じ課金体系に組み込むという同社の価格設定方針も、売上拡大に効果を発揮しています。 CoCoのような製品を通じてコスト管理能力を強化するスノーフレークの取り組みは、顧客から好評を博している。同社の見通しでは、若干の減速は予想されるものの、引き続き堅調な業績が示唆されている。SaaS企業は、革新的な製品提供と戦略的な価格設定を通じて成長を推進するスノーフレークのアプローチから学ぶことができる。</description>
+      <pubDate>Thu, 10 Sep 2026 14:10:56 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-snowflake-at-6-billion-in-revenue-37-growth-and-accelerating-126-nrr-and-a-gross-margin-guided-down-to-pay-for-ai/</guid>
+    </item>
   </channel>
 </rss>
