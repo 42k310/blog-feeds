@@ -5,6 +5,24 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:04:43 GMT</lastBuildDate>
+    <item>
+      <title>ハーヴェイは、すべての派遣先へ元実務弁護士を1名ずつ配置している。その数は約180名に上る。そのモデルの仕組みは以下の通りだ。</title>
+      <link>https://www.saastr.com/harvey-puts-a-former-practicing-lawyer-in-every-deployment-about-180-of-them-heres-how-that-model-works/</link>
+      <description>SaaS企業は、B2B AI分野における「フォワード・デプロイメント・エンジニア（FDE）」の重要性を再認識しつつあります。この分野の有力企業であるHarveyは、プロダクトマネージャーやソフトウェアエンジニアに加え、弁護士をFDEチームに組み込むという独自のアプローチを採用しています。これらのチームは顧客と直接連携し、カスタマイズされたソリューションを提供しています。 HarveyのFDEモデルには、8～10年の実務経験を持つ元弁護士であるリーガルエンジニアが含まれており、あらゆる展開において深いドメイン専門知識が確保されています。この意図的かつコストのかかる組織構造の選択により、Harveyは世界トップクラスの法律事務所を含む幅広いクライアントにサービスを提供することが可能となっています。 主なポイントは以下の通りです：ドメイン専門家を顧客対応に直接関与させること、効率化のための機能分割、OTE（総報酬額）と株式構成の開示、リーガルエンジニアによる製品ロードマップの策定、およびリーガルエンジニアの外部認定。豊富な経験を持つ法律の専門家を採用することで、ハーヴェイは一般的な学習曲線を回避し、当初から信頼性と顧客ニーズに対する洞察を獲得しています。 このアプローチは、効果的なソリューションに深い専門知識が不可欠な法律のような複雑な分野において、特に価値があります。</description>
+      <pubDate>Sun, 13 Sep 2026 14:10:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/harvey-puts-a-former-practicing-lawyer-in-every-deployment-about-180-of-them-heres-how-that-model-works/</guid>
+    </item>
+    <item>
+      <title>SaaStr「今週のAIアプリ」：Sumble。Kaggleの創業者たちが、連絡先ではなく「文脈」を軸にセールス・インテリジェンスを再構築した</title>
+      <link>https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/</link>
+      <description>Sumbleは、Kaggleの創業者たちが開発したSaaSツールであり、基本的な企業情報を超えたターゲットアカウントに関する詳細なインサイトを提供することを目的としています。さまざまな公開情報源からデータを収集し、チーム構成、導入技術、採用活動、進行中のプロジェクトなどを含む、各アカウントの構造化されたナレッジグラフを構築します。 連絡先や自動化に重点を置く従来のツールとは異なり、Sumbleはアカウント内部で何が起きているかを理解することに重点を置き、営業およびマーケティングチームに対して、よりパーソナライズされた的を絞ったアプローチを提供します。
+
+主なインサイトとしては、ターゲットアカウントの内部ダイナミクスを理解することへとシフトしつつあるB2BのGTM（Go-to-Market）戦略、従来の連絡先ベースのアプローチの限界、そして効果的なアウトリーチを行う上で組織内の具体的な詳細を把握することの重要性などが挙げられます。Sumbleの独自の価値は、テクノロジーを企業内の特定のチームに紐付けることにあり、これによりアカウントのダイナミクスに対する理解を深め、より精度の高いターゲティングを可能にします。
+
+SaaS企業は、詳細なアカウントインサイトに焦点を当て、公開データソースを活用して実用的な知見を得るとともに、一般的な連絡先ベースの戦略にとどまらず、より効果的な営業・マーケティング活動を推進することで、Sumbleのアプローチから学ぶことができます。</description>
+      <pubDate>Sun, 13 Sep 2026 12:14:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/</guid>
+    </item>
   </channel>
 </rss>
