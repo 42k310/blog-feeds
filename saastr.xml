@@ -5,13 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 03:04:34 GMT</lastBuildDate>
-    <item>
-      <title>「公式記録システム」であることは、顧客維持に役立ちます。しかし、それだけでは成長にはつながりません。</title>
-      <link>https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/</link>
-      <description>ServiceTitanは最近、約1,000社の共通顧客を対象にPodiumとの連携を終了しましたが、これはパートナーとの提携を打ち切っても顧客を維持できる「システム・オブ・レコード」としての強みを示しています。ServiceTitanの成長率は25％と堅調を維持していますが、記録を自社で管理することの主な利点は、成長の加速というよりはむしろ顧客維持にあります。 「システム・オブ・レコード」は、Salesforceの高いストレージ料金が示すように、コストのかかるデータベースである。レコードを保有することにはメリットがあるものの、ServiceTitanの顧客基盤におけるPodiumのAIエージェントARRの成功が示すように、エージェントによる販売の成功を保証するものではない。オープンプラットフォームは専門業者にエージェント案件を奪われるリスクがあり、一方、クローズドプラットフォームは最終的に顧客を失う可能性がある。 SalesforceのAPI呼び出し制限のようなAPIの制約は、成長を妨げる可能性があります。ServiceTitanがマーケットプレイスのポリシーやAPI利用規約を通じて「システム・オブ・レコード」をめぐる地盤を守ろうとする戦略的な動きは、高い更新率と価格決定力を維持するために「システム・オブ・レコード」を活用することの重要性を浮き彫りにしています。 Podiumとの連携を断つことは、潜在的な収益損失を防ぐ手段にはなりますが、収益の成長に直接寄与するものではありません。このケーススタディは、システム・オブ・レコードに依存するSaaS企業にとって、顧客維持と収益創出のバランスがいかに重要であるかを強調しています。</description>
-      <pubDate>Tue, 22 Sep 2026 14:10:02 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/</guid>
-    </item>
+    <lastBuildDate>Wed, 23 Sep 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
