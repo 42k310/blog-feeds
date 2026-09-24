@@ -5,6 +5,21 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 03:04:41 GMT</lastBuildDate>
+    <item>
+      <title>SaaStrのAIガイド：トップクラスのインバウンドAIエージェントの構築――17,000件の会話、約600件の商談設定、新規ビジネスが60%増加</title>
+      <link>https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/</link>
+      <description>この記事では、営業プロセスにAIエージェントを導入したことが、SaaStr AIの新規ビジネスを大幅に拡大させた経緯について解説しています。 主なポイントは以下の通りです：
+- 過去12ヶ月間で、AIエージェントは見込み客と17,000件の会話を行い、「SaaStr AI Annual 2026」のミーティングを約600件設定しました。2027年にはその数が2倍近く増加すると予測されています。
+- AIエージェントとセルフサービスエージェントの組み合わせにより、3名からなるチームによる新規受注が60％増加した。
+- AIエージェントの導入プロセスでは、長文フォームや応答の遅れといった旧来の手法を廃止し、リアルタイムでの見込み客選定と即時の面談予約に重点を置いた。
+- 購入意欲が最も高いページにAIエージェントを配置し、リアルタイムの商談適格性判断と即時のミーティング予約に重点を置くことで、営業プロセスはより効率的かつ顧客中心のものとなりました。
+- 成功指標としては、単なるチャット数ではなく、ミーティング数や成約件数の測定が重視され、このアプローチを通じてOpenRouterなどの著名なクライアントを獲得しました。
+- この戦略は、シームレスでテクノロジーを駆使した購買体験を重視する、テクノロジー志向かつAIネイティブな顧客に対して特に効果的です。
+
+SaaS企業は、このケーススタディから学び、AIエージェントを活用してリアルタイムの商談適格性判定、即時ミーティング予約、およびパーソナライズされた顧客対応を行うことで、効率性を高め、営業プロセスを強化することができます。</description>
+      <pubDate>Wed, 23 Sep 2026 14:10:29 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/</guid>
+    </item>
   </channel>
 </rss>
