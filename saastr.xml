@@ -5,41 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 03:04:44 GMT</lastBuildDate>
-    <item>
-      <title>Anthropicが2兆ドル規模のIPOを11月に延期、Metaの「Muse」が1位に、そして「話さない」モデルに4,000万ドルのシード資金：最新の20VC x SaaStr</title>
-      <link>https://www.saastr.com/anthropic-pushes-its-2-trillion-ipo-to-november-metas-muse-hits-1-and-a-40m-seed-for-a-model-that-doesnt-talk-the-latest-20vc-x-saastr/</link>
-      <description>ハリー・ステッビングス、ロリー・オドリスコル、ジェイソン・レムキンが出演した最近のポッドキャストでは、SaaS企業に関するいくつかの重要な洞察が明らかになった。 Anthropicは、目論見書に第3四半期の業績をより明確に提示するため、IPOを10月から11月に延期した。OpenAIは2030年までに2,780億ドルの資金を消費すると予測されており、2028年までに資金が枯渇する可能性がある。 ロリー・オドリスコル氏は、収益は大幅に伸びると予想される一方で、純キャッシュバーン率と設備投資額が膨大であり、OpenAIがインフラ面でオラクルやNVIDIAといったパートナーに依存している点を指摘した。ジェイソン・レムキン氏は、ハイテク業界では実際のキャッシュバーン率が予測を上回る傾向にあると警告した。 さらに、議論ではAnthropicのようなフロンティア系ラボにおける製造物責任保険の課題にも触れられ、大企業にとっては自己保険が現実的な選択肢となり得ることが示唆された。また、IPOを検討し、競争の激しい市場環境下で成長を遂げようとするSaaS企業にとって、戦略的なタイミング、財務計画、法的準備の重要性が強調された。</description>
-      <pubDate>Fri, 25 Sep 2026 18:17:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/anthropic-pushes-its-2-trillion-ipo-to-november-metas-muse-hits-1-and-a-40m-seed-for-a-model-that-doesnt-talk-the-latest-20vc-x-saastr/</guid>
-    </item>
-    <item>
-      <title>売上高11億3000万ドルを達成したGitLabから得られた5つの興味深い知見：売上高24％増、6週間で2000万ドルのフレックス、AI関連の原価が400ベーシスポイント上昇</title>
-      <link>https://www.saastr.com/5-interesting-learnings-from-gitlab-at-1-13-billion-in-revenue-24-billings-growth-20m-of-flex-in-six-weeks-and-400-basis-points-of-ai-margin-cost/</link>
-      <description>当初は課題に直面していたGitLabは、2027年度第2四半期の堅調な業績により、大幅な業績回復を果たしました。売上高の伸び率は21％と、前四半期に比べて鈍化したものの、算定済み請求額は24％と倍増し、総受注額は過去最高を記録しました。同社が「Flex」への移行を行ったことで、収益認識に影響が生じ、2027年度の売上高が将来の期間に繰り越されることになりました。 CFOは、ガイダンスにはまだ織り込まれていない「Flex」への移行による売上高への潜在的な影響について言及した。特に、報告された42％の純ARR成長率は、当四半期に新規に計上されたARRを指しており、ARR総額の成長率ではない。本記事では、SaaS企業にとって、請求額、収益認識、ARR成長率といったSaaS指標を理解することの重要性を強調している。 SaaS企業にとっての重要なポイントは、請求額の監視、収益認識の変更の理解、および純ARR成長率などの指標を正確に解釈することの重要性である。SaaS企業は、ビジネスモデルの変更が財務指標に与える影響を慎重に検討し、報告される指標と実際の事業実績との整合性を確保することが推奨される。</description>
-      <pubDate>Fri, 25 Sep 2026 14:10:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/5-interesting-learnings-from-gitlab-at-1-13-billion-in-revenue-24-billings-growth-20m-of-flex-in-six-weeks-and-400-basis-points-of-ai-margin-cost/</guid>
-    </item>
-    <item>
-      <title>SaaStr様：どうすればより大きな取引を成立させられるでしょうか？</title>
-      <link>https://www.saastr.com/how-do-we-close-bigger-deals-in-saas/</link>
-      <description>SaaSビジネスにおいて、より大規模な取引を成立させるには、以下の戦略を検討してください。
-
-1. **経験豊富な最高収益責任者（CRO）または営業担当副社長（VP of Sales）を採用する**。高額な価格帯での販売経験があり、顧客を遠ざけることなく取引額を最大化できる人材を選びましょう。 
-   
-2. **エンタープライズ向け機能を開発**し、SOC-2やHIPAAなどの業界基準に準拠することで、より大規模な顧客を惹きつけましょう。エンタープライズ顧客に必要な連携機能や機能の構築に注力してください。
-
-3. 契約締結においては、**忍耐強くかつ積極的に**取り組むこと。大規模な取引には時間と労力がかかることを理解しましょう。最初から大きな契約を迫るのではなく、まずは顧客の信頼を築くことに注力してください。
-
-4. **カスタマーサクセスに投資する**。これには、フロントエンドエンジニア、プリセールスサポート、カスタマーサクセスマネージャーの配置が含まれます。販売後も顧客と関わり続け、有機的な成長と事業拡大を促進します。
-
-5. **大規模な取引では、より長い販売サイクルを受け入れる**。可能な限りサイクルの短縮に努める一方で、大規模な取引の成約には時間がかかることを理解します。
-
-6. 有望な見込み客や既存顧客との**対面での打ち合わせを優先**しましょう。オンライン会議は便利ですが、対面でのやり取りの方が、より大規模かつ迅速な成約につながる可能性があります。
-
-これらの戦略に従い、ハイエンド市場への成長に注力することで、SaaS企業はより大規模な取引を成功裏に成立させ、事業の拡大を推進することができます。</description>
-      <pubDate>Fri, 25 Sep 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-do-we-close-bigger-deals-in-saas/</guid>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 15:04:25 GMT</lastBuildDate>
   </channel>
 </rss>
