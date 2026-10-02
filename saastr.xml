@@ -5,6 +5,42 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 15:04:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:04:50 GMT</lastBuildDate>
+    <item>
+      <title>20VC × SaaStr：AnthropicのS-1書類が流出、Instinctが33日間で100億ドルを達成、AMDがWorld Labsを買収、MetaがMongoDBのCEOを引き抜く</title>
+      <link>https://www.saastr.com/20vc-x-saastr-anthropics-s-1-leaks-instinct-hits-10-billion-in-33-days-amd-buys-world-labs-and-meta-poaches-mongodbs-ceo/</link>
+      <description>ベンチマークのジェネラル・パートナーであるジャック・アルトマン氏は、8月にサービスを開始したにもかかわらず10億ドルの資金調達ラウンドを達成したインスティンクト（Instinct）のような企業への投資を同社が決定した経緯について語った。 また、この対談では、アンソロピック（Anthropic）のS-1書類が流出した件についても触れられ、46億ドルの売上高、80億ドルの営業損失、5,180億ドルのコミットメントが明らかになった。こうしたネガティブな印象にもかかわらず、ジャック氏は、一般投資家はより長期的な視点を持つ可能性があるとの見解を示した。 この議論では、SaaS企業への投資を評価する際、市場構造と長期的な潜在力を考慮することの重要性が浮き彫りになった。
+
+主なポイントとしては、AIにおけるコンシューマーエージェントの重要性、SaaSビジネスモデルの進化、そして短期的な変動ではなく長期的な成長の可能性に焦点を当てる必要性が挙げられる。 SaaS企業は、持続可能な収益源の構築、市場動向の把握、そしてIPO時の世間の注目への備えを優先すべきである。全体として、このエピソードでは、SaaS業界における戦略的な成長計画、市場でのポジショニング、そして投資家の信頼維持の重要性が強調された。</description>
+      <pubDate>Thu, 01 Oct 2026 16:01:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-anthropics-s-1-leaks-instinct-hits-10-billion-in-33-days-amd-buys-world-labs-and-meta-poaches-mongodbs-ceo/</guid>
+    </item>
+    <item>
+      <title>a16zの最新レポート「State of Markets」から得られた10の重要な知見：水平型B2B取引の倍率は売上高の2.7倍、新規スタートアップの成長率は500％以上、ユニコーン企業の55％は資金が2年未満しか持たない</title>
+      <link>https://www.saastr.com/the-10-most-important-learnings-from-a16zs-latest-state-of-markets-horizontal-b2b-trades-at-2-7x-revenue-new-startups-are-growing-500-and-55-of-unicorns-have-under-2-years-of-runway/</link>
+      <description>a16z Growthの9月版「State of Markets」プレゼンテーション資料は、半導体、メモリ、防衛、そして「ビットからアトムへ」というシフトといったマクロトレンドに焦点を当てています。しかし、B2B、ベンチャー、スタートアップに関するセクションには、AI分野の創業者や投資家にとって有益な洞察が盛り込まれています。 主なポイントは以下の通りです。
+
+1. 水平型B2Bアプリの評価倍率は、直近12ヶ月（TTM）の売上高の2.7倍が中央値となっており、クラウド、データ、AIインフラといった各セグメントではより高い倍率が付けられています。
+2. 20～40％の成長率を示す上場B2B企業は、予想売上高の9～13倍で取引されているのに対し、10～20％の成長率の企業は4～5倍で取引されており、企業価値評価において成長率が重要であることを浮き彫りにしている。
+3. 上場ソフトウェア企業の約75％は黒字ですが、20％以上の成長率を維持しているのはわずか30％にとどまっており、高成長よりも収益性を重視する傾向が強まっていることが示されています。
+4. 上場B2B企業の成長率は上位四分位で20％前後で安定しており、中央値は12～13％となっている。これは、企業価値評価において成長率を維持することの重要性を示している。
+
+創業者は、競争優位性の確保に注力し、企業価値評価のために成長率を優先し、成長と並行して黒字化を目指し、企業価値を高めるために安定した成長率を維持することが推奨される。</description>
+      <pubDate>Thu, 01 Oct 2026 14:10:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-10-most-important-learnings-from-a16zs-latest-state-of-markets-horizontal-b2b-trades-at-2-7x-revenue-new-startups-are-growing-500-and-55-of-unicorns-have-under-2-years-of-runway/</guid>
+    </item>
+    <item>
+      <title>新任の副社長が失敗するかどうかは、最初の取締役会でわかる。その明確な兆候を以下に紹介する。</title>
+      <link>https://www.saastr.com/youll-know-if-that-new-vp-is-going-to-fail-at-the-first-board-meeting/</link>
+      <description>ジェイソン・レムキン氏は、新たに就任した最高収益責任者（CRO）や営業担当副社長が、初めての取締役会に万全の準備をして臨むことの重要性を強調しています。同氏は、新任の幹部が主要顧客、進行中の取引、チームメンバー、潜在的なリスクといった重要な情報を把握していない場合、成功の可能性は極めて低いと指摘しています。
+
+このツイートから得られる重要な示唆としては、営業リーダーが就任当初から、自身のチーム、主要顧客、および営業パイプライン全体について深い理解を持っていることが不可欠であるという点です。こうした不可欠な情報に対する準備が不足していると、新任幹部が十分な情報に基づいた意思決定を行い、効果的に成長を牽引する能力が阻害される恐れがあります。
+
+SaaS企業にとって、このツイートは、新しい営業リーダーに対する徹底したオンボーディングプロセスの重要性を浮き彫りにしています。初日からビジネスに関する必要な知識と洞察を確実に身につけさせることは、彼らの成功への土台を築き、企業の業績にプラスの影響を与えることにつながります。
+
+結論として、このツイートは、SaaS企業が新たな営業リーダーの初期準備と知識の伝達を優先し、組織に対する彼らの潜在的な影響力を最大化するよう促すものとなっています。</description>
+      <pubDate>Thu, 01 Oct 2026 12:18:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/youll-know-if-that-new-vp-is-going-to-fail-at-the-first-board-meeting/</guid>
+    </item>
   </channel>
 </rss>
