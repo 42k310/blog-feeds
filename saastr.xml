@@ -5,36 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 03:04:54 GMT</lastBuildDate>
-    <item>
-      <title>私たちは独自のCalendlyをVibe Codedで開発しました。AIエージェントが私たちにそうするよう促してくれたのですが、その判断は正しかったのです。</title>
-      <link>https://www.saastr.com/we-vibe-coded-our-own-calendly-our-ai-agent-pushed-us-to-do-it-and-it-was-right/</link>
-      <description>この記事では、すでにCalendlyを利用しているにもかかわらず、独自のスケジュール管理ツールを構築することになった背景にある意思決定プロセスについて論じている。同社のAIマーケティング担当副社長である10Kは、見込み客に対してよりパーソナライズされた統合的な体験を提供できるという理由から、このツールの構築を提案し、その開発を引き受けた。 この独自ツールは、10KおよびSalesforceのデータを活用し、リアルタイムでの見込み客プロファイル生成、チームの専門知識に基づいたインテリジェントなルーティング、そしてパーソナライズされたフォローアップアクションを可能にしています。Calendlyとの連携ではなく、ツールを独自に開発するという決定は、より高度なカスタマイズと、既存システム内でのシームレスなデータフローへのニーズによって導かれたものです。 開発期間の短さと、見込み客とのやり取りを強化するツールの機能性が、社内開発という決定を正当化するものでした。この記事では、既存のSaaSツールを活用することの重要性を強調しつつも、カスタムソリューションを構築することで独自の価値を提供し、社内システムとの統合性を高めることができる事例についても取り上げています。 全体として、SaaSビジネスにおいてビジネスプロセスを最適化し、顧客体験を向上させるためには、既製のSaaSソリューションの利用とカスタムツールの構築との間のトレードオフを慎重に評価することが重要であるという点が、この記事の主な教訓です。</description>
-      <pubDate>Sat, 03 Oct 2026 15:00:09 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-vibe-coded-our-own-calendly-our-ai-agent-pushed-us-to-do-it-and-it-was-right/</guid>
-    </item>
-    <item>
-      <title>なぜOktaの株価は……11％の成長で3倍になったのか。今年のB2B業界における最大級の再評価事例から得られた5つの興味深い知見：cRPOが14％増、新規製品による受注が30％、予想利益が約50倍</title>
-      <link>https://www.saastr.com/okta-tripled-on-11-growth-5-interesting-learnings-from-one-of-the-biggest-re-ratings-in-b2b-this-year-14-crpo-growth-30-of-bookings-from-new-products-and-50x-forward-earnings/</link>
-      <description>SaaS企業のOktaは、SaaS市場の回復を象徴する存在だ。4月には市場から否定的な見方をされていたにもかかわらず、同社の株価は5か月で3倍に上昇した。 この成長は、AI技術と受注高の著しい伸びに牽引されたものです。オクタの第2四半期の売上高は11％増、サブスクリプション売上高は12％増となり、第3四半期の売上高は前年同期比で10％の伸びが見込まれています。 同社の成功は、受注高の30％を占める新製品の導入など、市場動向に適応する能力にも起因している。さらに、売上高の11％成長を維持しつつ、残存履行義務（cRPO）を14％まで加速させることに注力している点は、投資家が評価する前向きな傾向を示している。 現在の売上高よりも将来の受注を重視するこの戦略は、AtlassianやSalesforceといった他のSaaS企業でも成功を収めています。市場ニーズへの対応、AI技術の活用、そして将来の受注を優先するOktaの取り組みが、株価の上昇と市場全体での成功につながっています。</description>
-      <pubDate>Sat, 03 Oct 2026 12:10:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/okta-tripled-on-11-growth-5-interesting-learnings-from-one-of-the-biggest-re-ratings-in-b2b-this-year-14-crpo-growth-30-of-bookings-from-new-products-and-50x-forward-earnings/</guid>
-    </item>
-    <item>
-      <title>SaaStr「今週のAIアプリ」：Chargebee。Gorgias、CodeRabbit、Lambda、ZapierがAIの価格設定を行う際に活用している課金システム</title>
-      <link>https://www.saastr.com/saastr-ai-app-of-the-week-chargebee-the-billing-system-behind-how-gorgias-coderabbit-lambda-and-zapier-price-ai/</link>
-      <description>6,500社以上の企業に利用されている請求プラットフォーム「Chargebee」は、AI企業が価格設定モデルにおいて直面する課題に対処するため、2026年に新機能を導入しました。同社は現在、マージン管理機能を備えたクレジット型、アクション型、アウトカム型の各価格設定を統合した単一のカタログを提供しており、下流のプロセスに支障をきたすことなく変更を管理しやすくなりました。 Chargebeeの新しいセルフサービスプラン「Flow」は、利用イベントに基づいた柔軟な価格設定オプションを提供します。同プラットフォームは、ガートナー社より3年連続で「定期課金分野のリーダー」として認定されています。 
-
-CodeRabbit、Gorgias、LimeChat、Lambda、ZapierといったAI企業は、Chargebeeのソリューションを成功裏に導入し、アクティブなエージェントの稼働時間、チケット件数、解決された会話、成功した会話といったさまざまな単位に基づいて、自社の価格設定モデルを最適化しています。 ChargebeeのMCPサーバーは、Claude、Cursor、ChatGPTといったAIツールとのシームレスな連携を可能にし、リアルタイムのデータ処理を実現します。 また、このプラットフォームは同一の請求レコード上でCPQ機能も提供しており、営業部門と財務部門の連携を強化します。さらに、Chargebeeの管理機能には、しきい値アラート、超過料金、上限額、および共有クレジットプールを効果的に管理するための保留・承認機能が含まれています。</description>
-      <pubDate>Sat, 03 Oct 2026 10:00:42 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-chargebee-the-billing-system-behind-how-gorgias-coderabbit-lambda-and-zapier-price-ai/</guid>
-    </item>
-    <item>
-      <title>エージェントAPIへのアクセスに関して、24万ドルの見積もりが提示されました。担当エージェントからは、5ドルのPostgresインスタンスを提案されました。</title>
-      <link>https://www.saastr.com/we-got-a-240000-estimate-for-agent-api-access-our-agent-suggested-a-5-postgres-instance/</link>
-      <description>この記事では、Salesforce、Atlassian、HubSpotといったSaaSベンダーがエージェントアクセスに課金を導入したことによる影響について論じており、SaaStrのような企業には年間最大24万ドルのコストが発生する可能性がある。 エージェントアクセスへの課金化への移行は、10KのようなAPIの利用増加への対応策である。これらのAPIは、以前は課金されることなく、さまざまなアプリケーション間で1日あたり数千回のAPI呼び出しを行っていた。こうした新たなコストを軽減するため、SaaStrは、API呼び出しと費用を削減するために、5ドルのPostgresインスタンスにデータをミラーリングするなどの戦略を検討している。 この記事では、こうした価格変更を踏まえて、現在のSaaSスタックの費用対効果を評価することの重要性を強調しており、一から検討し直せば、異なるベンダーを選択することになる可能性を示唆している。 著者は、エージェントへのアクセスに課金するこの傾向により、企業がSaaSツールセットを見直し、APIアクセス料がそれほど高くないソリューションを優先するようになる可能性があると予測しています。SaaSベンダーによるこうした価格戦略の転換は、企業がコストと業務効率を最適化するために、自社のテクノロジースタックを再評価し、進化し続けるSaaS環境に適応する必要性を浮き彫りにしています。</description>
-      <pubDate>Sat, 03 Oct 2026 01:29:31 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-got-a-240000-estimate-for-agent-api-access-our-agent-suggested-a-5-postgres-instance/</guid>
-    </item>
+    <lastBuildDate>Sun, 04 Oct 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
