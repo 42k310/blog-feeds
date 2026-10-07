@@ -5,15 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 03:04:33 GMT</lastBuildDate>
-    <item>
-      <title>AIはカスタマーサポートのどの程度を実際に解決できるのか？ トップクラスのベンダーでは約70％だ。中央値は48％である。13社のベンダーから得られた実際のデータはこちらだ。</title>
-      <link>https://www.saastr.com/how-much-of-your-customer-support-can-ai-really-resolve-the-best-get-about-70-the-median-is-48-heres-the-real-data-from-13-vendors/</link>
-      <description>EC業界をリードするAI CXプロバイダーで、ARR（年間反復収益）が1億ドルに達するGorgiasは、13社のベンダーを対象に、212の稼働中の中堅ECサイトを用いてベンチマークテストを実施しました。 このテストでは、AIエージェントによるカスタマーサポート問題の解決能力を評価した結果、最も優れたAIエージェントは約70％の会話で問題を完全に解決したのに対し、ベンダーの中央値は48％にとどまった。上位5社のベンダーの平均解決率は70％であった。 自動化率64％以上かつ品質スコア65以上を達成したのは、Yuma、Decagon、Gorgiasの3社のみでした。ブランドで広く利用されているZendesk、Intercom、Klaviyoなどのベンダーは、このベンチマークにおいて解決率が42％未満にとどまりました。
-
-このベンチマークは、既存のヘルプデスクやメールツールにバンドルされたAIが、必ずしも最も効果的な選択肢ではない可能性を浮き彫りにした。また、自動化率と応答品質のバランスを取ることの重要性も強調された。 このベンチマークでは、10社のベンダーのうち9社が4週間の期間で自動化率と品質指標の低下を経験しており、継続的なモニタリングと改善の必要性が示されました。ベンチマークにおける「解決」の定義では、人間の介入が一切ないことが求められており、顧客を他のチャネルに転送することなく、AIが自律的に会話を処理することの重要性が強調されました。</description>
-      <pubDate>Tue, 06 Oct 2026 14:10:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-much-of-your-customer-support-can-ai-really-resolve-the-best-get-about-70-the-median-is-48-heres-the-real-data-from-13-vendors/</guid>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
