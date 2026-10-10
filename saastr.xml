@@ -5,6 +5,15 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:04:37 GMT</lastBuildDate>
+    <item>
+      <title>IPOまでには12年かかります。その後、ベンチャーキャピタルが投資資金を回収できるようになるまでさらに2～3年かかります。また、創業者は通常、年間約4％程度しか株式を売却できません。</title>
+      <link>https://www.saastr.com/it-takes-12-years-to-ipo-then-another-2-3-for-your-vcs-to-get-liquid-and-founders-can-generally-only-sell-about-4-a-year/</link>
+      <description>この記事では、SaaS企業のステークホルダーにとって、流動性イベント、特にIPOのタイムラインとプロセスを理解することの重要性を強調している。また、IPOは流動性イベントと見なされているものの、実際の資金分配には数年を要する場合があり、主要投資家はIPO後も長期間にわたり株式を保有し続けることが多い点を指摘している。 主な知見としては、テクノロジー企業がIPOに至るまでの期間の中央値が11.5年であること、また2025年上半期におけるベンチャーキャピタル（VC）出資企業のエグジットのうち、上場によるものがわずか4％にとどまっていることが挙げられる。 この記事では、Snowflake、Rubrik、Samsara、Figmaといった企業の詳細な事例を挙げ、IPO後のVCの資金回収までのタイムラインを紹介しており、一部の投資家が保有株式を完全に売却するまでに10年以上を要していることが示されています。
+
+SaaS企業に向けた実践的なアドバイスとしては、IPOが即座に資金化されるイベントではないことを理解し、ステークホルダーは資金回収までの長期的なタイムラインに備えるべきである点が挙げられます。 創業者と投資家は、長期的なコミットメントを見据えた計画を立て、保有株式の相当部分がIPOから数年経たないと売却できない可能性があることを認識しておくべきだ。この理解は、SaaSビジネスに関わるすべての当事者にとって、期待値の管理や財務計画の策定に役立つだろう。</description>
+      <pubDate>Fri, 09 Oct 2026 14:10:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/it-takes-12-years-to-ipo-then-another-2-3-for-your-vcs-to-get-liquid-and-founders-can-generally-only-sell-about-4-a-year/</guid>
+    </item>
   </channel>
 </rss>
