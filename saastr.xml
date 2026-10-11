@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 03:04:37 GMT</lastBuildDate>
-    <item>
-      <title>アトラシアンのAI部門責任者：20以上のアプリにAI機能を追加し、チャット機能はリリース寸前で中止になりかけたほか、採用方針をジュニア層重視へと転換した</title>
-      <link>https://www.saastr.com/atlassians-head-of-ai-we-bolted-ai-onto-20-apps-almost-didnt-ship-chat-and-flipped-our-hiring-toward-juniors/</link>
-      <description>アトラシアンで17年間にわたり中心的な役割を果たしてきたシェリフ・マンスール氏は、20以上のアプリを管理する450名のプロダクトマネージャーを統括し、AI機能の導入とプロダクトマネジメントを指揮しています。500万人以上のユーザーがAI機能の恩恵を受けています。SaaStrのAIセッションにおいて、同氏は既存のB2BソフトウェアにAIを組み込む上での課題について言及しました。 アトラシアンは、アプリへのチャット機能の統合を含む様々な戦略を大規模に試験的に導入した。この決定は当初、社内で議論を呼んだが、最終的にはAI機能にとって有益であることが証明された。 マンスール氏は、チャットの役割をDOSのコマンドラインに例え、AIのユースケースにおける汎用性の高いインターフェースとして機能し、専用のUI機能の開発を導くものだと説明しました。また、チャットを通じたユーザーとのやり取りが、新たな機能、ワークフロー、ツールの創出につながったことを強調し、ユーザーのニーズに適応することの重要性を訴えました。 当初はチャット機能を段階的に廃止する計画もあったものの、ユーザーの間で高い人気を博していることは、ユーザーが最も頻繁に利用する場所にAIツールを統合することの重要性を示しています。マンスール氏のアドバイスは明確です。製品に毎日利用するユーザーがいるのであれば、機能開発のための知見を収集し、ユーザー体験を向上させるために、チャットの統合を検討すべきだということです。</description>
-      <pubDate>Sat, 10 Oct 2026 14:10:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/atlassians-head-of-ai-we-bolted-ai-onto-20-apps-almost-didnt-ship-chat-and-flipped-our-hiring-toward-juniors/</guid>
-    </item>
-    <item>
-      <title>SaaStr「今週のAIアプリ」：Remote。AIエージェントが運用できる3億ドル規模の給与計算プラットフォーム</title>
-      <link>https://www.saastr.com/saastr-ai-app-of-the-week-remote-the-300m-payroll-platform-your-ai-agent-can-run/</link>
-      <description>グローバルな給与計算・雇用管理プラットフォーム「Remote」は、AIの統合により大きな成功を収め、ARR（年間反復収益）が3億ドルを突破し、前年比300％の成長を達成しました。 同社の革新的なAI活用により、現在コードの85％以上がAIによって記述されており、人員削減を行うことなく従業員1人あたりの収益を50％増加させることに成功しました。RemoteのAI技術の進歩には、「Remote MCP」の導入が含まれており、これによりAIエージェントが給与計算を直接処理できるようになり、給与、コンプライアンス、組織データへの安全なアクセスが提供されています。 この技術は、BambooHRやWorkdayなどのプラットフォームと統合可能です。CEOのJob van der Voort氏は、機密性の高い給与データを取り扱うAIエージェントのために、安全な権限モデルを構築することの重要性を強調しています。さらに、Remoteではエンジニアリング分野へのAIの貢献度が大幅に増加しており、コードの85％以上がAIによって生成されています。 同社の従業員1人あたりの売上高は50％急増しており、全業務機能にわたるAI導入の好影響が示されています。この成功は、SaaS企業におけるAI主導の成長戦略の可能性を浮き彫りにするとともに、AIを活用して業務効率を高め、売上成長を促進することの重要性を強調しています。</description>
-      <pubDate>Sat, 10 Oct 2026 10:00:38 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-remote-the-300m-payroll-platform-your-ai-agent-can-run/</guid>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
