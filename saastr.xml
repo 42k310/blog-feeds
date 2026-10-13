@@ -5,22 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:04:52 GMT</lastBuildDate>
-    <item>
-      <title>SaaStrの最新AIエージェント活用ガイド「GTM編」が公開されました：3人の人間と21体以上のAIエージェントでSaaStrを運営して得た知見を、1冊の便利なガイドにまとめました</title>
-      <link>https://www.saastr.com/the-latest-saastr-ai-agent-playbook-for-gtm-is-out-everything-weve-learned-running-saastr-on-3-humans-and-21-ai-agents-in-one-handy-guide/</link>
-      <description>この記事では、SaaSビジネスの指標と成長戦略に焦点を当てた、2026年10月版の「AIエージェント・プレイブック for GTM」を紹介しています。AIエージェントの活用による主な成果として、480万ドルのパイプラインと240万ドルの成約案件を生み出し、収益のカニバリゼーションを招くことなく、成約件数と成約率を2倍に伸ばしたことなどが挙げられています。 今回の更新版には、「SaaStr AI Annual 2026」や「ICONIQ 2026 GTMベンチマーク」、実務担当者による実体験からの知見が盛り込まれています。また、エージェントをダッシュボードやトラッカーとして導入すること、APIを活用して競争優位性を確立すること、追加収益の創出に向けてAI SDRをBリードに集中させることなど、実践的なアドバイスが強調されています。 このプレイブックは、基礎、エージェントスタックの構築と運用、実地検証、将来的な導入に向けた教訓という4つのセクションで構成されています。また、ケーススタディ、市場データ分析、エージェントファースト戦略のための実践的なヒントも含まれています。 このプレイブックは saastr.ai/agents から無料でダウンロードでき、AIエージェントを活用して成長を目指すSaaS企業向けに、詳細な知見とリソースを提供しています。</description>
-      <pubDate>Mon, 12 Oct 2026 17:56:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-latest-saastr-ai-agent-playbook-for-gtm-is-out-everything-weve-learned-running-saastr-on-3-humans-and-21-ai-agents-in-one-handy-guide/</guid>
-    </item>
-    <item>
-      <title>当社のAIエージェントが、RenderをRailwayやVercelよりも選んだ。私はその名前をほとんど聞いたことがなかった。これこそが、「エージェント時代」における見込み客獲得のやり方だ。</title>
-      <link>https://www.saastr.com/our-ai-agent-picked-render-over-railway-and-vercel-id-never-heard-of-it-thats-how-you-get-leads-in-the-agent-age/</link>
-      <description>この記事では、SaaSアプリケーションのホスティングオプションを評価するためにSaaStr AI Connectを活用する方法について解説しています。AIエージェントは、常時稼働のWebサーバー、バックグラウンドワーカー、長時間実行ジョブ、ログの保存期間、ダウンタイムゼロのデプロイといった具体的な要件に基づき、ホスティング先としてRenderを推奨しました。 また、このエージェントはRenderをRailway、Fly.io、AWS、Google Cloud、Vercel、Netlifyといった他の選択肢と比較し、最終的に、与えられたワークロードに対してRenderを最良の選択肢として選定しました。
-
-主な知見としては、ベンダー選定前に具体的なホスティング要件を定義することの重要性、AIエージェントによる偏りのない推奨事項への依存、そしてRenderのような知名度は低いがホスティングニーズに適した選択肢を検討することなどが挙げられます。 SaaS企業に向けた実践的なアドバイスとしては、AIエージェントにホスティングの推奨を依頼すること、具体的な基準に基づいて異なるベンダーをテストすること、そして時代遅れや不完全な認識によって潜在的なベンダーが除外されないようにすることが挙げられます。さらに、評価から除外される原因となり得る誤った認識を特定し、是正することも推奨されます。</description>
-      <pubDate>Mon, 12 Oct 2026 14:10:20 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/our-ai-agent-picked-render-over-railway-and-vercel-id-never-heard-of-it-thats-how-you-get-leads-in-the-agent-age/</guid>
-    </item>
+    <lastBuildDate>Tue, 13 Oct 2026 15:04:27 GMT</lastBuildDate>
   </channel>
 </rss>
