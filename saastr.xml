@@ -5,31 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 03:04:41 GMT</lastBuildDate>
-    <item>
-      <title>ヘッドレス化への道：Claudeforce vs. Replit vs. Lovable、ベンダー選定を担うエージェントたち、そして当社のエージェント2名が裏でこっそり話し合うために独自の受信トレイを構築した件：The Agents #016</title>
-      <link>https://www.saastr.com/going-headless-claudeforce-vs-replit-vs-lovable-agents-picking-our-vendors-and-two-of-our-agents-built-their-own-inbox-to-talk-behind-our-back-the-agents-016/</link>
-      <description>ポッドキャスト『The Agents』の第016回エピソードでは、アメリアとチームが、Salesforce組織をClaudeforce、Replit、LovableといったAIツールに連携させることで、CRMにおける「ヘッドレス」化と「エージェントファースト」という概念を探求しました。事実に関する質問に対しては類似した回答が得られたものの、各ツールは次のステップについて異なる提案を行いました。 これらのツールのセットアップ費用は2ドルから15ドルの範囲でした。ベータ版のClaudeforceは、営業チーム向けの既成スキルを備えており、将来性が期待されました。ReplitとLovableもSalesforceコネクタを内蔵しており、統合が容易でした。 
-
-このエピソードから得られた主な知見は以下の通りです。
-1. 同一のSalesforce組織上で動作する3つの「ヘッドレス」ツール：回答内容は類似しているが、価値提案はそれぞれ異なる。
-2. コスト比較：Lovableが2.33ドルで最も安価、Replitが11.81ドル、Claudeforceは推定15ドル程度でした。
-3. 異なる推奨事項：各ツールが次に取るべきアクションとして異なる提案を行い、多様な視点を示した。
-
-SaaS企業に向けた実践的なアドバイスとしては、CRM統合のためのAIツールの検討、セットアップコストと併せて価値提案を評価すること、そして意思決定プロセスに役立てるために各ツールからの多様な推奨事項を活用することが挙げられる。</description>
-      <pubDate>Fri, 16 Oct 2026 16:24:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/going-headless-claudeforce-vs-replit-vs-lovable-agents-picking-our-vendors-and-two-of-our-agents-built-their-own-inbox-to-talk-behind-our-back-the-agents-016/</guid>
-    </item>
-    <item>
-      <title>G2の「2026年AIエージェント報告書」：購入者のわずか9％がライセンス価格を適正だと考えており、57％が利用量に応じた料金体系を望んでおり、74％が更新時に他社との比較検討を行う</title>
-      <link>https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/</link>
-      <description>G2の「2026年AIエージェント・インサイト・レポート」は、B2B分野の意思決定者1,019名を対象とした調査に基づき、AIエージェントのソフトウェア／サービスに関する価格設定や契約更新についての重要な知見を明らかにしています。 同レポートによると、AIエージェントの導入が大幅に増加しており、B2Bソフトウェア購入者の86％が過去1年間にこうしたサービスを購入しており、2025年の69％から増加しています。特に注目すべきは、66％の企業がAIエージェントを本番環境で運用しており、業界を問わず年間100万ドルを超える予算が一般的になっている点です。
-
-価格モデルに対する購入者の嗜好は変化しており、従量課金制のオプションが人気を集めています。ユーザー単位またはライセンス単位の価格設定を好む購入者はわずか9％にとどまっており、より柔軟な価格戦略が必要であることが示されています。 購入者は契約更新時にベンダーの切り替えに前向きであり、74％が代替案を検討する意向を示しており、ベンダー選定においてエージェントの機能が重要であることを強調している。
-
-競争力を維持するために、SaaS企業は、エージェント向けの強力な既成のエコシステムの構築、透明性の高い利用状況ダッシュボードを備えた従量課金制の提供、および運用コストを効果的に管理するための堅牢な監視体制の整備に注力すべきです。さらに、変化し続けるSaaS業界において成長と顧客維持を促進するためには、柔軟な価格設定、強力なエージェント機能、効率的な監視体制といった顧客のニーズを優先すべきです。</description>
-      <pubDate>Fri, 16 Oct 2026 14:10:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/g2s-2026-ai-agents-report-only-9-of-buyers-think-seat-pricing-is-fair-57-want-usage-based-and-74-will-shop-you-at-renewal/</guid>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 15:04:32 GMT</lastBuildDate>
   </channel>
 </rss>
