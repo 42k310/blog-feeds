@@ -5,6 +5,17 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:04:37 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflareは20％の人員削減を実施。Atlassianは10％の人員削減（主にエンジニア）。Bending Spoonsは最大75％の人員削減。これら3社はいずれも、成長ペースが加速しているか、収益が増加している。では、B2Bチームは実際にどこまでスリム化できるのだろうか？</title>
+      <link>https://www.saastr.com/cloudflare-cut-20-atlassian-cut-10-mostly-engineers-bending-spoons-cuts-up-to-75-all-three-got-better-so-how-lean-can-b2b-teams-really-get/</link>
+      <description>Bending Spoonsは最近、Airtableチームの大規模な人員削減を発表し、小規模なチームの方が高品質な成果を生み出す上で効果的であるという同社の考えを強調しました。同社は新たに「Core」「Performance」「Infra」の各チームを立ち上げ、Coreチームはわずか3週間で30件以上の顧客からの要望をすでに実現しています。 Airtableチームの規模縮小という決定は、チームのパフォーマンスを反映したものではなく、むしろ小規模なチームを通じて生産性と効率性を高めるための戦略的な措置です。
+
+この発表から得られる主な知見としては、より良い成果を生み出す上でチーム規模が重要であること、顧客からの最重要要望に焦点を当てることの価値、そして新設されたCoreチームが成果を迅速に生み出していることが挙げられます。 SaaS企業は、小規模でアジャイルなチームのメリットを検討し、顧客のニーズを優先し、効率性とイノベーションを重んじる文化を醸成することで、このアプローチから学ぶことができます。
+
+SaaS企業に向けた実践的なアドバイスとしては、最適なパフォーマンスを実現するためのチーム規模の評価、顧客の優先事項に沿ったチームの編成、そしてチームが迅速かつ効果的に成果を上げられるよう権限を委譲することが挙げられます。</description>
+      <pubDate>Sat, 17 Oct 2026 14:10:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/cloudflare-cut-20-atlassian-cut-10-mostly-engineers-bending-spoons-cuts-up-to-75-all-three-got-better-so-how-lean-can-b2b-teams-really-get/</guid>
+    </item>
   </channel>
 </rss>
