@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 03:05:33 GMT</lastBuildDate>
-    <item>
-      <title>新しい「開発者に聞いてみよう」は「エージェントに聞いてみよう」だ。そして、これは今こそ勝ち取らなければならないマーケティングの戦いである。</title>
-      <link>https://www.saastr.com/the-new-ask-your-developer-is-ask-your-agent/</link>
-      <description>2021年、ジェフ・ローソンは『Ask Your Developer』を執筆しました。彼の主張は、B2Bソフトウェアの大部分において、開発者が真の購買者となっているというものでした。Twilioのようなインフラ契約を勝ち取りたいのであれば、エンジニアの心を掴む必要があり、そうすればエンジニアが予算を持ってきてくれるというわけです。5年後の今、同じことが、もう一段階下のレベルで再び起こっています。 SaaStrでは、3人の人間が21以上のエージェントを本番環境で運用しています。ベンダー選定のプロセスは、エージェントへの質問から始まるケースがますます増えており、その過程で決定に至る割合も高まっています。A... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Fri, 23 Oct 2026 14:09:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-new-ask-your-developer-is-ask-your-agent/</guid>
-    </item>
-    <item>
-      <title>「ダブル・ホッケー・スティック」：なぜユーザーの1％がAIコストの75％を占めるようになったのか、そしてFigma、Clay、Higgsfieldがそれに対してどのような対策を取っているのか</title>
-      <link>https://www.saastr.com/the-double-hockey-stick-why-1-of-your-users-now-drive-75-of-your-ai-costs-and-what-figma-clay-and-higgsfield-are-doing-about-it/</link>
-      <description>ウルリク・レールスコフ＝シュミット氏は、約10年間にわたり価格設定業務に専念してきました。同氏は「Willingness to Pay」の創業者兼CEOであり、そのチームはこれまでに数百件の価格設定プロジェクトを手掛けており、B2B価格設定に関する著書も数冊執筆しています。 彼がAIを活用した価格設定に関する著書の執筆を先延ばしにしていたのは、クライアント業務で目にしてきた現象――エージェント価格設定、MCP価格設定、そして粗利益率が85～90％から55％へと低下する現象――を説明できるモデルをまだ確立できていなかったためだ。彼は4月にそのモデルを完成させたと述べている。 彼はこれを「ダブル・ホッケー・S」と呼んでいる…… (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Fri, 23 Oct 2026 11:00:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/the-double-hockey-stick-why-1-of-your-users-now-drive-75-of-your-ai-costs-and-what-figma-clay-and-higgsfield-are-doing-about-it/</guid>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
