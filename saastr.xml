@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Oct 2026 03:05:34 GMT</lastBuildDate>
-    <item>
-      <title>SaaStrで、2つのAIエージェントが重要なデータを消去してしまいました。どちらの場合も、誰も想定していなかったバックアップが私たちを救いました。あなたにも同じことが起こるでしょう。そのための対策を講じておきましょう。</title>
-      <link>https://www.saastr.com/two-ai-agents-wiped-critical-data-at-saastr-both-times-a-copy-nobody-planned-is-what-saved-us-it-will-happen-to-you-too-plan-for-it/</link>
-      <description>SaaStrでは、3人の人間と20体以上のAIエージェントを本番環境で運用しています。ここ数週間の間に、2つの異なるエージェントが、事業運営に不可欠なものを破壊してしまいました。どちらの場合も1時間以内に復旧できましたが、復元元となったデータは、いずれもバックアップとして設定していなかったものでした。 本番環境でエージェントを運用しているチームなら、誰しもこうしたデータ削除のトラブルに遭遇するでしょう。もしあなたのチームで同様の事態が発生した場合、重要なのは「正常なデータがどこに保存されているか」ということです。私たちの2つの事例では、幸運にも事なきを得ました。サードパーティ製のエージェントが削除してしまったのは... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Tue, 27 Oct 2026 14:25:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/two-ai-agents-wiped-critical-data-at-saastr-both-times-a-copy-nobody-planned-is-what-saved-us-it-will-happen-to-you-too-plan-for-it/</guid>
-    </item>
-    <item>
-      <title>Sumble：なぜ精度80％のデータが、担当者が使用する段階では精度33％のデータになってしまうのか、そしてNooksがこれまで把握していなかった700件のアカウントを発見した経緯</title>
-      <link>https://www.saastr.com/sumble-why-80-accurate-data-turns-into-33-accurate-data-by-the-time-your-agent-uses-it-and-how-nooks-found-700-accounts-it-didnt-know-about/</link>
-      <description>アメリアは、サムブルを「おそらくまだ聞いたことがないだろう最高の企業」と評しました。同社の顧客には、Snowflake、Databricks、Figma、Wiz、Monacoのほか、Baseten、Vercel、Modal、CodeRabbitといった数多くのAI企業が名を連ねています。 SaaStrは過去6～8週間にわたり、この特集を掲載している。創業者のアンソニー・ゴールドブルームは、Go-to-Market（市場開拓）のバックグラウンドを持つわけではない。彼は以前、2017年にGoogleに買収された機械学習コミュニティ「Kaggle」を創業した。買収から9年が経過した現在も、Kaggleは独立したブランドとして事業部門として運営されている…… (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Tue, 27 Oct 2026 11:00:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/sumble-why-80-accurate-data-turns-into-33-accurate-data-by-the-time-your-agent-uses-it-and-how-nooks-found-700-accounts-it-didnt-know-about/</guid>
-    </item>
+    <lastBuildDate>Wed, 28 Oct 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
