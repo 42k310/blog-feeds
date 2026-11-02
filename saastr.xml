@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:05:38 GMT</lastBuildDate>
-    <item>
-      <title>今週の「20VC」に関するジェイソンの見解：AnthropicのS-1、マイクロソフトによる27％の買収、そして私の「100日ルール」</title>
-      <link>https://www.saastr.com/jasons-takes-on-this-weeks-20vc-anthropics-s-1-microsofts-27-buyout-and-my-100-day-rule/</link>
-      <description>AnthropicのS-1提出、マイクロソフトによる買収提案、Cloudflareの20％の削減、そして北京のサーバーに接続を試みるQwenモデル――これらを受けて、創業者が今、これまでとは異なる対応をすべきこと。毎週木曜日、ハリーと ロリー、そして私が、20VC x SaaStrでその週のニュースを振り返ります。今週のエピソードから、創業者がぜひ実行してほしいと思う10のポイントを以下に紹介します。1. Anthropicは創業からIPOまで5年しかかかりませんでした。SpaceXは24年かかりました。Anthropicは2021年に創業しました。同社は10月26日にS-1を提出し、IPOの目標... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sun, 01 Nov 2026 17:00:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/jasons-takes-on-this-weeks-20vc-anthropics-s-1-microsofts-27-buyout-and-my-100-day-rule/</guid>
-    </item>
-    <item>
-      <title>当社の主要ベンダーが24時間にわたりダウンしました。復旧する前に、当社のAIエージェントがその役割を引き継ぎました。</title>
-      <link>https://www.saastr.com/our-core-vendor-was-down-for-24-hours-our-ai-agent-replaced-them-before-they-came-back-up/</link>
-      <description>先日、Saastr AIを稼働させている主力製品の一つが、丸一日ダウンしてしまいました。パフォーマンスが低下したのではなく、完全にダウンしたのです。丸一日も。 アプリのすべての画面には、大きな「INTERNAL ERROR」というメッセージが表示されていました。APIも同様のエラーを返していたため、この製品に関わるすべてのエージェントワークフローが完全に停止してしまいました。 当社では多くのエージェントワークフローを運用しています。本番環境には3人の人間と20人以上のエージェントがおり、実際の業務の大部分はAPIを通じて行われています。ベンダーの対応は、サービス停止そのものよりもひどいものでした。ステータスページも... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sun, 01 Nov 2026 15:10:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/our-core-vendor-was-down-for-24-hours-our-ai-agent-replaced-them-before-they-came-back-up/</guid>
-    </item>
+    <lastBuildDate>Mon, 02 Nov 2026 15:04:27 GMT</lastBuildDate>
   </channel>
 </rss>
