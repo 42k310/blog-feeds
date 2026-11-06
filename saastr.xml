@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:06:07 GMT</lastBuildDate>
-    <item>
-      <title>20VC × SaaStr：OpenAIの評価額が1.25兆ドルに下方修正、Anthropicの成長率が12倍から2倍に鈍化、そしてエージェントがDoorDashにとって存在を脅かすリスクとなる理由</title>
-      <link>https://www.saastr.com/20vc-x-saastr-openai-cuts-to-1-25-trillion-anthropics-growth-goes-from-12x-to-2x-and-why-agents-are-an-existential-risk-to-doordash/</link>
-      <description>アルファベットの時価総額が約5,000億ドル減少、ドアダッシュがインスタカートを170億ドルで買収、カルシは刑事告発の翌日に時価総額400億ドルを突破。そして、私たちはそれぞれICに持ち込む案件を1つずつ選ばなければならなかった：コグニション、バセテン、それともサーヴァルのどれか。 これは、このポッドキャストが始まって以来、最も忙しい週の一つでした。 AI関連株は激しく揺れた。OpenAIは資金調達ラウンドを成立させるために評価額を引き下げ、アルファベットは約10年ぶりの最悪の1日を記録し、Anthropicの最新のS-1修正報告書では、前四半期比の成長率がおよそ半分に縮小したことが示された。一方で、さらに... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 05 Nov 2026 18:42:42 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-openai-cuts-to-1-25-trillion-anthropics-growth-goes-from-12x-to-2x-and-why-agents-are-an-existential-risk-to-doordash/</guid>
-    </item>
-    <item>
-      <title>今週、3社のベンダーと50万通以上のメールを対象に、メール配信率比較テストを実施しました。そのすべてを当社のAIエージェントが実行しました。</title>
-      <link>https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it/</link>
-      <description>SaaStrでは、ソフトウェアを購入し始めて以来、ベンダーの比較評価会を開催してきました。どの企業も同様です。以前は、毎回ほぼ同じような流れでした。数回のデモ。2週間の試用期間。 チームの誰かが数百通のテストメールを送信し、ダッシュボードを確認して、スプレッドシートを作成します。そして、最終的な決定は、どの営業担当者が最も迅速に対応してくれたか、そしてチームがすでに使い方を把握しているツールがどれか、という点にほぼ絞られていました。 他の業務を抱える人々が、各ベンダー独自のレポートに基づいて数百通の送信を評価するだけでは、十分な... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 05 Nov 2026 15:00:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/we-ran-an-email-deliverability-bake-off-across-3-vendors-and-500000-emails-this-week-our-ai-agent-ran-all-of-it/</guid>
-    </item>
-    <item>
-      <title>SEOは終わったのかもしれない。それでもShopifyはShop.comに約1億ドルを支払った。</title>
-      <link>https://www.saastr.com/seo-may-be-dead-shopify-just-paid-100-million-for-shop-com-anyway/</link>
-      <description>従来のSEO戦略は通用しなくなっています。もし貴社のリード獲得がGoogleからのクリックに依存しているなら、この18ヶ月間でそのクリック数が減少しているのを目の当たりにしていることでしょう。SaaStrでも同様の傾向が見られ、その数値については後ほどご紹介します。 同じ年、ShopifyはShop.comのドメイン名取得に約1億ドルを支払ったと報じられており、これは公開されている情報としては史上最高額だと言われています。私は、後者の出来事は前者の結果として起きたものだと考えています。そして、この教訓はEコマースだけでなく、B2Bにも同様に当てはまります。『The Deal Mark...』 (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Thu, 05 Nov 2026 13:00:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/seo-may-be-dead-shopify-just-paid-100-million-for-shop-com-anyway/</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 15:04:28 GMT</lastBuildDate>
   </channel>
 </rss>
