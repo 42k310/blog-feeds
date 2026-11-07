@@ -5,6 +5,20 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 03:05:32 GMT</lastBuildDate>
+    <item>
+      <title>VercelのCOOから学んだ5つの教訓：SDRが10人から1人に減少、年収5,000ドルのリードエージェント、サポート案件の93％をAIが処理</title>
+      <link>https://www.saastr.com/top-5-learnings-from-vercels-coo-10-sdrs-down-to-1-a-5k-a-year-lead-agent-and-93-of-support-cases-handled-by-ai/</link>
+      <description>SDRのクォータが30%増加、2ヶ月で社内開発したサポートエージェント、そしてVercelがAPIのないツールをすべて廃止する理由 「@vercelでは、AI SDRを6週間、シャドウモードで運用しました。 当社の最高のAI SDRが、フライホイールを改善するためにすべての出力を一つひとつ精査しました。そしてついに、これ以上改善の余地がなくなりました。現在、そのパフォーマンスは上位90パーセンタイルの営業担当者に匹敵します。常に100％の精度で。」 COO ジャンヌ・デウィット・グロッサー https://t.co/DjHvrWvfCJ pic.twitter.com/0uiyGG5TX5 — ジェイソン ✨👾SaaStr.Ai✨ レムキン (@jasonlk) 11月 ... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Fri, 06 Nov 2026 15:00:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/top-5-learnings-from-vercels-coo-10-sdrs-down-to-1-a-5k-a-year-lead-agent-and-93-of-support-cases-handled-by-ai/</guid>
+    </item>
+    <item>
+      <title>SaaStr AIと10Kが『ウォール・ストリート・ジャーナル』で紹介された</title>
+      <link>https://www.saastr.com/saastr-ai-and-10k-featured-in-wall-street-journal/</link>
+      <description>10Kが『ウォール・ストリート・ジャーナル』に掲載されました！パトリック・コーヒー氏によるWSJの「CMO Today」記事では、成長戦略やデザインの責任者として専門のエージェントを活用するリーンスタートアップが取り上げられています。SaaStr AIが代表的な事例として紹介されています。 4人のマーケターが1人のエージェントに——Replit上で構築された10Kは、当初、当社のAIマーケティング担当副社長としてスタートしました。現在では、私と最高AI責任者（CAO）のアメリア・ルッテがReplit上で構築した、14,230行以上のコードとなっています。 SaaStrは、3人の人間と20体以上のエージェントによって運営されています。ピーク時には30体近くのエージェントを擁していましたが、現在は統合を進めており... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Fri, 06 Nov 2026 11:00:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-and-10k-featured-in-wall-street-journal/</guid>
+    </item>
   </channel>
 </rss>
