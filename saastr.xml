@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 03:06:08 GMT</lastBuildDate>
-    <item>
-      <title>私たちが有料で利用している重要なアプリが2日間も利用できなくなった。彼らは一度もクレジットの補償を提示しなかった。このことは決して忘れない。</title>
-      <link>https://www.saastr.com/a-critical-app-we-pay-for-went-down-for-2-days-they-never-offered-a-credit-i-wont-forget/</link>
-      <description>先日、重要なアプリケーションが丸2日近くダウンしてしまいました。業務は停止し、チームはスプレッドシートを使ってその場しのぎの対策を講じ、数時間おきに誰かが状況の確認を求めてきました。システム障害はつきものです。私もかつてはベンダー側でこうした事態を経験したことがあります。 長く事業を続けているB2B企業なら、誰しもいくつかの「最悪の日」を経験することになるでしょう。ハッキングに遭ったり、システムがダウンしたり、不具合が発生したりするものです。 私がどうしても納得できないのは、彼らが一度もサービスレベルに基づくクレジットを提供しなかったことです。サービス停止中も、停止後も、その後の投稿でも…… (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sat, 07 Nov 2026 15:00:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/a-critical-app-we-pay-for-went-down-for-2-days-they-never-offered-a-credit-i-wont-forget/</guid>
-    </item>
-    <item>
-      <title>ガートナー、2027年のソフトウェア市場規模は14.6％増の1.68兆ドルに達すると予測：モデル分野は117％、AIアプリプラットフォームは39％の成長、価格引き上げが大きな要因</title>
-      <link>https://www.saastr.com/gartner-sees-software-growing-14-6-to-1-68-trillion-in-2027-models-at-117-ai-app-platforms-at-39-and-price-increases-doing-a-lot-of-the-work/</link>
-      <description>ガートナーは10月21日、最新のIT支出予測を発表した。2027年の世界のIT支出は15％増の7.35兆ドルに達し、初めて7兆ドルを突破する見込みだ。 報道の多くはデータセンターに焦点を当てていた。2027年のデータセンターシステムは4,870億ドル増加し、これは総増加額の約半分を占める。B2BおよびAI分野では、ソフトウェアの項目がより重要となるが、これを誤解しやすい。 ソフトウェアは1.46兆ドルから1.68兆ドルへ成長（ガートナーの表、単位：10億ドル）。ソフトウェアは1年間で2,150億ドルの増加となり、2番目に... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sat, 07 Nov 2026 13:00:54 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/gartner-sees-software-growing-14-6-to-1-68-trillion-in-2027-models-at-117-ai-app-platforms-at-39-and-price-increases-doing-a-lot-of-the-work/</guid>
-    </item>
-    <item>
-      <title>SaaStr「今週のAIアプリ」：Base44。創業者1名、資金調達ゼロ、6ヶ月でWixから8,000万ドルの資金調達に成功。現在、ARRは2億ドルに達している。</title>
-      <link>https://www.saastr.com/saastr-ai-app-of-the-week-base44-one-founder-zero-funding-80-million-from-wix-in-6-months-now-at-200-million-arr/</link>
-      <description>数年に一度、創業者が「可能だ」と考えていた限界を塗り替えるような企業が現れます。Base44は、AI時代におけるまさにそのような企業です。2025年1月、予備役任務を終えたばかりの31歳の元イスラエル情報部隊将校、マオール・シュロモ氏は、サイドプロジェクトとしてAIアプリビルダーの開発を開始しました。 彼は自身の資金約1万～2万ドルを投じてこのプロジェクトを立ち上げ、その大部分をLLM APIの利用料に充てた。投資家もいない。共同創業者をめぐるトラブルもない。彼は会社の株式を100％保有していた。6か月後、Wixが現金8,000万ドルで同社を買収した。... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sat, 07 Nov 2026 12:00:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-base44-one-founder-zero-funding-80-million-from-wix-in-6-months-now-at-200-million-arr/</guid>
-    </item>
+    <lastBuildDate>Sun, 08 Nov 2026 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
