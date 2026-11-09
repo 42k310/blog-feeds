@@ -5,27 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 03:06:08 GMT</lastBuildDate>
-    <item>
-      <title>今週の「20VC」に関するジェイソンの見解：自社アプリでのコスト72％削減、1億ドルの買収基準、そしてDoorDashの3番目の競合他社</title>
-      <link>https://www.saastr.com/jasons-takes-on-this-weeks-20vc-a-72-cost-drop-on-our-own-app-the-100m-acquisition-bar-and-doordashs-third-competitor/</link>
-      <description>今週のニュースの見出しの背景にある判断：モデルコストの低下にどう価格設定すべきか、成長率が低下している状況でどう成長を報告すべきか、そしてTAMを拡大しているのか、それとも単にシェアを奪っているだけなのかを検証する必要がある理由。 木曜日の「20VC x SaaStr」では、ハリー、ロリー、そして私が、OpenAIが企業価値を1.25兆ドルに引き下げた件、 Anthropicの四半期成長率の鈍化、DoorDashによるInstacartの買収、そしてCognition、Baseten、Servalを対象としたIC（投資先）の選定について議論しました。そのまとめでは、これら3社すべてについて…… (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sun, 08 Nov 2026 17:00:28 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/jasons-takes-on-this-weeks-20vc-a-72-cost-drop-on-our-own-app-the-100m-acquisition-bar-and-doordashs-third-competitor/</guid>
-    </item>
-    <item>
-      <title>戦略的買収先による買収の際、なぜ売上高は「ある程度」しか重要視されないのか。通常、取引価格は売上高に基づいて決定されるにもかかわらず。</title>
-      <link>https://www.saastr.com/why-your-revenues-only-sort-of-matter-when-you-get-acquired-by-a-strategic-even-though-they-are-usually-how-a-deal-is-priced/</link>
-      <description>パトリック・コリソン氏は、Stripeが1年余り前に買収したウォレットインフラ企業「Privy」に関する最新情報を投稿した。 買収完了以降の数値は以下の通りです。Privyウォレットの資産残高は約25倍に増加、月間アクティブ開発者数は約3倍に増加、売上高は約9倍に増加、月間取引高は250億ドル近くに達しています。Ramp、Deel、Klarna、Hyperliquidをはじめ、その他数千社の企業が現在、Privyを基盤として組み込み型バンキングを構築しています。 また、Stripe社内では、PrivyがTreasury、Link、Connectに統合されつつあります。これこそが、スタートアップを買収する理由です。その... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sun, 08 Nov 2026 15:10:32 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/why-your-revenues-only-sort-of-matter-when-you-get-acquired-by-a-strategic-even-though-they-are-usually-how-a-deal-is-priced/</guid>
-    </item>
-    <item>
-      <title>SaaStr様：創業チームがベンチャーキャピタル（VC）に対してピッチを始める際、VCがまず注目するのはどのような点でしょうか？</title>
-      <link>https://www.saastr.com/dear-saastr-what-are-the-first-things-vcs-notice-when-a-team-of-founders-starts-pitching-to-them/</link>
-      <description>彼らの自信。まず最初に注目すべきはこれです。彼らは自社の進捗に自信を持っているか？ 指標に自信を持っているか？ 顧客数、ACV、リード数といった数値を完全に把握しているか？ 今年の計画を達成するための、自信に満ちた、説得力があり、データに基づいた根拠を持っているか？ チームとして自信を持っているか：互いの言葉を適切な形で補い合えているか？競合や市場、市場の変化などに対する理解に自信を持っているか？あるいは、自信過剰ではないか…… (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Sun, 08 Nov 2026 10:00:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/dear-saastr-what-are-the-first-things-vcs-notice-when-a-team-of-founders-starts-pitching-to-them/</guid>
-    </item>
+    <lastBuildDate>Mon, 09 Nov 2026 15:04:32 GMT</lastBuildDate>
   </channel>
 </rss>
