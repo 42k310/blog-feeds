@@ -5,6 +5,13 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:05:00 GMT</lastBuildDate>
+    <item>
+      <title>AIスタートアップは営業担当者の数が少ないかもしれない。しかし、チーム全体に占める割合としてはそうでもない。戦略は本当にそれほど大きく変わったのだろうか？</title>
+      <link>https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/</link>
+      <description>ここ2年間、AIネイティブ企業はごく少人数のチームで年間反復収益（ARR）1億ドルを達成し、営業活動の多くはエージェントが担っており、従来のB2B営業組織は縮小傾向にあるというのが一般的な見方でした。 その見解の一部は依然として当てはまります。AIを前面に押し出した企業は、絶対的な規模で見ても、より小規模な市場開拓チームを運営しています。ICONIQのの『State of Go-to-Market 2026』（2026年1月に150名以上のB2B GTM幹部を対象に実施された調査）によると、ARRが1,000万ドルから2,500万ドルのAI主導型企業は、約20名のGTMフルタイム従業員（FTE）を擁しているのに対し、ARRがそれより低い企業では35名となっている... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Tue, 10 Nov 2026 15:10:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/ai-startups-may-have-fewer-sales-reps-but-not-as-a-percent-of-the-team-has-the-playbook-really-changed-all-that-much/</guid>
+    </item>
   </channel>
 </rss>
