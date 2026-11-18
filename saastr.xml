@@ -5,20 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:05:34 GMT</lastBuildDate>
-    <item>
-      <title>今日、ベンチャーキャピタルから資金調達するには、実際にどれほどの成長スピードが必要なのでしょうか？ 5年以内にARRを100万ドルから1億ドルに伸ばすことが上限ですが、VCは2～3年での達成を期待しています。</title>
-      <link>https://www.saastr.com/how-fast-do-you-really-have-to-be-growing-to-raise-venture-capital-today-1m-to-100m-arr-in-5-years/</link>
-      <description>もちろん、もっと速ければなお良いですよね 😉 AIが登場する前からこの業界にいる創業者の間やVCの間で話題になっているのは、「T2D3は終わったのか？」「100％の成長率は……低すぎるのか？」「AI企業になる必要があるのか？」といった点です。 私が、各ファンドのポートフォリオと、ここ2年間に目にした資金調達ラウンドの両方を基に検証した結論を簡潔にまとめるとこうだ。今日、ベンチャーキャピタルから資金を調達するには、5年以内にARRを100万ドルから1億ドルに伸ばす必要がある。速ければ速いほど良い。 このルールが言及していない点が2つある。100万ドルのARRに到達しなければならないとは言っていない…… (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Tue, 17 Nov 2026 15:00:49 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-fast-do-you-really-have-to-be-growing-to-raise-venture-capital-today-1m-to-100m-arr-in-5-years/</guid>
-    </item>
-    <item>
-      <title>Stripeの新たな指標によると、「SaaSpocalypse」の渦中においても、AI以外のB2B売上高は前年比30％以上増加していることが示された。</title>
-      <link>https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/</link>
-      <description>Stripe Economicsは、四半期決算発表ではなく実際の決済フローに基づいたB2Bソフトウェアの売上高に関する週次レポートを公開しました。アーニー・テデスキ氏の投稿では、「Stripe SaaS Index」が紹介されています。その結論として、いわゆる「SaaSpocalypse」は株価に打撃を与えたものの、売上高にはほとんど影響を与えなかったとしています。 その指摘には一理ある。しかし、この指数が追跡している企業群は、株価が下落した企業群とは異なるため、創業者の皆さんやベンチャーキャピタル（VC）は、これを自社のビジネスにとっての朗報と受け止める前に、詳細をよく確認すべきだ。🧵要点は... (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Tue, 17 Nov 2026 13:00:54 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/stripes-new-index-shows-non-ai-b2b-revenue-up-30-year-over-year-through-the-saaspocalypse/</guid>
-    </item>
+    <lastBuildDate>Wed, 18 Nov 2026 15:04:26 GMT</lastBuildDate>
   </channel>
 </rss>
