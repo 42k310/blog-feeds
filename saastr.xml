@@ -5,6 +5,27 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:06:15 GMT</lastBuildDate>
+    <item>
+      <title>20VC × SaaStr：NVIDIAのジェンセン氏退任、Anthropicの1.4兆ドル規模のIPO、HubSpotがブライアン・ハリガン氏を復帰させる</title>
+      <link>https://www.saastr.com/20vc-x-saastr-jensen-out-at-nvidia-anthropics-1-4-trillion-ipo-and-hubspot-brings-back-brian-halligan/</link>
+      <description>さらに：LPが今後、200億ドル以上の成果でVCを評価するようになる理由、中小企業がソフトウェアの購入を止めた理由、そして2日間にわたるマイクロソフトのサービス停止が、あらゆるものがいかに脆弱になったかを物語る点について。今週は、ハリー、ロリー、そして私が一緒にこの番組を始めて以来、ほぼどの週よりも多くのニュースがありました。NVIDIAは創業者を亡くしました。 Anthropicは史上最大規模のIPOの価格設定に踏み切りました。HubSpotは創業者の元へ戻りました。Microsoft 365は2日間の大半にわたってサービス停止に陥りました。私たちは月曜日に収録を行いましたが、その時点ではAnthropicの価格設定はまだ行われておらず、誰一人として…… (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Thu, 19 Nov 2026 18:34:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/20vc-x-saastr-jensen-out-at-nvidia-anthropics-1-4-trillion-ipo-and-hubspot-brings-back-brian-halligan/</guid>
+    </item>
+    <item>
+      <title>B2B企業の経営陣が注目すべき、AnthropicのIPOから読み取れる主要指標トップ10：9ヶ月で330億ドル、NRR 900％、1年間で10万ドル規模の顧客数が12倍に増加</title>
+      <link>https://www.saastr.com/the-top-10-metrics-in-anthropics-s-1-for-b2b-execs-33-billion-in-nine-months-900-nrr-and-12x-more-100k-customers-in-a-year/</link>
+      <description>Anthropicの売上高は、2023年の4,100万ドルから、2024年には3億8,600万ドル、2025年には45億8,500万ドルへと増加した。 その後、9月30日までの9ヶ月間の売上高は332.4億ドルに達し、前年同期比で約1,200％増となりました。この成長率を再現できるB2B企業は存在しないでしょう。しかし、それでも私たちはAnthropicから学ぶことができます。 経営指標のほとんどは、ARRが1,000万ドルから1億ドルのB2B＋AI企業であれば、どの企業にも当てはまります。B2B関係者に向けた私の「学びトップ10」：#1. 定額制プランを除いた純売上高維持率（Net Revenue Retention）は約900％——Anthropicは... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Thu, 19 Nov 2026 15:00:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/the-top-10-metrics-in-anthropics-s-1-for-b2b-execs-33-billion-in-nine-months-900-nrr-and-12x-more-100k-customers-in-a-year/</guid>
+    </item>
+    <item>
+      <title>KeyBancの「2026年 AI × ソフトウェア調査」：ARR成長率の中央値は24％、「ルール・オブ・40」を満たす企業はわずか6％、43％のベンダーが顧客が自社製品をVibe Codeで開発する様子を注視している</title>
+      <link>https://www.saastr.com/keybancs-2026-ai-x-software-survey-24-growth-only-6-at-the-rule-of-40-and-43-of-vendors-watching-customers-vibe-code-their-product/</link>
+      <description>KeyBanc Capital Marketsは、プライベートソフトウェア・ベンチマークの第17版を公表した。長年にわたり、同レポートは非公開のB2Bデータに関する有力な情報源の一つとなっている。今年、KeyBancは、価格設定、AIコスト、代理店、社内での導入状況、および顧客が自社で代替システムを構築しているかどうかに焦点を当てた大規模なAIセクションを追加した。 調査は2026年7月から9月にかけて実施された。81社が参加し、回答のうち62件はCFOおよびCEOによるものだった。2025年のARRの中央値は2,200万ドルであったため、調査対象企業の多くは1,000万ドルから5,000万ドルの規模である... (注: 要約APIエラーのため簡易要約)</description>
+      <pubDate>Thu, 19 Nov 2026 13:00:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.saastr.com/keybancs-2026-ai-x-software-survey-24-growth-only-6-at-the-rule-of-40-and-43-of-vendors-watching-customers-vibe-code-their-product/</guid>
+    </item>
   </channel>
 </rss>
