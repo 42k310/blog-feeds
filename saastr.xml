@@ -5,13 +5,6 @@
     <link>https://42k310.github.io/blog-feeds/</link>
     <description>SaaStr Blogの記事を日本語に要約したフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:05:00 GMT</lastBuildDate>
-    <item>
-      <title>SaaStrがGTMにMuseを活用する方法：自社エージェントに組み込みたくなかった5つの業務</title>
-      <link>https://www.saastr.com/how-saastr-uses-muse-for-gtm-5-jobs-we-didnt-want-to-build-into-our-own-agents/</link>
-      <description>SaaStrがGTMにMuseを活用する方法：自社エージェントに組み込みたくなかった5つのタスクSaaStrには「エージェントを1つ追加したら、1つ削除する」というルールがあります。 このルールを十分に徹底できていなかったため、Museはこのルールをすり抜けて導入された最新のエージェントとなりました。私たちはすでに、Replit上で独自に構築され、30以上のツールと連携しているメインのGTMエージェント「10K」を運用しています。10Kは、当社の市場投入（GTM）業務の大部分を担っています。 10Kに欠けているのはブラウザ機能です。10Kは完全にReplit内で動作するため、ウェブサイトへのアクセスやログアウトなど…… (注: 要約APIエラーのため簡易要約)</description>
-      <pubDate>Mon, 23 Nov 2026 15:00:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.saastr.com/how-saastr-uses-muse-for-gtm-5-jobs-we-didnt-want-to-build-into-our-own-agents/</guid>
-    </item>
+    <lastBuildDate>Tue, 24 Nov 2026 15:04:24 GMT</lastBuildDate>
   </channel>
 </rss>
